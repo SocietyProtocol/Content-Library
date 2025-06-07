@@ -1,0 +1,24 @@
+{
+  "pathToPandoc": "/opt/homebrew/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1749331601695
+    },
+    {
+      "id": 3,
+      "name": "Society Protocol"
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/antonvs/Zotero/bibliography/My Library.bib",
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "hideLinks": true,
+  "enableCiteKeyCompletion": false,
+  "showCitekeyTooltips": false
+}

@@ -1,0 +1,17 @@
+---
+created: 2025-04-13T15:29
+updated: 2025-04-16T22:29
+---
+|                             | Fiat (Cash)<br>![[cash-icon.png\|50]] | Fiat (Digital)<br>![[bank-icon.png\|50]] | Cryptocurrency<br>![[cryptocurrency-icon.png\|50]] | Commodities<br>![[gold-icon.png\|50]] |   **Society Protocol**<br>![[society-logo.svg\|50]]   |
+| :-------------------------: | :-----------------------------------: | :--------------------------------------: | :------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: |
+|    **Control (Supply)**     |                Cartel                 |                  Cartel                  |                       Cabal                        |             Not really ✅              | Algorithms + Governance (direct representation) <br>✅ |
+|        **Divisible**        |               Somewhat                |                  Yes ✅                   |                       Yes ✅                        |              It's a rock              |                         Yes ✅                         |
+|      **Transferrable**      |                Limited                |               Worldwide ✅                |                    Worldwide ✅                     |              It's a rock              |                         Yes ✅                         |
+|        **Fungible**         |                 Yes ✅                 |                 Somewhat                 |                      Somewhat                      |              It's a rock              |                       Somewhat                        |
+| **Transparent (Traceable)** |                  No                   |                 Limited                  |                       Yes ✅                        |                  No                   |                         Yes ✅                         |
+|  **Censorship Resistant**   |                 High                  |                    No                    |                     Highest ✅                      |               Moderate                |                       Highest ✅                       |
+|       **Legitimate**        |      Is your cartel legitimate?       |        Is your cartel legitimate?        |             Is your cabal legitimate?              |         It's a shiny rock! ✅          | Is your society legitimate? (in individual interst) ✅ |
+|         **Secure**          |            In some ways ✅             |              In some ways ✅              |                   In some ways ✅                   |            In some ways ✅             |                    In some ways ✅                     |
+|   **Medium of Exchange**    | Not amazing<br>(can't pay worldwide)  |                  Yes ✅                   |                       Yes ✅                        |              Not really               |                         Yes ✅                         |
+|     **Store of Value**      |   Eeek. Never has been in the past.   |    Eeek. Never has been in the past.     |    The cabal can implode or steal at any time.     | Probably the most relatively secure ✅ |    Aligns the value of your society with the SoV ✅    |
+|     **Unit of Account**     | Winning on stability and acceptance ✅ |  Winning on stability and acceptance ✅   |     Bitcoin has some potential as a global UoA     |       We don't see it happening       |                   Optimal UoA<br>✅                    |
