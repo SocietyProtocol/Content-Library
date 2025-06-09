@@ -1,6 +1,6 @@
 ---
 created: 2025-04-17T11:15
-updated: 2025-06-05T20:56
+updated: 2025-06-07T18:33
 ---
 Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. To verify this, please run a simple thought experiment:
 
@@ -20,13 +20,10 @@ While these dynamics are always theoretically costly to ordinary participants, l
 
 ## Fake Assets (Valuation)
 
-Market participants perceive asset valuations through the lens of global markets…yet these valuations are _easily manipulated_ with permissionless sybil attacks. **True valuations must include the true ownership set.** Since blockchain networks do not have sybil resistance, we cannot make assertions or trust in the decentralization of the ownership set, and **therefore the asset valuation itself–making sound money impossible**.
+Market participants perceive asset valuations through the lens of global markets…yet these valuations are _easily manipulated_ with permissionless sybil attacks. **True valuations must include the true ownership set.** Since blockchain networks do not have sybil resistance, we cannot make assertions or trust in the decentralization of the ownership set, and therefore the asset valuation itself–**making sound money impossible**.
 
-Visualization of ownership categories:
-
-![|700](https://lex-img-p.s3.us-west-2.amazonaws.com/img/cac7d887-fed2-48b7-a0c2-f3f402622d7e-RackMultipart20250414-147-yf09s6.png)
-
-Caption: _Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out; is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
+**Visualization of ownership categories:**
+![[Ownership Preference.excalidraw.png|700]]_Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out; is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
 
 ### Fake Transactions
 
@@ -139,7 +136,7 @@ Attempts at creating true governance systems and organizations, such as decentra
 
 > “Oh, sorry sir. A cabal actually owns the majority of this DAO…no way to prove, no way to perceive. **Sorry, your votes don’t actually count**. We do appreciate you offering feedback, and please have some swag at our next conference, it’s on us!”.
 
-![|300](https://lex-img-p.s3.us-west-2.amazonaws.com/img/29df1a2b-0212-42c2-a127-58a82d072f6c-RackMultipart20250414-124-pmhcck.jpg)
+![[are-not-real.jpg|350]]
 
 Governance actually functions as a feedback mechanism for the cabal in these organizations. Which isn’t necessarily a bad or a good thing, again we want to reiterate–**you’re investing in the strength of the cabal.**
 
@@ -195,7 +192,7 @@ While it would appear that we are talking about fork-choice rule in this section
 
 When the organized social layer decides it’s time to move (fork) or simply not honor the blockchain network–**there is no security, asset valuation, or governance method that will save you**. Either you move with the social layer (which can manipulate or invalidate your assets); or all your assets deriving power from that social layer[^2] will invalidated in the eyes of the group when the social layer leaves the building.
 
-![|750](https://lex-img-p.s3.us-west-2.amazonaws.com/img/ba34986f-3cf2-42d6-a25a-3fe2cac3bc7a-RackMultipart20250414-147-u5cfw4.jpg)
+![[Whoosh.jpg|750]]
 
 This rule applies any blockchain network and any singular or plural application(s) built on top of it. The social layer, which is assumed to be uncoordinated, but in reality is unevenly coordinated – can simply move to a new ledger and strike you out of the ledger if they are: 1) coordinated enough to do so AND 2) feel like it. This creates another series of perverse incentives for individual actors forming cabals at the social layer and punishments for individuals not being aware of the social layer dynamics (which are fog of war murky due to information flow in real life and politics).
 
@@ -238,7 +235,6 @@ Does this mean that Blockchain is a fraud or scam? **Not exactly**…they’re m
 We must compare it to it’s alternatives. What blockchain offers is worldwide value transmission at the behest of a cabal. Which is kind of similar to what centralized fiat money systems controlled by cartels offer, except there’s less rules and the cabal is more opaque and network based. So it has legitimate conceivable advantages over the fiat system. While the fiat system is run by <u>nation states</u>, blockchains are run by <u>synchronized states</u>. How do they compare against commodities like gold? Let’s take a closer look!
 
 **The cartel (fiat) vs the cabal (crypto) vs the rock (commodities)!**
-
 ![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/5444ba14-0790-43b2-a2e6-b464fbf7a351-RackMultipart20250417-132-njpzri.png)
 
 Despite everything we have expoused out about its flaws in this article…it turns out that blockchain based cabal ran <u>synchronized states</u> have legitimate advantages over both fiat and commodities systems! Not only are they likely **unstoppable**, they are also **valuable to society!** These networks are poised to _grow_.
@@ -253,7 +249,7 @@ The issue is, participants (who are not battling in these cabals), cannot see wh
 
 So civilization is at a critical turning point: we've moved from Web2, where users owned nothing, into Web3, where users believe they own something—but in reality, still don't. To truly progress, we must evolve toward Web4, where ownership isn't an illusion, but a more stable reality. _The cabal can’t rug us…if their lives…are on the blockchain_!
 
-![|700](https://lex-img-p.s3.us-west-2.amazonaws.com/img/c0b51d04-f5e1-44af-a15f-e40da72c5e60-RackMultipart20250417-150-edn5jv.jpg)
+![[cabal-cant-rug-us.jpg|700]]
 
 ## **Society Protocol**
 
@@ -284,7 +280,6 @@ Society Protocol has developed a synchronized state that is able to fulfill all 
 **Web3 is dead. Web4 is alive.** Both literally and figuratively.
 
 ### Let’s revisit our comparison:
-
 ![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/3e15a5d0-65cf-4854-a90c-1765b917e766-RackMultipart20250417-162-i00i2g.png)
 
 ## **Conclusion**

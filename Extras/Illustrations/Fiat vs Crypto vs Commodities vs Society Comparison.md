@@ -1,7 +1,8 @@
 ---
 created: 2025-04-13T15:29
-updated: 2025-04-16T22:29
+updated: 2025-06-07T18:29
 ---
+
 |                             | Fiat (Cash)<br>![[cash-icon.png\|50]] | Fiat (Digital)<br>![[bank-icon.png\|50]] | Cryptocurrency<br>![[cryptocurrency-icon.png\|50]] | Commodities<br>![[gold-icon.png\|50]] |   **Society Protocol**<br>![[society-logo.svg\|50]]   |
 | :-------------------------: | :-----------------------------------: | :--------------------------------------: | :------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: |
 |    **Control (Supply)**     |                Cartel                 |                  Cartel                  |                       Cabal                        |             Not really ✅              | Algorithms + Governance (direct representation) <br>✅ |

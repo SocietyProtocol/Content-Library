@@ -8,3 +8,15 @@ img {
  .markdown-source-view.mod-cm6 .cm-content > * {
         margin: auto auto !important;
 }
+
+.markdown-embed {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-width:100%;
+}
+
+h2 + hr {
+    display: none !important;
+}
+

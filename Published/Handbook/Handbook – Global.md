@@ -1,5 +1,5 @@
 ---
 created: 2025-06-04T19:46
-updated: 2025-06-04T19:47
+updated: 2025-06-07T18:24
 ---
-![[Handbook – Global.svg]]  
+![[Handbook – Global.excalidraw.png]]   
