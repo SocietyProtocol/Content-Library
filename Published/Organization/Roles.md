@@ -1,0 +1,15 @@
+---
+created: 2025-06-12T19:35
+updated: 2025-06-20T12:23
+---
+### Contributors
+We are seeking *mission-aligned* contributors for some early roles to help us bring Society Protocol to life. Please tell us about yourself in-person or reach out at recruitment@societyprotocol.io 
+
+| Role                           | Responsibilities                                                                                                                                                                                                                                                                                      | Permanence | **Time Commitment**                          |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------- |
+| Legal Counsel                  | An opportunity to pioneer the transition from web3 to web4 in the legal landscape. <br><br>Requires experience with US law and a through understanding of the web3 legal landscape.                                                                                                                   | Y          | Contract opportunity; can lead to employment |
+| Editor(s)                      | Helps to edit and improve the content for Society Protocol.<br><br>Requires a deep understanding of the decentralization movement, excellent writing ability, and excellent taste.                                                                                                                    | Y          | Part-time                                    |
+| Software Engineer              | Smart contract and web development (front-end). <br><br>Responsible for creating the Society Protocol website, zk-TLS based web3 account system, ICO smart contracts, and decentralized forums (Lens based). <br><br>Requires an experienced software engineer–or small team with experience in web3. | Y          | Contract opportunity; can lead to employment |
+| Co-founder                     | Managerial Business Co-Founder (COO): Responsible for internal organizational management and (some) external negotiations. <br><br>Technical Co-Founder (CTO): Responsible for overseeing the engineering of Society Protocol. If you're not a wizard don't even consider it.                         | Y          | Full Time                                    |
+| Mechanism Design (Game Theory) | Improves Society Protocol mechanics using deep knowledge of Game Theory.                                                                                                                                                                                                                              | Y          | Part-time                                    |
+

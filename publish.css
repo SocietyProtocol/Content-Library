@@ -16,7 +16,69 @@ img {
     max-width:100%;
 }
 
-h2 + hr {
-    display: none !important;
+/** Obsidian Ecalidraw Publis **/
+
+@font-face {font-family: "Virgil";src: url("https://excalidraw.com/Virgil.woff2");}
+@font-face {font-family: "Cascadia";src: url("https://excalidraw.com/Cascadia.woff2");}
+@font-face {font-family: "Assistant";src: url("https://excalidraw.com/Assistant-Regular.woff2");}
+
+div.markdown-embed-title {
+  display: none;
 }
 
+div.markdown-embed {
+  border: none;
+  padding: 0px;
+  background-color: inherit;
+}
+
+div.excalidraw-svg {
+	/*width: fit-content;*/
+	height: 100%;
+}
+
+svg.excalidraw-svg {
+	max-width:100%;
+	max-height: 90vh;
+	width: var(--page-width);
+}
+
+svg.excalidraw-svg.ex-pageheight {
+	width: initial;
+	height: 100%;
+}
+
+svg.excalidraw-svg.ex-pagewidth {
+	width: 90vw;
+	height: initial;
+}
+
+.excalidraw-svg .text {
+  width: 100%;
+  text-align: center;
+}
+
+div.excalidraw-svg.enlarged {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+	--background-primary: #FFF6F0;
+}
+
+a.site-body-left-column-site-name {
+	display: none;
+}
+
+div.site-footer {
+	display: none;
+}

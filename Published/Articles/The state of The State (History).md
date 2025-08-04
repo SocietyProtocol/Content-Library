@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-06-04T21:18
+updated: 2025-08-03T10:53
 ---
 ## Table of Contents
 1. [Defining Our Terms](#Defining%20Our%20Terms)
@@ -625,7 +625,6 @@ Immutable transparent state creates better people. _Society Protocol helps solve
 - _The sky is the limit_: all of this global synchronized state is algorithmically programmable to algorithmically incentivize and de-incentivize anything and synchronized globally instantly. Using algorithms agreed to by the social layer of the Synchronized State (via initial parameters, constitution, governance), we can mold and shape society in a very cohesive way. _Society will be able to coordinate people at levels never dreamed of before_
 
 Society Protocol uses this to align each individual actor’s explicit status to their value to the State at each point in _time_ on the _Timeline_.
-- _Lowering bureaucratic costs_: All the state data which previously needed to be maintained, gate-kept, and controlled by bureaucrats is automatically handled by algorithms. _Creating a more fair, cost effective, and verifiable system for everyone._
 
 **AI**:
 
@@ -645,7 +644,7 @@ Society Protocol uses this to align each individual actor’s explicit status to
 
 For Synchronized States to transcend potential and emerge as an evolution to Nation States, they must fulfill all the fundamental requirements of Statehood.
 
-**Security:** A State must provide security to its constituents, protecting them from the threat of other States.
+**<u>Security</u>:** *A State must provide security to its constituents, protecting them from the threat of other States.*
 
 Society Protocol provides security using cryptography, distribution, decentralization, and coordination.
 

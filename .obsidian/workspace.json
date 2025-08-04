@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Articles/The state of The State (History).md",
+                "file": "Published/Welcome Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The state of The State (History)"
+              "title": "Welcome Page"
             }
           }
         ]
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Published/Articles/The state of The State (History).md",
+                "file": "Published/Welcome Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The state of The State (History)"
+              "title": "Outgoing links from Welcome Page"
             }
           }
         ],
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +188,28 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4726a4e912d34a4e",
+  "active": "76958f66ea21a434",
   "lastOpenFiles": [
-    "Published/Articles/4-Dimensional Synchronization (Clocks).md",
+    "publish.js",
+    "Untitled.md",
+    "Published/Welcome Page.md",
+    "Published/Movement/Ideology.md",
+    "Published/Organization/Roles.md",
+    "Published/Articles/Fake Everything (Prelude).md",
     "Published/Articles/The state of The State (History).md",
+    "Icon only Logo Black.svg.md",
+    "Drafts/Outlines/On Data.md",
+    "Drafts/Outlines/Privacy.md",
+    "Drafts/Outlines/The Benefits of Accounts (AA) Over Private Keys.md",
+    "Drafts/Outlines/The Sovereign Individual (Agency).md",
+    "Drafts/Outlines/The Reason You Didn't Think of a Network State Protocol.md",
+    "Drafts/Outlines/The Journey Ahead.md",
+    "Drafts/Outlines/The Game of Life (Metaverse).md",
+    "Drafts/Outlines/Accounts.md",
+    "Drafts/Outlines/Synchronized State (The Golden Record).md",
+    "Extras/Images/SP Coordination.png",
+    "Extras/Images/Natural Coordination.png",
+    "Published/Articles/4-Dimensional Synchronization (Clocks).md",
     "Extras/Illustrations/Timeline.excalidraw.md",
     "Extras/Images/Wolves.png",
     "Extras/Images/Now-is-the-age-of-monsters.png",
@@ -200,31 +219,14 @@
     "Extras/Images/3D Synchronization Cube.jpg",
     "Extras/Images/3D cube of objects.jpg",
     "Extras/Images/2D Matrix.jpg",
-    "Extras/Images/20241031_020913567_iOS.jpg",
-    "Icon only Logo Black.svg.md",
-    "Extras/Illustrations/Timeline.excalidraw.svg",
-    "Published/Welcome Page.md",
     "Drafts/Content/4-Dimensional Synchronization – Draft.md",
-    "Published/Articles/Fake Everything (Prelude).md",
     "Published/Handbook/Handbook – Levels.md",
     "Published/Handbook/Handbook – Actor.md",
     "Published/Handbook/Handbook – Global.md",
     "Extras/Illustrations/Fiat vs Crypto vs Commodities Comparison.md",
     "Extras/Illustrations/Fiat vs Crypto vs Commodities vs Society Comparison.md",
     "Extras/Images/Timeline.excalidraw.md",
-    "Extras/Illustrations/Ownership Preference.excalidraw.md",
     "Extras/The Periodic Table of Productivity (2).excalidraw",
-    "Extras/Illustrations/Double-Entry Accounting Part1.excalidraw.md",
-    "Extras/Illustrations/Triple-Entry Accounting.excalidraw.md",
-    "Extras/Illustrations/the state.excalidraw.md",
-    "Extras/Illustrations/Synchronized State Mutateability.excalidraw.md",
-    "Extras/Illustrations/STF.excalidraw.md",
-    "Extras/Illustrations/Levels.excalidraw.md",
-    "Drafts/Content/The state of The State – Draft.md",
-    "Drafts/Outlines/4-Dimensional Synchronization (Clocks) – Outline.md",
-    "Drafts/Outlines/The state of The State – Outline.md",
-    "Drafts/Content/Fake Everything – Draft.md",
-    "Drafts/Outlines/Fake Everything – Outline.md",
     "Published/Articles",
     "Extras/Excalidraw Images",
     "Extras/Untitled",
