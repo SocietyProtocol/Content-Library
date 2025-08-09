@@ -1,0 +1,11 @@
+---
+created: 2025-04-13T15:29
+updated: 2025-08-04T11:46
+---
+
+|                                                                                               |                              Web3<br>![[cryptocurrency-icon.png\|50]]                               |                        CBDCs<br>![[bank-icon.png\|50]]                        |                        **Society Protocol**<br>![[society-logo.svg\|50]]                         |
+| :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+|                                  **Ability to form a State**                                  |                                                 No                                                  |                      Yes <br>(eventually with upgrades)                       |                                  Yes ✅ <br>(out of the box)<br>                                  |
+| **<u>Complete alignment</u> between<br>community and ownership of the<br>synchronized state** | No<br>(social layer ultimately has ownership, <br>control rests with PoW miners or PoS stakers)<br> | No<br>(ownership and control initially<br>rests with the technocratic elites) | Yes ✅<br>(Energy is simultaneously the social layer, <br>ownership, and can be used for control) |
+|          **Ability to perceive the state strength<br>from the STB (shared reality)**          |                                                 No                                                  |                                      No                                       |                                              Yes ✅                                               |
+|                              **Pyramid vs Rebalancing Pyramid**                               |                                               Pyramid                                               |                                    Pyramid                                    |                                      Rebalancing Pyramid ✅                                       |

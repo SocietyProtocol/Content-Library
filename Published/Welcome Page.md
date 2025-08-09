@@ -7,8 +7,9 @@ updated: 2025-07-15T10:04
 ## Table of Contents
 ### Articles
 [[Fake Everything (Prelude)]]
+[[Published/Articles/4-Dimensional Synchronization (Clocks)|4-Dimensional Synchronization (Clocks)]]
 [[The state of The State (History)]]
-[[05 🌐 Society Protocol/Content Library/Published/Articles/4-Dimensional Synchronization (Clocks)]]
+[[Published/Articles/Synchronized States (The Golden Record)|Synchronized States (The Golden Record)]]
 
 ### Handbook
 [[Handbook – Global]]
@@ -22,3 +23,5 @@ updated: 2025-07-15T10:04
 [X](https://x.com/ProtocolSociety)
 [Discord](https://discord.gg/UTVUMeDv)
 [Github](https://github.com/SocietyProtocol)
+
+### Team

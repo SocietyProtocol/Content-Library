@@ -1,8 +1,9 @@
 img {
-        display: block !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-        max-width: 100%;
+  max-width: 100%;      
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+        
 }
     
  .markdown-source-view.mod-cm6 .cm-content > * {
@@ -16,7 +17,31 @@ img {
     max-width:100%;
 }
 
-/** Obsidian Ecalidraw Publis **/
+/* Make images zoom/fullscreen on click in Obsidian Publish */
+.markdown-preview-view img:not([aria-hidden]),
+img:not([aria-hidden]) {
+  cursor: zoom-in;
+  transition: box-shadow 0.2s;
+}
+
+.markdown-preview-view img:active:not([aria-hidden]),
+img:active:not([aria-hidden]) {
+  position: fixed;
+  z-index: 1000;
+  left: 0; right: 0; top: 0; bottom: 0;
+  margin: auto;
+  max-width: 95vw;
+  max-height: 95vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  background: var(--background-primary, #1e1e1e);
+  box-shadow: 0 0 0 999vw rgba(0,0,0,0.8); /* simulate dark overlay */
+  cursor: zoom-out;
+}
+
+/** Obsidian Ecalidraw Publis 
+
 
 @font-face {font-family: "Virgil";src: url("https://excalidraw.com/Virgil.woff2");}
 @font-face {font-family: "Cascadia";src: url("https://excalidraw.com/Cascadia.woff2");}
@@ -33,7 +58,7 @@ div.markdown-embed {
 }
 
 div.excalidraw-svg {
-	/*width: fit-content;*/
+	width: fit-content;
 	height: 100%;
 }
 
@@ -82,3 +107,5 @@ a.site-body-left-column-site-name {
 div.site-footer {
 	display: none;
 }
+
+**/

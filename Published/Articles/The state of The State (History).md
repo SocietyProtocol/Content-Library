@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-08-03T10:53
+updated: 2025-08-04T20:40
 ---
 ## Table of Contents
 1. [Defining Our Terms](#Defining%20Our%20Terms)
@@ -82,7 +82,7 @@ Over millennia, the way we track history and define the state of society has tra
 
 Starting from oral traditions (Tribes) to permanence in writing (Classical States), legal codes (Nation States), and soon digital ledgers (Synchronized States). History, and more precisely state, is the backbone of any society.
 
-Imagine if you could see how all money, assets, people, organizations, and relationships flow from the beginning of time throughout all of history. This will be possible once the state is synchronized and stored in a single verifiable timeline. _Will the histories of Synchronized States also be written by the winners?_ Stay tuned!
+Imagine if you could see how all money, assets, people, organizations, and relationships flow from the beginning of time throughout all of history. This will be possible once the state is synchronized and stored in a single verifiable timeline. _Will the histories of Synchronized States also be written by the winners?_ 
 
 ## Zero-Entry Accounting – Tribes (Pre 10,000 BCE – 3,500 BCE)
 

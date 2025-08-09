@@ -1,10 +1,10 @@
 ---
 created: 2025-07-17T19:11
-updated: 2025-08-03T22:09
+updated: 2025-08-08T08:41
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
-_You might want to read_ [_The state of the State_](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa) _and_ [_The state Which Binds_](https://lex.page/d/c57e9c9a-49f3-49fe-a78b-2b4e66b445b0) _before this essay. They’re not prerequisites, but provide additional context._
+_You might want to read_ [_The state of the State_](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) _and_ [_The state Which Binds_](https://societyprotocol.com) _before this essay. They’re not prerequisites, but provide additional context._
 * * *
 
 ### The Polycrisis
@@ -23,7 +23,7 @@ Let’s examine the problems and concerns that scare the Western populace [^1]:
 - **Environmental degradation** – It’s trivial for a 9,000,000,000 human population to not coordinate well enough and deplete all the scarce resources around it in record time like locusts, before devouring itself.
 - **Migration** – Our cultures are rapidly shifting before our eyes due to the corporate demand for cheap labor combined with the government’s desire to intertwine all races, creeds, and cultures seamlessly into a larger workforce and taxpayer base[^5].
 - **Territorial Hostilities** – Emerging multi\-polarity due to a loss of hegemonic dominance is causing wars and skirmishes along the contested border areas. Some lives are cheap (not the technocratic elite ones).
-
+---
 This all looks like a lot to handle, but it’s all actually stemming from <u>one problem</u>. _What’s one thing that would fix all these problems simultaneously? What do all these problems have in common?_ **It’s coordination.**
 
 _Don’t overthink it, it’s really that simple._
@@ -46,16 +46,21 @@ Four technologies are just about wholly responsible for this imbalance:
 
 1. **Telecommunications** – Telecommunication is the forefather. For the first time in history, a governance-corporate alliance could intrude on the private state of citizens and manipulate the public state at a societal scale by reading pinpointed private state via phone lines, and writing to the public state by controlling the media (radio and television). _Without telecommunications, the other items on this list wouldn’t be possible._
 2. **The Internet** 🥇 – This bastion of freedom has been responsible for more power siphoned from the individual than ever before in history. _Why do you think you’re allowed to talk?_ All modern data collection and tracking is currently enabled by the Internet: mobile phones, web2 corporate oligopolies, media, telecommunication companies, and banks. _For every ounce of freedom you are granted, a pound is being siphoned by exfiltrating societal state data._
-![[declaration of independence of cyberspace.png|750]]
-<center>"Sure thing boss, you're free. Congratulations!" –😂Governments</center>
-<center>Well...that didn't work out so well now...did it?</center> 
+
+![[declaration of independence of cyberspace.png|600]]
+<center>"Sure thing boss, you're free. 👍 Congratulations!" –Governments 😂</center>
+<center>Well...that didn't work out so well now...did it? 🤦‍♀️</center> 
 
 3. **AI** – AI systems enable unprecedented centralization of control over intelligence, information, and social reality of society. Giving technocratic elites who control them the power to shape what information exists, how it flows through society, and who has access to collective intelligence.
 4. **CBDCs** – CBDCs represent the ultimate tool of financial control and surveillance, transforming money from a neutral medium of exchange into an opinionated weapon of social compliance.
 
-**Data fuels this imbalance**. [Data centers store the state of our societies.](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa) Technocratic elites amassing and controlling the entirety of societal state in data centers (while keeping it away from the populace) fuels simultaneously a negotiating, informational, analytical, control, and manipulative advantage which has been leveraged to siphon unprecedented power away from the masses while retaining fine-tuned control.
+**Data fuels this imbalance**. [Data centers store the state of our societies.](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Illustration+of+Double-Entry+Accounting) Technocratic elites amassing and controlling the entirety of societal state in data centers (while keeping it away from the populace) fuels simultaneously a negotiating, informational, analytical, control, and manipulative advantage which has been leveraged to siphon unprecedented power away from the masses while retaining fine-tuned control.
 
-This is a direct evolution of when the Medieval Church stored and controlled the public state of society in its cathedrals early in the double-entry accounting period (for elaboration please read [The state of the State](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa))—**except insanely more powerful**. During the Dark Ages of the Medieval Period, the Catholic Church retained a totality of control over public life through control of the public state. This led to a stagnant society where new ideas couldn’t propagate—until The Print Revolution…_but it couldn’t dream of the type of totality of control which the technocratic elites have amassed today in data centers._ Instead of storing the public state of society, technocratic elites store, control, instantly access, pinpoint, analyze, read private and semi-private state, update, create new mashups of state (AI)—**of the entire world.** _The Eye of Sauron didn’t have such powers._
+This is a direct evolution of when the Medieval Church stored and controlled the public state of society in its cathedrals early in the double-entry accounting period (for elaboration please read [The state of the State](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)))—**except insanely more powerful**. During the Dark Ages of the Medieval Period, the Catholic Church retained a totality of control over public life through control of the public state. This led to a stagnant society where new ideas couldn’t propagate—until The Print Revolution…_but it couldn’t dream of the type of totality of control which the technocratic elites have amassed today in data centers._ 
+
+Instead of storing the public state of society, the technocratic elites have amassed: global, instantaneous, and pinpointed ownership and control—including all the features of CRUD (Create, Read, Update, Delete)—of essentially every individual in the world. This includes readability (including reading your private and semi-private information), analytics (with any level of precision), update abilities (such as controlling your feed or updating your accounts to be shadow banned), and delete (simply erasing individuals from the shared reality). Additionally, there's a new and extremely powerful create feature (using AI to create new shared reality by training it on the entire[^7] societal state). _The Eye of Sauron didn’t have such powers._ This is a worldwide panopticon. 
+
+![[Church-Data Center Transition 1.png]]
 
 The social contract has changed: No one ever signed up for a social contract where a small group of technocratic elites dictate rules and manipulate [the state of the State](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa) via control of the technology. The Western world signed everyone up for Democracy. Our forefathers fought and died for equal rights and a constitutional republic where the will of the people prevails. That was taken from the people, subtly, by any means necessary via control of the state. _Never have so few people held power over so many throughout human history._
 
@@ -67,10 +72,12 @@ _The data and algorithms applied to it control your life, yet you do not control
 
 > **He who controls the state controls The State.**
 > 
-> To control the changing state between people and society, is _everything._ It’s powers beyond powers, it’s mind control of every individual and the whole State at once. Excerpt from [The state of the State](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa)
+> To control the changing state between people and society, is _everything._ It’s powers beyond powers, it’s mind control of every individual and the whole State at once. Excerpt from [The state of the State](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History))
 
-The corporate & governance alliance of technocratic elites have used The Internet, AI, and CBDCs to gain unprecedented control of the state, which is essentially equal to mind-control of the entire populace…and mind-control <u>is equal to slavery</u>[^7]. _The citizenry do not owe Nation States slavery:_ _that is not the social contract we signed up for._
-![[this is anal sex.jpeg|600]]
+The corporate & governance alliance of technocratic elites have used telecommunications, the Internet, AI, and CBDCs to gain unprecedented control of the state, which is essentially equal to mind-control of the entire populace…and mind-control <u>is equal to slavery</u>[^8]. _The citizenry do not owe Nation States slavery:_ _that is not the social contract we signed up for._
+
+![[this is anal sex.jpeg|500]]
+
 Imagine how twisted things have gotten...where instead of people being proud of their States, and looking to bring them glory at all costs–people are fearful and doing everything in their power (they don’t have much power) to stop progress such as AI and CBDCs. <u>They are blocked from cheering for their own State to succeed, due to perverse coordination</u>. Understand how backwards that is…because each State is in competition with the rest, but an equal threat is coming from within—the elites and the people have nearly more enmity towards each other than rival States.
 
 This shows the inverse pattern that we're in. People should be proud of their State, trying to make it as strong as possible (to outcompete other States) – rather than escaping from its control by giving up control to a weaker, more fundamentally opaque state like Bitcoin. The Nation State has to be really imbalanced, for its constituents to actively want to make it weaker, rather than stronger. _<u>That's where we're at</u>_: people are so terrified of their own States, they would rather give power to something weaker and more opaque just to get away from the tyranny of their own State control. When the coordination is imbalanced, the populace prefers a weaker State to a stronger one—because a stronger State is actually dangerous to them (the more power it has the more it bears down on them).
@@ -83,12 +90,12 @@ This shows the inverse pattern that we're in. People should be proud of their St
 2. CBDC technologies would give authorities the tools they need (individual identity accounts) to give each and every individual in society access to efficient voting mechanisms and liquid democracy, which could facilitate, at nearly the speed of light, the will of the people, including: controlling monetary supply, expressing preferences for laws, and deciding on selected representatives.
 3. **<u>Zero</u>** governments on earth have openly discussed this option of giving the populace access to control the decision-making. The populace gets “_funny money”_ and the technocratic oligarchic elites get the decision-making of how much “_funny money_” exists (and who it belongs to).
 
-_Why do you think that is?_ It’s because you live in a tyranny — you don’t live in a free society. You may get to “vote”, but have no decision-making power or control over the candidates presented as choices nor their decisions. You want to know who does? I’ll let you guess.
+_Why do you think that is?_ It’s because you live in a tyranny — you don’t live in a free society. You may get to “vote”, but have no decision-making power or control over the candidates presented as choices nor their decisions. You want to know who does? _I’ll let you guess._
 
 ![[no algorithmification without representation.jpg|700]]
 * * *
 
-This imbalance has culminated into multi-polarity and the start of WW3. Those in control are tightening their grip as much as they can, just as much to protect themselves form their own dissatisfied populace as to defend against an external enemy. _This only has the effect of making the coordination imbalance worse—like a crescendo._
+This imbalance has culminated into multi-polarity and the start of WW3. Those in control are tightening their grip as much as they can, just as much to protect themselves from their own dissatisfied populace as to defend against an external enemy. _This only has the effect of making the coordination imbalance worse—like a crescendo._
 
 _Human civilization simply cannot scale further with our current systems, they don't provide enough coordination to allow us to live in quality ways and allocate resources. We can only scale up as much as we can balance wider communal/societal interests. Nation States are the flagship of the double-entry accounting age. What we need is a way to share, decentralize control, and synchronize state._
 
@@ -100,7 +107,7 @@ _We are already in the process of making the leap into the inevitable triple-ent
 
 ### The Evolution from Nation States to Synchronized States
 
-Synchronized States are a relatively new invention borne of blockchain technology which can synchronize the state worldwide—enabling superior coordination[^8]. Originally an evolution of the clock (for elaboration please read [4-Dimensional Synchronization](https://lex.page/d/9ddd3cca-a4d8-463a-b52d-e44d4f1f0518))—these technologies include: Bitcoin, Web3 protocols such as Ethereum, CBDCs, and Web4 in Society Protocol.
+Synchronized States are a relatively new invention borne of blockchain technology which can synchronize the state worldwide—enabling superior coordination[^9]. Originally an evolution of the clock (for elaboration please read [4-Dimensional Synchronization](https://societyprotocol.io/Published/Articles/4-Dimensional+Synchronization+(Clocks)))—these technologies include: Bitcoin, Web3 protocols such as Ethereum, CBDCs, and Web4 in Society Protocol.
 
 People fundamentally misunderstand the nature of these new technologies. They are not immutable ledgers, censorship-resistant, trustless, nor credibly-neutral. What they are is: Synchronized States (or states in some cases): a group of people trying to coordinate around a shared state. This shared state can evolve to form a shared State.
 
@@ -112,17 +119,17 @@ We are currently finishing up the double-entry age of duplication, which began a
 
 #### Reasons Nation States will transition into Synchronized States:
 
-- **Duplication** – Information duplication is breaking reality. Our systems are currently overloaded with state of all sorts. This state is not tracked or harmonized together, and this unsustainable paradigm is causing reality itself to collapse. Every real piece of data now creates 100 unconnected copies, followed by 1,000 deepfake versions. This pattern is accelerating exponentially—meaning next year will produce 1,000 secondary copies and 10,000 deepfakes for every original. The authentic signal gets buried under exponentially growing noise. Our systems can't effectively track where information comes from, where it's been, or who's responsible for it. Without synchronization, we're drowning in incoherent data that floods every aspect of our lives from all directions. This unsustainable duplication doesn't just overwhelm our information systems—it destabilizes the shared reality that holds society together itself. _Nation States will increasingly become delusional—unable to tell real from fake, until switching over to Synchronized States_ (which attribute ownership and track the transfer of all pieces of public state).
+- **Duplication** – Information duplication is breaking reality. Our systems are currently overloaded with state of all sorts. This state is not tracked or harmonized together, and this unsustainable paradigm is causing reality itself to collapse. Every real piece of data now creates 100 unconnected copies, followed by 1,000 deepfake versions. This pattern is accelerating exponentially—meaning next year will produce 1,000 secondary copies and 10,000 deepfakes for every original. The authentic signal gets buried under exponentially growing noise. Our systems can't effectively track where information comes from, where it's been, or who's responsible for it. Without synchronization, we're drowning in incoherent data that floods every aspect of our lives from all directions. This unsustainable duplication doesn't just overwhelm our information systems—it destabilizes the shared reality that holds society together. _Nation States will increasingly become delusional—unable to tell real from fake, until switching over to Synchronized States_ (which attribute ownership and track the transfer of all pieces of public state).
 - **Alignment** – The will of the representatives isn't aligned enough with the populace. As the control of technocratic elites entrenches and grows in power with Surveillance States—the populace is becoming disenchanted and don’t naturally support them due to a misalignment of interests. The populace deeply fears giving up more control, and will do everything in its power to stop the continuous erosion of its control over the state.
 
-	Today, people fear virtually every system under technocratic control: fiat currency, surveillance infrastructure, social media platforms, media companies, the pharmaceutical industry, multi-tier justice, the military-industrial complex. The result is inevitable resistance. Intent is everything, and the people are (and will increasingly) not let these systems progress due to it tightening the noose around their own necks[^9]. Instead, they will actively strive to create Synchronized States because Synchronized States offer a full overlap between control of the State and its citizenry—where they can regain power via control of the state.
+	Today, people fear virtually every system under technocratic control: fiat currency, surveillance infrastructure, social media platforms, media companies, the pharmaceutical industry, multi-tier justice, the military-industrial complex. The result is inevitable resistance. Intent is everything, and the people are (and will increasingly) not let these systems progress due to it tightening the noose around their own necks[^10]. Instead, they will actively strive to create Synchronized States because Synchronized States offer a full overlap between control of the State and its citizenry—where they can regain power via control of the state.
 - **Automation** – Synchronized States can algorithmically enforce taxes, laws, and monetary systems with unprecedented fairness and efficiency—something Nation States fundamentally cannot achieve due to their lack of technological rails and reliance on duplicated data.
 
 	Consider the current tax and legal system: every individual must independently track disconnected accounting data, navigate labyrinthine tax codes, perform complex calculations, make subjective decisions about legal write-offs, and submit their findings to authorities who then apply laws inconsistently due to their system's inherent limitations. This broken process forces governments to continuously expand regulations until virtually everyone becomes technically a criminal, under full enforcement—creating systematic inequality where outcomes depend on connections, knowledge of tax loophole enforcement, or physical features such as race.
 
 	This represents the antithesis of fair coordination. <u>Synchronized States eliminate this dysfunction entirely through algorithmic automation</u>. Taxes, laws, and regulations become transparent, automatically calculated, and applied equally to all individuals—removing preferential treatment based on arbitrary factors. What currently requires armies of accountants, lawyers, and bureaucrats becomes a seamless, fair, and efficient automated process.
 - **Coordination** – Nation States operate at industrial-era speeds in an information-age world. Their decision-making systems are fundamentally bottlenecked by their inability to synchronize, as consensus requires synchronization. Nation States lack the infrastructure to achieve synchronization at the speed of modern civilization. _They are unable to coordinate a society at 21st century speeds._ Their decision making quality deteriorates with scale. Since they cannot make decisions quickly or effectively, encompassing the entirety of their populace, they will be surpassed by the more fluid and coordinated nature of Synchronized States—which will naturally overtake them in decision quality. Nation States will be forced to switch to Synchronized States—being the only way to increase their decision-making capacity.
-- **Bureaucracy** – Nation States maintain vast bureaucratic infrastructures requiring millions of personnel, countless government buildings, and enormous financial resources. Despite these massive expenditures, the resulting systems are riddled with waste and corruption, and fundamentally inefficient. As sovereign debts mount and fiscal pressures set in, Nation States will increasingly offload these processes to Synchronized States[^10].By merging the clock and State, Synchronized States will save trillions of dollars on bureaucracy. _The costs of running and coordinating a State will come down from trillions of dollars to the costs of running a duplicated computer program_. The Nation States which embrace this transition will watch their bureaucratic overhead collapse—while those that resist it will watch in envy…and eventually plainly disappear if they don’t switch.
+- **Bureaucracy** – Nation States maintain vast bureaucratic infrastructures requiring millions of personnel, countless government buildings, and enormous financial resources. Despite these massive expenditures, the resulting systems are riddled with waste and corruption, and fundamentally inefficient. As sovereign debts mount and fiscal pressures set in, Nation States will increasingly offload these processes to Synchronized States[^11].By merging the clock and State, Synchronized States will save trillions of dollars on bureaucracy. _The costs of running and coordinating a State will come down from trillions of dollars to the costs of running a duplicated computer program_. The Nation States which embrace this transition will watch their bureaucratic overhead collapse—while those that resist it will watch in envy…and eventually plainly disappear if they don’t switch.
 - **Power** – A way to explain it is, Synchronized States will replace Nation States for the same reasons that people <u>fear</u> CBDCs: because they’re powerful. If there wasn’t power over the individual there, the populace wouldn’t fear CBDCs—and CBDCs are simply infantile Synchronized States. Optimized Synchronized States like Society Protocol are tremendously powerful, and if adopted by neighboring tribes, the populace of a Nation State would <u>fear</u> not switching over or starting their own. This fear will transform into enthusiasm because the same populace (or any group of people for that matter) can deploy Synchronized States to gain agency—seeing that they are just open-source duplicated computer programs.
 - **Prisoners Dilemma** – Synchronized States do not see borders in the same way that Nation States see borders. They will develop trust quicker, more efficiently, and encroach on the lower trust thresholds of Nation States. Nation States will enter into a prisoners dilemma to switch to Synchronized States to preserve their continuity and survival—after which they will all defect from the Nation State paradigm—and the ones which do so earlier, quicker, securely, effectively, and legitimately—will have more opportunity to thrive in a new age.
 
@@ -136,17 +143,17 @@ The reality is more complicated than simply public appeasement. The technocratic
 
 By controlling the societal state (in the form of laws, taxes, and all data), technocratic elites can use incentive systems to reward early adopters of Synchronized States while penalizing those who resist. This is called _nudging._ It allows them to guide the population toward their preferred outcome without triggering widespread resistance. The transition appears voluntary, but the incentive gradients make resistance increasingly costly over time—_the public doesn’t effectively have a choice._
 
-Each Nation State is approaching this transition differently. The bigger and more important the Nation State, the more they have to consider—and so while every State is experimenting with Synchronized States—the ones that are moving to implement quicker are the more agile ones or those which do not have as much to lose. The big players have to methodically plan their moves years in advance and are restrained by big ships to steer with lots of responsibility and slow abilities to change the their infrastructure and cultures.
+Each Nation State is approaching this transition differently. The bigger and more important the Nation State, the more they have to consider—and so while every State is experimenting with Synchronized States—the ones that are moving to implement quicker are the more agile ones or those which do not have as much to lose. The big players have to methodically plan their moves years in advance and are restrained by big ships to steer with lots of responsibility and slow abilities to change their infrastructure and cultures.
 
 **The 3 poles of the world currently have three distinct strategies for transitioning:**
 
 - **Europe (CBDC)** – The European Union has split from the hegemony of the United States after the 2024 election and charted a course to rapidly transition its economy directly into CBDCs. This will allow the technocratic elites to maintain control and attempt to coordinate their populations better (_cue polycrisis crescendo 🎶🎼🎶_). Europe is still viewing Synchronized States as money: under the old paradigm of an accounting system of value flows.
-- **China (Social Credit System)** – The Chinese are transitioning into a system of social credit controlled by the technocratic elites. They are viewing this Social Credit System as a way for the ruling party to attempt to control the state of society and improve coordination (_cue polycrisis crescendo 🎶🎼🎶)._ They are implementing the system gradually, in experimental zones, before scaling it[^11].
-- **United States (Cryptocurrency)** – The United States is responsible for the world’s global reserve currency. It has chosen perhaps the most interesting strategy of the three: to use Web3 rails. The plan is to promote and propagate the USD as the world’s reserve currency globally by minting a variety of stablecoins, to be used worldwide, along with tokenized representations of equities to promote the United States corporate interests, by using the technological rails of Web3 blockchains. By retaining top-down control of the USD currency and equities issuance, the technocratic elite will retain control of this whole international (seemingly) permissionless system of global value transfer. _Very sneaky._ Read [Fake Everything](https://lex.page/d/5100a530-e1e6-4d2a-a740-0b66dab30187) and let’s (_cue the polycrisis crescendo 🎶🎼🎶_).
+- **China (Social Credit System)** – The Chinese are transitioning into a system of social credit controlled by the technocratic elites. They are viewing this Social Credit System as a way for the ruling party to attempt to control the state of society and improve coordination (_cue polycrisis crescendo 🎶🎼🎶)._ They are implementing the system gradually, in experimental zones, before scaling it[^12].
+- **United States (Cryptocurrency)** – The United States is responsible for the world’s global reserve currency. It has chosen perhaps the most interesting strategy of the three: to use Web3 rails. The plan is to promote and propagate the USD as the world’s reserve currency globally by minting a variety of stablecoins, to be used worldwide, along with tokenized representations of equities to promote the United States corporate interests, by using the technological rails of Web3 blockchains. By retaining top-down control of the USD currency and equities issuance, the technocratic elite will retain control of this whole international (seemingly) permissionless system of global value transfer. _Very sneaky._ Read [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)) and let’s _cue the polycrisis crescendo 🎶🎼🎶_.
 
 Each of these systems is a top-down system of control and doesn’t effectively solve the crisis of coordination. The crescendo will continue amplifying, and the polycrisis will intensify in a multi-polar world. Technocratic elite competition will cause wars to escalate, and powerless people from the societal pyramid to be sent to the contested areas to die.
 
-Control of the state with the precision of telecommunications, the Internet, AI, and CBDCs will increasingly grant a small group of technocratic elites unseen powers beyond belief. _This will not be used for the betterment of society. It will be used to manipulate and control the masses, taking away freedom and crippling agency for every individual in the other class strata._ _This order is sometimes called techno-feudalism \[@varoufakisTechnoFeudalismTaking2021\] or fascism_[^12].
+Control of the state with the precision of telecommunications, the Internet, AI, and CBDCs will increasingly grant a small group of technocratic elites unseen powers beyond belief. _This will not be used for the betterment of society. It will be used to manipulate and control the masses, taking away freedom and crippling agency for every individual in the other class strata._ _This order is sometimes called techno-feudalism \[@varoufakisTechnoFeudalismTaking2021\] or fascism_[^13].
 
 * * *
 
@@ -158,8 +165,8 @@ Control of the state with the precision of telecommunications, the Internet, AI,
 
 - **Governance capture** – If we had great coordination and decision-making, we wouldn’t be talking about this problem. We would all be benefitting from completely aligned decision-making!
 - **Sovereign debts** – If the previous generations didn’t saddle their nations with debt while being removed from its effects due to their imminent death (a coordination failure where sub-optimal decision makers are allowed to make binding decisions and aren't accountable to those who must live with the consequences)—we wouldn’t have this problem—future generations would be endowed with a brighter future 🪴.
-- **Economic Inequality** – Again…**a problem of coordination.** The governance decides at gunpoint how the resources are distributed in a Nation State. If there was a will, they could easily rebalance the inequality today. Those in control of the apparatus have created the policies for income inequality purposefully due to a dis\-alignment of interests with the general population. _Improving this issue[^13] can only be done with a better alignment of decision-making and would lead to a vastly more prosperous and harmonious society._
-- **Political Polarization** – Want to know why the middle and peasant classes on both sides are increasingly polarizing and fighting? _Because they are being squeezed by invisible forces (in the technocratic elites) into nothing._ They are desperately looking for ways to preserve their resources, status, and control in society—while both sides are being squeezed. It’s a terrible thing to watch. All these resources, status, and control were gradually redistributed to the technocratic elites over the past 50 years, and it’s now just a death-match for their entertainment, _The Hunger Games style,_ because society has reached its coordination limit. Neither side winning would restore their resources, because they don’t control the state—only temporary plunder of the other side. The population drops, but the coordination limit remains the same. Our current systems of coordination can only sustain so many people on the planet. _Now if we improve the coordination, it all disappears._
+- **Economic Inequality** – Again…**a problem of coordination.** The governance decides at gunpoint how the resources are distributed in a Nation State. If there was a will, they could easily rebalance the inequality today. Those in control of the apparatus have created the policies for income inequality purposefully due to a dis\-alignment of interests with the general population. _Improving this issue[^14] can only be done with a better alignment of decision-making and would lead to a vastly more prosperous and harmonious society._
+- **Political Polarization** – Want to know why the middle and peasant classes on both sides are increasingly polarizing and fighting? _Because they are being squeezed by invisible forces (the technocratic elites) into nothing._ They are desperately looking for ways to preserve their resources, status, and control in society—while both sides are being squeezed. It’s a terrible thing to watch. All these resources, status, and control were gradually redistributed to the technocratic elites over the past 50 years, and it’s now just a death-match for their entertainment, _The Hunger Games style,_ because society has reached its coordination limit. Neither side winning would restore their resources, because they don’t control the state—only temporary plunder of the other side. The population drops, but the coordination limit remains the same. Our current systems of coordination can only sustain so many people on the planet. _Now if we improve the coordination, it all disappears._
 
 > Political polarization issues on the surface appear to be cultural, but they are economic. The lineage of causality is: economics gives rise to culture which gives rise to political positions (economics —> culture —> politics).
 
@@ -169,39 +176,38 @@ Control of the state with the precision of telecommunications, the Internet, AI,
 - **Environmental degradation** – Our environments degrade or thrive based on how we coordinate. Better coordination is the only way to optimize how we use the scarce resources of the planet (including each other)—only this will allow us to scale human civilization while maintaining our quality of life. Without improved coordination, suboptimal resource allocation will perpetually constrain both human populations and living standards. Currently, corporations exploit workers and the environment for technocratic elites and shareholder value—bending human coordination to serve a tiny fraction of civilization. We're seemingly approaching the coordination limits of Nation States at around 10 billion people. Synchronized States offer a chance at tremendously improved coordination through total state synchronization, complete alignment of governance, and algorithmic incentive mechanisms: allowing more people to survive and sustain a higher quality of life for everyone while keeping our environments pristine.
 - **Migration** – People migrate for better opportunities, due to war-torn countries, economic reasons, or inhospitable environments. If we can coordinate the world better…opportunity would also become more evenly distributed—each region could thrive in its own way due to a decentralization of power. Another reason opportunities would not require physical migration is because everyone would be connected and synchronized across borders—many opportunities would exist everywhere in the paradigm of Synchronized States, which is a fully connected and synchronized world without centralized middle-men. _Migration becomes largely unnecessary when you’re connected to everyone else, regardless of physical borders._
 - **Territorial Hostilities** – Synchronized States transcend the territorial constraints that have plagued Nation States throughout history. Unlike the current paradigm where geography dictates singular governance— Synchronized States enable multiple sovereign entities to coexist and coordinate within the same territorial boundaries. This revolutionary capability stems from their fundamental nature as distributed computer programs rather than geography-bound institutions.
-
-The superior coordination mechanisms of Synchronized States unlock unprecedented cooperation possibilities. Different governance systems can negotiate complex resource-sharing agreements—one State might grant highway access to citizens of another for agreed compensation (to be collected automatically), or multiple sovereign entities might combine military resources while preserving their distinct cultural identities and decision-making processes. These arrangements are impossible under the Nation State paradigm, where territorial control demands singular authority and processes aren’t automated.
-
-_The implications are profound: territorial conflicts become of lesser importance when absolute geographic control is no longer required and citizens can migrate digitally between governance systems without physical relocation. The fundamental driver of territorial warfare dissolves._
-
-Fixing one of these problems would be world-changing. We genuinely haven’t seen many great solutions to even one of these problems. _Synchronized States can fix them all simultaneously._
+  
+  The superior coordination mechanisms of Synchronized States unlock unprecedented cooperation possibilities. Different governance systems can negotiate complex resource-sharing agreements—one State might grant highway access to citizens of another for agreed compensation (to be collected automatically), or multiple sovereign entities might combine military resources while preserving their distinct cultural identities and decision-making processes. These arrangements are impossible under the Nation State paradigm, where territorial control demands singular authority and processes aren’t automated.
+  
+  _The implications are profound: territorial conflicts become of lesser importance when absolute geographic control is no longer required and citizens can migrate digitally between governance systems without physical relocation. The fundamental driver of territorial warfare dissolves._
+---
+**Fixing one of these problems would be world-changing. We genuinely haven’t seen many great solutions to even one of these problems. Synchronized States can fix them all simultaneously.**
 
 ### The thesis of this article is quite simple:
 
 1. Society will inevitably transition from Nation States to Synchronized States. _It is already happening._ Because Synchronized States are fundamentally 10-100x more efficient at fulfilling all the functions of a State, it’s like comparing horses to automobiles.
 2. There are only two ways this evolution can occur (they will be revealed later in this article). Only two paths in which we can attempt to improve the coordination and exit this polycrisis; one leads to very dystopian outcomes while the other leads to profoundly utopian outcomes.
 
-![[Castles Crossroads ???.jpg|600]]
+![[Castles Crossroads ???.jpg|500]]
 
-**_Humanity will have to choose a way._ If it fails to choose and take action, a way will be chosen for it. You will be presented with a choice towards the end of this article, and how individuals collectively respond to that choice will determine the future.**
+*Humanity will have to choose a way. If it fails to choose and take action, a way will be chosen for it. You will be presented with a choice towards the end of this article, and how individuals collectively respond to that choice will determine the future.*
 
 _Excellent, we made it! The introduction is over! Let’s get into it!_
 
-* * *
 
 ## Synchronized States (The Golden Record)
 
-Let’s dive deeper into understanding Synchronized States. _Historical and technical explanations can be found in the_ [_The state of the State_](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa) _and_ [_The state Which Binds_](https://lex.page/d/c57e9c9a-49f3-49fe-a78b-2b4e66b445b0) _essays. In this essay, we will focus on their evolutionary advantages and possible trajectories._
+Let’s dive deeper into understanding Synchronized States. _Historical and technical explanations can be found in the_ [_The state of the State_](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) _and_ [_The state Which Binds_](https://societyprotocol.io) _essays. In this essay, we will focus on their evolutionary advantages and possible trajectories._
 
 Synchronized States are protocols with rulesets for a community to share and synchronize a state. By synchronizing the state between individual nodes of participation they allow a community to share a reality in unison, where every individual operates in the same context. When these protocols incorporate all the essential features of a State—including identity systems, property rights, monetary systems, decision-making mechanisms, and coordination frameworks—they transcend mere shared reality tools to become fully-fledged States—fully capable of binding communities together through a shared synchronized reality rather than geographic boundaries.
 
-Nation States are borne of contracts created due to the allowance of duplication early in the double-entry period, and still tethered to those assumptions. If we reason from first-principles…the whole root need of that system (duplicated contracts to establish shared reality[^14]) are unnecessary after we establish Synchronized States—allowing us to CRUD[^15] the <u>state that binds</u> (STB) worldwide in unison (while retaining privacy). There is no more necessity to create duplicated contracts separately, as we can <u>fairly establish</u> **control** of a global Synchronized State. It is then optimal to join every duplicated state contract together—allowing us to coordinate better, move as one, and for every piece of state to retain a verifiable history. _Everyone benefits tremendously_, _even though no one in particular should have an exploitative advantage (like no one has an edge in using the clock)_. Once we understand this is possible, the entire root of Nation States becomes obsolete and we realize that a new paradigm is coming to replace it. _Synchronized States inherit all the potential of Nation States and more due to worldwide synchronization, distribution, and algorithmification of the shared reality._
+Nation States are borne of contracts created due to the allowance of duplication early in the double-entry period, and still tethered to those assumptions. If we reason from first-principles…the whole root need of that system (duplicated contracts to establish shared reality[^15]) are unnecessary after we establish Synchronized States—allowing us to CRUD[^16] the <u>state that binds</u> (STB) worldwide in unison (while retaining privacy). There is no more necessity to create duplicated contracts separately, as we can <u>fairly establish</u> **control** of a global Synchronized State. It is then optimal to join every duplicated state contract together—allowing us to coordinate better, move as one, and for every piece of state to retain a verifiable history. _Everyone benefits tremendously_, _even though no one in particular should have an exploitative advantage (like no one has an edge in using the clock)_. Once we understand this is possible, the entire root of Nation States becomes obsolete and we realize that a new paradigm is coming to replace it. _Synchronized States inherit all the potential of Nation States and more due to worldwide synchronization, distribution, and algorithmification of the shared reality._
 
 > This is a horse vs. car invention–the horse (Nation State) is simply not necessary for the main means of transport (coordination) anymore and the car (Synchronized State) will replace it with a new roaring engine (paradigm) for society.
 
-_Synchronized States are purely data & algorithm societies—existing solely as duplicated computer programs._ They do not share Nation State borders and will expand anywhere that general computing exists and data can flow: across borders, to the moon, and into outer space. All of this is possible at nearly the speed of light. Elon Musk desperately wants to colonize Mars, Synchronized States can fully synchronize the state of reality for a society between Earth and Mars in an average of ~22.3 minutes (lossless communication). To achieve this with Nation States, would be impossible, they do not have a path towards synchronizing, only towards duplicating data (lossy communication). Would you be more willing to fly to Mars if your existence is controlled by technocratic elites on Earth or if each individual had full control (agency over their identity, assets, and data) and synchronicity with all of society? Synchronized States are likely a prerequisite to becoming an interplanetary species[^16].
+_Synchronized States are purely data & algorithm societies—existing solely as duplicated computer programs._ They do not share Nation State borders and will expand anywhere that general computing exists and data can flow: across borders, to the moon, and into outer space. All of this is possible at nearly the speed of light. Elon Musk desperately wants to colonize Mars, Synchronized States can fully synchronize the state of reality for a society between Earth and Mars in an average of ~22.3 minutes (lossless communication). To achieve this with Nation States, would be impossible, they do not have a path towards synchronizing, only towards duplicating data (lossy communication). Would you be more willing to fly to Mars if your existence is controlled by technocratic elites on Earth or if each individual had full control (agency over their identity, assets, and data) and synchronicity with all of society? Synchronized States are likely a prerequisite to becoming an interplanetary species[^17].
 
-The need to decide on which Synchronized States are necessary arises from the social layer. We have already covered how these needs arise and dissipate in [The state Which Binds](https://lex.page/d/c57e9c9a-49f3-49fe-a78b-2b4e66b445b0). The core premise of shared realities, including all Synchronized States (which are just a means to uphold and synchronize a shared reality)—is that people will participate in them (and thereby, hold them up) as long as the need to maintain a shared reality is greater than the effort required to hold it up. The more state and identity data that the social layer places into the Synchronized State, the more powerful and sticker the shared reality grows. Meaning, Synchronized States are networks and their value grows in accordance with <u>network effects</u>, <u>superlinearly with each additional user.</u> <u>Finally, and this is the same for all Synchronized States—when the need to continue maintaining them disappears from the social layer,</u> _<u>they just collapse</u>_<u>.</u>
+The need to decide on which Synchronized States are necessary arises from the social layer. We have already covered how these needs arise and dissipate in [The state Which Binds](https://societyprotocol.io). The core premise of shared realities, including all Synchronized States (which are just a means to uphold and synchronize a shared reality)—is that people will participate in them (and thereby, hold them up) as long as the need to maintain a shared reality is greater than the effort required to hold it up. The more state and identity data that the social layer places into the Synchronized State, the more powerful and sticker the shared reality grows. Meaning, Synchronized States are networks and their value grows in accordance with <u>network effects</u>, superlinearly with each additional user. Finally, and this is the same for all Synchronized States—when the need to continue maintaining them disappears from the social layer, _they just collapse_.
 
 ### Synchronization Is Valuable
 
@@ -211,9 +217,9 @@ I had a recent realization about synchronization: **it’s valuable, but expensi
 
 1. I tell you how I’m feeling, and within 5 seconds I’m feeling a different way. Maybe I don’t even remember when you stopped listening (happens all the time). _Do you know and respect my feelings now?!_ 😠
 2. Talk to a friend and fill them in on plans—let's say complex plans to go to the lake on Sunday, but only if it's sunny and if your girlfriend also wants to go. You hash out all the details, make sure you're both on the same page, then walk away. The exact moment you stop interacting, your realities start to desynchronize. _Shared reality begins to tear apart._
-
-Within minutes, you can end up in different worlds. Maybe you get a text that changes everything from a Nigerian prince. Meanwhile, your friend is still operating under the old plan, maybe even buying sunscreen for the lake trip (waste of resources!). When you finally reconnect, you discover you're no longer in sync. To get back on the same page, you have to synchronize all over again—explain what happened, update the new reality (the deal with the prince went splendid and you’re wealthy), and make new plans. _It's expensive and exhausting._ Every time contexts drift apart (which is every second of every individuals life)—this cycle repeats.
-3. <u>Synchronizing multiple parties is even harder</u>. The costs of synchronizing multiple individuals grow superlinearly, it’s a big reason for why teamwork is hard. According to the programming classic _The Mythical Man Month \[@brooksMythicalManmonthEssays1991\], these costs are \\( \\N(N-1)/2 \\),_ but thats the total cost for the group to synchronize, when viewed from an individual perspective they actually double to \\( \\N(N-1) \\). This resembles the inverse of <u>network effects</u>. Hence, groups of more than ~4-6 people become <u>extremely unwieldily</u> and difficult to keep together, much less, synchronize together[^17]. Synchronizing 100 people? _Fuggetaboutit._ _Only Kim Jung Un and the Olympics opening ceremonies can do_ _this__._
+   
+   Within minutes, you can end up in different worlds. Maybe you get a text that changes everything from a Nigerian prince. Meanwhile, your friend is still operating under the old plan, maybe even buying sunscreen for the lake trip (waste of resources!). When you finally reconnect, you discover you're no longer in sync. To get back on the same page, you have to synchronize all over again—explain what happened, update the new reality (the deal with the prince went splendid and you’re wealthy), and make new plans. _It's expensive and exhausting._ Every time contexts drift apart (which is every second of every individuals life)—this cycle repeats.
+3. <u>Synchronizing multiple parties is even harder</u>. The costs of synchronizing multiple individuals grow superlinearly, it’s a big reason for why teamwork is hard. According to the programming classic _The Mythical Man Month \[@brooksMythicalManmonthEssays1991\], these costs are $(N (N - 1 ) / 2)$,_ but thats the total cost for the group to synchronize, when viewed from an individual perspective they actually double to $(N (N-1) )$. This resembles the inverse of <u>network effects</u>. Hence, groups of more than ~4-6 people become <u>extremely unwieldily</u> and difficult to keep together, much less, synchronize together[^18]. Synchronizing 100 people? _Fuggetaboutit._ _Only Kim Jung Un and the Olympics opening ceremonies can do that._
 
 As a result, I have learned to synchronize the minimum in life. Not because I don’t want more sync with my relationships and teams, but because _it’s extremely expensive and fleeting._
 
@@ -223,10 +229,9 @@ Imagine if we could automatedly sync the whole state of global society, without 
 
 This organism would have a discernable heart and brain (along with other organs).
 
-The Timeline on Synchronized States can be thought of as the lifeline of a State—the _heartbeat._
+The Timeline on Synchronized States can be thought of as the lifeline of a State—the _heartbeat._ While the group decision-making (governance) of a Synchronized State can be thought of as the brain of a State_—the thoughts._
 
-While the group decision-making (governance) of a Synchronized State can be thought of as the brain of a State_—the thoughts._
-
+![[Timeline Heartbeat.png|]]
 ### synchronized states vs Synchronized States
 
 > ## Defining Our Terms
@@ -236,7 +241,7 @@ While the group decision-making (governance) of a Synchronized State can be thou
 > - **state** (lowercase): Society's current condition or status—the collective memory and context that forms our shared reality.
 > - **State** (uppercase): The tribe, kingdom, or nation bound together by their shared state.
 > 
-> Excerpt from [The state of the State](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa)
+> Excerpt from [The state of the State](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History))
 
 There are two distinct things we are talking about when discussing Synchronized States.
 
@@ -246,9 +251,9 @@ There are two distinct things we are talking about when discussing Synchronized 
 
 For a lack of a better way to express it, we will sometimes lump the term <u>synchronized states</u> as <u>Synchronized States,</u> because they share essentially the same properties, except for their dimensionality and their ability to form a State.
 
-Caption: Synchronized States are a subset of synchronized states: all Synchronized States are synchronized states, but not all synchronized states are Synchronized States.
+Synchronized States are a subset of synchronized states: all Synchronized States are synchronized states, but not all synchronized states are Synchronized States.
 
-At Society Protocol, we view all <u>synchronized states</u> as evolutionary steps into <u>Synchronized States</u>. Therefore, we expect them to all to become <u>Synchronized States</u> in due time and for <u>synchronized states</u> to disappear[^18] over the course of the next 75 years. When this occurs: _Synchronized States will merge the clock and State into one entity—a duplicated computer program_.
+At Society Protocol, we view all <u>synchronized states</u> as evolutionary steps into <u>Synchronized States</u>. Therefore, we expect them to all to become <u>Synchronized States</u> in due time and for <u>synchronized states</u> to disappear[^19] over the course of the next 75 years. When this occurs: _Synchronized States will merge the clock and State into one entity—a duplicated computer program_.
 
 ## Types of synchronized states
 
@@ -261,7 +266,7 @@ The total list of synchronized states includes: clocks, Bitcoin, Web3 blockchain
 
 In this essay, we are specifically focused on the types of <u>synchronized states</u> which can form <u>Synchronized States</u>.
 
-We’re going to briefly pay homage to the originators of synchronized states in the clock (1D) and Bitcoin (2D) 🙇‍♂️🙇‍♂️ but since they aren’t extremely relevant to this article, due to their inability to form Synchronized States, the homage will be short-lived 🙇‍♂️. More details about this topic are covered in the [4-Dimensional Synchronization (Clocks)](https://lex.page/d/9ddd3cca-a4d8-463a-b52d-e44d4f1f0518) article.
+We’re going to briefly pay homage to the originators of synchronized states in the clock (1D) and Bitcoin (2D) 🙇‍♂️🙇‍♂️ but since they aren’t extremely relevant to this article, due to their inability to form Synchronized States, the homage will be short-lived 🙇‍♂️. More details about this topic are covered in the [4-Dimensional Synchronization (Clocks)](https://societyprotocol.io/Published/Articles/4-Dimensional+Synchronization+(Clocks)) article.
 
 **Clocks (1D):** The original synchronized states for humanity were clocks. We still use them today, they’re incredibly important for our societal function—_the gears of the clock are the gears of society_, but they have very little to do with Synchronized States or the evolution of the State.
 
@@ -277,11 +282,11 @@ Where they differ, is that Web3 is permissionless (anyone can participate in the
 
 Technically speaking, that is their only difference: Web3 is permissionless and independent of the State, while CBDCs are permissioned and controlled by Nation States.
 
-While that is their only difference, in reality, that places them worlds apart. Web3 and CBDCs have completely counter opposing communities and ideologies. The prevailing perception is that Web3 is about freedom and CBDCs are about control (even though they are both actually about control by different groups, read [Fake Everything](https://lex.page/d/5100a530-e1e6-4d2a-a740-0b66dab30187)).
+While that is their only difference, in reality, that places them worlds apart. Web3 and CBDCs have completely counter opposing communities and ideologies. The prevailing perception is that Web3 is about freedom and CBDCs are about control (even though they are both actually about control by different groups, read [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude))).
 
 ### Web3 (3D)
 
-Web3 encompasses a myriad of protocols that fundamentally enable users to <u>own</u> property[^19], marking a significant evolution from earlier web paradigms:
+Web3 encompasses a myriad of protocols that fundamentally enable users to <u>own</u> property[^20], marking a significant evolution from earlier web paradigms:
 
 - Web1 introduced <u>read</u>\-only access to information
 - Web2 introduced <u>read-write</u> capabilities
@@ -297,7 +302,7 @@ Web3 does not see borders—it spreads wherever data and general computing flows
 
 In perception, Web3 protocols are considered pyramids because the economic ruleset for the protocol needs to be defined at the outset. (To attract users, the founders need to incentivize early usage, and therefore early users must get economically advantaged positions relative to later users, to subsidize their risk—forming a pyramid structure.)
 
-Afterwards, the rules remain the same unless changed by either on-chain governance or the social layer. Since on-chain governance doesn’t functionally work due to a lack of sybil resistance[^20]: in web3, redistributive powers ultimately rest with the social layer—which is opaque, global, and un-evenly coordinated. _Meet your captain. Somebody is steering the ship, and they can’t make turns without breaking core cultural promises of immutability._
+Afterwards, the rules remain the same unless changed by either on-chain governance or the social layer. Since on-chain governance doesn’t functionally work due to a lack of sybil resistance[^21]: in web3, redistributive powers ultimately rest with the social layer—which is opaque, global, and un-evenly coordinated. _Meet your captain. Somebody is steering the ship, and they can’t make turns without breaking core cultural promises of immutability._
 
 Ultimately, this means that Web3 blockchains must decide the entire future economic fate of the protocol immediately at the outset, at genesis, for the entire future lifetime of the protocol—to keep the (false) premise of its immutable nature. _This is unrealistic._ Imagine running a country and having to decide its entire economic formula for its course in history, as projections at its founding.
 
@@ -321,7 +326,7 @@ Due to its permissionless nature, Web3 does not have sybil resistance (the abili
 
 * * *
 
-**Since they do not have people; Web3 synchronized states cannot effectively coordinate people.** Web3 synchronized states cannot fulfill all the functions of a State, because they lack sybil resistance[^21]. They cannot effectively coordinate people—only the objects those people control—under the jurisdiction of an invisible social layer. This prevents them from fulfilling all the essential functions required to form a Synchronized State.
+**Since they do not have people; Web3 synchronized states cannot effectively coordinate people.** Web3 synchronized states cannot fulfill all the functions of a State, because they lack sybil resistance[^22]. They cannot effectively coordinate people—only the objects those people control—under the jurisdiction of an invisible social layer. This prevents them from fulfilling all the essential functions required to form a Synchronized State.
 
 - There cannot be laws, taxes, courts, or effective reputation systems because these systems only store property, the people controlling the property and synchronized state exist on another vertical.
 - Users still have to on-board & off-board to a shared societal coordination layer using a centralized exchange (CEX) or other means into the Nation State system to coordinate.
@@ -331,7 +336,7 @@ While they cannot create Synchronized States, Web3 technology is valuable buildi
 
 ### Central Bank Digital Currencies (CBDCs) (3D)
 
-Central Bank Digital Currencies are simply Web3 synchronized states which give Nation States the ultimate control of the social layer (via control of the account system and node infrastructure). They’re value systems propagated and enforced by Nation States—inheriting the decision-making power, State resources, military might, and **control** **systems** which the Nation State chooses to allocate to them[^22].
+Central Bank Digital Currencies are simply Web3 synchronized states which give Nation States the ultimate control of the social layer (via control of the account system and node infrastructure). They’re value systems propagated and enforced by Nation States—inheriting the decision-making power, State resources, military might, and **control** **systems** which the Nation State chooses to allocate to them[^23].
 
 CBDCs permissioned nature limits account creation to only those people who the Nation State deems should be allowed to have accounts. _That is a big deal._ Like Web3 synchronized states, they have accounts which store property in 3-Dimensional space. Unlike Web3, they are permissioned…allowing them not to suffer from the pernicious problems of Web3 (sybil resistance)—in-effect trading those for another set of problems stemming from the mis-alignment of control between the populace and technocratic elites in control of the state. _CBDCs have real people, but those people are controlled by a small group._
 
@@ -361,7 +366,7 @@ CBDCs do not see Nation State borders—they will spread wherever data and gener
 
 **Since we already have <u>identities</u> and <u>money</u> in the system, let’s see what else we can get.**
 
-- **Governance** – We can add voting on representatives, liquid democracy, and even remove the need for representatives all together by adding direct democracy right into the system! _Will the technocratic elites add these features, are we headed back to Democracy? As they say, slaves can’t be choosers. Maybe, or maybe not[^23]. (🤣 😁 Mwahahahaha 🤣 😁)._
+- **Governance** – We can add voting on representatives, liquid democracy, and even remove the need for representatives all together by adding direct democracy right into the system! _Will the technocratic elites add these features, are we headed back to Democracy? As they say, slaves can’t be choosers. Maybe, or maybe not[^24]. (🤣 😁 Mwahahahaha 🤣 😁)._
 - **Social Media** – What if we allowed our people to interact directly through their CBDC identities? Buoyed by all the trust they have accumulated with the State, to allow societal interaction? What if we taxed this societal interaction? Okay, now it makes more sense!
 - **Property** – We can store all property deeds, identity items, and certificates and trace their history of ownership with verifiable identities and automated taxes in our CBDC systems!
 - **Communication Platforms** – Why rely on a million different identities stored between multiple corporate platforms or risk losing our Nation/Synchronized States people to other Nation/(S)synchronized (S)states? Let them communicate! Chat, encrypted chat! We will only track the metadata.
@@ -406,8 +411,7 @@ _Wait, what is Web4?_ There is another horse in this race, it’s a dark horse.
 
 _Evolution: The Transformation: Web4 is Alive_
 
-![[3D-4D Transition.png]]
-<center>3D –> 4D. The 4th Dimension is Energy, which turns our static “dead” 3-Dimensional cube into an alive 4-Dimensional sphere full of life.</center>
+![[3D-4D Transition.png]]<center>3D –> 4D. The 4th Dimension is Energy, which turns our static “dead” 3-Dimensional cube into an alive 4-Dimensional sphere full of life.</center>
 
 #### From Property to Individuals (Web4 is Alive)
 
@@ -433,9 +437,10 @@ Placing people in the Web4 protocol allows us to achieve something extraordinary
 
 Web4 has the fairest state ownership and control in town. When compared to the centralized control of data centers, separated cabal control of Web3, or the imbalanced control of technocratic elites in CBDC: _it’s heavenly alignment_.
 
+![[Alignment of Interests Comparison.png]]
 #### Rebalancing Pyramids
 
-By reimagining the roots of the base layer of value into a model of Energy, we are able to change our societal structure from a “static” pyramid (where those in control of a system easily stay on top until the system itself falls) to an “alive” rebalancing pyramid structure (where the value is constantly automatedly flowing to individuals who bring value from those who don’t). This has a myriad of positive effects which are covered in more detail in the [Rebalancing Pyramids](https://lex.page/d/4e7563f6-01a6-491b-9aaf-36703e351e81) article. _This type of societal coordination was never possible before in human history._
+By reimagining the roots of the base layer of value into a model of Energy, we are able to change our societal structure from a “static” pyramid (where those in control of a system easily stay on top until the system itself falls) to an “alive” rebalancing pyramid structure (where the value is constantly automatedly flowing to individuals who bring value from those who don’t). This has a myriad of positive effects which are covered in more detail in the [Rebalancing Pyramids](https://societyprotocol.io) article. _This type of societal coordination was never possible before in human history._
 
 ### Society Protocol (4D)
 
@@ -444,12 +449,14 @@ Society Protocol is the only known protocol for Web4. It is the inheritor and ev
 Society Protocol is the first true Synchronized State protocol (it can function to truly bind and coordinate a tribe together, and not just their assets). While CBDCs can eventually evolve to form Synchronized States, it is designed to do this, out of the box.
 
 #### Energy
+![[energy flowing.gif|500]]
+<center>Energy is always flowing</center>
 
-Energy simultaneously allows for ownership**,** control of the protocol, and explicit societal value–in one. **A complete overlap between the government and those governed.**
+Energy simultaneously allows for ownership, control of the protocol, and explicit societal value–in one. **A complete overlap between ownership and the community.**
 
-It is also a sorting hat, continuously redistributing value to align individual desires and the societal interests in each interaction. **Creating superior coordination.**
+It is also a sorting hat, continuously redistributing economic value to align individual desires and the societal interests in each interaction—*creating superior coordination.*
 
-While Energy is the base societal value system of Society Protocol instances—it does not curtail the creation and use of other systems of value by the creation and use of programmable property (which is essentially Web3).
+While Energy is the base societal value system of Society Protocol instances—it does not curtail the creation and use of other systems of economic value by the creation and use of programmable property (which is essentially Web3).
 
 #### Social Layer
 
@@ -473,7 +480,7 @@ This combination creates <u>network effects</u> and <u>moats</u>. The P2P synchr
 
 _People are the most valuable asset_ and **all value derives from the social layer.** By investing in our shared reality, which is embedded into the Synchronized State, we invest in ourselves. That investment reflects in the value of our identity, communities, and society. Contrary, by investing outside (in foreign commodities, states, or States) it actually relatively weakens our shared reality, State, and by extension—**ourselves**.
 
-Cryptographic (s)Synchronized (s)State protocols are not trustless or immutable (for more elaboration read [The state That Binds (Shared Reality)](https://lex.page/d/c57e9c9a-49f3-49fe-a78b-2b4e66b445b0). What they offer is: a community driven decentralization of trust and the STB, distributing our shared reality into a network of data packets. We know and understand this, and so we value our community (the social layer) above all else. If the community turns bad, the protocol turns bad. Sharing a reality is all about giving a social layer the optimal systems which allow it to thrive. (A community thriving or corrupting and dying—depends more on the strength of it's internal systems of **coordination**—than on the willpower and intention of its members.)
+Cryptographic (s)Synchronized (s)State protocols are not trustless or immutable (for more elaboration read [The state That Binds (Shared Reality)](https://societyprotocol.io). What they offer is: a community driven decentralization of trust and the STB, distributing our shared reality into a network of data packets. We know and understand this, and so we value our community (the social layer) above all else. If the community turns bad, the protocol turns bad. Sharing a reality is all about giving a social layer the optimal systems which allow it to thrive. (A community thriving or corrupting and dying—depends more on the strength of it's internal systems of **coordination**—than on the willpower and intention of its members.)
 
 We cannot achieve this **coordination** effectively with Nation States, Web3, or CBDCs—because if an entity, such as a cabal or cartel of technocratic elites **control** the community STB, they can take participants commitments and investments in the shared reality…and exploitatively turn them into profits—fundamentally changing the game theory of participants wanting to invest in their shared reality. _This dynamic is what drains most resources from all forms of State—participants needs to hedge against their State(s) due to a lack of <u>complete alignment</u>._
 
@@ -497,7 +504,7 @@ Just as the imbalance began with telecommunications a century ago, and is rapidl
 
 #### Unwinding the imbalance created by technology to fix the polycrisis:
 
-1. **CBDC** – Society Protocol enhances and replaces the function of 3D CBDCs.
+1. **CBDC** – Society Protocol replaces the function of 3D CBDCs.
 2. **AI** – Humanity attains decentralized control and tracking over AI systems using instances of Society Protocol.
 3. **The Internet** – Society Protocol distributes control of the Internet between multiple interoperable Synchronized States.
 4. **Telecommunications** – Society Protocol decentralizes ownership and control of telecommunications infrastructure between multiple interoperable Synchronized States which are no longer bound by territorial borders of Nation States.
@@ -505,18 +512,11 @@ Just as the imbalance began with telecommunications a century ago, and is rapidl
 * * *
 
 ### Patterns Chart: Web3, CBDCs, Web4: Society Protocol
-
-#### Patterns:
-
-Ability to Form a State: Yes
-
-Split between community and who controls the state: No
-Perception into state strength: Yes
+![[Synchronized States – Web3 vs CBDCs vs Society Protocol.png]]
 
 ---
-![[Crossroads SP vs CBDC.jpg|600]]
-
-Caption: At the end of the day, it’s not the castle. The journey of our lives is mostly about the road—_it’s the road we must spend our lives walking on and exist with every day._ Which road do you want to traverse, the road to techno-feudalism or the road to _The Age of Synchronicity_?
+### The Roads Revealed
+![[Crossroads SP vs CBDC.png|500]]Caption: At the end of the day, it’s not the castle. The journey of our lives is mostly about the road—_it’s the road we must spend our lives walking on and exist with every day._ Which road do you want to traverse, the road to the _The Age of Synchronicity_ or the road to techno-feudalism? 
 
 One path is unlucky, full of moloch and a difficult life. The other seems difficult, like a challenge, but is lucky and a beautiful journey.
 
@@ -526,19 +526,17 @@ Dear readers,
 
 The future is truly in your collective hands.
 
-![[strength of a wall.png|600]]
-<center>Are you willing to defend the walls of CBDCs as technocratic feudalist slaves? Do you believe that others will to defend such walls is impregnable?</center>
+![[strength of a wall.png|600]]Are you willing to defend the walls of CBDCs as technocratic feudalist slaves? Do you believe that others will to defend such walls is impregnable?
 
 The goal of this article is to convince you that contributing towards manifesting Society Protocol is a lot easier, more fulfilling, and less risky than merely existing inside the ever expanding underclass of the polycrisis crescendo with constantly eroding liberties and powers, _but it is you who must choose._
 
-If you don’t stand up, the only thing that’s guaranteed is technocratic feudalism. If you do stand up, you have the potential to be leaders who solve this polycrisis and bring the world into a new age, _The Age of Synchronicity_, reaping the all the rewards and status of such an accomplishment. 
+If you don’t stand up, the only thing that’s guaranteed is technocratic feudalism. If you do stand up, you have the potential to become leaders who solve this polycrisis and bring the world into a new age, _The Age of Synchronicity_, reaping all the rewards and status that come with such an accomplishment. 
 
 Either stand-up and find a way out of the polycrisis or sit-down and live and die a slave while the walls close in every moment for the rest of your life.
 
-![[blue pill red pill.png|1000]]
-Caption: We have no capacity to make the choice for you, and can’t do this alone. Stand and live free or sit and worsen the prognosis for yourself, your family, and the future of humanity. _The choice is yours._ 
+![[blue pill red pill.png]]Caption: We have no capacity to make the choice for you, and can’t do this alone. Stand and live free or sit and worsen the prognosis for yourself, your family, and the future of humanity. _The choice is yours._ 
 
-We need your support. We need you to [join our community](https://societyprotocol.io/Published/Movement/Ideology), [invest capital in the movement](https://societyprotocol.io/Published/Movement/Ideology), and [build the architecture](https://societyprotocol.io/Published/Movement/Ideology) for the first Synchronized State. _A momentous project for humanity._
+We need your support. We need you to [join our community](https://societyprotocol.io), [invest in the movement](https://societyprotocol.io), and [build the architecture](https://societyprotocol.io) for the first Synchronized State. _A momentous project for humanity._
 
 You won’t have forever to choose a path, you are losing control, agency, and privacy everyday via telecommunications, the Internet, AI, and CBDCs. At some point, the choice will disappear.
 
@@ -550,9 +548,9 @@ There are several surmountable obstacles which society must overcome to complete
 
 - **Trust** – It will take time and be a gradual process for individuals to grow to trust a duplicated computer program to secure their identity, value system, relationships, property, and societal stack.
 
-Trust develops gradually over time and can be lost in an instant. A battle will ensue to acquire all the lost trust of the planet, which Nation States are busy dissipating as you read this, in a new age.
+	Trust develops gradually over time and can be lost in an instant. A battle will ensue to acquire all the lost trust of the planet, which Nation States are busy dissipating as you read this, in a new age.
 - **Technological Difficulty** – There are challenges in: <u>security</u>, <u>architecture complexity</u>, and <u>game theory mechanics</u>. These will be refined over time and iterations.
-- **Nation States Controlling Telecommunications Infrastructure** – The Nation States themselves aren’t as free as you think; they are trapped in an eternal competition with each other and severing telecommunications infrastructure or general computing from their populace would set them back immensely. There is no need for this regression, we prefer they contact us at: [States@societyprotocol.io](mailto:States@societyprotocol.io).
+- **Nation States Controlling Telecommunications Infrastructure** – The Nation States themselves aren’t as free as you think; they are trapped in an eternal competition with each other and severing telecommunications infrastructure or general computing from their populace would set them back immensely. There is no need for this regression, we prefer they contact us at: [Statebuilders@societyprotocol.io](mailto:Statebuilders@societyprotocol.io).
 - **Nation States Legal** – Society Protocol is a distributed and decentralized movement spanning 193 competing Nation State jurisdictions. Likewise, CBDCs also span across jurisdictions and borders. We can’t predict how the transition to this new age will play out, but as with any new age, we expect challenges, setbacks, and progress. Each attack to stop a new age will only exasperate the movement, progressing it further.
 - **Network Effects (Tribal Adoption)** – States, religions, organizations, and families will become divided on the issue and torn between numerous Synchronized State implementations and how to approach the issue. This will split the social fabric and create waves of stonewalling, hostilities, and boycotts. _Like crabs in a barrel, as they say._ These are productive conflicts, we suggest approaching this transition in a responsible way: one step at a time.
 
@@ -560,11 +558,28 @@ A new world doesn’t have to be built all at once, both Society Protocol instan
 
 It will take time, what starts off as a chaotic process, will gradually settle into stability over time. _We intend for the future wellbeing of humanity, that it’s not the slave kind of stability, but we need your support._
 
-## Conclusion
+### Conclusion
 
-There are only two viable paths forward for humanity's coordination infrastructure, and the choice between them will determine whether we achieve unprecedented human flourishing or descend into a dystopian techno-feudalist age.
+There are only two viable paths forward for humanity's coordination infrastructure, and the choice between them will determine whether we achieve unprecedented human flourishing or descend into a dystopian neo-feudalist age. The first path leads through CBDCs—a top-down evolution controlled by technocratic elites that begins with digital slavery but may eventually distribute power more equitably over centuries of gradual change. The second path leads through Society Protocol and Web4—a bottom-up (or top-down) evolution that immediately returns control of identity, assets, and data to individuals while enabling superior coordination through complete alignment between the governed and their Synchronized States.
 
-If you are the President or decision-maker of a Nation and would like to implement Web4, please contact us at: [States@societyprotocol.io](mailto:national@societyprotocol.io).
+This choice is not merely technological—it's fundamentally about who controls the future of human coordination. CBDCs represent the continuation of centralized power structures, where a small group of technocratic elites maintain dominion over society's state. While Society Protocol represents a complete paradigm shift: the decentralization of control back to individuals and communities, enabling them to coordinate at unprecedented scales while preserving their agency and freedom. The difference between these paths is the difference between hoping for eventual freedom and seizing it.
+
+The polycrisis we face—governance capture, sovereign debts, economic inequality, surveillance states, political polarization, environmental degradation, migration, territorial hostilities, AI, and CBDCs—stems from a single root cause: the concentration of coordination power. Every day we delay this transition, these problems will amplify like a crescendo until they become unbearable. The question is not whether humanity will transition to Synchronized States—that transition is inevitable and already underway. The question is whether we will choose the path that leads to centuries of techno-feudalism or the path that leads to *The Age of Synchronicity*.
+
+We at Society Protocol have shown you the blueprints for both castles. We cannot make the choice for you, nor can we build the future alone. The decision rests with you, collectively, and time is not unlimited. Each passing day sees further erosion of your control, agency, and privacy through telecommunications, the Internet, AI, and CBDCs. Stand up now and help build the infrastructure for human flourishing, or sit down and accept the tightening grip of technocratic control. The future of human coordination—and human freedom itself—hangs in the balance of this choice. Choose wisely, for there may not be another opportunity to choose at all.
+
+---
+
+If you are interested in contributing to Society Protocol, you can [join our community](https://societyprotocol.io), [invest in the movement](https://societyprotocol.io), and [contribute to build the architecture](https://societyprotocol.io). 
+
+If you are the President or decision-maker of a Nation State and would like to implement Web4, you can contact us at: [Statebuilders@societyprotocol.io](mailto:Statebuilders@societyprotocol.io).
+
+---
+
+#### Bibliography
+Brooks, F. P. (1991). _The mythical man-month: essays on software engineering_ (Repr). Addison-Wesley.
+Varoufakis, Y. (2021, June 28). _Techno-Feudalism Is Taking Over_. Project Syndicate. [https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06](https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06)
+Why are conversations limited to about four people? A theoretical exploration of the conversation size constraint. (2019). _Evolution and Human Behavior_, _40_(2), 140–147. [https://doi.org/10.1016/j.evolhumbehav.2018.09.004](https://doi.org/10.1016/j.evolhumbehav.2018.09.004)
 
 #### Footnotes
 [^1]: Is the East doing much better? The short answer is: _no_. It only appears that way due to relative success compared to its past (low starting point), Western economic demand for cheaper goods (economic fuel), and the current catastrophic failure of its Western counterparts (an ugly friend makes us all more beautiful). _Once those equalize, they’re in the same predicament._
@@ -573,20 +588,21 @@ If you are the President or decision-maker of a Nation and would like to impleme
 [^4]: Central Bank Digital Currencies (CBDCs) in the context of this article can include things such as Social Credit Systems and cryptocurrency platforms ultimately controlled by sovereign central banks.
 [^5]: This is the continuation/evolution of the Feminist movement, where corporations wanted to double the workforce and governments to double tax base by enabling women to enter it—scaled further into enabling every race, culture, and creed to enter the same workforce—and operate interchangeably as replaceable cogs—increasing competition, reducing scarcity, and therefore driving wages down (for workers, this doesn’t apply to technocratic elites).
 [^6]: _People don't get unhappy without a political reason._ Even in brutal oppressive conditions and regimes, [dissatisfaction and anger are emotional mechanisms which demand to be treated better](https://www.robkhenderson.com/p/you-cant-treat-me-this-way). Meaning, people feel they can negotiate for better treatment. The reason people are tearing down the old systems now, is because: we can do better. Subconsciously this is felt all over the world.
-[^7]: They can use this mind control to make you chop off your pecker (transgenderism), support the food pyramid (false data), or to create racial tensions (media control) — by controlling and manipulating the state data which makes up the context around you.
-[^8]: The prerequisite requirements for coordination are: shared state (s) and synchronization. Measurement –> synchronization –> coordination.
-[^9]: Some people will (the one’s who believe they are close enough to the technocratic control to gain an unfair advantage) but by and large, those are the vast minority and and decreasing in quantity each year, while the majority grows more dissatisfied.
-[^10]: And in some case synchronized states (such as the [Buenos Aires digital ID progrogram being offloaded to web3 and zkSync](https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg)).
-[^11]: A Social Credit System (SCS) bears more complexity than a traditional CBDC due to its need for someone to provide valid and valuable subjective incentives.
-[^12]: The word 'fascism' has been deliberately misused and overused by these same technocratic elites. They've watered it down so much that it no longer has real meaning, making it useless for accurately calling out what they're doing. But fascism actually refers to the blending of government and big corporations (also known as corporatism)—and that's precisely what these groups are.
-[^13]: Economic inequality is not meant to be resolved entirely. We are all different. It naturally ebbs around power laws (80/20 distribution).
-[^14]: Also to a lesser degree geographic territorial control to store and preserve the state.
-[^15]: Acronym: CRUD – Create, Read, Update, Delete
-[^16]: Nation States can only effectively hurl slaves into space, as they lose control of the state data as soon they leave proximity to the data center.
-[^17]: Human groups in natural environments can only multi-laterally synchronize groups of about 4 people, and split after that into two smallergroups. "It is genuinely difficult to sustain a casual conversation that includes more than four speakers. Add a fifth speaker, and the conversation often quickly fissions into smaller groups. Termed ‘the dinner party problem,’ this four-person conversation size limit is believed to be caused by evolved cognitive constraints on human mentalizing capacities.” Excerpt from \[@WhyAreConversations2019\].
-[^18]: There are feasible scenarios where: it remains to be seen whether a few dominant synchronized state networks will remain and be valuable for 1D (clock) 2D (Bitcoin) and 3D (Ethereum) synchronization, as an interoperability liaison and trust hedge between Synchronized States. Very similar to the way that gold and off-shore bank accounts function as a hedge against the Nation State today by distributing trust externally. This might happen through other distinct Synchronized States, or it may remain on synchronized states. Our goal at Society Protocol is to obsolete all of them and Nation States simulanteously. We can only accomplish this if: 1. We are able to synchronize state updates with solar time. 2. Synchronized States are more efficient liaisons and intermediaries for the hedging of trust against the State than 1D, 2D, or 3D networks.
-[^19]: The better title would be <u>control</u> property. In the same way you own your house in a Nation State and pay property taxes, the property is actually ultimately <u>owned</u> by the Nation State and <u>controlled</u> by you. Similarly, in the case of Web3, the property you <u>control</u> is ultimately <u>owned</u> by the entities running the synchronized state. Read [Fake Everything](https://lex.page/d/5100a530-e1e6-4d2a-a740-0b66dab30187) for context.
-[^20]: Since Web3 systems do not have sybil resistance due to their permissionless nature, we cannot coordinate governance decisions with simply property objects, because we don’t know who owns this property. Read [Fake Everything](https://lex.page/d/5100a530-e1e6-4d2a-a740-0b66dab30187) for context.
-[^21]: Even with identity systems like zkTLS, World, or KYC—it still wouldn’t help. Web3 would still lack sybil resistance unless these systems were applied and adopted uniformly across the entire synchronized state, and even in that case: the identity system would rely on external agents.
-[^22]: We can say that <u>ownership</u> of a CBDC system rests with the _brain_ (governance) of a Nation State—while the <u>control</u> of the CBDC rests with the State agency responsible for its implementation—usually a Central Bank.
-[^23]: _It really depends on the technocratic elites competition with each other. 0 / 168 Nation States worldwide have mentioned or floated this technical possibility at the time of this writing._
+[^7]: Or alternatively, mutated societal state (to bend the shared reality in any direction).
+[^8]: They can use this mind control to make you chop off your pecker (transgenderism), support the food pyramid (false data), or to create racial tensions (media control) — by controlling and manipulating the state data which makes up the context around you.
+[^9]: The prerequisite requirements for coordination are: shared state (s) and synchronization. Measurement –> synchronization –> coordination.
+[^10]: Some people will (the one’s who believe they are close enough to the technocratic control to gain an unfair advantage) but by and large, those are the vast minority and and decreasing in quantity each year, while the majority grows more dissatisfied.
+[^11]: And in some case synchronized states (such as the [Buenos Aires digital ID being offloaded to web3 and zkSync](https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg)).
+[^12]: A Social Credit System (SCS) bears more complexity than a traditional CBDC due to its need for someone to provide valid and valuable subjective incentives.
+[^13]: The word 'fascism' has been deliberately misused and overused by these same technocratic elites. They've watered it down so much that it no longer has real meaning, making it useless for accurately calling out what they're doing. But fascism actually refers to the blending of government and big corporations (also known as corporatism)—and that's precisely what these groups are.
+[^14]: Economic inequality is not meant to be resolved entirely. We are all different. It naturally ebbs around power laws (80/20 distribution).
+[^15]: Also to a lesser degree geographic territorial control to store and preserve the state.
+[^16]: Acronym: CRUD – Create, Read, Update, Delete
+[^17]: Nation States can only effectively hurl slaves into space, as they lose control of the state data as soon they leave proximity to the data center.
+[^18]: Human groups in natural environments can only multi-laterally synchronize groups of about 4 people, and split after that into two smallergroups. "It is genuinely difficult to sustain a casual conversation that includes more than four speakers. Add a fifth speaker, and the conversation often quickly fissions into smaller groups. Termed ‘the dinner party problem,’ this four-person conversation size limit is believed to be caused by evolved cognitive constraints on human mentalizing capacities.” Excerpt from \[@WhyAreConversations2019\].
+[^19]: There are feasible scenarios where: it remains to be seen whether a few dominant synchronized state networks will remain and be valuable for 1D (clock) 2D (Bitcoin) and 3D (Ethereum) synchronization, as an interoperability liaison and trust hedge between Synchronized States. Very similar to the way that gold and off-shore bank accounts function as a hedge against the Nation State today by distributing trust externally. This might happen through other distinct Synchronized States, or it may remain on synchronized states. Our goal at Society Protocol is to obsolete all of them and Nation States simulanteously. We can only accomplish this if: 1. We are able to synchronize state updates with solar time. 2. Synchronized States are more efficient liaisons and intermediaries for the hedging of trust against the State than 1D, 2D, or 3D networks.
+[^20]: The better title would be <u>control</u> property. In the same way you own your house in a Nation State and pay property taxes, the property is actually ultimately <u>owned</u> by the Nation State and <u>controlled</u> by you. Similarly, in the case of Web3, the property you <u>control</u> is ultimately <u>owned</u> by the entities running the synchronized state. Read [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)) for context.
+[^21]: Since Web3 systems do not have sybil resistance due to their permissionless nature, we cannot coordinate governance decisions with simply property objects, because we don’t know who owns this property. Read [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)) for context.
+[^22]: Even with identity systems like zkTLS, World, or KYC—it still wouldn’t help. Web3 would still lack sybil resistance unless these systems were applied and adopted uniformly across the entire synchronized state, and even in that case: the identity system would rely on external agents.
+[^23]: We can say that <u>ownership</u> of a CBDC system rests with the _brain_ (governance) of a Nation State—while the <u>control</u> of the CBDC rests with the State agency responsible for its implementation—usually a Central Bank.
+[^24]: _It really depends on the technocratic elites competition with each other. 0 / 168 Nation States worldwide have mentioned or floated this technical possibility at the time of this writing._
