@@ -1,6 +1,6 @@
 ---
 created: 2025-07-17T19:11
-updated: 2025-08-08T08:41
+updated: 2025-08-11T19:05
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
@@ -45,7 +45,7 @@ _What caused this imbalance_? **Technology.** Nation States and corporations hav
 Four technologies are just about wholly responsible for this imbalance:
 
 1. **Telecommunications** – Telecommunication is the forefather. For the first time in history, a governance-corporate alliance could intrude on the private state of citizens and manipulate the public state at a societal scale by reading pinpointed private state via phone lines, and writing to the public state by controlling the media (radio and television). _Without telecommunications, the other items on this list wouldn’t be possible._
-2. **The Internet** 🥇 – This bastion of freedom has been responsible for more power siphoned from the individual than ever before in history. _Why do you think you’re allowed to talk?_ All modern data collection and tracking is currently enabled by the Internet: mobile phones, web2 corporate oligopolies, media, telecommunication companies, and banks. _For every ounce of freedom you are granted, a pound is being siphoned by exfiltrating societal state data._
+2. **The Internet** – This bastion of freedom has been responsible for more power siphoned from the individual than ever before in history. _Why do you think you’re allowed to talk?_ All modern data collection and tracking is currently enabled by the Internet: mobile phones, web2 corporate oligopolies, media, telecommunication companies, and banks. _For every ounce of freedom you are granted, a pound is being siphoned by exfiltrating societal state data._
 
 ![[declaration of independence of cyberspace.png|600]]
 <center>"Sure thing boss, you're free. 👍 Congratulations!" –Governments 😂</center>
@@ -409,9 +409,9 @@ _Wait, what is Web4?_ There is another horse in this race, it’s a dark horse.
 
 **As we mentioned earlier,** **the technocratic elites are themselves trapped in a prisoners dilemma and don’t see a better way.** So here is the better way: a way out of the polycrisis and into prosperity. A way to enter a new age akin to the Enlightenment and Scientific Revolution–_The Age of Synchronicity_.
 
-_Evolution: The Transformation: Web4 is Alive_
+_Evolution: The Transformation_
 
-![[3D-4D Transition.png]]<center>3D –> 4D. The 4th Dimension is Energy, which turns our static “dead” 3-Dimensional cube into an alive 4-Dimensional sphere full of life.</center>
+![[3D-4D Transition.png]]<center>3D –> 4D. The 4th Dimension is Energy, which turns our static 3-Dimensional cube into an alive 4-Dimensional sphere full of life.</center>
 
 #### From Property to Individuals (Web4 is Alive)
 
@@ -582,7 +582,7 @@ Varoufakis, Y. (2021, June 28). _Techno-Feudalism Is Taking Over_. Project Syndi
 Why are conversations limited to about four people? A theoretical exploration of the conversation size constraint. (2019). _Evolution and Human Behavior_, _40_(2), 140–147. [https://doi.org/10.1016/j.evolhumbehav.2018.09.004](https://doi.org/10.1016/j.evolhumbehav.2018.09.004)
 
 #### Footnotes
-[^1]: Is the East doing much better? The short answer is: _no_. It only appears that way due to relative success compared to its past (low starting point), Western economic demand for cheaper goods (economic fuel), and the current catastrophic failure of its Western counterparts (an ugly friend makes us all more beautiful). _Once those equalize, they’re in the same predicament._
+[^1]: Is the East doing much better? The short answer is: _no_. It only appears that way due to relative success compared to its past (low starting point), Western economic demand for cheaper goods (economic fuel), and the current catastrophic failure of its Western counterparts (an ugly friend makes us all more beautiful). 
 [^2]: Examples include the 2008 banking crisis bailout and COVID vaccine manufacturers being immune from the liability of their products.
 [^3]: Every time we say technocratic elites they are always a chokepoint intertwined in corporate and governance institutions.
 [^4]: Central Bank Digital Currencies (CBDCs) in the context of this article can include things such as Social Credit Systems and cryptocurrency platforms ultimately controlled by sovereign central banks.

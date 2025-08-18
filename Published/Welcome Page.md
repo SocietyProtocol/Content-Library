@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T11:23
-updated: 2025-07-15T10:04
+updated: 2025-08-17T20:25
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
@@ -16,12 +16,17 @@ updated: 2025-07-15T10:04
 [[Handbook – Actor]]
 [[Handbook – Levels]]
 
+### Brand
+[[Glossary]]
+
 ### Movement
 [[Ideology]]
 
 ### Social Channels
 [X](https://x.com/ProtocolSociety)
-[Discord](https://discord.gg/UTVUMeDv)
+[Discord](https://discord.com/invite/fpk7eH7aWQ)
 [Github](https://github.com/SocietyProtocol)
 
-### Team
+
+
+

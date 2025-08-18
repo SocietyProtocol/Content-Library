@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:18
-updated: 2025-06-04T20:45
+updated: 2025-08-14T22:12
 ---
 ## Introduction
 
@@ -12,9 +12,9 @@ This single integer, is so important. The gears of the clock – **are the gears
 
 I like to call this integer – **The state which binds society**. Remind you of anything?
 
-Since then we have invented two additional immensely powerful classes of clock-like synchronization devices: Bitcoin by Satoshi Nakamoto[^2] in 2008 and Ethereum by Vitalik Buterin[^3] in 2015. Both of these aren't widely recognized as clocks. We are also on the verge of inventing the third and most powerful dimension of synchronization device: Society Protocol[^4].  %% This paragraph needs to be reformatted to include dimensions and better styling%%
+Since then we have invented two additional immensely powerful classes of clock-like synchronization devices: Bitcoin by Satoshi Nakamoto in 2008 [@satoshinakamotoBitcoinPeertoPeerElectronic] and Ethereum by Vitalik Buterin in 2015 [@buterinEthereumNextGenerationSmart]. Both of these aren't widely recognized as clocks. We are also on the verge of inventing the third and most powerful dimension of synchronization device: Society Protocol.  %% This paragraph needs to be reformatted to include dimensions and better styling%%
 
-At each point in society, the tribe with the most advanced clocks for synchronization has dominated the world. Starting in Egypt with sundials, then Europe during the (14-19th century), the emergence of Bitcoin, web3, and now Society Protocol has shifted this axis once more. Time is money they say, but more importantly: **time is energy**.
+At each point in history, the tribe with the most advanced clocks for synchronization has dominated the world. Starting in Egypt with sundials, then Europe during the (14-19th century), the emergence of Bitcoin, web3, and now Society Protocol has shifted this axis once more. Time is money they say, but more importantly: **time is energy**.
 
 ## The Nature of Clocks
 
@@ -24,7 +24,7 @@ What are we trying to achieve with clocks? Create a shared model of the universe
 To coordinate more, we have three new tools at our disposal in modernity: 
 1. An expanded multi-dimensional **state that binds** gives us the ability to synchronize unfathomably more data than before.
 2. Computers give us the ability to algorithmically act on the data in the **state that binds** with automated precision.
-3. %% An "immutable" synchronized history of the state that binds%% 
+3. An "immutable" history of the **state that binds** emerges and is stored in memory.  
 ### State Transition Function
 Something that each clock has in common is a **State Transition Function (STF)**. The STF explains the ruleset of how each clock updates its state between discrete intervals in time.  
 
@@ -56,7 +56,7 @@ Mechanical clocks first appeared in the monasteries of Western Europe during the
 Mechanical clocks introduced a new way of telling time based on equal hours, and changed the measuring of time from fluid continuous processes, such as the flow of liquid in water clocks, to repetitive oscillatory processes, such as the swing of the pendulum – and hence, the 1-Dimensional STF for synchronized time was created. 
 
 > [!quote]
-> “This advancement enabled enormous synchronization of activities, something that was not seen or experienced ever before. It separated people from the organic structure of life that they had before. Every hour in the day was trying to be used, people were going to bed when the clock told them, not when they were tired, and the same goes for food.” (“How Did The Clock Change The World?”, 2020)
+> “This advancement enabled enormous synchronization of activities, something that was not seen or experienced ever before. It separated people from the organic structure of life that they had before. Every hour in the day was trying to be used, people were going to bed when the clock told them, not when they were tired, and the same goes for food." [@antoniacirjakHowDidClock2020]
 
 These first mechanical clocks were not designed for precise timekeeping but to automate bell-ringing for communal purposes (such as marking prayer times, work hours, or civic events). They often lacked dials or hands and were primarily auditory devices. Public mechanical clocks[^7] transformed the structuring of personal and communal time, laying the foundations for changes in time consciousness that would accelerate scientific thinking. 
 
@@ -264,7 +264,7 @@ Better synchronized groups always appear to conquer the groups with inferior syn
 
 Just like we entered <u>The Industrial Age</u> with the Clock, we will enter <u>The Information Age</u> with Society Protocol as our shared model & map of synchronization.
 
-### References
+### Bibliography
 
 - Satoshi Nakamoto. “Bitcoin: A Peer-to-Peer Electronic Cash System,” n.d.
 - Buterin, Vitalik. “Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform.,” n.d.
@@ -280,7 +280,7 @@ Just like we entered <u>The Industrial Age</u> with the Clock, we will enter <u>
 [^3]: Reference Ethereum Whitepaper
 [^4]: Reference Society Protocol Whitepaper
 [^5]: Sun dials were of limited use in cloudy weather (which fortunately for Egyptians was rare) and at night. The sun' shadow moved so slowly it was relatively useless marking off minutes and seconds. Thutmose III era sundials were also useless early in the morning and late in the afternoon when the shadow was cast to an infinite length (this problem was later addressed by Greek sun dials, which were shaped like the interior of the bottom half of a globe).
-[^6]: Christian monasteries created an environment of order and familiarity to battle the outside threat caused by the fall of the Roman Empire. They would use the ringing of the bell as a call for prayer, a synchronization mechanism for defensive means, and a symbol for structuring human behavior. (“How Did The Clock Change The World?”, 2020)
+[^6]: Christian monasteries created an environment of order and familiarity to battle the outside threat caused by the fall of the Roman Empire. They would use the ringing of the bell as a call for prayer, a synchronization mechanism for defensive means, and a symbol for structuring human behavior. [@antoniacirjakHowDidClock2020]
 [^7]: Alongside hourglasses and a type of book called a “book of hours,” which helped segment hourly, daily, and yearly time for its owners.
 [^8]: It's incredible how much work went into refining clocks to be durable and precise during history, you can visit some of the German & Swiss watchmakers to see the amount of importance and work placed 
 [^9]: Explain Triple Entry Accounting.

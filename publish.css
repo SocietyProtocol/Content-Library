@@ -40,6 +40,14 @@ img:active:not([aria-hidden]) {
   cursor: zoom-out;
 }
 
+/** Remove the spacing from lists**/
+p:has(+ ul), p:has(+ ol) {
+  margin-bottom: 0;
+}
+ul, ol {
+  margin-top: 0;
+}
+
 /** Obsidian Ecalidraw Publis 
 
 

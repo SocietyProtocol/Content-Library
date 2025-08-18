@@ -1,7 +1,9 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-08-04T20:40
+updated: 2025-08-14T19:58
 ---
+> Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
+
 ## Table of Contents
 1. [Defining Our Terms](#Defining%20Our%20Terms)
 2. [Zero-Entry Accounting – Tribes (Pre 10,000 BCE – 3,500 BCE)](#Zero-Entry%20Accounting%20%E2%80%93%20Tribes%20(Pre%2010,000%20BCE%20%E2%80%93%203,500%20BCE))
@@ -10,7 +12,6 @@ updated: 2025-08-04T20:40
 5. [Triple-Entry Accounting – Synchronized States (Coming Soon)](#Triple-Entry%20Accounting%20%E2%80%93%20Synchronized%20States%20(Coming%20Soon))
 ---
 
-> Bitcoin and decentralization began as a movement to separate money from the State. We didn't realize that it had just invented the roots of a new form of State: the Synchronized State.
 ## Defining Our Terms
 
 Before proceeding, we must establish critical distinctions in our terminology:
@@ -28,7 +29,7 @@ There are three distinct layers of state within a State. All of these delineatio
 
 ![[the state.excalidraw.png|]] 
 
-The state is naturally subjective and in the eye of the individual (private state), mutating as it travels between perceptions—creating a shared (semi-private state) and eventually society wide (public state) out of subjective private states, is no small feat. It also does not remove the private or semi-private states.
+The state is naturally subjective and in the eye of the individual (private state), mutating as it travels between perceptions. Creating a shared (semi-private state) and eventually society wide (public state) out of subjective private states—is no small feat. It also does not remove the private or semi-private states.
 
 The State has evolved throughout three distinct epochs of how it creates, analyzes, updates, and removes the state throughout history — and is about to enter a fourth epoch — Synchronized States.
 
@@ -327,7 +328,7 @@ While the Magna Carta democratized access to the state for the elites, the print
 
 The Print Revolution enabled a cheaper <u>create</u> function, changing the dynamics of CRUD access to all written state: <u>create</u> became trivial, <u>read</u> became easier (as literacy increased), <u>update</u> became easier (create an updated copy), but <u>delete</u> became relatively more difficult (due to the trivial ease of <u>create)</u>. This enabled the mass production of texts; making written records cheaper, more standardized, and widely accessible.
 
-> _“__One hand-copied book in the 14th century cost as much as a house and libraries cost a small fortune. The largest European library in 1300 was the university library of Paris, which had 300 total manuscripts. By the 1490s, when Venice was the book-printing capital of Europe, a printed copy of a great work by Cicero only cost a month’s salary for a school teacher_ \[@roos7WaysPrinting2019\].”
+> _“One hand-copied book in the 14th century cost as much as a house and libraries cost a small fortune. The largest European library in 1300 was the university library of Paris, which had 300 total manuscripts. By the 1490s, when Venice was the book-printing capital of Europe, a printed copy of a great work by Cicero only cost a month’s salary for a school teacher_ \[@roos7WaysPrinting2019\].”
 
 The printing press also eliminated the erroneous mutations in duplicate copies. The <u>create</u> function became effectively <u>lossless</u>. The accuracy and rapid speed with which ideas could be duplicated and transmitted created a powerful combination. It wasn’t necessarily the speed at which books could spread, but the accuracy with which the original data was copied. With duplicated printed formulas and mathematical tables in hand, scientists could trust the fidelity of existing data and devote energy to breaking new ground. Lossless trivial duplication increased trust in the data and accelerated the Renaissance — enabling the Enlightenment and Scientific Revolution.
 
