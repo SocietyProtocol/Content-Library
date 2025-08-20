@@ -1,6 +1,6 @@
 ---
 created: 2025-04-17T11:15
-updated: 2025-06-15T16:19
+updated: 2025-08-18T12:33
 ---
 Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. To verify this, please run a simple thought experiment:
 
@@ -271,7 +271,7 @@ Individual actors engage in every conceivable activity we currently do in the wo
 
 Ownership of identity, data, and assets is returned back to the control of the individual.
 
-The society has a constitution, laws, property, taxes, actors, organizations, religions, family trees, relationships, courts, and world parameters.
+The society has a constitution, laws, property, taxes, actors, organizations, cultural agreements, family trees, relationships, courts, and world parameters.
 
 All these actions are transparently and verifiably synchronized globally at nearly the speed of light and stored our timeline as it ebbs and flows through time itself.
 

@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-08-14T19:58
+updated: 2025-08-18T12:35
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
@@ -699,7 +699,7 @@ All public state interactions are chronologically recorded in the _Timeline_ for
 
 **<u>Public state contents</u>:** _Everything that’s relevant to the <u>public state</u>._
 
-- Instances of Society Protocol track: identity (who is it), money (who paid what), status (who holds power), social graphs and relationships (who knows whom), group decision making (governance), property rights (who owns what), organizations (corporations, religions, and family trees), and more across history in the <u>public state</u>.
+- Instances of Society Protocol track: identity (who is it), money (who paid what), status (who holds power), social graphs and relationships (who knows whom), group decision making (governance), property rights (who owns what), organizations (distributed corporations, cultural agreements, and family trees), and more across history in the <u>public state</u>.
 
 Since we have a clear delineation between the <u>private</u>, <u>semi-private</u>, and <u>public state</u>. It’s optimal to only place data that belongs in the <u>public state</u>, meaning it is useful for the functioning of public society, there.
 

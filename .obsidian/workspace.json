@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Welcome Page.md",
+                "file": "Published/Brand/Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome Page"
+              "title": "Glossary"
+            }
+          },
+          {
+            "id": "77294e9087186a8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           },
           {
@@ -35,7 +47,8 @@
               "title": "Roles"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -202,10 +216,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c402b598c753a473",
+  "active": "77294e9087186a8f",
   "lastOpenFiles": [
-    "Published/Brand/Glossary.md",
     "Published/Welcome Page.md",
+    "Published/Brand/Glossary.md",
     "Published/Brand Terminology.md",
     "Published/Articles/Synchronized States (The Golden Record).md",
     "Published/Articles/The state of The State (History).md",

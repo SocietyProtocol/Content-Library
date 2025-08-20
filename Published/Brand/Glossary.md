@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-08-17T20:23
+updated: 2025-08-18T23:10
 ---
 # Concepts
 
@@ -48,7 +48,7 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
         - The state sphere element always contains the same 100% of Energy, but grows more vibrant with more activity happening inside the container.
     - Can alternatively be referred to as *shared reality.*
     - This force is responsible for both mass synchronization and mass psychosis.
-	
+
 - **synchronized states:** Are protocols which synchronize a state for a certain social layer. There are two distinct things we talk about when discussing synchronized states.
     1. **synchronized states** (lowercase): can synchronize a state for a community, binding them to a shared reality, but not fulfilling all the essential functions to bind a State. 
         - Clocks, Bitcoin, Web3, and CBDCs are synchronized states.
@@ -89,7 +89,8 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 6. **Organizations**
     - This Level includes two types of Organizations:
         - Distributed Corporations (dCorps)
-        - Cultural Agreements (cultures)
+        - Cultural Agreements (Cultures)
+            - Can alternatively be called Distributed Cultures (dCults)
 7. **Communication**
     - Includes different types of communication at different tiers of privacy.
 8. **Farming**

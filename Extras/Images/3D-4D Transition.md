@@ -14,7 +14,7 @@ updated: 2025-03-20T23:29
 ## Embedded Files
 34151d1fdce676a9438a34637357be8688a6954b: [[3D Synchronization Cube.jpg]]
 
-6b14feeea4e31a32a23ebcd2c379f09ecac51c6c: [[4D-sphere.jpg]]
+6b14feeea4e31a32a23ebcd2c379f09ecac51c6c: [[4D Synchronization Sphere.jpg]]
 
 %%
 ## Drawing
