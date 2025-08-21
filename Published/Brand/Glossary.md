@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-08-18T23:10
+updated: 2025-08-20T12:12
 ---
 # Concepts
 
@@ -90,7 +90,6 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
     - This Level includes two types of Organizations:
         - Distributed Corporations (dCorps)
         - Cultural Agreements (Cultures)
-            - Can alternatively be called Distributed Cultures (dCults)
 7. **Communication**
     - Includes different types of communication at different tiers of privacy.
 8. **Farming**
@@ -119,6 +118,6 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 - **decentralized exchange (DEX)** – A decentralized exchange is a platform for trading assets that operates without a central authority, using blockchain technology and smart contracts to facilitate peer-to-peer transactions.
 - **sybil attack** – A type of attack in a distributed system or network where a malicious actor creates multiple fake identities (or "Sybil nodes") to gain disproportionate control, influence, or power.
 - **sybil resistance** – Sybil resistance refers to mechanisms designed to prevent or mitigate Sybil attacks in distributed systems, networks, or protocols. A Sybil attack occurs when a malicious actor creates multiple fake identities (or "Sybil nodes") to gain disproportionate influence, manipulate outcomes, or disrupt the system's integrity. Sybil resistance aims to ensure that a single entity cannot control or compromise the system by pretending to be many participants.
-- **triple entry accounting** – An advanced accounting system that extends the traditional double-entry bookkeeping method by introducing a third entry, typically recorded on a shared, immutable ledger.
+- **triple-entry accounting** – An advanced accounting system that extends the traditional double-entry bookkeeping method by introducing a third entry, typically recorded on a shared, immutable ledger.
 
 ---
