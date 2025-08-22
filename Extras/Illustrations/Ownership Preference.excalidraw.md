@@ -20,7 +20,7 @@ Weak (Poor) ^3z53nKuU
 Unstable (Volatile) ^522HXZYK
 
 ## Embedded Files
-fc1fdb96223c5402f379cd9267e39e9f0f8e9f89: [[Pasted Image 20250407181928_899.png]]
+fc1fdb96223c5402f379cd9267e39e9f0f8e9f89: [[stable - not powerful worker.png]]
 
 7bbbb3289979d0b7387ef6a94f2390f1b817a899: https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/1000012853.png
 

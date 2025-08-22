@@ -1,5 +1,5 @@
 ---
 created: 2025-06-04T19:07
-updated: 2025-06-15T20:31
+updated: 2025-08-21T19:44
 ---
-![[Handbook – Actor.excalidraw.png]]
+![[Handbook – Actor.excalidraw.svg]]

@@ -279,7 +279,7 @@ b76d3e8d987d7a33f288419eb032c9e09d709848: [[marriage-icon.png]]
 
 9e197683929b294f8af6992c1ad65fc10061c5f7: [[genesis-icon.png]]
 
-9df0857d26473b1d6f5dbf0869da90458aabd1f2: [[time-icon.webp]]
+9df0857d26473b1d6f5dbf0869da90458aabd1f2: [[Time-icon.webp]]
 
 %%
 ## Drawing

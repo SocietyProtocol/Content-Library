@@ -48,7 +48,7 @@ ul, ol {
   margin-top: 0;
 }
 
-/** Obsidian Ecalidraw Publis 
+/** Obsidian Ecalidraw Publish **/
 
 
 @font-face {font-family: "Virgil";src: url("https://excalidraw.com/Virgil.woff2");}
@@ -104,10 +104,6 @@ div.excalidraw-svg.enlarged {
     align-items: center;
 }
 
-body {
-	--background-primary: #FFF6F0;
-}
-
 a.site-body-left-column-site-name {
 	display: none;
 }
@@ -115,5 +111,3 @@ a.site-body-left-column-site-name {
 div.site-footer {
 	display: none;
 }
-
-**/

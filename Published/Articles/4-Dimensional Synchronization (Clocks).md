@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:18
-updated: 2025-08-20T09:14
+updated: 2025-08-21T11:37
 ---
 ## Introduction
 
@@ -53,7 +53,7 @@ Mechanical clocks first appeared in the monasteries of Western Europe during the
 
 Mechanical clocks introduced a new way of telling time based on equal hours, and changed the measuring of time from fluid continuous processes, such as the flow of liquid in water clocks, to repetitive oscillatory processes, such as the swing of the pendulum – and hence, the 1-Dimensional STF for synchronized time was created. 
 
-![[1D Synchronization Clock.png|600]]
+![[1D Synchronization Clock.png|500]]
 
 > “This advancement enabled enormous synchronization of activities, something that was not seen or experienced ever before. It separated people from the organic structure of life that they had before. Every hour in the day was trying to be used, people were going to bed when the clock told them, not when they were tired, and the same goes for food." [@antoniacirjakHowDidClock2020]
 
@@ -84,7 +84,7 @@ Bitcoin was introduced in 2008 by a mysterious developer, Satoshi Nakamoto, who 
 
 Bitcoin synchronizes a 2D matrix of data, meaning that it synchronizes a list of account addresses on one dimension and an integer corresponding to the amount of value (Bitcoins) the address controls on the other. 
 
-![[2D Synchronization Matrix.png|600]]
+![[2D Synchronization Matrix.png|500]]
 
 By solving the 2nd dimension, Bitcoin allowed society to synchronize global public communication in a precise manner – thereby solving the important [7 Byzantine Generals Problem](https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem). Notice that with 1-Dimensional synchronization, society was unable to synchronize communication, only able to agree and <u>read</u> from the **state that binds**. Bitcoins historical significance lies in introducing a technology able to synchronize trust and communication (<u>read</u>,<u>write</u>) to the **state that binds** worldwide in a fair way – bringing the birth of triple entry accounting[^6] – more so than in the financial technology of Bitcoin, which is also revolutionary. 
 
@@ -120,7 +120,7 @@ Ethereum expanded on the Proof of Work (PoW) consensus of Bitcoin by including t
 
 Suddenly, the 2D matrix turned into a 3D cube, filled with all sorts of objects: crypto kitties, stock derivatives, games, DAOs, social media content, identity documents, and more. A whole world full of objects synchronized like a clock. What's more is, they were all programmable algorithmically, Whoa!  We can throw anything into the cube, and it’s **trustworthy** via <u>lossless communication</u>. Synchronized all over the world.
 
-![[3D Synchronization Cube.svg|600]]
+![[3D Synchronization Cube.png|600]]
 
 Just like the bell tower birthed the mechanical clock – Bitcoin birthed Ethereum. The important distinction to understand in this new paradigm, is that we're no longer looking to precisely map solar time, we're past that as a species. The new evolutions of synchronization devices, these futuristic clocks, are about **expanding the state that binds**. 
 
@@ -152,7 +152,7 @@ To achieve the 4th dimension of synchronization, we must change how we model tim
 
 Achieving the 4th dimension lies in expanding the **STF** and **STB** once again, to include the energetic rules of our universe at every STF interval – creating the effect of a model of the universe with energy flowing through it – giving our synchronized 4D model a sense of time.
 
-![[4D Synchronization Sphere.jpg|600]]
+![[4D Synchronization Sphere.jpg|500]]
 
 > *"If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration."* –Nikola Tesla  
 
@@ -249,7 +249,7 @@ Synchronization mechanisms enable coordination and supercharge societies.
 
 As humanity evolved from sundials (0D) to mechanical clocks (1D), Bitcoin (2D), and Ethereum (3D), each dimensional leap has exponentially expanded our capacity to synchronize a shared reality. We now stand at the threshold of the next profound evolution in human history: Society Protocol's (4D) synchronization. This isn't merely another technological advancement—it's the emergence of a new form of civilization where humanity moves as one synchronized organism.
 
-![[1D-2D-3D-4D Transition.svg]]
+![[1D-2D-3D-4D Transition.png]]
 
 Better synchronized groups always conquer the groups with inferior synchronization throughout history, because synchronization is the precursor of coordination. 
 

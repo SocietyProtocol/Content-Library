@@ -54,7 +54,7 @@ e911ca9f159ae51297ef542b954f015c195a721e: [[diverse-state.png]]
 
 0618ac179639afabded9ba6622111c5fa0f40670: [[heartbeat.png]]
 
-520d03098de227ee0d8678001a4b94c5d29014c9: [[lifeline.png]]
+520d03098de227ee0d8678001a4b94c5d29014c9: [[lifeline-icon.png]]
 
 %%
 ## Drawing

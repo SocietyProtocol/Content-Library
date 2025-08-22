@@ -1,5 +1,5 @@
 const clickToEnlarge = "Click and hold to enlarge. SHIFT + wheel to zoom. ESC to reset.";
-const clickToCollapse = "ESC to reset. Click and hold to collapse. SHIFT + wheel to zoom";
+const clickToCollapse = "ESC to reset. Click and hold to collapse. SHIFT + wheel to zoom. Left click mouse to pan around.";
 
 //check if in iFrame - if yes the page is assumed to be an embedded frame
 if(window.self !== window.top) {

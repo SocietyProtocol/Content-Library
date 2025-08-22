@@ -49,7 +49,7 @@ state (time 3) ^Q8q4G4G0
 state (time 2) ^eYJsP29B
 
 ## Embedded Files
-9df0857d26473b1d6f5dbf0869da90458aabd1f2: [[time-icon.webp]]
+9df0857d26473b1d6f5dbf0869da90458aabd1f2: [[Time-icon.webp]]
 
 8bdb65c2f9525251f62e3f6600be86b673da622a: [[intermediate-state.png]]
 

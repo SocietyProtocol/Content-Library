@@ -1,15 +1,13 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-08-20T22:15
+updated: 2025-08-21T09:16
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
-
 ## Table of Contents
-1. [Defining Our Terms](#Defining%20Our%20Terms)
-2. [Zero-Entry Accounting – Tribes (Pre 10,000 BCE – 3,500 BCE)](#Zero-Entry%20Accounting%20%E2%80%93%20Tribes%20(Pre%2010,000%20BCE%20%E2%80%93%203,500%20BCE))
-3. [Single-Entry Accounting – Classical States (3500 BCE–476 CE)](#Single-Entry%20Accounting%20%E2%80%93%20Classical%20States%20(3500%20BCE%E2%80%93476%20CE))
-4. [Double-Entry Accounting – Nation States (500 – Present)](#Double-Entry%20Accounting%20%E2%80%93%20Nation%20States%20(500%20%E2%80%93%20Present))
-5. [Triple-Entry Accounting – Synchronized States (Coming Soon)](#Triple-Entry%20Accounting%20%E2%80%93%20Synchronized%20States%20(Coming%20Soon))
+1. [Zero-Entry Accounting – Tribes (Pre 10,000 BCE – 3,500 BCE)](#Zero-Entry%20Accounting%20%E2%80%93%20Tribes%20(Pre%2010,000%20BCE%20%E2%80%93%203,500%20BCE))
+2. [Single-Entry Accounting – Classical States (3500 BCE–476 CE)](#Single-Entry%20Accounting%20%E2%80%93%20Classical%20States%20(3500%20BCE%E2%80%93476%20CE))
+3. [Double-Entry Accounting – Nation States (500 – Present)](#Double-Entry%20Accounting%20%E2%80%93%20Nation%20States%20(500%20%E2%80%93%20Present))
+4. [Triple-Entry Accounting – Synchronized States (Starts now)](#Triple-Entry%20Accounting%20%E2%80%93%20Synchronized%20States%20(Starts%20now))
 ---
 
 ## Defining Our Terms
@@ -54,7 +52,7 @@ Each successive state builds upon its predecessor in time. Each <u>current state
 
 **There is no state without the present.** All past states are actually encapsulated in the current state of the moment. Therefore, we perceive all <u>past states</u> through the lens of the <u>current state</u>.
 
-![[are-the-past-states.jpeg|500]]
+![[are-the-past-states.jpeg|550]]
 
 Consider: what is the current private state in your mind as you process these words? What is your history? How do state transition functions in your mind work?
 
@@ -76,7 +74,7 @@ To control the changing state between people and society, is _everything._ It’
 
 Since it is ever-changing, **the state faces persistent challenges in trust**. The Seven Byzantine Generals Problem is a great illustration of this—a group of leaders must agree on a plan to attack a large city they have surrounded, but needing to route messages through the city—traitors or interceptions can alter their semi-private state, leaving them unable to coordinate the attack [@bitcoinmagazineWhatByzantineGenerals2023].
 
-# A Journey Through Historical _state_ Tracking
+## A Journey Through Historical _state_ Tracking
 
 Let’s travel through history to see how society used it, what a state truly is, and how emerging technologies will alter state tracking and reshape society’s future. They say history is written by the winners, so let’s begin around pre-written history (which is spoken by the winners).
 
@@ -356,7 +354,7 @@ This increase in trust afforded Nation States the ability to print paper currenc
 
 ![[evolution-indenture-democracy.png]]*The duplicated state of the indenture scaled into the duplicated state of modern democracy (social contract).*
 
-The duplicated state of the double-entry accounting age requires less protection compared to the single-entry period. Today, society trusts essentially all of its state records (<u>private</u>, <u>semi-private</u>, and <u>public state</u>) to data centers owned by a merger of corporations and Nation States[^13] (_humans have made the logical decision that duplicated double-entry state owned by the data center is more beneficial than single-entry state made by the data center about them)_. These entities have been given god-like power that pharaohs could't even write about (they didn't know how to write).
+The duplicated state of the double-entry accounting age requires less protection compared to the single-entry period. Today, society trusts essentially all of its state records (<u>private</u>, <u>semi-private</u>, and <u>public state</u>) to data centers owned by corporations and Nation States (_humans have made the logical decision that duplicated double-entry state owned by the data center is more beneficial than single-entry state made by the data center about them)_. These entities have been given god-like power that pharaohs could't even write about (they didn't know how to write).
 
 Each subsequent stage of human history has added more permanent and less mutateable state to our collective **state that binds (STB)**. We have arrived at an overflow of state. Duplicated everywhere needlessly, not synchronized. Owned by "god-like entities" who manipulate it to control the State and manipulate the consensus of society like feudal lords.
 
@@ -430,7 +428,6 @@ This means, the state can appear and disappear (potentially mutating in the proc
 _What is really left out of the public state these days? Private moments, informational advantages, and crime?_
 **<u>Methods of state transmission</u>**: _Written, Photography, Audio, Video, Digital Data_.
 **<u>Effort to propagate and maintain the state</u>**: **_Medium_** _at the beginning during the Medieval Period,_ **_Easy_** _during the Print Revolution, and_ **_Trivial_** _in_ _the Modern Age._ The ability to propagate and maintain state expanded every year since the double-entry accounting period started—to where are now in the Information Age—overflowing with all forms of duplicated, trivially transmissible information.
-
 **<u>Mutability/permanence of state (trust)</u>**: _With multiple copies, the state became more permanent and less malleable than ever before._ Mutating the state (unintentionally) has become harder, but it still mutates. Duplication does not prevent mutation nor does it ensure permanence. It only creates more copies, which helps with verifiability and preservation.
 **<u>Who controls the public state</u>?** _Many entities_. Throughout the multiple epochs of this long double-entry accounting period, many entities have obtained control of the public state: scribes, the church, printing press operators, governments, media conglomerates, social media, data centers, and even democratic citizens through voting, are all correct answers.
 **<u>Synchronization</u>**: _Not Synchronized_. Instead, it's duplicated all over the place and can still mutate as it duplicates without a verifiable known root or end. The public cannot easily verify where the state comes from or has been—we cannot effectively track the history of the state (it can disappear and reappear in our systems).
@@ -443,7 +440,7 @@ _What is really left out of the public state these days? Private moments, inform
 ![[Double-Entry Accounting Part2.excalidraw.png|90%]]
 
 ---
-The defining feature of the double-entry accounting period is **duplication**: multiple copies have enabled more verification and transmissibility in our societal state[^14]. 
+The defining feature of the double-entry accounting period is **duplication**: multiple copies have enabled more verification and transmissibility in our societal state[^13]. 
 
 As we progressed from Medieval Europe through the Magna Carta, the Printing Revolution, and into the Modern Era, the state evolved from a guarded resource to a widely accessible utility. Creating, reading, updating, deleting, and transmitting the state became increasingly trivial. This widespread duplication fundamentally transformed society by distributing verification power among multiple parties, establishing unprecedented trust through shared records. The resulting stability enabled revolutionary social contracts—democratic governance, fiat currencies, and identity systems—which collectively elevated both the legitimacy and trust in the state and the State.
 
@@ -456,7 +453,7 @@ Triple-entry accounting is an evolution born of blockchain technology. Bitcoin, 
 
 In a Synchronized State, the state is simultaneously _<u>duplicated widely</u>_ and _<u>stored in a singular chronological Timeline</u>_—propagating a permanent singular shared reality across all of society. Only one chronological golden record exists at each point in Time, and this golden record is permissionlessly accessible to all participants to CRUD worldwide.
 
-The state is immutable[^15], a significant portion of society is incentivized to remain duplicating and synchronizing it in unison. The individual actors of Synchronized States themselves uphold the state and subsequently, their shared reality and its State—anyone with an account can participate.
+The state is immutable[^14], a significant portion of society is incentivized to remain duplicating and synchronizing it in unison. The individual actors of Synchronized States themselves uphold the state and subsequently, their shared reality and its State—anyone with an account can participate.
 
 ![[uphold-the-state.jpg|80%]]
 
@@ -497,7 +494,7 @@ Throughout humanity's journey—from tribal oral traditions to digital data cent
 - Clear sourcing of all public state data from one central place.
 	- Instantaneous updates to the single source of truth. Governance decisions, such as laws or taxes, propagate instantaneously throughout the entire State.
 - _Algorithmic accountability_: We can act on the public state algorithmically in ways which weren’t possible before.
-	- Unlike the Founding Fathers of the USA, who simultaneously wrote “All men are created equal” in the Constitution, yet possessed slaves—constitutions can be automatically algorithmically enforced in the Synchronized State. Documents are no longer empty words—up to a judge to interpret—they are solid code acting on objects in the system[^16].
+	- Unlike the Founding Fathers of the USA, who simultaneously wrote “All men are created equal” in the Constitution, yet possessed slaves—constitutions can be automatically algorithmically enforced in the Synchronized State. Documents are no longer empty words—up to a judge to interpret—they are solid code acting on objects in the system[^15].
 - _Lowering bureaucratic costs_: All the state data which previously needed to be maintained, gate-kept, and controlled by bureaucrats is automatically handled by algorithms. _Creating a more fair, cost effective, and verifiable system for everyone._
 	- Legal deals, money transfers, laws, and taxes are all completed and algorithmically automatically enforced without intermediaries. _No middle-men, no counterparty liability, no bureaucratic costs_.
 - Immutable records eliminate state corruption, state duplication, and state conflicts.
@@ -549,13 +546,13 @@ Society Protocol algorithmically facilitates many forms of direct global governa
 **<u>Roles (Accreditation)</u>**: *The State must be able to differentiate between every individual’s status, accreditations, and qualifications.*
 
 Society Protocol interweaves three complementary systems: an energy system to represent explicit status, decentralized identifiers to formally certify and reveal verifiable credentials, and transparent reputation histories reveal demonstrated capabilities.
-**Control of Resources (Property Rights):** *Each State must provide a semblance of property rights for its population.*
+**<u>Control of Resources (Property Rights)</u>:** *Each State must provide a semblance of property rights for its population.*
 
 Society Protocol uses cryptography to ensure bearer ownership of fully programmable digital property combined with coordination to ensure control of physical property.
-**Legitimacy:** *Each State must share an accurate layer of shared historical identity (the state).*
+**<u>Legitimacy</u>:** *Each State must share an accurate layer of shared historical identity (the state).*
 
 Society Protocol does this with its verifiable Timeline.
-**Borders (Access Control):** *Each State must delineate and control access to its boundaries.*
+**<u>Borders (Access Control)</u>:** *Each State must delineate and control access to its boundaries.*
 
 Society Protocol protects its borders via cryptography and coordination.
 
@@ -588,7 +585,7 @@ Since we have a clear delineation between the <u>private</u>, <u>semi-private</u
 **<u>Who controls the public state</u>?** _Everyone_.
 - Anyone in the system can participate in upholding the Synchronized State itself.
 - Anyone in the system has permissionless access to the Synchronized State via CRUD.
-- Anyone in the system can participate in governance[^17], which controls some gated aspects of the <u>public state</u>.
+- Anyone in the system can participate in governance[^16], which controls some gated aspects of the <u>public state</u>.
 
 **<u>Synchronization</u>**: _Synchronized_. All events in Society Protocol happen in <u>one place</u> and <u>everywhere</u> simultaneously.
 **<u>7 Byzantine Generals Problem</u>**: _Solved_/. The 7 Generals can gather around any city, country, or State and send verifiable encrypted messages to coordinate at nearly the speed of light (enabling complex, multi-step conditional operations and strategies, rather than mere binary attack decisions), which have the full weight of their identity, property, and data behind them.
@@ -625,10 +622,10 @@ William G. Urry. (n.d.). _Paleography | Deciphering Ancient Writing & Manuscript
 [^10]: It’s arguable that this is what differentiated Western Europe around this time, enabling its dominance in the upcoming centuries.
 [^11]: Have you ever considered why you’re not allowed to change, customize, and optimize your feed on any social media networks?
 [^12]: He who controls the State controls the state. Only once our State can effectively see and account for AI, only then can we control it and *stop the sloppening*. 
-[^13]: I believe the word for this is *Fascism*.
-[^14]: Comparatively, documents during the single-entry period were hard to copy (clay tablets), less transmissible, and easier to destroy.
-[^15]: It’s technically quasi-immutable; there are events known as forks in the blockchain world which can mutate the past and current states.
-[^16]:  Synchronized States will retain judges and courts for subjective decisions.
-[^17]: This is true in most Society Protocol variants, but autocracies and gated governance mechanisms are also possible.
+[^13]: Comparatively, documents during the single-entry period were hard to copy (clay tablets), less transmissible, and easier to destroy.
+[^14]: It’s technically quasi-immutable; there are events known as forks in the blockchain world which can mutate the past and current states.
+[^15]:  Synchronized States will retain judges and courts for subjective decisions.
+[^16]: This is true in most Society Protocol variants, but autocracies and gated governance mechanisms are also possible.
+[^17]: I believe the word for this is *Fascism*.
 [^18]: This is a key characteristic of the double-entry accounting age: for the first time, the state contains some accounting + accountability.
 [^19]: Transmission wasn't trivial, but now possible.

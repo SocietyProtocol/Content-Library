@@ -1,13 +1,13 @@
 ---
 created: 2025-07-17T19:11
-updated: 2025-08-11T19:05
+updated: 2025-08-21T20:12
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
 _You might want to read_ [_The state of the State_](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) _and_ [_The state Which Binds_](https://societyprotocol.com) _before this essay. They’re not prerequisites, but provide additional context._
 * * *
 
-### The Polycrisis
+### The Polycrisis 
 
 We live in the greatest paradox of human history: productivity is at its peak, technology that would seem magical to previous generations, longer lifespans, less poverty than ever before—and yet our populations are seemingly trapped in a polycrisis (a crisis in multiple tremendously important verticals concurrently). However, if we examine it closely: We only have a crisis of one thing. _Do you know what it is?_
 
@@ -97,7 +97,7 @@ _Why do you think that is?_ It’s because you live in a tyranny — you don’t
 
 This imbalance has culminated into multi-polarity and the start of WW3. Those in control are tightening their grip as much as they can, just as much to protect themselves from their own dissatisfied populace as to defend against an external enemy. _This only has the effect of making the coordination imbalance worse—like a crescendo._
 
-_Human civilization simply cannot scale further with our current systems, they don't provide enough coordination to allow us to live in quality ways and allocate resources. We can only scale up as much as we can balance wider communal/societal interests. Nation States are the flagship of the double-entry accounting age. What we need is a way to share, decentralize control, and synchronize state._
+_Human civilization simply cannot scale further with our current systems, they don't provide enough coordination to allow us to live in quality ways and allocate resources. We can only scale up as much as we can balance wider communal/societal interests. Nation States are the flagship of the double-entry accounting age. What we need is a way to share, decentralize control, and synchronize the state._
 
 There is a transition that’s happening which humanity isn’t aware of yet. <u>This story is bigger than it seems</u>. _Here’s a secret that many aren’t privy to: The age of Nation States is coming to an end_.
 
