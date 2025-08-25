@@ -1,12 +1,12 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-08-20T12:12
+updated: 2025-08-23T14:07
 ---
 # Concepts
 
 Society Protocol terminology consists of main categories: <u>time</u> and <u>state</u>. 
 1. **Time** pertains to everything with the tracking of passage of states over time, it conceptually contains: the Timeline, Timeslots, Timestamps, Time Interval (TI), and Timelapse. 
-2. **state** pertains to the status of information within the system at various points in time. It conceptually contains: state, state slice, state sphere, public state, semi-private state, private state, state transition function (STF), and State. 
+2. **state** pertains to the status of information within the system at various points in time. It conceptually contains: state, state slice, state sphere, public state, semi-private state, private state, state transition function (STF), and state that binds (STB). 
 
 Timeline is the highest informational architectural structure, it contains the totality of all the states stored in the protocol throughout its history. Timeslot is the second tier informational architecture structure, it contains the state stored in the protocol at a snapshot on the Timeline. Events are the third tier informational architecture structure, each Timeslot contains multiple Events, which alter the state of the protocol.
 - Blockchain translations: Timeline = blockchain, Timeslot = block, Events = transactions.
@@ -25,23 +25,24 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
     - The Timeline synchronizes the Society Protocol instance into one concrete state at each Timeslot.
     - Synonymous with *blocks* in a blockchain.
     - Include past Timeslot(s), current Timeslot, and future Timeslot(s).
+    - **Genesis Time**: The first Timeslot in a Society Protocol instance. 
 - **Time Interval (TI):** The empty space between Timeslots (when nothing occurs in the protocol).
 - **Timestamp:** The cryptographic hash signature at each Timeslot.
 - **Timelapse:** An array that encompasses a series of Timeslots.
     - Starting from Timeslot(start) and ending at Timeslot(end).
+
+## State
+- **State** (uppercase): The tribe, kingdom, or nation bound together by their shared state.
 
 ## state
 - **state** (lowercase): Society's current condition or status—the collective memory and context that forms our shared reality.
     - **public state**: The public record, accessible to everyone, which the State propagates and uses to keep track of its current state.
     - **semi-private state**: The non-public shared context within subgroups, such as: families, friends, or organizations.
     - **private state**: An individual's current condition or status—the internal record unique to each person.
-- **State** (uppercase): The tribe, kingdom, or nation bound together by their shared state.
-- **state transition function (STF):** The STF explains the ruleset of how each synchronized state updates its state between time intervals.
 - **state sphere:** The hypersphere (4-dimensional sphere) contains the full state of the Society Protocol instance at any point in time.
     - Can alternatively be called the *state hypersphere* for a more formal representation.
 - **state slice:** taking a subset of the state (not encompassing the whole state).
-
-### Shared Reality
+- **state transition function (STF):** The STF explains the ruleset of how each synchronized state updates its state between time intervals.
 - **state that binds (STB):** Refers to  the state which binds our realities together and forms a shared reality (which is reached through a consensus). The STB phenomenon gravitationally pulls people together into a singular context, it has an energetic power and gravitational pull to it.
     - The gravitational pull and power of a STB (*expands)* and (*contracts)* based on the strength of the shared reality.
         - The Timeline is a “lifeline”. The Timeline grows (expands) and shrinks (contracts) in power based on the strength of the STB.
@@ -49,6 +50,7 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
     - Can alternatively be referred to as *shared reality.*
     - This force is responsible for both mass synchronization and mass psychosis.
 
+### (S)synchronized (S)states
 - **synchronized states:** Are protocols which synchronize a state for a certain social layer. There are two distinct things we talk about when discussing synchronized states.
     1. **synchronized states** (lowercase): can synchronize a state for a community, binding them to a shared reality, but not fulfilling all the essential functions to bind a State. 
         - Clocks, Bitcoin, Web3, and CBDCs are synchronized states.
@@ -60,13 +62,16 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
 - **Energy:** Is the base value system of Society Protocol instances.
     - Energy is zero-sum, it cannot be created or destroyed, it can only be transferred between different Actors and Organizations.
     - Energy can always be calculated as a percentage of the total Energy.
+- **Energy Reserve**: The unallocated Energy of an Actor is stored in the Energy Reserve. 
 
-## The Individual: Accounts, Actors, and Invididuals
+## The Individual: Actors, Accounts, and Individuals
 - **Actors & Accounts:** Actors control accounts.
     - Individual Actors, Sovereign Actors, or just Actors?
     - We will have both human and non-human actors, should we delinianate further?
+    - **Genesis Actors**: Actors who are alive at the Genesis Time of a Society Protocol instance. 
 - **Lifeline**: Actors have a Lifeline, which is equal to the Timelapse between their Birth and Death events.
 - **Activity Score:** Each account has an Activity Score which is accumulated through activity, by performing Events at Levels and decays over time to calculate their “aliveness” in the protocol.
+- **Programmable Will**: Automatically goes into effect upon the Death Event of an Actor to determine the lineage of ownership of their Property. 
 
 ## Events
 - **Event:**  An event is an action which occurs inside the protocol, including: activity at one of the levels, energy transfers, birth & death events.
@@ -75,17 +80,26 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
 - **Historical events:** Historical events are an amalgamation of Events forming a larger historical picture.
 - **Flashbacks**: The act of looking at events in the past in the Timeline.
 
+## Protocol Artifacts
+- **Constitution**: The Constitution initiates each Society Protocol instance with a certain ruleset, which can include both objective and subjective portions. The Laws in the constitution are the initial Laws of the protocol instance and can limit the power of Governance. 
+- **Laws**: The legal structure of the protocol instance. 
+- **Courts**: Make decisions about disputes of Actors and Organizations in the protocol instance.
+- **Parameters**: Contain variables which control the "physics" of the protocol instance. 
+
 ## Levels
 Levels are how instances of Society Protocol implement the redistribution of Energy. Each Level aims to combine individual interests with the societal interest to improve coordination abilities. 
 
-1. **Parenting** 
+1. **Parenting**: 
     - This Level forms Family Trees
+        - **Parent**: The Actor issuing the invite to the system.
+        - **Child**: The Actor receiving the invite to the system.
 2. **Hunting**
 3. **Property**
     - Includes physical infrastructure such as factories and digital infrastructure such as smart-contract exchanges
     - Is there any sense to longform Property Objects or Property Items?
 4. **Curation**
-5. **Governance**
+	- **Curation Container**: An object which is attached to an Actor, Property, or Organization for curation purposes. 
+5. **Governance**: Has the ability to make changes to the Laws, Courts, Parameters, Levels, and Constitution of a Society Protocol instance.
 6. **Organizations**
     - This Level includes two types of Organizations:
         - Distributed Corporations (dCorps)

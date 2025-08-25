@@ -4,31 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "2f2056d8625a1517",
+        "id": "2d46f497eb979870",
         "type": "tabs",
         "children": [
           {
-            "id": "781888db701fed96",
+            "id": "bfe1b0424349d89e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Illustrations/Levels.excalidraw.md"
+                "file": "Published/Welcome Page.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Levels.excalidraw"
+              "icon": "lucide-file",
+              "title": "Welcome Page"
             }
           },
           {
-            "id": "21ded8cf1964fc1c",
+            "id": "067ea63fa775065e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Extras/Illustrations/Levels.excalidraw.md"
+                "file": "Extras/Illustrations/Level-Hunting.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Levels.excalidraw"
+              "title": "Level-Hunting.excalidraw"
+            }
+          },
+          {
+            "id": "75ad6ea4f8b8dda0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Extras/Illustrations/Handbook-Global.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Handbook-Global.excalidraw"
+            }
+          },
+          {
+            "id": "b09b60b0d7c102ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Published/Handbook/Level-Property.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level-Property"
             }
           }
         ],
@@ -152,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Published/Articles/4-Dimensional Synchronization (Clocks).md",
+                "file": "Extras/Illustrations/Level-Hunting.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4-Dimensional Synchronization (Clocks)"
+              "title": "Backlinks for Level-Hunting.excalidraw"
             }
           },
           {
@@ -171,21 +199,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Published/Welcome Page.md",
+                "file": "Extras/Icons/hunting-icon.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome Page"
+              "title": "Outgoing links from hunting-icon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,29 +226,45 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "21ded8cf1964fc1c",
+  "active": "067ea63fa775065e",
   "lastOpenFiles": [
-    "Published/Handbook/Handbook – Levels.md",
-    "Published/Handbook/Level – Parenting.md",
+    "Extras/Illustrations/Level-Parenting.excalidraw.md",
+    "Extras/Illustrations/Level-Hunting.excalidraw.md",
     "Extras/Illustrations/Levels.excalidraw.md",
-    "Extras/Illustrations/Levels.excalidraw.svg",
+    "Published/Welcome Page.md",
+    "Extras/Icons/hunting-icon.png",
+    "Extras/Illustrations/Handbook-Global.excalidraw.md",
+    "Published/Handbook/Level-Property.md",
+    "Extras/Illustrations/Level-Property.excalidraw.md",
+    "Extras/Illustrations/Level-Property.excalidraw.png",
+    "Extras/Illustrations/Level-Property.excalidraw.svg",
+    "Published/Handbook/Level-Parenting.md",
+    "Extras/Icons/hunting-icon-new.png",
+    "Extras/Illustrations/Level – Parenting–old.excalidraw.md",
+    "Extras/Illustrations/Level-Hunting.excalidraw.svg",
+    "Extras/Illustrations/Level-Hunting.excalidraw.png",
+    "Extras/Illustrations/Level – Parenting–old.excalidraw.svg",
+    "Extras/Fragments/Levels-container.md",
+    "Extras/Brand/Fonts/Inter-Italic-VariableFont_opsz,wght.ttf",
+    "Extras/Brand/Fonts/Inter-VariableFont_opsz,wght.ttf",
+    "Extras/Brand/Fonts/pptelegraf-ultrabold.otf",
+    "Extras/Brand/Fonts/pptelegraf-ultralight.otf",
+    "Extras/Brand/Fonts/pptelegraf-regular.otf",
+    "Extras/Brand/Fonts",
+    "Extras/Illustrations/Handbook-Actor.excalidraw.md",
+    "Published/Handbook/Handbook-Levels.md",
+    "Published/Handbook/Handbook-Global.md",
+    "Published/Handbook/Handbook-Actor.md",
+    "Extras/Illustrations/Society Protocol Interests.md",
+    "Extras/Illustrations/Handbook-Global.excalidraw.svg",
+    "Extras/Illustrations/Level-Parenting.excalidraw.svg",
+    "Extras/Illustrations/Level-Parenting.excalidraw.png",
     "Published/Articles/Synchronized States (The Golden Record).md",
     "Published/Articles/Fake Everything (Prelude).md",
     "Published/Movement/Ideology.md",
-    "Published/Handbook/Handbook – Global.md",
-    "Published/Handbook/Handbook – Actor.md",
     "Published/Articles/The state of The State (History).md",
-    "Published/Handbook/Untitled.md",
-    "Extras/Illustrations/Level – Parenting.excalidraw.png",
-    "Extras/Illustrations/Level – Parenting.excalidraw.svg",
     "Extras/Illustrations/Level – Parenting.excalidraw.md",
     "Published/Handbook/Level – Parenting.excalidraw.md",
-    "Extras/Illustrations/Level – Parenting–old.excalidraw.png",
-    "Extras/Illustrations/Level – Parenting–old.excalidraw.svg",
-    "Extras/Illustrations/Level – Parenting–old.excalidraw.md",
-    "Extras/Images/1D Synchronization Clock.png",
-    "Extras/Images/1D Synchronization Clock.jpg",
-    "Extras/Images/1D Synchronization Clock1.png",
     "Published/Articles/4-Dimensional Synchronization (Clocks).md",
     "Published/Brand/Glossary.md",
     "05 🌐 Society Protocol/Content Library/Published/Articles/4-Dimensional Synchronization (Clocks).md",
@@ -230,22 +272,6 @@
     "05 🌐 Society Protocol/Content Library/Published",
     "05 🌐 Society Protocol/Content Library",
     "05 🌐 Society Protocol",
-    "Extras/Images/1D Synchronization Clock 1.png",
-    "Extras/Images/3D Synchronization Cube.png",
-    "Published/Welcome Page.md",
-    "Published/Brand Terminology.md",
-    "README.md",
-    "Published/Organization/Roles.md",
-    "publish.js",
-    "Untitled.md",
-    "Icon only Logo Black.svg.md",
-    "Drafts/Outlines/On Data.md",
-    "Drafts/Outlines/Privacy.md",
-    "Drafts/Outlines/The Benefits of Accounts (AA) Over Private Keys.md",
-    "Extras/The Periodic Table of Productivity (2).excalidraw",
-    "Published/Articles",
-    "Extras/Excalidraw Images",
-    "Extras/Untitled",
-    "Drafts/Outlines"
+    "Published/Brand Terminology.md"
   ]
 }

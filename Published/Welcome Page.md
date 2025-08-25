@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T11:23
-updated: 2025-08-17T20:25
+updated: 2025-08-24T13:41
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
@@ -12,9 +12,11 @@ updated: 2025-08-17T20:25
 [[Published/Articles/Synchronized States (The Golden Record)|Synchronized States (The Golden Record)]]
 
 ### Handbook
-[[Handbook – Global]]
-[[Handbook – Actor]]
-[[Handbook – Levels]]
+[[Handbook-Global]]
+[[Handbook-Actor]]
+[[Handbook-Levels]]
+[[Level-Parenting]]
+[[Level-Hunting]]
 
 ### Brand
 [[Glossary]]
