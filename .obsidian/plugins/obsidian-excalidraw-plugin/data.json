@@ -474,7 +474,7 @@
   "startupScriptPath": "",
   "aiEnabled": true,
   "openAIAPIToken": "",
-  "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
+  "openAIDefaultTextModel": "gpt-5-mini",
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
   "openAIURL": "https://api.openai.com/v1/chat/completions",

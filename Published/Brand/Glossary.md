@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-08-23T14:07
+updated: 2025-08-25T15:39
 ---
 # Concepts
 
@@ -96,7 +96,7 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 2. **Hunting**
 3. **Property**
     - Includes physical infrastructure such as factories and digital infrastructure such as smart-contract exchanges
-    - Is there any sense to longform Property Objects or Property Items?
+    - Can alternatively be called *Programmable Property* or *Property Objects*, or *Objects*.
 4. **Curation**
 	- **Curation Container**: An object which is attached to an Actor, Property, or Organization for curation purposes. 
 5. **Governance**: Has the ability to make changes to the Laws, Courts, Parameters, Levels, and Constitution of a Society Protocol instance.

@@ -261,7 +261,7 @@ dfe5dda05bd341cf3f885c8269dc9fcb5de650c7: [[governance-icon.png]]
 
 7199a1a14482a7620c6ba9552f716084e75f68e9: [[curation-icon.png]]
 
-18673bfab311e4cd07e0c724a5ad191db55f2de4: [[organizations-icon.webp]]
+18673bfab311e4cd07e0c724a5ad191db55f2de4: [[organization-icon.png]]
 
 2fd111dfb16d001e84e042b79d2eb9dd538aa1de: [[portal-icon.webp]]
 
