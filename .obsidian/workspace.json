@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d46f497eb979870",
+        "id": "3a027b4505ce1db8",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe1b0424349d89e",
+            "id": "22b94eefecd99da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,106 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Welcome Page"
-            }
-          },
-          {
-            "id": "308773ef2df30c9f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "067ea63fa775065e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Extras/Illustrations/Level-Hunting.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Level-Hunting.excalidraw"
-            }
-          },
-          {
-            "id": "75ad6ea4f8b8dda0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Extras/Illustrations/Handbook-Global.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Handbook-Global.excalidraw"
-            }
-          },
-          {
-            "id": "c66f339462bea6c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Extras/Illustrations/Level-Curation.excalidraw.restored.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Level-Curation.excalidraw.restored"
-            }
-          },
-          {
-            "id": "32d19ad6dff04aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Published/Handbook/Level-Curation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Level-Curation"
-            }
-          },
-          {
-            "id": "d21ae613623b94b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Extras/Illustrations/Level-Curation.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Level-Curation.excalidraw"
-            }
-          },
-          {
-            "id": "b09b60b0d7c102ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Published/Handbook/Level-Property.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Level-Property"
-            }
-          },
-          {
-            "id": "c6c0789af260bd6c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Extras/Illustrations/Level-Property.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Level-Property.excalidraw"
             }
           }
         ]
@@ -287,30 +187,33 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bfe1b0424349d89e",
+  "active": "22b94eefecd99da9",
   "lastOpenFiles": [
+    "Extras/Illustrations/Level-Farming.excalidraw.md",
+    "Extras/Illustrations/Level-Property.excalidraw.md",
+    "Published/Handbook/Level-Property.md",
     "Extras/Illustrations/Level-Curation.excalidraw.md",
-    "Extras/Illustrations/Levels.excalidraw.md",
     "Published/Handbook/Level-Curation.md",
+    "Extras/Illustrations/Handbook-Global.excalidraw.md",
+    "Extras/Illustrations/Level-Hunting.excalidraw.md",
+    "Published/Welcome Page.md",
+    "Extras/Illustrations/Level-Parenting.excalidraw.md",
+    "Extras/Illustrations/Level-Curation.excalidraw.svg",
+    "Extras/Illustrations/Level – Parenting–old.excalidraw.png",
+    "Extras/Illustrations/Level-Portal.excalidraw.md",
+    "Extras/Illustrations/Levels.excalidraw.md",
+    "Extras/Illustrations/Level – Parenting–old.excalidraw.md",
+    "Extras/Illustrations/Level – Parenting–old.excalidraw.svg",
     "Published/Handbook/Level-Parenting.md",
     "Extras/Illustrations/Level-Curation.excalidraw.restored.md",
-    "Extras/Illustrations/Handbook-Global.excalidraw.md",
-    "Published/Handbook/Level-Property.md",
-    "Extras/Illustrations/Level-Property.excalidraw.md",
     "Extras/Illustrations/Level-Property.excalidraw.png",
     "Published/Handbook/Level-Hunting.md",
-    "Extras/Illustrations/Level-Curation.excalidraw.svg",
     "Extras/Illustrations/Level-Curation.excalidraw.png",
-    "Published/Welcome Page.md",
-    "Extras/Illustrations/Level-Hunting.excalidraw.md",
-    "Extras/Illustrations/Level-Parenting.excalidraw.md",
     "Extras/Icons/hunting-icon.png",
     "Extras/Illustrations/Level-Property.excalidraw.svg",
     "Extras/Icons/hunting-icon-new.png",
-    "Extras/Illustrations/Level – Parenting–old.excalidraw.md",
     "Extras/Illustrations/Level-Hunting.excalidraw.svg",
     "Extras/Illustrations/Level-Hunting.excalidraw.png",
-    "Extras/Illustrations/Level – Parenting–old.excalidraw.svg",
     "Extras/Fragments/Levels-container.md",
     "Extras/Brand/Fonts/Inter-Italic-VariableFont_opsz,wght.ttf",
     "Extras/Brand/Fonts/Inter-VariableFont_opsz,wght.ttf",
@@ -323,14 +226,10 @@
     "Published/Handbook/Handbook-Global.md",
     "Published/Handbook/Handbook-Actor.md",
     "Extras/Illustrations/Society Protocol Interests.md",
-    "Extras/Illustrations/Handbook-Global.excalidraw.svg",
     "Published/Articles/Synchronized States (The Golden Record).md",
     "Published/Articles/Fake Everything (Prelude).md",
     "Published/Movement/Ideology.md",
     "Published/Articles/The state of The State (History).md",
-    "Extras/Illustrations/Level – Parenting.excalidraw.md",
-    "Published/Handbook/Level – Parenting.excalidraw.md",
-    "Published/Articles/4-Dimensional Synchronization (Clocks).md",
     "05 🌐 Society Protocol/Content Library/Published/Articles",
     "05 🌐 Society Protocol/Content Library/Published",
     "05 🌐 Society Protocol/Content Library",
