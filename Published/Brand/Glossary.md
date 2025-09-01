@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-08-25T15:39
+updated: 2025-08-31T17:24
 ---
 # Concepts
 
@@ -91,8 +91,10 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 
 1. **Parenting**: 
     - This Level forms Family Trees
-        - **Parent**: The Actor issuing the invite to the system.
-        - **Child**: The Actor receiving the invite to the system.
+        - **Parent**: The Actor issuing the invite to the system. Parents can introduce Children to their society, at a temporary cost to themselves, which can gradually reap rewards if those Children survive and are successful in the instance.
+        - **Child**: The Actor receiving the invite to the system. Children are members of the instance, invited by the Parent, and can be dependent on the Parent, up to a certain time, during their infancy while they reach adulthood and can repay the parent.
+        - **Birth Event**: This is a special Event in the protocol where a new Actor enters the system and begins their Lifeline. 
+        - **Family Tree**: This explicit structure forms automatically in the protocol based off the Parenting level. 
 2. **Hunting**
 3. **Property**
     - Includes physical infrastructure such as factories and digital infrastructure such as smart-contract exchanges

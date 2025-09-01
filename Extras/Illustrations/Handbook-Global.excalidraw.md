@@ -263,7 +263,7 @@ dfe5dda05bd341cf3f885c8269dc9fcb5de650c7: [[governance-icon.png]]
 
 18673bfab311e4cd07e0c724a5ad191db55f2de4: [[organization-icon.png]]
 
-2fd111dfb16d001e84e042b79d2eb9dd538aa1de: [[portal-icon.webp]]
+2fd111dfb16d001e84e042b79d2eb9dd538aa1de: [[portal-icon.png]]
 
 39d234af7df99b600fb57818e60683d67b5a9758: [[war-icon.webp]]
 

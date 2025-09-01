@@ -169,7 +169,7 @@ dfe5dda05bd341cf3f885c8269dc9fcb5de650c7: [[governance-icon.png]]
 
 933f5eda3823f801eae8324def220796494fc62e: [[farmer-icon.png]]
 
-a67fe2a9a5894dae49075c70e66f5a4206f4aac0: [[portal-icon.webp]]
+a67fe2a9a5894dae49075c70e66f5a4206f4aac0: [[portal-icon.png]]
 
 c2dc6d5059ec5d0419a697d70401b0ca8a797b64: [[energy-icon.png]]
 

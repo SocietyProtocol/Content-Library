@@ -121,8 +121,7 @@
               "title": "Level-Property.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,6 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Published/Welcome Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome Page"
             }
           },
           {
@@ -287,7 +287,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4632ca45bfdf5320",
+  "active": "bfe1b0424349d89e",
   "lastOpenFiles": [
     "Extras/Illustrations/Level-Curation.excalidraw.md",
     "Extras/Illustrations/Levels.excalidraw.md",
