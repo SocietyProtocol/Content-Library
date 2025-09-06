@@ -6,8 +6,8 @@ updated: 2025-08-25T19:57
 *The future of human coordination.* 
 ## Table of Contents
 ### Articles
-[[Fake Everything (Prelude)]]
 [[Published/Articles/4-Dimensional Synchronization (Clocks)|4-Dimensional Synchronization (Clocks)]]
+[[Fake Everything (Prelude)]]
 [[The state of The State (History)]]
 [[Published/Articles/Synchronized States (The Golden Record)|Synchronized States (The Golden Record)]]
 
@@ -19,6 +19,9 @@ updated: 2025-08-25T19:57
 [[Level-Hunting]]
 [[Level-Property]]
 [[Level-Curation]]
+[[Level-Governance]]
+[[Level-Organizations]]
+[[Level-Communication]]
 [[Level-Farming]]
 [[Level-Portal]]
 
@@ -32,6 +35,3 @@ updated: 2025-08-25T19:57
 [X](https://x.com/ProtocolSociety)
 [Discord](https://discord.com/invite/fpk7eH7aWQ)
 [Github](https://github.com/SocietyProtocol)
-
-
-

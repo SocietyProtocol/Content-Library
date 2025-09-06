@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-08-31T17:24
+updated: 2025-09-04T17:19
 ---
 # Concepts
 
@@ -106,6 +106,7 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
     - This Level includes two types of Organizations:
         - Distributed Corporations (dCorps)
         - Cultural Agreements (Cultures)
+            - Can alternatively be called _Distributed Cultures (dCultures, dCults)_.
 7. **Communication**
     - Includes different types of communication at different tiers of privacy.
 8. **Farming**

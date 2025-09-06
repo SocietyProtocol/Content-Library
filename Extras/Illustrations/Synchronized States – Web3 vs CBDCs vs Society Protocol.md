@@ -1,6 +1,6 @@
 ---
 created: 2025-04-13T15:29
-updated: 2025-08-04T11:46
+updated: 2025-09-04T10:43
 ---
 
 |                                                                                               |                              Web3<br>![[cryptocurrency-icon.png\|50]]                               |                        CBDCs<br>![[bank-icon.png\|50]]                        |                        **Society Protocol**<br>![[society-logo.svg\|50]]                         |
