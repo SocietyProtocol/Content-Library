@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-09-04T17:19
+updated: 2025-09-08T13:10
 ---
 # Concepts
 
@@ -102,6 +102,12 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 4. **Curation**
 	- **Curation Container**: An object which is attached to an Actor, Property, or Organization for curation purposes. 
 5. **Governance**: Has the ability to make changes to the Laws, Courts, Parameters, Levels, and Constitution of a Society Protocol instance.
+	- **Governance Domains**: The five different areas of governance decisions in Society Protocol: Constitution, Protocol Parameters, Laws, Courts, and Disputes.
+	- **Governors**: The people participating in the Governance of Society Protocol. 
+	- **Distributed Courts (dCourts)**: An incentivized court system to make governance decisions which exists at the Governance Level. 
+	- **Jury Pool**: The Actors and Organizations which participate in Distributed Courts (dCourts).
+	- **Jury**: The Actors and Organizations which participate in Distributed Courts (dCourts) and are selected to make a decision.
+	- **Juror**: A single Individual Actor or Organization who is participating in Distributed Courts (dCourts)
 6. **Organizations**
     - This Level includes two types of Organizations:
         - Distributed Corporations (dCorps)
