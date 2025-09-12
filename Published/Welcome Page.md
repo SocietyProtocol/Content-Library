@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T11:23
-updated: 2025-08-25T19:57
+updated: 2025-09-11T16:18
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
@@ -15,11 +15,12 @@ updated: 2025-08-25T19:57
 [[Handbook-Global]]
 [[Handbook-Actor]]
 [[Handbook-Levels]]
+[[Handbook-Governance]]
 [[Level-Parenting]]
 [[Level-Hunting]]
 [[Level-Property]]
 [[Level-Curation]]
-[[Level-Governance]]
+[[Level-Governance-Distributed Courts]]
 [[Level-Organizations]]
 [[Level-Communication]]
 [[Level-Farming]]

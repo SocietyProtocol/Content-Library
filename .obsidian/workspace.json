@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Brand/Glossary.md",
+                "file": "Published/Handbook/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossary"
+              "title": "Untitled"
             }
           }
         ]
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Published/Brand/Glossary.md",
+                "file": "Published/Handbook/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Glossary"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -189,13 +189,23 @@
   },
   "active": "7e2bb8f203cc50f2",
   "lastOpenFiles": [
-    "Governance.md",
+    "Published/Handbook/Level-Governance-Distributed Courts.md",
+    "Published/Handbook/Untitled.md",
+    "Extras/Illustrations/Handbook-Governance.excalidraw.md",
+    "Extras/Illustrations/Levels.excalidraw.md",
+    "Published/Handbook/Handbook-Levels.md",
+    "Published/Handbook/Level-Parenting.md",
+    "Published/Organization/Roles.md",
+    "Published/Welcome Page.md",
+    "Published/Handbook/Handbook-Global.md",
+    "Published/Handbook/Level-Governance.md",
+    "Published/Handbook/Handbook-Governance.md",
     "Published/Brand/Glossary.md",
+    "Governance.md",
     "Extras/Illustrations/Double-Entry Accounting Part1.excalidraw.md",
     "Extras/Illustrations/communication-icon-clean.jpg.md",
     "Extras/Illustrations/Alignment of Interests Comparison.md",
     "Extras/Illustrations/Level-Property.excalidraw.md",
-    "Published/Welcome Page.md",
     "Published/Handbook/Level-Organizations.md",
     "Extras/Illustrations/Level-Communication.excalidraw.md",
     "Extras/Illustrations/Level-Communication.excalidraw.svg",
@@ -204,19 +214,9 @@
     "Extras/Illustrations/Level-Hunting.excalidraw.md",
     "Extras/Illustrations/Level-Parenting.excalidraw.md",
     "Extras/Illustrations/Level-Portal.excalidraw.md",
-    "Extras/Illustrations/Levels.excalidraw.md",
-    "Published/Handbook/Level-Governance.md",
     "Extras/Illustrations/Level-Governance.excalidraw.md",
     "Extras/Illustrations/Level-Farming.excalidraw.md",
     "Extras/Illustrations/Level-Curation.excalidraw.md",
-    "Extras/Illustrations/Level – Parenting–old.excalidraw.md",
-    "Extras/Illustrations/Handbook-Global.excalidraw.md",
-    "Extras/Illustrations/Synchronized States – Web3 vs CBDCs vs Society Protocol.md",
-    "Extras/Illustrations/Triple-Entry Accounting.excalidraw.md",
-    "Extras/Illustrations/Timeline.excalidraw.md",
-    "Extras/Illustrations/the state.excalidraw.md",
-    "Extras/Illustrations/Timeline Heartbeat.md",
-    "Published/Handbook/Level-Property.md",
     "Extras/Illustrations/Level-Curation.excalidraw.svg",
     "Extras/Illustrations/Level – Parenting–old.excalidraw.png",
     "Extras/Illustrations/Level – Parenting–old.excalidraw.svg",

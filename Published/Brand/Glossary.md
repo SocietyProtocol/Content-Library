@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-09-08T13:10
+updated: 2025-09-10T18:20
 ---
 # Concepts
 
@@ -105,9 +105,9 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 	- **Governance Domains**: The five different areas of governance decisions in Society Protocol: Constitution, Protocol Parameters, Laws, Courts, and Disputes.
 	- **Governors**: The people participating in the Governance of Society Protocol. 
 	- **Distributed Courts (dCourts)**: An incentivized court system to make governance decisions which exists at the Governance Level. 
-	- **Jury Pool**: The Actors and Organizations which participate in Distributed Courts (dCourts).
-	- **Jury**: The Actors and Organizations which participate in Distributed Courts (dCourts) and are selected to make a decision.
-	- **Juror**: A single Individual Actor or Organization who is participating in Distributed Courts (dCourts)
+	- **Jury Pool**: The Actors and Organizations which participate in dCourts.
+	- **Jury**: The Actors and Organizations which participate in dCourts and are selected to make a decision.
+	- **Juror**: A single Individual Actor or Organization who is participating in dCourts.
 6. **Organizations**
     - This Level includes two types of Organizations:
         - Distributed Corporations (dCorps)
