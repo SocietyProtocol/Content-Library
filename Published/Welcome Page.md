@@ -20,7 +20,8 @@ updated: 2025-09-11T16:18
 [[Level-Hunting]]
 [[Level-Property]]
 [[Level-Curation]]
-[[Level-Governance-Distributed Courts]]
+[[Level-Governance (Distributed Courts)]]
+[[Level-Governance (Futarchy)]]
 [[Level-Organizations]]
 [[Level-Communication]]
 [[Level-Farming]]
@@ -36,3 +37,4 @@ updated: 2025-09-11T16:18
 [X](https://x.com/ProtocolSociety)
 [Discord](https://discord.com/invite/fpk7eH7aWQ)
 [Github](https://github.com/SocietyProtocol)
+

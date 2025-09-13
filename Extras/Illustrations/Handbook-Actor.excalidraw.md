@@ -140,7 +140,7 @@ life from Birth until Death. ^MvLQkf6m
 
 7622b9c46ecc0b05f369187307227c2362ef8bc4: [[death-icon.webp]]
 
-ff7e9bc7ef84495e3683ec489ad48d6901697020: [[actor-mandalorian-icon.png]]
+ff7e9bc7ef84495e3683ec489ad48d6901697020: [[actor-vader-icon.png]]
 
 8f56e2955e5ae94092bd228f983f8a5879d2a69f: [[inner-world-icon.webp]]
 

@@ -104,7 +104,7 @@ Notes ^wF5gZ1Cf
 ## Element Links
 ORVuij9j: [[Handbook-Actor.excalidraw.svg]]
 
-x6W5Ph6q: [[Level-Governance-Distributed Courts]]
+x6W5Ph6q: [[Level-Governance (Distributed Courts)]]
 
 wNJracUL: [[Level-Communication]]
 

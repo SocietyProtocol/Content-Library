@@ -1,0 +1,1 @@
+![[Level-Governance-Futarchy.excalidraw.svg]]
