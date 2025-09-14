@@ -69,7 +69,7 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
     - Individual Actors, Sovereign Actors, or just Actors?
     - We will have both human and non-human actors, should we delinianate further?
     - **Genesis Actors**: Actors who are alive at the Genesis Time of a Society Protocol instance. 
-- **Lifeline**: Actors have a Lifeline, which is equal to the Timelapse between their Birth and Death events.
+- **Lifeline**: Actors have a Lifeline, which is equal to the Timelapse between their Birth and Death Events.
 - **Activity Score:** Each account has an Activity Score which is accumulated through activity, by performing Events at Levels and decays over time to calculate their “aliveness” in the protocol.
 - **Programmable Will**: Automatically goes into effect upon the Death Event of an Actor to determine the lineage of ownership of their Property. 
 
@@ -96,11 +96,19 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
         - **Birth Event**: This is a special Event in the protocol where a new Actor enters the system and begins their Lifeline. 
         - **Family Tree**: This explicit structure forms automatically in the protocol based off the Parenting level. 
 2. **Hunting**
+	- **Hunter:** Each Timeslot, one or multiple Hunters are selected to input Events into the protocol, and be rewarded with the Energy of the Hunted parties.
+	- **Hunted:** Each Timeslot, one or multiple parties are chosen to be Hunted in the protocol in a probabilistic lottery in which their chances to win are based off their Activity Score.
+	- **Hunt:**  Each Timeslot, there is a Hunt in which the Energy of the Hunted parties gets redistributed to the Hunter(s).
 3. **Property**
     - Includes physical infrastructure such as factories and digital infrastructure such as smart-contract exchanges
     - Can alternatively be called *Programmable Property* or *Property Objects*, or *Objects*.
 4. **Curation**
-	- **Curation Container**: An object which is attached to an Actor, Property, or Organization for curation purposes. 
+	- **Curator:** The Actor or Organization who is doing the curating. I.E. either creating a Curation Container or minting a Curation Slot. 
+	- **Curated:** The Actor, Property, or Organization which is being analyzed.
+	- **Curation Container:** A container filled with subjective information which is attached to the Curated and forms the root for a chain of Curation Slots. 
+	- **Perspective:** The limitation list of the Actors and Organizations who are allowed to participate in this Curation Container. 
+	- **Curation Unit Price (CUP):** The price to participate in a Curation Container and mint a single Curation Slot.
+	- **Curation Slot:** An NFT received for participating in a Curation Container which collects royalties from other Curation Slots which are minted afterwards.
 5. **Governance**: Has the ability to make changes to the Laws, Courts, Parameters, Levels, and Constitution of a Society Protocol instance.
 	- **Governance Domains**: The five different areas of governance decisions in Society Protocol: Constitution, Protocol Parameters, Laws, Courts, and Disputes.
 	- **Governors**: The people participating in the Governance of Society Protocol. 
@@ -108,15 +116,18 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 	- **Jury Pool**: The Actors and Organizations which participate in dCourts.
 	- **Jury**: The Actors and Organizations which participate in dCourts and are selected to make a decision.
 	- **Juror**: A single Individual Actor or Organization who is participating in dCourts.
+	- **Futarchy**: A system of group decision making where prediction markets decide on what decision to make based on an optimization metric.
+	- **Seers**: Actors and Organizations participating in Futarchy.
 6. **Organizations**
     - This Level includes two types of Organizations:
-        - Distributed Corporations (dCorps)
-        - Cultural Agreements (Cultures)
+        - **Distributed Corporations (dCorps)**
+        - **Cultural Agreements (Cultures)**
             - Can alternatively be called _Distributed Cultures (dCultures, dCults)_.
 7. **Communication**
     - Includes different types of communication at different tiers of privacy.
 8. **Farming**
     - This Level is about incentivizing the storing of the state generated in a Society Protocol instance.
+    - **Farmer:** The entity allocating their Energy to the Farming Level.  
 9. **Portal**
 
 ## Synchronization & Coordination
