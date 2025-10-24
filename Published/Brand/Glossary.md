@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-09-10T18:20
+updated: 2025-10-19T12:37
 ---
 # Concepts
 

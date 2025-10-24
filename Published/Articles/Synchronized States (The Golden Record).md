@@ -1,10 +1,10 @@
 ---
 created: 2025-07-17T19:11
-updated: 2025-08-21T20:12
+updated: 2025-09-28T13:21
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
-_You might want to read_ [_The state of the State_](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) _and_ [_The state Which Binds_](https://societyprotocol.com) _before this essay. They’re not prerequisites, but provide additional context._
+*You might want to read [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [The state That Binds (Shared Reality)](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) before this essay. They’re not prerequisites, but provide additional context.*
 * * *
 
 ### The Polycrisis 
@@ -62,7 +62,7 @@ Instead of storing the public state of society, the technocratic elites have ama
 
 ![[Church-Data Center Transition 1.png]]
 
-The social contract has changed: No one ever signed up for a social contract where a small group of technocratic elites dictate rules and manipulate [the state of the State](https://lex.page/d/1a123e90-78b7-4490-97fd-d004e56f31aa) via control of the technology. The Western world signed everyone up for Democracy. Our forefathers fought and died for equal rights and a constitutional republic where the will of the people prevails. That was taken from the people, subtly, by any means necessary via control of the state. _Never have so few people held power over so many throughout human history._
+The social contract has changed: No one ever signed up for a social contract where a small group of technocratic elites dictate rules and manipulate [the state of the State](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) via control of the technology. The Western world signed everyone up for Democracy. Our forefathers fought and died for equal rights and a constitutional republic where the will of the people prevails. That was taken from the people, subtly, by any means necessary via control of the state. _Never have so few people held power over so many throughout human history._
 
 _The data and algorithms applied to it control your life, yet you do not control the data or algorithms applied to your life. In fact, you can’t even see the algorithms applied to your life_: those are proprietary data! The technocratic elites won’t even allow you access to this for money (controlling the state is more valuable than money).
 
@@ -197,7 +197,7 @@ _Excellent, we made it! The introduction is over! Let’s get into it!_
 
 ## Synchronized States (The Golden Record)
 
-Let’s dive deeper into understanding Synchronized States. _Historical and technical explanations can be found in the_ [_The state of the State_](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) _and_ [_The state Which Binds_](https://societyprotocol.io) _essays. In this essay, we will focus on their evolutionary advantages and possible trajectories._
+Let’s dive deeper into understanding Synchronized States. _Historical and technical explanations can be found in the_ [_The state of the State (History)_](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) _and_ [_The state That Binds (Shared Reality)_](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) _essays. In this essay, we will focus on their evolutionary advantages and possible trajectories._
 
 Synchronized States are protocols with rulesets for a community to share and synchronize a state. By synchronizing the state between individual nodes of participation they allow a community to share a reality in unison, where every individual operates in the same context. When these protocols incorporate all the essential features of a State—including identity systems, property rights, monetary systems, decision-making mechanisms, and coordination frameworks—they transcend mere shared reality tools to become fully-fledged States—fully capable of binding communities together through a shared synchronized reality rather than geographic boundaries.
 
@@ -207,7 +207,7 @@ Nation States are borne of contracts created due to the allowance of duplication
 
 _Synchronized States are purely data & algorithm societies—existing solely as duplicated computer programs._ They do not share Nation State borders and will expand anywhere that general computing exists and data can flow: across borders, to the moon, and into outer space. All of this is possible at nearly the speed of light. Elon Musk desperately wants to colonize Mars, Synchronized States can fully synchronize the state of reality for a society between Earth and Mars in an average of ~22.3 minutes (lossless communication). To achieve this with Nation States, would be impossible, they do not have a path towards synchronizing, only towards duplicating data (lossy communication). Would you be more willing to fly to Mars if your existence is controlled by technocratic elites on Earth or if each individual had full control (agency over their identity, assets, and data) and synchronicity with all of society? Synchronized States are likely a prerequisite to becoming an interplanetary species[^17].
 
-The need to decide on which Synchronized States are necessary arises from the social layer. We have already covered how these needs arise and dissipate in [The state Which Binds](https://societyprotocol.io). The core premise of shared realities, including all Synchronized States (which are just a means to uphold and synchronize a shared reality)—is that people will participate in them (and thereby, hold them up) as long as the need to maintain a shared reality is greater than the effort required to hold it up. The more state and identity data that the social layer places into the Synchronized State, the more powerful and sticker the shared reality grows. Meaning, Synchronized States are networks and their value grows in accordance with <u>network effects</u>, superlinearly with each additional user. Finally, and this is the same for all Synchronized States—when the need to continue maintaining them disappears from the social layer, _they just collapse_.
+The need to decide on which Synchronized States are necessary arises from the social layer. We have already covered how these needs arise and dissipate in [The state That Binds (Shared Reality)](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). The core premise of shared realities, including all Synchronized States (which are just a means to uphold and synchronize a shared reality)—is that people will participate in them (and thereby, hold them up) as long as the need to maintain a shared reality is greater than the effort required to hold it up. The more state and identity data that the social layer places into the Synchronized State, the more powerful and sticker the shared reality grows. Meaning, Synchronized States are networks and their value grows in accordance with <u>network effects</u>, superlinearly with each additional user. Finally, and this is the same for all Synchronized States—when the need to continue maintaining them disappears from the social layer, _they just collapse_.
 
 ### Synchronization Is Valuable
 
@@ -444,7 +444,7 @@ By reimagining the roots of the base layer of value into a model of Energy, we a
 
 ### Society Protocol (4D)
 
-Society Protocol is the only known protocol for Web4. It is the inheritor and evolution of the Web3 ethos and cypherpunk values. While Web3 protocols champion decentralization, pseudoanonimity, individual agency, privacy, and fairness, they fundamentally cannot form a State due to their architectural limitations. Society Protocol represents a superset of Web3 protocols—preserving their core principles while enabling the full functioning of a Synchronized State. This distinction is crucial because Web3 itself has become a cabal and is being co-opted by technocratic elites to appear decentralized while it is actually only distributed (as detailed in [<u>Fake Everything</u>](https://lex.page/d/5100a530-e1e6-4d2a-a740-0b66dab30187)). Society Protocol breaks free from this paradigm, delivering on the original promise of **<u>decentralized coordination</u>**.
+Society Protocol is the only known protocol for Web4. It is the inheritor and evolution of the Web3 ethos and cypherpunk values. While Web3 protocols champion decentralization, pseudoanonimity, individual agency, privacy, and fairness, they fundamentally cannot form a State due to their architectural limitations. Society Protocol represents a superset of Web3 protocols—preserving their core principles while enabling the full functioning of a Synchronized State. This distinction is crucial because Web3 itself has become a cabal and is being co-opted by technocratic elites to appear decentralized while it is actually only distributed (as detailed in [<u>Fake Everything</u>](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)). Society Protocol breaks free from this paradigm, delivering on the original promise of **<u>decentralized coordination</u>**.
 
 Society Protocol is the first true Synchronized State protocol (it can function to truly bind and coordinate a tribe together, and not just their assets). While CBDCs can eventually evolve to form Synchronized States, it is designed to do this, out of the box.
 
@@ -570,7 +570,7 @@ We at Society Protocol have shown you the blueprints for both castles. We cannot
 
 ---
 
-If you are interested in contributing to Society Protocol, you can [join our community](https://societyprotocol.io), [invest in the movement](https://societyprotocol.io), and [contribute to build the architecture](https://societyprotocol.io). 
+If you are interested in contributing to Society Protocol, you can [join our community](https://societyprotocol.io), [invest in the movement](https://societyprotocol.io), and [contribute to the architecture](https://societyprotocol.io). 
 
 If you are the President or decision-maker of a Nation State and would like to implement Web4, you can contact us at: [Statebuilders@societyprotocol.io](mailto:Statebuilders@societyprotocol.io).
 
