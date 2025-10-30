@@ -1,6 +1,6 @@
 ---
 created: 2025-10-23T20:14
-updated: 2025-10-23T20:15
+updated: 2025-10-29T12:44
 ---
 ## Defining Our Terms
 
@@ -11,9 +11,9 @@ Before proceeding, we must establish critical distinctions in our terminology:
 
 There are three distinct layers of state within a State. All of these delineations together encompass the **state**:
 
-- **Public state**: The public record, accessible to everyone, which the State propagates and uses to keep track of its current state.
-- **Semi-private state**: The non-public shared context within subgroups, such as: families, friends, or organizations.
-- **Private state**: An individual's current condition or status—the internal record unique to each person.
+- **public state**: The public record, accessible to everyone, which the State propagates and uses to keep track of its current state.
+- **semi-private state**: The non-public shared context within subgroups, such as: families, friends, or organizations.
+- **private state**: An individual's current condition or status—the internal record unique to each person.
 
 ![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/2e5af0b4-f664-4852-b927-3f4b47d45f91-image_1758932626.png)
 
@@ -32,5 +32,3 @@ There are two distinct things we are talking about when discussing Synchronized 
 **Synchronized States** – can synchronize a community, binding them to a shared reality, and fulfill all the essential functions to bind a State.
 
 All Synchronized States are synchronized states, but not all synchronized states are Synchronized States.
-
-For a lack of a better way to express it, we will sometimes lump the term <u>Synchronized States</u> as <u>synchronized states</u>.

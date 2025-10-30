@@ -1,6 +1,6 @@
 ---
 created: 2025-10-03T12:17
-updated: 2025-10-23T22:30
+updated: 2025-10-28T12:31
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
@@ -30,7 +30,7 @@ Existing in this duality, as you can imagine, gets a little bit confusing. We mu
 In this process, everyone gets a bit (or a lot) confused. The shared reality that we participate in goes through two levels of indoctrination and transmutation:
 
 1. From private subjective truth into a shared reality (consensus)
-2. From clear-ish shared reality into warped duality, as parties fight to manipulate the shared reality for personal gain (serving as a political mask and narrative of the tribe).
+2. From clear-ish shared reality into a twisted and warped one––as parties fight to manipulate the shared reality for personal gain (serving as a political mask and the narrative of the tribe).
 
 ![[twisting-shared-reality.png|500]]<center>So much of our reality gets lost in transmission. Time and space bend and warp it 🧬.</center>
 
@@ -46,11 +46,11 @@ There is naturally no shared thread of reality that flows through the universe. 
 > 
 > The state that binds (STB) is a certain form of state which binds our realities together into a shared reality.
 > 
-> It is reached through a form of consensus and almost synonymous with shared reality itself (except conceptualized as a mutating object and place).
+> It is reached through a form of consensus and almost synonymous with shared reality itself (except conceptualized as a mutating object).
 > 
 > Individuals are pulled to the STB gravitationally from their individual realities, as a way to coordinate.
 
-The STB applies to any form of relationship. In this case, it can be referred to as the “state that _bonds_.” Without a shared reality, <u>we cannot have any bonds</u>_._ There is a saying, “_those who suffer together, stay together_.” This reflects how shared experiences strengthen the STB—it has a life force and power of its own. As it grows in our minds, it takes up space.
+The STB applies to any form of relationship. In this case, it can be referred to as the “state that _bonds_.” Without a shared reality, <u>we cannot have any bonds</u>_._ There is a saying, “_those who suffer together, stay together_.” This reflects how shared experiences strengthen the STB—it has a life force and power of its own. 
 
 The STB is responsible for both mass psychosis and mass synchronization. It gravitationally pulls people together into a singular context. It itself has an energetic power and gravitational pull to it. It's a constant part of our lives and if we erase it; we would erase our identity, nation, and notion of society—but where does it come from?
 
@@ -61,7 +61,7 @@ The STB has transitioned through four epochs. Each epoch has fundamentally alter
 > 1. **Zero-Entry: Tribes**: The shared reality exists solely in people’s minds. It’s disjointed between the tribe. With no recording, duplication, or synchronization mechanisms, it cannot scale. Reputation is everything.
 > 2. **Single-Entry: Classical States**: This epoch added a permanent recorded STB to the inherent reputation systems. A huge imbalance naturally arose between those who created and could record and maintain the STB and those who couldn’t. Reality was dominated by those few who could access and record the STB—giving them control of the identities of those who couldn’t access the recorded shared reality[^3].
 > 3. **Double-Entry: Nation States:** The legitimacy of the shared reality is rooted in duplicated contracts and agreements. This system is supposed to facilitate access to the shared reality equally for the population. Today, we all feel like we have access and influence over the shared reality (at least in the Western world). Whether we do or not, is another question. The duplication of the STB allowed multiple parties to imbue lasting contractual agreements into the shared reality.
-> 4. **Triple-Entry: Synchronized States:** Every global participant has equal access to a synchronized shared reality. The entire history of how we arrived to this state in the shared reality, including all previous states, is immutably recorded in the Timeline.
+> 4. **Triple-Entry: Synchronized States:** Every global participant has equal access to a synchronized shared reality. The entire history of how we arrived to this state in the shared reality, including all previous states, is quasi-immutably recorded in a chronological Timeline.
 
 ![[Epochs of Shared Reality.excalidraw.png]]
 
@@ -89,7 +89,7 @@ All shared realities are constructed (man-made). Not all shared realities are co
 
 The shared reality is vital and used for essentially all facets of coordination (ranging from micro to macro) in every society. Minor differences in its mechanics can have huge effects on people’s lives and interactions.
 
-Let’s examine the qualities people seek in a shared reality, and what qualities they are repelled by and won’t tolerate:
+Let’s examine the qualities people seek in a shared reality, and what qualities they are repelled by and won’t tolerate.
 
 #### Survival
 
@@ -107,7 +107,7 @@ Since the STB has an _immense_ impact on all participants who share it, its legi
 
 How it changes is often outside of participants’ individual control, while changing it can alter everything about their lives and identities asymmetrically.
 
-Therefore, it’s extremely important that participants in the shared reality believe in its legitimacy (accuracy)—which produces trust in their perceptions.
+Therefore, it’s extremely important that participants in the shared reality believe in its legitimacy (accuracy), which produces *trust* in their perceptions.
 
 When participants don’t have trust in their shared reality, it’s a downward spiral. People abandon, go back to their individual private perceptions, split into different realities, and shamelessly further distort the legitimacy of the already illegitimate shared reality. Everything melts.
 
@@ -157,7 +157,7 @@ This is obviously corrosive, where a small faction benefits at the expense of ev
 
 This terrifies the participants of the shared reality, and causes them to search for alternatives, both externally and internally—further decaying the <u>legitimacy</u> of the shared reality.
 
-**Synchronization (Shared Context)**
+#### Synchronization (Shared Context)
 
 The better our STB can synchronize all of this shared information, the more powerful it becomes. The synchronization qualities of a STB aren’t absolute, it’s a relative quality, which spans from completely (asynchronous & slow) to completely (synchronous & fast).
 
@@ -167,7 +167,7 @@ There is always some lag between nodes. The overall test of the quality of synch
 
 Oftentimes, when a social layer creates a shared reality…they don’t do it in the most “_perfect”_ way. Instead, they create a system they have an advantage in understanding, such as the English imperial system or the Portuguese language coming from Spanish. Those using the English Imperial System and Portuguese can understand the metric system and Spanish, but it’s a one way street. Moats ensure the tribe using the shared state retains an advantage and form of defensibility against opposing shared realities.
 
-**Interoperability & Ubiquity**
+#### Interoperability & Ubiquity
 
 Participants often seek ubiquity and interoperability in their shared realities—the broader its reach, the more likely the <u>survival</u> of the STB and more powerful their <u>coordination</u> becomes. Different States, languages, currencies, cultures, and religions cannot effortlessly interact or coordinate effectively. Every incompatible shared reality creates barriers to interaction (at minimum), and also potential threats.
 
@@ -227,13 +227,13 @@ A scenario that often occurs in the social layer is _split realities_. _The shar
 
 Let’s ask a question: Today (in the double-entry accounting age), how do we track if our social layer has a split reality in the past, occurring presently, or brewing in the future (and we have issues in our shared context)? **We currently don’t have a common thread of reality.** At a societal level, we track this information with duplicated contracts, along with media entities to propagate the information. The problem is that these duplicated contracts are separate (unharmonized), created after the event to attempt to seal its status, and not showing the shared reality as it is happening in real-time (unsynchronized). Since our access to duplicated contracts is limited, we require middle-men intermediaries: the media entities which are responsible for propagating this information throughout society (as best they can). Media entities do not convey this information accurately for a variety of reasons: they have their own political interests as middle-men, they simply don’t have all the information because it doesn’t exist anywhere singular, and they are unable to propagate it society-wide (we must use channels, and different channels say different things). How do we then accurately perceive which parts of our shared reality are splitting, what is really occurring, or who supports each divergence? **There is no way for a society to currently understand this because we can’t perceive the shared reality.**
 
-Our shared reality doesn’t exist in any singular place; it’s currently a patchwork of individual perceptions and duplicated contracts. All _people are incentivized to manipulate this information, to arbitrage the informational advantage between different points of perception._
+Our shared reality doesn’t exist in any singular place; it’s currently a patchwork of individual perceptions and duplicated contracts. _All people are incentivized to manipulate this information, to arbitrage the informational advantage between different points of perception._
 
 During a _split reality_ event, multiple leaders and factions emerge proclaiming different realities as the consensus, but it’s impossible to peer into the social layer and determine what is really going on…_Who is truly aligned with each leader’s position? How committed are they? What have they done in the past?_
 
 The social layer must eventually reach a consensus about competing shared realities, but the process we currently use to achieve this is subtle, imperceptible, dangerous, and unpredictable. _An ephemeral foggy notion of a shared reality splitting apart…members disappearing in the fog_…Filled with fake masks, spies, manipulation of the remaining STB, deception, and a constant political fog of war about the consensus. _It becomes essentially impossible to see what’s going on or how various actors are moving and preparing._
 
-_Shared reality splits_ are a common recurring pattern throughout history. During these processes, a fundamental challenge emerges: no one can truly perceive the shared reality. _Shifts in allegiances rapidly occur. Factions are incentivized to manipulate information flows. This information appears, mutates, and disappears over time. The winners rewrite the history in their shared reality at the end. This whole process is amplified by the momentum of network effects._
+_Shared reality splits_ are a common recurring pattern throughout history. During these processes, a fundamental challenge emerges: no one can truly perceive the shared reality. _Shifts in allegiances rapidly occur. Factions are incentivized to manipulate information flows. This information appears, mutates, and disappears over time. The whole process is amplified by the momentum of network effects. The winners rewrite the history in their shared reality at the end._
 
 **It gets worse;** competing factions controlling state propagation are incentivized to manipulate and censor information, and can do this imperceptibly. Corrupting the very foundation of our shared understandings.
 
@@ -241,7 +241,7 @@ What does this mean, what do we achieve in the end? It means that we spend a lot
 
 Let’s take this example of a reality split: [Kurdish leader calls for PKK to lay down arms.](https://www.zerohedge.com/geopolitical/pkk-founder-orders-kurdish-group-lay-down-its-arms-dissolve-historic-statement) _Whoa…that’s quite a dicey proposition! What do you mean lay down my arms?_ _Will it work, well who supports him? <u>Imperceptible</u>! What prevents those who support him from falsely doing so and switching sides? <u>Imperceptible</u>! The media told me he’s has a lot of support. <u>Manipulated</u>! What if he’s a decoy for the other side, controlled opposition 😱? <u>Possible</u>! Should you follow his lead or not as a Kurd and lay down arms? Who knows…? I don’t know homie._ Good luck!
 
-To call this situation dangerous is an understatement, and yet it’s a fundamental recurring part of human nature. <u>Split realities occur just as often in relationships as they do in Nation States</u>. Ultimately, those who can duplicate their state and destroy their enemies’ shared realities win and the losers’ reality suffers destruction, but it’s an _ugly process affecting both sides_. It’s a needlessly confusing and destructive process, where _both sides end up with tremendously warped realities_. It’s not a [virtuous cycle](https://virtuouscycle.co) for anybody and can be optimized in every occurrence by using Synchronized States—_where all parties can perceive the singular shared reality and history immutably at all times_[^10].
+To call this situation dangerous is an understatement, and yet it’s a fundamental recurring part of human nature. <u>Split realities occur just as often in relationships as they do in Nation States</u>. Ultimately, those who can duplicate their state and destroy their enemies’ shared realities win and the losers’ reality suffers destruction, but it’s an _ugly process affecting both sides_. It’s a needlessly confusing and destructive process, where _both sides end up with tremendously warped realities_. It’s not a virtuous cycle for anybody and can be optimized, in every occurrence by using Synchronized States—_where all parties can perceive the singular shared reality and history immutably at all times_[^10].
 
 ## Sharing a Synchronized Reality (synchronized states)
 
@@ -397,7 +397,7 @@ Web3 is extremely new. It was originally created by Vitalik Buterin in 2015 \[@v
 
 Unlike Bitcoin, which has remained “legitimately immutable[^15]” throughout its lifetime, participants in Web3 have figured out that they are distributing the economic value of shared realities, and began manipulating them from both the inside (pre-mined distributions) and outside (social layer manipulation). Ethereum was launched 70% pre-mined to allocate most of the social value to early participants, underwent a transformational fork altering its entire shared reality during the infamous [DAO hack incident](https://www.coindesk.com/consensus-magazine/2023/05/09/coindesk-turns-10-how-the-dao-hack-changed-ethereum-and-crypto), and undergoes routine updates altering the protocol’s shared reality from the social layer for everyone.
 
-t![[sr-fading-conquered.excalidraw.png]]
+![[sr-fading-conquered.excalidraw.png]]
 <center>Ethereum hard fork, eating Ethereum Classic.</center>
 
 > While Bitcoin has remained “legitimately immutable” and Ethereum has not in practice, the underlying technology that enables their “immutability” is identical––both systems can undergo mutations. The difference is purely in the actions of the social layer sharing the STB.
@@ -434,7 +434,7 @@ Unlike the double-entry accounting age, everyone in the triple-entry accounting 
 
 **People are the most valuable asset.** Crypto protocols are neither trustless or immutable economic tools—they are community driven socioeconomic synchronized states, facilitating a synchronized shared reality. If the community can’t thrive and turns bad, the synchronized state facilitating them is ruined. **All value derives from the social layer.** A shared reality thriving or corrupting and dying largely depends on its purpose and the strength of its systems of coordination. Society Protocol is designed to give communities the optimal systems to <u>coordinate</u>—_allowing them to thrive_.
 
-**Complete Alignment (Community)**
+#### Complete Alignment (Community)
 
 Unlike 2D-3D synchronized states, where people can destroy the STB and walk away unscathed with their identity. Inside Society Protocol instances, Actors would be required to destroy themselves (their identity) inside the protocol instance (which builds over time) to destroy the Synchronized State.
 
@@ -456,7 +456,7 @@ This <u>Rebalancing Pyramid</u> effect makes people incentivized to join Society
 
 It also incentivizes Society Protocol instances to create Protocol Parameters, Levels, and Laws which are as close to _fair_ and _legitimate_ as possible—creating a competition between rival instances to attract users—in which the most balanced instances have a generic advantage and will win (with the general public) in the end—just like the clock we use today after a millennia of refinement. There is also room for wide variety of niche instances.
 
-**The quality of state**
+#### The quality of state
 
 The underlying state Society Protocol instances generate and store forms identities, a social graph, a socioeconomic value system, objects as property, and a unified base information layer for society—which all participants and applications can equally access. Social media, ride sharing, babysitting applications, etc…can all finally share the same public data—_removing the need to duplicate the state_.
 

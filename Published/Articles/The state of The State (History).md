@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-08-21T09:16
+updated: 2025-10-29T12:42
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 ## Table of Contents
@@ -21,9 +21,9 @@ The state is all around us. We exist within it, operate through it, and depend o
 
 There are three distinct layers of state within a State. All of these delineations together encompass the **state**:
 
-- **Public state**: The public record, accessible to everyone, which the State propagates and uses to keep track of its current state.
-- **Semi-private state**: The non-public shared context within subgroups, such as: families, friends, or organizations.
-- **Private state**: An individual's current condition or status—the internal record unique to each person.  
+- **public state**: The public record, accessible to everyone, which the State propagates and uses to keep track of its current state.
+- **semi-private state**: The non-public shared context within subgroups, such as: families, friends, or organizations.
+- **private state**: An individual's current condition or status—the internal record unique to each person.  
 
 ![[the state.excalidraw.png|600]] 
 
