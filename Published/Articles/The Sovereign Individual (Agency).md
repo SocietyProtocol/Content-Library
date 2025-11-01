@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2025-11-01T18:04
+updated: 2025-11-01T19:23
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a mostly a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
@@ -246,6 +246,8 @@ Currently, these duplicated contracts are in the form of digital data. To facili
 
 Identity is now a hybrid—personal, yet algorithmic (part of it belongs to you and part to the algorithms). _Who controls the algorithms?_
 
+![[terminator.jpg|800]]
+
 Each piece of accumulated data increases the power intermediaries have over individual’s identities. Intermediaries can use this power in many ways:
 
 - To exercise immediate absolute power (such as removing your account permanently from _LinkedIn_).
@@ -254,11 +256,11 @@ Each piece of accumulated data increases the power intermediaries have over indi
 
 The middle-men of the DEAA use this accumulated data, as leverage to negotiate for changes in our identities with overwhelming power. Our identities are shaped and molded by algorithms, belonging to ultra powerful intermediaries, alongside the "_equal_" parties we interact with. The biggest force shaping our identities in the modern DEAA is those in-control of the algorithms we all use—the technocratic elites[^6].
 
-> Caption: Worldwide censorship is accessible at the click of a button.
+![[matrix-neo-mouth.jpg|800]]<center>Worldwide censorship is accessible at the click of a button.</center>
 
-> Caption: Debanking, and confiscation of property is accessible at the click of a button.
+![[atm-wthdrawal-declined.jpg]]<center>Debanking and confiscation of property is accessible at the click of a button.</center>
 
-> Caption: Removing an identity from its social connections is accessible at the click of a button and can be done insidiously opaquely by tuning the algorithm imperceptibly.
+![[isolation-room.png|800]]<center>Removing an identity from its social connections is accessible at the click of a button, and can be done insidiously imperceptibly by tuning the algorithm.</center>
 
 From the opposite individual side, the individual can't do any of these things. The individuals cannot select the algorithms imposed on their lives. They often can't even access information about their identity owned by the intermediaries. Individuals cannot effectively possess, access, interact with, or commercialize (buy & sell) their identity, property, or data without the support of these middle-men.
 
@@ -273,6 +275,8 @@ From an individuals perspective, it is comparable to being in a panopticon with 
 Roles shifted from ascribed feudal roles, to achieved & attained individualist selves. If the SEAA brought specialization of roles, during the DEAA, society learned how to optimize the selection of individuals to fill these specialized roles. Socioeconomic mobility allowed individuals to enter a competition for these roles and society to optimize its functioning, producing the best talent for each specialized role.
 
 _Anyone can become anything! You too can be like Mike!_
+
+![[michael-jordan-slam-4.jpg]]
 
 Roles during the DEAA have become significantly more decoupled from race and ethnicity. Today, we are citizens of Nation States, most of which have abstracted away the conceptualization of race and ethnicity from the conceptualization of the State structure in order to increase the coordination and efficiency of multiple tribes working together as one structure. Most Nation States are multi-ethnic and multi-cultural. Race is still an issue, but the primary bind on identities is the Nation State, not the race. When I travel, they don’t ask for my race, they ask what Nation State I’m from—for my passport. Multiple ethnicities and races have equal legal rights inside a single Nation State structure.
 
@@ -303,6 +307,8 @@ Anonymous (and to a lesser degree pseudonymous) digital existence cannot be tole
 People often believe that it is surveillance capitalism they are living under, and that the corporate interests are incentivized to pilfer individuals data for profits—**_that’s not the case_**. <u>It’s not the corporations or businesses facilitating Surveillance States; it is the Nation State itself forcing corporations to disallow privacy and pilfer data</u>[^9]. This is techno-feudalism, not surveillance capitalism, because the base need for Surveillance States doesn’t originate from corporations—it comes from the Nation States’ need for social cohesion**.** _Again, the State can only provide as much individualism as it can sustain while maintaining social cohesion. The State itself cannot go outside of that box, it’s_ [_shared reality_](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) _will leak out, and it will die._
 
 **Let’s take a look at a short list of the entities tracking and editing your identity:**
+
+![[corporate-america-fortune-500-companies-usa-flag-design-turnpike.jpg]]
 
 Individuals have entered into a risky world…where they have both: no privacy (severely less than ever before), and the protection they receive in exchange for their identities’ compliance is still effectively limited to the whims of their rulers, because the intermediary middle-men have hijacked the democratic process. **Surveillance States aren’t neutral observation machines; the technocratic elites in control of them have their own agendas**. They will bend your identity into a pretzel: sending you to Iraq or Afghanistan, feeding you COVID vaccines that don’t work, or erasing you from the shared reality altogether to achieve their interests. _<u>Since individuals have no privacy, at both a micro and macro level in the modern day, there is nowhere to hide and nothing restraining their power</u>._
 
@@ -418,6 +424,8 @@ The identity data each SP instance generates will either remain in the hands of 
 
 > **The Synchronized Social Contract (SSC)** is the singular transparent synchronized social contract facilitating a shared reality, shared by all participants inside a Society Protocol instance.
 
+![[state-sphere.png|600]]
+
 _Identities of the TEAA interact with directly with the SSC_. Rather than interacting with many separate independent duplicated contracts of the DEAA—**identities of the TEAA interact _directly_ with the SSC**.
 
 The SSC is the singular synchronized source of trust[^15] for everyone in an SP instance. All participants[^16] have equal accessibility to interact directly with the SSC.
@@ -437,6 +445,8 @@ People want to build a community where it can’t be taken away by others around
 Society Protocol allows every Individual Actor to fluidly choose their own roles inside SP instances by using Levels. Participants will be able to become a tremendous range of roles. Each Individual Actor and Organization determines how to allocate their Energy and integrate their individuality into the fabric of society—_forming a unique identity signature over time._
 
 Individuals don’t have to choose one role or commit to anything forever—they can divide their Energy between Levels however they decide is best for them at each point in time. **The SSC already includes everything necessary to provide social cohesion and optimize coordination**—allowing every Individual Actor to have a unique configuration of how their Energy is distributed between Levels without oversight.
+
+![[Levels.excalidraw.svg|800]]
 
 - **Parents –** Individuals who are good at recognizing others who are aligned and talented can become successful as Parents, inviting many valuable people to their SP instance—expanding the power of their shared reality.
 - **Hunters –** Individuals who want earn Energy in a relatively easy fashion while helping their SP instance propagate Events, especially those who have the best machines to do so, can become successful Hunters. Hunters expand censorship resistance for everyone and clean the Energy pool of stagnant Energy.
@@ -480,7 +490,9 @@ Synchronized States of the TEAA allow us to maintain social cohesion while allow
 
 While Society Protocol provides less privacy than ever before during history, as is the pattern of evolution visible during absolutely every single age (ZEA, SEA, DEA, TEA). It is simultaneously capable of providing privacy at all the right spots using cryptography. _Privacy is correctly delineated_[^18].
 
-**Pseudoanonimity****:** Society Protocol instances consist of pseudonymous accounts and allow for multiple identities. This is different from the traditional government IDs of the DEAA and can facilitate a sense of privacy in some cases. Pseudonymous expression is really important to any society, being that pseudonymous/anonymous expression is the only way individuals can express truth which is taboo, politically inconvenient, or dangerous for their identity.
+**Pseudoanonimity**: Society Protocol instances consist of pseudonymous accounts and allow for multiple identities. This is different from the traditional government IDs of the DEAA and can facilitate a sense of privacy in some cases. Pseudonymous expression is really important to any society, being that pseudonymous/anonymous expression is the only way individuals can express truth which is taboo, politically inconvenient, or dangerous for their identity.
+
+![[cypherpunk-helmet.png|450]]
 
 Pseudoanonimity has historically demonstrated itself to be an important tool for coordination under duress. Very basic things, that we take for granted today, required pseudoanonimity: Bitcoin by Satoshi Nakamoto, The Federalist Papers by Publius, Nicolaus Copernicus’s Heliocentric Theory.
 
@@ -587,8 +599,10 @@ _What will the new types of societies which come from Synchronized States during
 
 - It will be more about “how can I contribute to society?” because that’s incentivized, both at an individual and organizational level. (Individuals will become better people.)
 - The worldwide Synchronized Social Contract (SSC) will make everyone more connected, aware, and intelligent—able to make better decisions as a society at scale.
-- _The state of the present moment and history will become more illuminated._
-- There will be more trust and it will be less about physical features.
+
+![[flock-of-birds-2.png|600]]
+
+- _The state of the present moment and history will become more illuminated._ 
 
 _We are also certain many changes we do not foresee are coming, and will alter identity in drastic and profound ways._
 
