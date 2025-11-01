@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-10-19T12:37
+updated: 2025-10-31T12:28
 ---
 # Concepts
 
@@ -67,11 +67,11 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
 ## The Individual: Actors, Accounts, and Individuals
 - **Actors & Accounts:** Actors control accounts.
     - Individual Actors, Sovereign Actors, or just Actors?
-    - We will have both human and non-human actors, should we delinianate further?
+    - We will have both human and non-human Actors, should we delinianate further?
     - **Genesis Actors**: Actors who are alive at the Genesis Time of a Society Protocol instance. 
 - **Lifeline**: Actors have a Lifeline, which is equal to the Timelapse between their Birth and Death Events.
 - **Activity Score:** Each account has an Activity Score which is accumulated through activity, by performing Events at Levels and decays over time to calculate their “aliveness” in the protocol.
-- **Programmable Will**: Automatically goes into effect upon the Death Event of an Actor to determine the lineage of ownership of their Property. 
+- **Programmable Will**: Automatically goes into effect upon the Death Event of an Actor to determine the lineage for ownership of their Property. 
 
 ## Events
 - **Event:**  An event is an action which occurs inside the protocol, including: activity at one of the levels, energy transfers, birth & death events.

@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2025-10-29T20:15
+updated: 2025-11-01T15:37
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a mostly a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
@@ -28,7 +28,7 @@ This means that simply by thinking about someone a certain way, we can pin their
 
 _Identity controls everything._ Our mentality, the range of ideas floating around in our minds, how our attention moves, how we perceive things, our range of reactions, our lifespan, the odor we produce, our physical strength, our attractiveness. It's the programming for humans, and we're all coded.
 
-It’s also worth mentioning, that the shared reality is responsible for our initial programming, via the indoctrination process described in [The state That Binds (Shared Reality)](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). This programming allows us to function as a member of the State. Meaning, even within this identity negotiation between the individual and the shared reality, the shared reality sets up much of the initial programming parameters while we’re helpless children, before we become adults and can distinguish for ourselves which part of the box (of identity ranges) we want to reside in[4](#fn:4).
+It’s also worth mentioning, that the shared reality is responsible for our initial programming, via the indoctrination process described in [The state That Binds](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). This programming allows us to function as a member of the State. Meaning, even within this identity negotiation between the individual and the shared reality, the shared reality sets up much of the initial programming parameters while we’re helpless children, before we become adults and can distinguish for ourselves which part of the box (of identity ranges) we want to reside in[4](#fn:4).
 
 Once we factor in these limitations (the death box) and (shared reality indoctrination & influence) _everything else we can choose for ourselves._ It’s really only the death box, indoctrination programming, and the constant shared reality influence that limits us.
 
@@ -42,11 +42,9 @@ So now we understand all of this and are wiser to it…let’s tune our identity
 
 _Beliefs are fashion._
 
-- People wear and own what they identify with and want to be perceived as.
-
-  - Often taking an item of lower quality but associated with a brand we are associated with, over an item of higher quality.
+- People wear and own what they identify with and want to be perceived as. Often taking an item of lower quality but associated with a brand we are associated with, over an item of higher quality.
 - A lot of times people’s beliefs are held by their friends and not themselves.
-- Rob Henderson and Erik Torenberg writing describes how these mechanics work in detail, in \[@hendersonLuxuryBeliefsAre2023\] and \[@torenbergBeliefsAreFashions2022\].
+- Erik Torenberg and Rob Henderson describe how these mechanics work in detail, \[@hendersonLuxuryBeliefsAre2023\] and \[@torenbergBeliefsAreFashions2022\].
 
 * * *
 
@@ -76,7 +74,7 @@ At each epoch of societal evolution, the social cohesion mechanisms have evolved
 > 
 > We do everything for our egos, from picking out clothes to murdering people, yet **_the ego doesn't even belong to us_**.
 > 
-> Overall, this is all done for the betterment of the species
+> Overall, this is all done for the betterment of the species.
 
 * * *
 
@@ -86,36 +84,36 @@ At each epoch of societal evolution, the social cohesion mechanisms have evolved
 
 #### A Brief Interlude
 
-More teachings about how to refine identity, achieve longevity, and find purpose can be found at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co), where we offer the community environment, knowledge, and tools necessary to facilitate the optimal refinements in identity, longevity, and purpose.
+More teachings about how to refine identity, achieve longevity, and find purpose can be found at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co).
 
 ## Evolution of Identity
 
-In this article, we will cover: where we have been in the past, where we are now, and how the nature of identity will change in the future.
-
-The four epochs we cover are the same pattern from every other article.
+In this article, we will cover: where we have been in the past, where we are now, and how the nature of identity will change in the future. The four epochs we cover are the same pattern from every other article.
 
 1. [Zero-Entry Accounting (ZEA) – Tribes (Pre 10,000 BCE – 3,500 BCE)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Zero-Entry+Accounting+%E2%80%93+Tribes+(Pre+10%2C000+BCE+%E2%80%93+3%2C500+BCE))
 2. [Single-Entry Accounting (SEA) – Classical States (3500 BCE–476 CE)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Single-Entry+Accounting+%E2%80%93+Classical+States+(3500+BCE%E2%80%93476+CE))
 3. [Double-Entry Accounting (DEA) – Nation States (500 – Present)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Double-Entry+Accounting+%E2%80%93+Nation+States+(500+%E2%80%93+Present))
 4. [Triple-Entry Accounting (TEA) – Synchronized States (Starts now)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Triple-Entry+Accounting+%E2%80%93+Synchronized+States+(Starts+now))[](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Triple-Entry+Accounting+%E2%80%93+Synchronized+States+(Starts+now))
 
-It's important to understand that as we go through these epochs, they stack on top of each other––not replace each other. We still use reputation systems and rituals of identity change, originating from the ZEA age today, but have added records (SEA), contracts (DEA), and soon synchronization (TEA).
+It's important to understand that as we go through these epochs, they stack on top of each other––not replace each other. We still use reputation systems and rituals of identity change, originating from the ZEA age today, but have added permanent records (SEA), duplicated contracts (DEA), and soon world-wide synchronization (TEA).
 
 ### Zero-Entry Accounting Age (ZEAA) – Tribes (Pre 10,000 BCE – 3,500 BCE)
 
-Humans lived in small bands of 20–50 people during this period, until the Neolithic Revolution around 10,000 BCE, when agriculture enabled larger communities. Afterwards, early farming villages formed, but their total population didn’t scale much past _Dunbars number (around 150 people)_ during this epoch. _Just small bands and tribes._
+Humans lived in small bands of 20–50 people during this period, until the Neolithic Revolution around 10,000 BCE—when agriculture enabled larger communities. Afterwards, early farming villages formed, but their total populations didn’t scale much past _Dunbars number (around 150 people)_ during this epoch. _Just small bands and tribes._
 
 Identity was held in place entirely in the minds of the members of the tribe (reputation). **Reputation** **was everything** (it still is today but fortunately it’s not held solely in the malleable minds of our neighbors). Life, death, and roles depended entirely on how those 20–150 malleable minds felt about any individual during any given moment.
 
-There was no way to permanently record any state, and no way to survive alone as an individual. Without your identity, which existed in the minds of your tribal members—you’re ☠️. That’s your ancient passport, it’s your reputation. It didn’t interoperate much, other tribes were mostly hostile and had no reputation for you = no identity = ☠️☠️.
+There was no way to permanently record any state, and no way to survive alone as an individual. Without your identity, which existed in the minds of your tribal members—you’re ☠️. That’s your ancient passport, it’s your reputation. It didn’t interoperate much—other tribes were mostly hostile and had no reputation or identity for you = ☠️☠️.
 
 #### Roles
 
-**_Identity was more fluid._** Roles could change rapidly due to circumstances and were created or changed using <u>rituals</u>. There was no massive State holding you in position or trying to tax and identify you, just 20–150 people tribes who communally arrived at a fluid consensus.
+**_Identity was more fluid._** Roles could change rapidly due to circumstances and were created or changed using _rituals_.
 
 Identity shifts were centered around rituals: the ritual of birth, the ritual of becoming a man, the ritual of becoming a mother, the ritual of becoming a hunter, the ritual of becoming an elder, the ritual of dying. _The rituals and confessions around a fire could shift fluid identity roles._
 
-The specialization of roles was fluid and there wasn’t too much hierarchy. People weren’t practicing their whole lives or bloodlines to become scribes, lawyers, or doctors. An individuals past could easily be erased and adjusted. All that was necessary, was to convince the malleable minds of the members of their tribe.
+The specialization of roles was fluid and there wasn’t too much hierarchy. There was no massive State holding your role in position or trying to tax and identify you, just 20–150 people tribes, who communally arrived at a fluid consensus.
+
+People weren’t practicing their whole lives or bloodlines to become scribes, lawyers, or doctors. An individuals past could easily be erased and adjusted. All that was necessary, was to convince the malleable minds of the members of their tribe.
 
 The legacies of these rituals weren’t recorded. Everything during the ZEAA was mired in impermanence[5](#fn:5). There was no paperwork or documents holding identities in place, _only reputation_.
 
@@ -125,7 +123,7 @@ Individuals had to fit their “role” into the tribal State’s shared reality
 
 During the ZEAA, individuals whole concept of lasting identity probably wasn’t as deep or strategic as ours today. They probably didn’t ponder about who they were so much, because it constantly changed, but rather acted on it—locked into whatever their identity was in the moment (locked into that level of Maslow’s hierarchy of needs).
 
-Roles were fully attached to ethnicity, your tribe _<u>was</u>_ your ethnicity.
+Roles were fully attached to ethnicity, your Tribe (State) _<u>was</u>_ your ethnicity.
 
 #### Privacy
 
@@ -133,7 +131,7 @@ While privacy from the tribe was rare; privacy over time was common. Whatever an
 
 #### Individualism
 
-Individualism was suppressed. Identity was communal property. Isolation was reduced in small bands, and the social pressure to conform was amplified.
+Identity was communal property. Individualism was suppressed. Isolation was reduced in small bands, and the social pressure to conform was amplified.
 
 The shared reality heavily controlled identity—_limiting individualism and specialization to only the identities the tribe required at any given moment_. The tribal State’s small margin for bare survival didn’t allow it to invest in individualism, anyone standing out as too eccentric faced ostracism.
 
@@ -240,41 +238,35 @@ The DEAA is fundamentally an age of intermediary middle-men facilitating horizon
 
 _Today, our identities are molded and limited by what the Nation State structure can handle._
 
-Ownership of identity rests in duplicated contracts: social media profiles, credit scores, criminal records, resumes, birth certificates, search histories, etc..Nation States hold our main identity (birth certificates, passports, criminal records), banks hold our property assets (cash, equities, real estate deeds), and corporations hold our data (locations, social interactions, connections, purchases, search history). At each point of interacting with our identity, property, and data—there is a middle-man who owns and controls that part of our identity.
+Ownership of identity rests in duplicated contracts: social media profiles, credit scores, criminal records, resumes, birth certificates, search histories, etc..
 
-Currently, these duplicated contracts are held in the form of digital data. To facilitate social cohesion, the Nation State requires access to your data. _Otherwise, it wouldn’t be able to facilitate social cohesion, and it would disappear._ Giving rise to Surveillance States.
+Nation States hold our main identity (birth certificates, passports), banks hold our assets (cash, equities, real estate deeds), and corporations hold our data (locations, social interactions, relationships, purchases, search history). At each point of interacting with our identity, assets, and data—there is a middle-man who owns and controls that part of our identity.
+
+Currently, these duplicated contracts are in the form of digital data. To facilitate social cohesion, the Nation State requires access to your data. Without this ability, the Nation State wouldn’t be able to facilitate social cohesion, and its shared reality would disappear. Giving rise to Surveillance States.
 
 Identity is now a hybrid—personal, yet algorithmic (part of it belongs to you and part to the algorithms). _Who controls the algorithms?_
 
-Each piece of accumulated data, increases the power the intermediaries (governments, banks, and corporations) have over individual’s identities.
+Each piece of accumulated data increases the power intermediaries have over individual’s identities. Intermediaries can use this power in many ways:
 
-This accumulated data, increases the power the intermediaries: governments, banks, and corporations, have over individual’s identities. Intermediaries can use this power in many ways, to exercise feudalist like powers, or simply even keep it for negotiating leverage against the individual, and to analytics mine for statistics on the population to increase their decision making capacity. _They can use it to change our identities. Increase the poor, increase the rich, move the rich here. Move this race to become impoverished. Make many single females. It’s all algorithmic. Our identities are shaped and molded by the algorithms alongside the “equal” parties we interact with._
+- To exercise immediate absolute power (such as removing your account permanently from _LinkedIn_).
+- Keeping it stockpiled to retain as negotiating leverage against the individual (such as subtly implying that all people are _equal_ while retaining the ownership to your entire life's worth of data as a negotiating chip).
+- To analyze the statistics of the entire population, allowing the intermediaries better decision-making capacity while keeping each individuals decision-making capacity relatively decreasing.
 
-> Worldwide censorship is accessible at the click of a button.
+The middle-men of the DEAA use this accumulated data, as leverage to negotiate for changes in our identities with overwhelming power. Our identities are shaped and molded by algorithms, belonging to ultra powerful intermediaries, alongside the "_equal_" parties we interact with. The biggest force shaping our identities in the modern DEAA is those in-control of the algorithms we all use—the technocratic elites[6](#fn:6).
 
-> Debanking, and confiscation of property is accessible at the click of a button.
+> Caption: Worldwide censorship is accessible at the click of a button.
 
-> Removing an identity from its social connections is accessible at the click of a button and can be done insidiously opaquely by tuning the algorithm imperceptibly.
+> Caption: Debanking, and confiscation of property is accessible at the click of a button.
 
-> The biggest force shaping our identities in the modern DEAA is those in-control of the algorithms we all use—Surveillance States.
-> 
-> The second biggest force is our “equal” horizontal counterparties.
-> 
-> The third biggest force is our local reputation systems.
+> Caption: Removing an identity from its social connections is accessible at the click of a button and can be done insidiously opaquely by tuning the algorithm imperceptibly.
 
-From the opposite individual side, the individual cannot do any of these things. The individuals cannot select the algorithms imposed on their lives. The individual often cannot access information about their identity held by these parties. Individuals cannot effectively possess, interact with, or commercialize (buy & sell) their private identity, assets, or data without the support of these middle-men.
+From the opposite individual side, the individual can't do any of these things. The individuals cannot select the algorithms imposed on their lives. They often can't even access information about their identity owned by the intermediaries. Individuals cannot effectively possess, access, interact with, or commercialize (buy & sell) their identity, property, or data without the support of these middle-men.
 
-Our personal identity doesn’t fundamentally belong to us, it is owned by intermediaries who siphon it from and provide it in aggregate form to the surveillance of the Nation State—Surveillance States—controlled by the technocratic elites, who are unable to facilitate free markets or let go of their need to monitor all the data flowing through their kingdom for a lest of losing social cohesion and dissipating their States.
+Our identities, in the form of data, and everything stored inside them, aren’t owned by us. _They belong to some very equal people_. They are owned by intermediaries who siphon the data from our interactions and provide it in aggregate form to the surveillance of the Nation State—Surveillance States—controlled by the technocratic elites, who are unable to facilitate free markets or let go of their need to monitor all the data flowing through their empire due to an inability to provide social cohesion if the digital data, storing our identities, interactions, and reputations, escapes their clutches.
 
-From an individuals perspective, it is comparable to being in a panopticon with the guards having tinted windows—everyone is being watched but cannot see the guards. A worldwide panopticon system silently manipulates our identities.
+From an individuals perspective, it is comparable to being in a panopticon with the guards having tinted windows—everyone is being watched but cannot see the guards. _A worldwide panopticon silently manipulates our identities—from the shadows._
 
-No matter what these organizations claim to do with our data now, there is little to stop them from changing their policies in the future or simply getting hacked by malicious actors’ attacks on their stashes of data, which they have proven unable to stop consistently for the past 20 years.
-
-> Imagine if someone broke into Googles, Microsofts, or Facebooks servers (which hasn't really happened yet, but is always a possibility) and exfiltrated literally everyones’ private conversations, emails, profiles, and location data from the past two decades at the same time…Dumping it all into the internet.  
->   
-> Would the world explode if absolutely everyone could read ALL of everyone else’s private information (DMs, notes, and emails)?
-
-**_The more this imbalance in data grows, the longer it continues, the more powerful techno-feudal partnerships between Nation States and corporations grow and the less powerful individuals become._** We are entering the last final breaths of the DEAA—the democratic processes which have allowed the rise of individualism, are reverting into techno-feudalism. This aggregation of data has moved us back from the democratic ideals developed by the Magna Carta and Print Revolution era to overthrow the feudalist church into a very similar techno-feudalism of Surveillance States. As this happened, our societies again became unable to facilitate different opinions from the ruling class, because we no longer live in Democratic systems—we’re back to feudalist systems, but this is a temporary reversion…time doesn’t move backwards.
+**_The more this imbalance in data grows, the longer it continues, the more powerful the techno-feudal partnerships between corporations and Nation States become, and the less powerful individuals become._** We are entering into the last breaths of the DEAA—the democratic processes which have allowed the rise of individualism, are reverting into techno-feudalism. This aggregation of data has moved us back from the democratic ideals fostered by the Magna Carta and Print Revolution era, to overthrow the feudalist church’s control, into a very similar techno-feudalism. As this happened, our societies again became unable to facilitate different opinions from the ruling class, because we no longer live in democratic systems—we’re back to feudalist systems[7](#fn:7).
 
 #### Roles
 
@@ -282,51 +274,39 @@ Roles shifted from ascribed feudal roles, to achieved & attained individualist s
 
 _Anyone can become anything! You too can be like Mike!_
 
-Individualism has made people less fungible than during the SEAA. The Industrial Revolution is a great example, while everybody became cogs in a machine—everybody was different cogs. It became impossible to switch cogs around as easily as the undifferentiated commoditized mass of peasants and slaves which made up most of the population during the SEAA.
+Roles during the DEAA have become significantly more decoupled from race and ethnicity. Today, we are citizens of Nation States, most of which have abstracted away the conceptualization of race and ethnicity from the conceptualization of the State structure in order to increase the coordination and efficiency of multiple tribes working together as one structure. Most Nation States are multi-ethnic and multi-cultural. Race is still an issue, but the primary bind on identities is the Nation State, not the race. When I travel, they don’t ask for my race, they ask what Nation State I’m from—for my passport. Multiple ethnicities and races have equal legal rights inside a single Nation State structure.
 
-Individualism has increased through the Industrial Revolution and has made people less fungible than during the SEAA. While the Industrial Revolution made people cogs in a machine…it made them individualized cogs. Every cog identity in the machine is specialized and different from a mass of commoditized peasants and slaves of the SEAA.
-
-Tribal bonds (race) have shifted to nationalism (State) and global profiles. Today, we are citizens of Nation States, many of which have abstracted away the conceptualization of race (tribe) from the conceptualization of the State structure in order to increase the coordination and efficiency of multiple ethnic tribes working together.
-
-Roles during the DEAA have become significantly more decoupled from ethnicity. Most Nation States are multi-ethnic and multi-cultural. Race is still an issue, but the primary bind on identities is the Nation State, not the race. When I travel, they don’t ask our race, they ask our Nation State passport. We don’t ask what tribe or ethnicity you’re from, identity has become tied to the Nation State rather than the ethnicity. We interact with a global audience from long histories of migration, our societies are multi-cultural. Multiple races have close to equal legal rights in one Nation State structure. Otherwise, it would have a really difficult time functioning—the modern Nation State wants to abstract the concept of race as far away as possible, to integrate its multiple races equally, to maximize its productivity and social cohesion.
+Without this feature, the modern Nation State would have a really difficult time functioning. The modern Nation State wants to abstract the concepts of ethnicity, race, and other differentiating factors as far away as possible, to integrate its multiple tribes equally—maximizing the State’s legitimacy, and social cohesion. _We are all equal now._
 
 #### Individualism
 
-Individualism vastly increased. The DEA epoch is the first era to bring a true sense of individualism to ordinary people. The democratic process is the facilitator of this, allowing us to maintain tribal cohesion while still allowing everyone a massive range of individual choices.
+Individualism vastly increased. The DEA epoch is the first era to bring a true sense of individualism to ordinary people. Democratic processes were a requirement to unlock individualism, because they allowed the State structure to maintain social cohesion with a plurality of unique political positions and public perspectives.
 
-Democratic processes were actually a requirement to unlock individualism, not the Print Revolution, because they allowed the State to maintain social cohesion with a plurality of unique mindsets and individuals. Individualism arose in the Western World, as Nation States with democratic systems of governance were finally able to handle differentiation in identities while still retaining a sense of social cohesion by using the democratic processes.
+The Print Revolution was the single moment in time which captured this shift, building on the democratic foundations of the Magna Carta, it facilitated the Western European World’s DEAA of duplication to transcend the total control of societal cohesion by the Catholic Church—via simply duplicating documents—allowing widespread CRUD access to the societal state—facilitating democracy—and sparking the Reinassance, Scientific Revolution, Enlightenment, and Industrial Revolution. **It all happened due to an increase in the State’s ability to handle individualism**. The democratic process, combined with a wide duplication of the state, proved enough to facilitate societal cohesion—without the need for the Catholic Church to do so.
 
-The Print Revolution was the single moment in time which captured this shift, building on the democratic foundations of the Magna Carta it facilitated the Western world’s DEAA of duplication to transcend the total control of societal cohesion by the church—via simply duplicating documents—allowing widespread CRUD access to the societal state—facilitating democracy—and sparking the Reinassance, Scientific Revolution, and Enlightenment, and Industrial Revolution. It all happened due to an increase in individualism due to the church not being necessary to facilitate societal cohesion any longer. The democratic process, combined with a wide duplication of the state, proved enough to facilitate societal cohesion.
+The Nation State, which followed that period, became so cohesively organized through the democratic process that it could facilitate the social cohesion required to give individuals a massive range of individual freedoms. _The State R&D budget for individualist experimentation became huge._ This found all sorts of useful discoveries and propelled Western Europeans to dominate the world for centuries and become the Western World of today (still dominating the world, but this power is slipping rapidly because we’re approaching the end of the DEAA).
 
-The Nation State became so cohesively organized through the democratic process that it could facilitate the social cohesion required to give individuals a massive range of individual freedoms. The State R&D budget for individualist experimentation became huge. This found all sorts of useful discoveries and propelled the Western Europeans to dominate the world for centuries and become the Western World of today (still dominating the world, but this power is slipping because of the techno-feudalist regression).
+The range of individualist choices allowed by the West almost started to seem _limitless_. All sorts of weird individuals and beliefs emerged: sexual perversions, feminists (we are all equal!), philosophical illusions, anarchists[8](#fn:8). _Men became women. Women were equal to men. Homelessness became regular. Mass migration was valuable. Facial tattoos became crucial self-expression of identity. Today, it almost seems limitless…but it’s not limitless. <u>Remember, individualism is always limited by what the State can afford while maintaining social cohesion</u>._
 
-The range of individualist choices allowed by the West almost started to seem _limitless_. All sorts of weird people emerged: sexual perversions, philosophical illusions, single cat ladies, anarchists[6](#fn:6), . _Men were women. Women were men. Homelessness was good. Mass migration was valuable. Facial tattoos were crucial self-expression of identity._ Today, it almost seems limitless…_but it’s not limitless._ Remember, individualism is always limited by what the State can afford while maintaining social cohesion.
+A good way to perceive the this seemingly invisible line in the modern age is: **privacy**. To facilitate tribal cohesion, the State needs all your data. _No individualism there buddy, hand it over!_
 
-A good way to perceive the this seemingly invisible line in the modern age is: **privacy**. To facilitate tribal cohesion, the State needs all your data. No individualism there! Hand it over!  
-  
-Another thing that the State cannot tolerate for social cohesion to remain, is ethnic discrimination. Remember, we are all equal citizens. This must be engrained in our identities for the multi-cultural Nation State to function optimally. Ethnic cabals, cartels, and discrimination—which Nation States try very hard to disincentivize and dis-intermediate—throws a wrench into the foundations of democratic principles and the social cohesion enabled by them is based on equality.
+Another thing that the State cannot tolerate for social cohesion to remain, is ethnic discrimination. _Remember, we are all equal citizens_. This must be engrained in our identities for the multi-cultural Nation State to flourish. Ethnic cabals, cartels, and discrimination—which Nation States try very hard to disincentivize and dis-intermediate—throws a wrench into the foundations of democratic principles and the social cohesion enabled by them is based on equality, paradoxically allowing individualism.
 
-The DEAA has also facilitated more inventory and property rights. Identity is a form of property in a sense. It enabled the precise tracking of identity, property, and data (wealth) via duplicated contracts. Identities today are more than ever tethered to the ownership of property—their inventory. A privilege that was only reserved for elites during the SEA epoch.
+Additionally, the DEAA has enhanced property rights. It enabled the precise tracking of identity, property, and data (wealth) via duplicated contracts. Identities today are more than ever tethered to their ownership of assets. A privilege that was only reserved for elites during the SEA epoch.
 
 #### Privacy
 
-Privacy has been severely eroded during the DEAA. _Welcome to mass surveillance ._
+_Privacy has been severely eroded during the DEAA._ We still have the old-fashioned communal reputation—the neighborhood grandmothers keeping an eye on us—but now the surveillance has gone global. Everyone's watching: governments, corporations, and billions of people online. Our actions and reputations are tracked worldwide. Hundreds of institutions monitor and record our entire lives. _Privacy has never been scarcer._
 
-We still inherit the communal reputation and are observed by the neighbors and grandmother, but now we have everyone’s eyeballs on us with precision. Global States, competitor rival States, corporations, and the whole internet watching us and our reputation is global. Hundreds of institutions now record and surveil our entire lives—there’s less privacy than ever.
+Anonymous (and to a lesser degree pseudonymous) digital existence cannot be tolerated by the Nation State, because it cannot provide social cohesion under such circumstances. Since the Nation State itself is a creature of past simpler times (of duplicated written contracts and democracy)—it can only hook into and see the things happening within those systems, meaning: _it can’t naturally access digital data_. Since it can’t itself perceive the digital data—flowing like blood flow throughout its territory—it needs to find some eyes—”Oh, hi corporations! 👀.” _But since corporations still can’t perceive anonymous digital expressions, <u>the State can’t allow them</u>._ **That would disintegrate its social cohesion.** _A State that cannot provide social cohesion cannot survive._ _Welcome to Surveillance States 🎉_.
 
-Anonymous (and to a lesser degree pseudonomous) digital existence cannot be tolerated because the State cannot provide social cohesion under such circumstances. Since the Nation State itself is a creature of past simpler times of duplicated contracts and democracy, it can only hook into and see the things happening within those systems—it cannot naturally see digital data. Since it can’t see anonymous digital representations, it can’t allow them. **They would wreck social cohesion**. It’s that simple. A State that cannot provide social cohesion cannot survive. _Welcome to Surveillance States 🎉_.
-
-People often believe that it is surveillance capitalism they are living in, and the corporate interests are incentivized to pilfer individuals data for profits—_<u>it is not the case</u>_. It is not the corporations or businesses facilitating Surveillance States, **it is the Nation State itself forcing corporations to disallow privacy and pilfer data**[7](#fn:7). This is techno-fedualism, not surveillance capitalism, because the base need for Surveillance States doesn’t come from corporations, **it comes from the States need for social cohesion.** Again, the State can only provide as much individualism as it can allow while maintaining social cohesion. The State itself cannot go outside of that box, it’s [shared reality](https://lex.page/d/c57e9c9a-49f3-49fe-a78b-2b4e66b445b0) will leak out, and it will die.
+People often believe that it is surveillance capitalism they are living under, and that the corporate interests are incentivized to pilfer individuals data for profits—**_that’s not the case_**. <u>It’s not the corporations or businesses facilitating Surveillance States; it is the Nation State itself forcing corporations to disallow privacy and pilfer data</u>[9](#fn:9). This is techno-feudalism, not surveillance capitalism, because the base need for Surveillance States doesn’t originate from corporations—it comes from the Nation States’ need for social cohesion**.** _Again, the State can only provide as much individualism as it can sustain while maintaining social cohesion. The State itself cannot go outside of that box, it’s_ [_shared reality_](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) _will leak out, and it will die._
 
 **Let’s take a look at a short list of the entities tracking and editing your identity:**
 
-Individuals have entered into a risky world, where they both have no privacy (severely less than ever before), and the protection they receive in exchange for their identities—are still effectively limited to the whims of their rulers because the middle-men have hijacked the democratic process. **These Nation State surveillance machines aren’t neutral—the techno-feudalist oligarchs in control of them have their own agendas**. They will bend your identity into a pretzel, sending you to Iraq or Afghanistan, or erasing you from the shared reality altogether to achieve their interests…and since individuals have no privacy at both a micro and macro level these days, there is nowhere to hide and nothing restraining their power.
+Individuals have entered into a risky world…where they have both: no privacy (severely less than ever before), and the protection they receive in exchange for their identities’ compliance is still effectively limited to the whims of their rulers, because the intermediary middle-men have hijacked the democratic process. **Surveillance States aren’t neutral observation machines; the technocratic elites in control of them have their own agendas**. They will bend your identity into a pretzel: sending you to Iraq or Afghanistan, feeding you COVID vaccines that don’t work, or erasing you from the shared reality altogether to achieve their interests. _<u>Since individuals have no privacy, at both a micro and macro level in the modern day, there is nowhere to hide and nothing restraining their power</u>._
 
-Individuals are manipulated via tax systems, school indoctrination systems (college debt), IRS, credit reports, healthcare systems, unequally applied legal codes, rigged monetary systems (FED), algorithmic information systems (news media): making them lose an excess amount of agency. The techno-feudalist rulers of modern times have grown more powerful than any group of people on Earth ever before due this identity limitation around the erosion of privacy and the pilfering of individuals data. **_This will be the end of the DEAA. It only gets worse from here, only nightmares for the average erasable exposed manipulatable Joe._**
-
-The thing to understand about privacy in the modern age: is that it’s essentially unachievable because it goes against the social cohesion necessities of the State. Escaping the surveillance systems of Surveillance States equals becoming an enemy of the State. And trust me, you don’t want that bro. You want a State that can facilitate privacy.
-
-> It’s not the fault of privacy, it’s not the fault of the State. **The State cannot afford more privacy, it would die 💀**. _What do you want from it?_
+The thing to understand about privacy in the modern age: is that it’s essentially unachievable. This is because true digital privacy goes against the existential social cohesion necessities of Nation States. Citizens exiting the surveillance systems of modern Nation States, equates to becoming an enemy of the State. And trust me, you don’t want that…_You want a State structure that can facilitate privacy._
 
 This is from a very cool story called [Privacy Means Safety](https://www.privacyguides.org/articles/2025/03/25/privacy-means-safety/):
 
@@ -340,139 +320,139 @@ This is from a very cool story called [Privacy Means Safety](https://www.privacy
 > 
 > We should never downplay the serious risk of exposing someone's data, even if this isn't a situation we personally experience, or even understand.” \[@emPrivacyMeansSafety2025\]
 
-That’s a very cool story bro! Unfortunately, it’s kinda moot.
+_That’s a very cool story bro!_ Unfortunately, it’s kinda moot.
 
-This is both correct and incorrect thinking at the same time. It’s true, <u>privacy does equal safety</u>. Yet, you can’t have any privacy…because the Nation State infrastructure cannot afford privacy in identities. Every individual and corporation in the world exists inside a Nation State jurisdiction. _How can they grant your identity privacy? …Have you found this privacy you seek somewhere? Aren’t all the systems broken and constantly being cracked and infiltrated?_ <u>It’s close to impossible to find privacy, because the Nation State structure cannot facilitate it</u>. When the weight of the State bears down, it’s essentially impossible to resist. Therefore, essentially all attempts at privacy have failed miserably. _It’s close to impossible. Because you exist within the jurisdiction of the Nation State, and it’s power can only allow you to do so much._ **_Therefore, you have no safety. You have no privacy, and privacy equals safety, and you cannot have privacy. Therefore, you have no safety._**
+It contains both correct and incorrect thinking at the same time. It’s true…**<u>privacy does equal safety</u>.** Yet…you can’t have any privacy, because the Nation State structure—which controls our identities—cannot allow digital privacy in identities. So, it’s irrelevant. <u>Every individual and corporation in the world exists within a Nation State jurisdiction</u>. _How can they grant you this privacy you seek?…Have you found this privacy you seek somewhere? Aren’t all the systems of privacy broken and constantly being cracked and infiltrated?_ _Why do you think that is?_
 
-Then what equals safety? This whole privacy means safety thing has me concerned 🤔…hmm. **How can we find safety** ⁉️ _<u>There are only two potential paths to safety, neither of which are currently being worked on</u>_:
+**It’s close to impossible to find privacy because the Nation State structure cannot facilitate it**. When the weight of the Nation State bears down on corporations and individuals; _it’s essentially impossible to resist_. All attempts at digital privacy have failed miserably_, because we all exist within the territorial jurisdiction of a Nation State._ **_Therefore…you have no privacy…and can’t have any privacy. <u>Privacy equals safety</u>. Therefore…you can’t have any safety._**
 
-1. **_A more advanced State structure which can facilitate privacy due to it’s ability to retain social cohesion despite privacy_** – This can be accomplished by hooking into identities while still being able to retain privacy for some aspects.
-2. **_Fairness and equality of representation in the State_**_. –_ It’s like, “okay sure, nobody has privacy, at each epoch we have witnessed less privacy, but fairness and equality of representation keeps everyone equally secure and safe from exploitation. _Perhaps the fix to the privacy isn’t privacy at all, but rather a_ **_more fairly represented interests in the State structure._**
+_Then what equals safety?_ This whole privacy means safety thing has me concerned 🤔…hmm. How can we find safety⁉️ **There are only two potential paths to safety, neither of which are currently being worked on** 🤦‍♂️:
 
-_You wouldn’t happen to know of a way these things can be accomplished, would you? I’m feeling a bit unsafe out here, in these streets, due to a lack of privacy._
+1. **A more advanced State structure which can facilitate privacy due to it’s ability to retain social cohesion <u>despite privacy</u>.** This can be accomplished by hooking directly into digital identities while remaining able to retain some privacy for some aspects using cryptography.
+2. **Fairness and equality of representation in the State (Complete Alignment)**. This option isn’t directly about privacy, but rather making the situation around privacy improved for society. At the current moment, we have unequal privacy (some of us have all the data while others have none) and unequal representation (we do not all have equitable access to make governance decisions).
 
-As we look back at our travelled epochs, in ZEA, SEA, and DBA…_it’s very unlikely that we’re moving towards a more private future_. During each epoch, privacy has only been eroded, and if we think about future technology…it’s hard to imagine why that pattern would reverse. _There is another thorny thing about privacy_: privacy and coordination/social cohesion tend to be counter-opposing forces. During each epoch of human evolution, coordination and social cohesion has gone up—and privacy has gone down.
+If we simply adjust that pattern, flipping it into <u>equal privacy</u> and <u>equal representation</u> for everyone: that would change the equation. Our society would not require as much privacy as before to alleviate the issue of safety. Everybody could even potentially have less privacy, but if we make it fair for everyone, <u>equal privacy</u> and <u>equal representation</u>. That would be more satisfactory to everyone. All the data from this public state, isn’t useless, it can be used to improve societal coordination.
 
-That is why humanities best bet to regain **safety** is more likely a path through option #2 above, rather than option #1. _Either way, Society Protocol provides solutions to both of them_.
+As we look back at our travelled epochs: the ZEAA, SEAA, and DEAA. _During each epoch, privacy has only eroded._ If we think about future technologies, it’s hard to imagine a future where that pattern would reverse. **A thorny issue about privacy, is that privacy and social cohesion (and coordination) tend to be counter-opposing forces**[10](#fn:10). _During each epoch of human evolution, coordination and social cohesion have increased, and privacy has decreased._ The State, which controls our identities fully[11](#fn:11), cares vastly more about social cohesion and coordination than it cares about privacy.
+
+_It’s very unlikely that we’re moving towards a more private future_. That is why humanities easiest bet to regain **balance and safety** is more likely a path through option #2 above, rather than focusing solely on option #1. _Either way, Society Protocol provides solutions to both of them_.
 
 #### Coordination
 
-Coordination is higher than ever. The DEAA fueled capitalism, industrialization, and globalization. The Industrial Revolution turned the Earth into a workshop factory, this required immense coordination and specialization. We now have global connectivity, supply chains, and identities—_globalism_. The entire human species kinda _moves connected_ in a sense today, we all react rapidly to geopolitical events instigated by our dear leaders like Trump, Putin, Xi, or Kim—_but not as one_. _It’s not fully synchronized_.
+Coordination is higher than ever. The DEAA fueled capitalism, industrialization, and globalization. The Industrial Revolution turned the Earth into a workshop factory— this required immense coordination and optimized specialization.
+
+We now have global connectivity, supply chains, and identities. _In short, globalism_. The entire human species kinda _moves connected_ in a sense today, we all react rapidly to geopolitical events instigated by our dear leaders like Trump, Putin, Xi, or Kim—_but not as one_. _It’s not fully synchronized_.
 
 #### Agency
 
-To change our identities, we must interact where it's stored: the horizontal layer of a global audience, the vertical layer of the State, and our local reputations. This involves going through intermediary middle-men who own our identity state data, enabling them to interact and act on our identities without our consent—_changing us in the process_.
+To change our identities, we must interact where it's stored: the horizontal layer of a global audience, the vertical layer of the State, and our local reputations. This involves going through intermediary middle-men who own our identity state data— enabling them to interact and act on our identities without our consent. _Changing us in the process._
 
-#### Summary & Limitations
+#### Summary & Limitations of the DEAA
 
-Society understood collective governance based on democratic principles, mastered individualism, learned the horizontal scaling of identities globally through duplicated documents, learned ways enable multi-cultural Nation States and while still maintaining social cohesion, went through the Industrial Revolution which brought capitalism, industrialization, and globalization.
+Society understood collective governance based on democratic principles, mastered individualism, learned how to scale identities globally through duplicated documents, learned ways to enable multi-cultural, multi-ethnic Nation States while still maintaining social cohesion,
 
-After the Print Revolution, individuals gained their independence from the church’s control of the shared reality—sparking the Renaissance, Scientific Revolution, and Enlightenment. As technology evolved, we gained momentous features, but have now entered the age of techno-feudalism.
+After the Print Revolution, individuals gained their independence from the church’s control of the shared reality—massively increasing individualism—sparking the Renaissance, Scientific Revolution, Enlightenment. This led to the Industrial Revolution which brought capitalism, industrialization, and globalization. As technology evolved, we gained momentous features, but have now entered the age of techno-feudalism.
 
-The problems of the DEAA are that our identities are intermediated by middle-men—who have taken control of our identities, assets, and data. Throughout the use of algorithms these technocratic middle-men have taken control of the state, the State, and our identities—manipulating us as individuals, changing our identities, and taking our voices out of the social contract.
+The limitations of the DEAA are that our identities are intermediated by middle-men—who have taken control of our identities, assets, and data. Throughout the use of algorithms these technocratic middle-men have taken control of the state, the State, and our identities—manipulating us as individuals, changing our identities, and taking our voices out of the social contract.
 
-Another issue that has arisen, especially precarious because of these technocratic middle-men control societal identities: is the lack of ability for modern Nation States to allow support privacy in individualism. Being unable to facilitate privacy, while imbalancing the societal power towards technocratic elites **takes away safety from everyone**, including the technocratic elites. People ultimately want to communicate censorship free, but their identity is limited by what the State can provide while maintaining social cohesion.
+Another issue that has arisen, especially precarious because of these technocratic middle-men control societal identities: is the lack of ability for modern Nation States to allow support privacy in individual’s identities. Being unable to facilitate privacy, while imbalancing the societal power towards technocratic elites _takes away safety from everyone_, including the technocratic elites.
 
-The foundation of democracy is perhaps not the understanding that we are all equal, but rather the understanding that people should get some form of a voice in collective governance. Equality is the indoctrination that we all face in the Western world, and it’s not matching up with the reality as we enter the age of techno-feudalism. This notion of equality imposed lots of suboptimal limitations on society during the DEAA, in order to achieve societal cohesion with differing opinions.
+The foundations of democracy indoctrinated all of us into a shared reality which is limited by its necessity to view things as _“equal”_[12](#fn:12)_—_in order to facilitate a world of enforceable duplicated contracts[13](#fn:13). This notion of equality imposed lots of limitations on society during the DEAA—in order to achieve societal cohesion with differing political perspectives. _Individualism._ Equality is the indoctrination we all face in the DEAA, but it doesn’t match up with reality. _We are all different._
+
+> Paradoxically, society had to accept the notion of equality to become different (individualized).
 
 The inability of DEAA’s States to form equal Schelling points free of severe abuse by intermediaries who must store the state, yet cannot afford privacy, while simultaneously indoctrinating everyone into the democratic foundations of “equality of representation” is tearing our world apart. Especially as duplication becomes easier, messier, and more algorithmically forced on the population.
 
-Limitation: Our identity is stored in is duplicated “equal” contracts, but this doesn’t mean the parties holding them are equal in power or resources.
-
 ### Triple-Entry Accounting Age (TEAA) – Synchronized States (Starts now)
 
-Identities of the TEAA will still belong to the Synchronized State at the end of the day, but the range of identities the SS can facilitate while maintaining social cohesion will _vastly expand—allowing individuals to become better people_.
+Identities of the TEAA will still belong to the Synchronized State at the end of the day, but the range of identities Synchronized States can facilitate, while maintaining social cohesion, will _vastly expand_.
 
-Synchronized States facilitate social cohesion and coordination automatedly, algorithmically, synchronized globally, indiscriminately, and retain the entire history of societal activity quasi-immutably. Society Protocol (SP) is programmed to facilitate the optimal coordination in the shared reality while using the simplest algorithmic social contract necessary to do so. Built from first principles, it doesn’t hold centuries of accumulated baggage innate to the coordination mechanisms of Nation States, which accumulated over centuries—as they evolved.
+Identities of the TEAA will become tethered on four-dimensions:
 
-The social contract is as simple as possible to get us everything we need with nothing extra, synchronized, and automatedly provided to everyone equally, as the same exact contract to all of society (allowing equality of societal rules, while acknowledging we are all different unique individuals and should bring value to society in our own unique ways).
+1. Local – Reputations (ZEAA)
+2. Vertical – Permanent Records (SEAA)
+3. Horizontal – Duplicated Contracts (DEAA)
+4. Worldwide – Programmatic Synchronization (TEAA)
 
-Identities are synchronized to the actions of others in the system, moving as one, yet separate, producing real data with sybil-resistance which accumulates over time.
+Synchronized States facilitate social cohesion and coordination automatedly, algorithmically, synchronized globally, indiscriminately, and retain the entire history of societal activity quasi-immutably.
+
+Society Protocol (SP) is designed to facilitate the optimal coordination inside the shared reality, while using the simplest programmable algorithmic social contract necessary to achieve those aims. It is designed from first principles, using modern technology, and doesn’t hold centuries of accumulated baggage innate to the coordination mechanisms of Nation States, which accumulated as they evolved over centuries from [split reality](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)#Split+Reality+(STB+Forks)) battles.
+
+The Synchronized Social Contract (SSC) is as simple as possible to get us everything we need: governance (group decision-making), money, identities, social graphs, sub-group organizations, property rights, coordination mechanisms, and social cohesion—with nothing extra. It is synchronized worldwide and accessible to everyone equally. The same exact transparent social contract for all of society—allowing for the equality of societal rules automatedly, while acknowledging that we are all different unique individuals, and should bring value to society in our own unique ways.
+
+Identities are synchronized to the actions of all other participants in the system— _moving as one, yet separate_—producing real-life data with sybil-resistance which accumulates over time.
 
 Society Protocol establishes enough social cohesion to enable identities including:
 
-- Pseudonomous Identities
-- Agentic Identities
+- Pseudonymous Identities
+- Agentic Identities (non-human)
 - Multiple Identities
 
 #### Identity
 
-As Individual Actors last through time in Society Protocol, their accounts accumulate a history (Property, social interactions, data, past history, Cultural Agreements, Organizations, etc…). **Uniqueness is accumulated through time.** Individual Actors are born when they are invited to the protocol and die when they no longer have any Energy. _Every Lifeline tells its own story._
+As Individual Actors last through time in Society Protocol, their accounts accumulate a history (Property, social interactions, data, past history, Cultural Agreements, Organizations, etc…). **Uniqueness is accumulated through time.** Individual Actors are born when they are invited to the protocol and die when they no longer have any Energy. **Every Lifeline tells its own story.**
 
-Sybil resistance makes it such that maintaining an account **is not free**, and has a cost associated, mimicking nature. Everything has an energetic cost, and standing still while others move around you is not free. It’s not possible to fool time in SP[8](#fn:8) in exactly the same way it’s impossible to fool time in real life.
+Sybil resistance makes it such that maintaining an account is not free, and has a cost associated, mimicking nature. Everything has an energetic cost, and standing still while others move around you is not free. It’s not possible to fool time in SP[14](#fn:14), in exactly the same way it’s impossible to fool time in real-life.
 
 At the heart of every identity in SP is Self-Sovereign Identity (SSI). Each account innately comes with a Decentralized Identifier (DID) upon instantiation. The DID allows every account to accumulate lasting identity data stored outside of the protocol, yet provable both outside and within it using Verifiable Credentials (VCs). All accumulated identity data in SP instances (public state in the Timeline, semi-private state conversations, and private state stored on local devices) can be verifiably used internally (inside the SP instance) as well as externally (outside of the SP instance)—to provide unique, verifiable, cryptographically protected, often privacy enhanced using zero-knowledge proofs identity information. Society Protocol returns agentic control of identity directly to the hands of its participants as Self-Sovereign Identities.
 
-Each account in SP comes with account abstraction (AA). Just like we have programmable property in SP, we also have programmable accounts for identities. The owners of each account are able to directly program the automated rules and account characteristics into their identity: names, avatars, Energy spending limits, Cultural Agreements, Property…all attach to clean identity accounts—we are no longer dealing with plain addresses that look like this: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. Every account has a name, avatar, relationships around it, and programmable rules about how the owner wants it to automatically interact with the world. Each account is a bearer instrument, only accessible by its owner and those whom they delegate (at different programmable levels of access). In the unfortunate event that a private key to the ownership of an account is lost, it can be recovered using social recovery techniques or backup key mechanisms.
+Each account in SP comes with account abstraction (AA). Just like we have programmable property in SP, we also have programmable accounts for identities. The owners of each account are able to directly program the automated rules and account characteristics into their identities: names, avatars, Energy spending limits, Cultural Agreements, Property, and more…all attach to clean identity accounts. We are no longer dealing directly with cryptographic addresses that look like this: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. Every account has a name, avatar, relationships around it, and programmable rules about how the owner wants it to automatically interact with the world. Each account is a <u>bearer instrument</u>, only accessible by its owner and those whom they delegate (at different programmable levels of access). In the unfortunate event that a private key to the ownership of an account is lost, it can be recovered using social recovery techniques or backup key mechanisms.
 
-A beautiful design aspect of identities in Society Protocol is that it stores sybil resistant self-sovereign identities, without needing to give anyone else, no third-parties, such as World or KYC registrars, access to your identity. No controlling third-party protocols controlling your data, creating biometric passports, no third-party can input data on your behalf into SP, _no external control at all_. **Simply real identities, accumulated with real actions and reputation over time controlled by their owners.** Society Protocol has no:
+A beautiful design aspect of identities in Society Protocol is that it stores sybil resistant self-sovereign identities, without needing to give anyone else, no intermediary third-parties (such as World or KYC registrars) access to your identity. No controlling third-party protocols controlling your data, creating biometric passports, no third-party can input data on your behalf into SP, _no external control at all_. _Simply real identities, accumulated with real actions and reputation over time, in a sybil-resistant manner, controlled by their owners._ Society Protocol has no:
 
 - No need for integration with other protocols to function at all
-- No need for any Nation State identity data at all
+- No need for any Nation State identity at all
 - No need for any biometrics at all
 - No need for any bureaucracy to verify an identity at all
 
-_All of these possibilities can still be included, and enhanced as as zero-knowledge attestations_—retaining privacy while providing additional verifiable real-world information to enhance users identities.
+_All of these possibilities can still be included, and even enhanced as as zero-knowledge attestations_—retaining privacy, while providing additional verifiable real-world information, to enhance users identities.
 
-Society Protocol stores identities without giving anyone access to your identity. No one other than an accounts rightful owner, their delegates, and skilled hackers who have hacked your private key and stolen your account can interact on your behalf. It’s otherwise impossible to forge actions in your name, in the same way that someone controlling my identity data today, let’s say LinkedIn, is able to forge messages in my name. It’s impossible for someone to steal parts of your identity, such as a credit card, without stealing the entire thing.
+Society Protocol stores identities without giving anyone access to your identity. No one other than an accounts rightful owner, their delegates, and skilled hackers who have hacked your private key and stolen your account can interact on your behalf.
 
-The identity data each SP instance generates will either be in the hands of its rightful owners, or accessible to all of society as public information, but never in the hands of middle-men extracting value out of all participants.
+- It’s otherwise impossible to forge actions in your name, in the same way that someone controlling my identity data today, let’s say LinkedIn, is able to forge messages in my name.
+- It’s impossible for someone to steal parts of your identity, such as a credit card, without stealing the entire thing.
+
+The identity data each SP instance generates will either remain in the hands of its rightful owners—or be accessible to all of society as public information, but never in the hands of middle-men extracting value from all participants. _That is a relic of the DEAA._
 
 #### Synchronized Social Contract (SSC)
 
-> **The Synchronized Social Contract (SSC)** is the single synchronized shared reality contract shared by all participants inside a SP instance.
+> **The Synchronized Social Contract (SSC)** is the singular transparent synchronized social contract facilitating a shared reality, shared by all participants inside a Society Protocol instance.
 
-Identities of the TEAA interact with directly with the SSC. Rather than interacting with separate duplicated unsynchronized contracts of the DEAA—**identities of the TEAA interact _directly_ with the SSC**.
+_Identities of the TEAA interact with directly with the SSC_. Rather than interacting with many separate independent duplicated contracts of the DEAA—**identities of the TEAA interact _directly_ with the SSC**.
 
-The SSC is the singular synchronized source of trust[9](#fn:9) for everyone in SP. All participants[10](#fn:10) have equal accessibility to it and interact directly with the SSC.
+The SSC is the singular synchronized source of trust[15](#fn:15) for everyone in an SP instance. All participants[16](#fn:16) have equal accessibility to interact directly with the SSC.
 
-The SSC holds the shared reality of the Synchronized State. It is controlled by an ever-shifting amalgamation of Individual Actors and Organizations inside the SP instance, based on the Energy held by participants and the instances methods of Governance.
+The SSC holds the shared reality of the Synchronized State. It is controlled by an ever-shifting amalgamation of Individual Actors and Organizations inside the SP instance—based on the Energy held by participants, and the instance’s methods of Governance.
 
-The social contract of each individual is signed directly with the single shared reality in the SSC—not with intermediary middle-men organizations. _That enables us to treat everyone fairly._ Everyone gets the same access/agency. We cut out the middle-men bureaucrats, who are so vital to facilitating the shared reality during the DEAA.
+The social contract of each individual is signed directly with the singular shared reality in the SSC—not with intermediary middle-men organizations. _That enables us to treat all participants fairly._ Everyone gets the same access & agency. We cut out the middle-men bureaucrats, who are so vital to facilitating our shared realities in the DEAA.
 
-**This produces a great degree of censorship resistance.** Since everyone interacts with the singular SSC: censorship resistance becomes enforced by the constitution of the individuals existing in the shared reality, not a single middle-man entity who can block interactions using duplicated contracts.
+**This produces a great degree of censorship resistance.** Since everyone interacts with the singular SSC: censorship resistance becomes enforced by the population of the individuals existing in the shared reality, rather than a single middle-man entity who can block interactions by gatekeeping access.
 
-The DEAA was an age of middle-men, found necessary to hold and interoperate the duplicated contracts which root reality. The TEAA entirely foregoes the need for these middle-men which have proliferated everywhere and captured vast power during the DEAA. Their ability to hold multiple separate duplicated contracts together and facilitate interaction is no longer necessary. **Everybody interacts directly with the singular shared reality in the SSC rather than separate duplicated contracts intermediated by middle-men. Identities, assets, and data become bearer assets.**
+The DEAA was an age of middle-men, necessitated by the need to interact via the duplicated contracts which root our shared reality. The TEAA entirely foregoes the need for these middle-men, which have proliferated everywhere and captured vast power during the DEAA. Their ability to hold multiple separate duplicated contracts together and facilitate interaction, and interoperability is no longer necessary. **Everybody interacts directly with the singular shared reality in the SSC. Identities, assets, and data become bearer assets.**
 
-People want to build a community where it can’t be taken away by others around them unfairly. During the SEAA, direct hierarchies made it easy to take. During the DEAA, counter-parties can leverage their connections to various middle-man to seize the community. During the DEAA, there is usually one controlling counter-party (one dominant party who has ultimate control in a contract interaction). In the TEAA all counterparties are always interacting with the whole state sphere—**a counter-party to every interaction in TEAA is the entire society**. Every social interaction, which is public, is held in place inside the sphere by the entire SSC, which is equally accessible to all participants.
-
-#### Agency
-
-TEA revolutionizes agency for individuals by allowing them to take back direct control of their identity, property, and data from the hands of intermediary middle-men as **bearer assets**.
-
-> **bearer assets** – Assets where ownership is determined by possession. Whoever holds the asset (physically or digitally) is considered its owner, and no additional registration or proof of identity is needed. Examples include cash, certain cryptocurrencies, and bearer bonds.
-
-All identities, assets, and data are **bearer assets** in Society Protocol. The only entities that can permissionlessly act on identities, assets, and data are the Individual Actors owning the accounts and their delegates. Thus, Individual Actors getting direct agency: _commoditizes the middle-man_. A direct inversion of the SEAA and DEAA (where the elites commoditized the masses).
-
-At Society Protocol, we have a core ideological value of **Agency**, which can be found _in our_ [_Ideology_](https://societyprotocol.io/Published/Movement/Ideology)_._
-
-> **Agency:** We believe that agency and decentralization of control enables more potential actions for every individual, increasing human potential.
-
-By allowing each individual to directly interact with the SSC, _we are increasing the range of potential actions and the potential for every single human in society. Effectively increasing individuality and creating better people by removing the barriers that middle-men impose on every interaction._
-
-**A Synchronized State retains its ability to facilitate social cohesion and coordination, while granting direct agency to every participant. This simultaneously allows fair open access to the public parts of the shared reality created by all participants. That’s a society-worth of streaming public data, which everyone has an equal direct ability to access, which can be used to improve society.**
+People want to build a community where it can’t be taken away by others around them unfairly. During the SEAA, direct hierarchies made it easy to take. During the DEAA, intermediary _“equal”_ counter-parties controlling the platforms (i.e. Facebook, LinkedIn) can seize your community. In the TEAA, all counterparties are always interacting with the whole SSC—**a counter-party to every interaction in TEAA is the entire society**. Every social interaction, which is public, is held in place inside the sphere by the entire SSC, which is equally accessible to all participants.
 
 #### Roles
 
-Society Protocol allows every Individual Actor to fluidly choose their own roles inside SP instances by using Levels. Participants will be able to become a tremendous range of roles. It’s up to them to determine how they fit into society.
+Society Protocol allows every Individual Actor to fluidly choose their own roles inside SP instances by using Levels. Participants will be able to become a tremendous range of roles. Each Individual Actor and Organization determines how to allocate their Energy and integrate their individuality into the fabric of society—_forming a unique identity signature over time._
 
-Individuals don’t have to choose one role or commit to anything forever—they can divide their Energy between Levels however they decide is best for them at each point in time. **The SSC already includes everything necessary to provide social cohesion and form optimal coordination parameters**—allowing every Individual Actor to have a unique configuration of how their Energy is distributed between Levels without oversight.
+Individuals don’t have to choose one role or commit to anything forever—they can divide their Energy between Levels however they decide is best for them at each point in time. **The SSC already includes everything necessary to provide social cohesion and optimize coordination**—allowing every Individual Actor to have a unique configuration of how their Energy is distributed between Levels without oversight.
 
-- **Parents –** Individuals who are good at recognizing others who are aligned and talented can become successful as Parents, inviting many valuable people to their SP instance. Expanding the power of the shared reality.
+- **Parents –** Individuals who are good at recognizing others who are aligned and talented can become successful as Parents, inviting many valuable people to their SP instance—expanding the power of their shared reality.
 - **Hunters –** Individuals who want earn Energy in a relatively easy fashion while helping their SP instance propagate Events, especially those who have the best machines to do so, can become successful Hunters. Hunters expand censorship resistance for everyone and clean the Energy pool of stagnant Energy.
-- **Property –** Anyone who’s talented with commerce or creating valuable assets can become a property mogul—either as a creator, owner, investor, or trader— helping everyone to have nice things. Everyone else will use Property as users, enabling verifiable supply chains and ownership histories of all Property in the system. Expanding property rights.
-- **Curators –** Talented Curators will emerge to filter all the Actors, Property, and Organizations in an SP instance. Curators will provide an unfathomable amount of verifiable “economically resistant” _real_ data about everything to everyone.
-- **Governors –** Talented empathetic Governors will earn lots of Energy from inferior Governors while getting “their way”, their decision implemented in the protocol. Governance provide the SP instance with aligned Governance decisions while offloading the cost of Governance from the entire society into a direct game between competing Governance factions.
+- **Property –** Anyone who’s talented with creating valuable assets or commerce can become successful using Property—as a creator, owner, investor, or trader. Everyone else will use the Property as users, enabling verifiable global supply chains and ownership histories of all Property in the system. _Expanding property rights to programmable microscopic global transactions_.
+- **Curators –** Talented Curators will emerge to filter all the Actors, Property, and Organizations in an SP instance. Curators will provide an unprecedented amount of verifiable and _real_ subjective information about everything to everyone.
+- **Governors –** Talented empathetic Governors will earn lots of Energy from inferior Governors while getting “their way”, their decision implemented in the protocol. Governors provide the SP instance with aligned Governance decisions while offloading the cost of Governance from the entire society into a direct game between competing Governance factions.
 - **Organizations –** Influential cultural leaders can form successful Cultural Agreements. Talented entrepreneurs can form immensely profitable Distributed Corporations. Providing value by organizing the SP instance into efficient subgroups, helping to facilitate coordination.
 - **Communicators** **–** Successful Communicators will emerge to leverage their sovereign identity for all it’s worth.
 - **Farmers –** The immense need to store all societal data in a distributed fashion will spawn a need for distributed storage. The optimal individuals from all over the world will become Farmers, who store societal state data.
-- **Portal –** Ever wanted your own society? With only you and the cool people you call friends? Individuals who are unhappy with their SP instance will choose the role of exiting. Exiting individuals provide feedback to the SP instance and allow instances to retain value and exiting Actors to retain their historical identity in the case of exits.
+- **Portal –** Ever wanted your own society? With only you and the cool people you call friends? Individuals who are unhappy with their SP instance will choose the role of Portal (exiting). Exiting individuals provide feedback to the SP instance (by leaving) while allowing the instance to retain the value they’ve created in exchange for retaining their verifiable historical identity in a new instance.
 
 These are the 9 original Levels or roles. Additional roles can be added in Society Protocol instances as Levels to suit the _coordination_ and _societal cohesion_ needs of the various social layers using Society Protocol. _Not every instance needs to contain all the Levels—they are configurable_.
 
-Individual Actors choose their own roles, there are millions of variations and niches within every role, they can change roles fluidly, and every Individual Actor in the system has absolutely equal access to participate in each role _permissionlessly_ (without needing permission from anybody). Everyone receives unprecedented agency in choosing their own roles, affairs, relationships, and fate…all the while maintaining social cohesion.
+Individual Actors choose their own roles, there are millions of variations and niches within every role, they can change roles fluidly, and every Individual Actor in the system has absolutely equal access to participate in each role _permissionlessly_ (without needing permission from anybody). Everyone receives unprecedented agency in choosing their own roles, path, and fate…all the while maintaining social cohesion.
 
-Synchronized States will separate physical features from identity (more completely), being that they are computer programs duplicated globally. Unlike their predecessor in Nation Staes, which are territorially based, Synchronized State identities are pseudonymous participants from all over the world, many of whom will never meet in person. Participants will often wear futuristic helmets to mask their true identities behind one or multiple pseudonymous accounts. The advantages of the base aggregation factor of race which naturally happens in a territorial based system, which Nation States wan’t to get rid of, will naturally fade away—facilitating more individualism in the system, as individuals won’t necessarily be identified, judged, and pinned by their physical features (race, gender, age) in the shared reality.
+Synchronized States will separate physical features from identity (more completely), being that they are computer programs duplicated globally. Unlike their predecessor in Nation Staes, which are territorially based, Synchronized State identities are pseudonymous participants from all over the world, many of whom will never meet in person. Participants will often wear futuristic helmets to mask their true identities behind one or multiple pseudonymous accounts. The advantages of the base aggregation factor of race, which naturally happens in a territorial based system, which Nation States want to get rid of— will naturally fade away—facilitating more individual freedom in the system, as individuals won’t necessarily be identified, judged, and pinned by their physical features (race, ethnicity, gender, age) in the shared reality. _Individuals will become identified by their SSIs and their past history of actions._
 
 #### Individualism
 
@@ -480,21 +460,27 @@ At Society Protocol, our [ideology](https://societyprotocol.io/Published/Movemen
 
 > **Individuality:** All individuals are fundamentally different, and should look to contribute to society in their own unique ways, and not be treated as if they are the same.
 
-_We don’t believe that everyone needs to be the same or equal_. At the root of Society Protocol is the belief that everyone is different, and each Individual Actor and Organization should be able to contribute to society in their own unique ways.
+_We don’t believe that everyone needs to be the same or equal_. At the root of Society Protocol’s [ideology](https://societyprotocol.io/Published/Movement/Ideology) is the belief that everyone is _different_, and each Individual Actor and Organization should be able to contribute to society in their own unique ways.
 
-The equality of Nation States is a fraudulent ideology forced upon the populace by the ruling class to create a more effective workforce without the reality to back it. Pushing these fraudulent ideologies upon the populace rots their minds, as they become unable to square the reality with the ideology. Yet Nation States must retain this fraudulent ideology and belief of **equality** throughout their empires, because they do not have another method to facilitate social cohesion. Society Protocol does. Allowing us to proceed to the true ideology of **everyone is different**[11](#fn:11).
+Only by evolving into the TEAA paradigm of Synchronized States (which provide social cohesion in the SSC), can we get away from using the flawed ideology of _equality,_ which currently underpins the foundation of our identities and realities in the DEAA (by underpinning the duplicated contracts and democratic principles)[17](#fn:17).
 
-Every Level in Society Protocol is designed to facilitate maximum individual freedom while retaining social cohesion and optimal coordination mechanisms. SP gives Individual Actors maximum freedom to become the best version of themselves in this way. During the TEAA, it will no longer about affording a large R&D budget to experiment with a wide range of individualism. Individualism will retain it’s large range of freedom, but become better guided by the needs of the Synchronized State through synchronized incentivization mechanisms at the same time.
+Synchronized States will facilitate the replacement of _democratic principles_ with _meritocratic principles_. This will improve intelligence and coordination in the human population, as everyone can drop their identity masks of _equality_ and focus on co-operating in valuable synergistic ways, using their individual differences, meanwhile retaining Equal Rights (another one of our ideological beliefs).
 
-How will Society Protocol and the TEAA change humans and their identities? We don’t know exactly…but I believe it will make every individual more considerate of what society wants and inclined (incentivized) to deliver it. Everyone will move more as one unit, and be more considerate of the societal wishes in their actions. _This can elevate the State, which as we covered in the beginning of the article: is ultimately the only way to elevate individual identities._
+> **Equal Rights**: All individuals, regardless of physical attributes or connections should have equal rights and privileges in public society. (no special privileges on some accounts vs others: equal rights).
+> 
+> **_Meritocracy:_** _Our social contract incentivizes meritocracy (not democracy or autocracy). We aim for the best people for each specific problem to be making decisions about that issue (in the right quantity and optimized process (amount of resources)). The primary root of decisions to optimize for is the survival of the State. All subgroups of meritocracy (i.e. the meritocracy of blacksmithing, are subservient to the root: the survival of the State)._
+
+Every Level in Society Protocol is designed to facilitate maximum individual freedom while retaining social cohesion and optimal coordination mechanisms. SP gives Individual Actors maximum freedom to become the best version of themselves in this way. During the TEAA, it will no longer be about affording a large R&D budget in order to experiment with a wide range of individualism. Individualism will retain it’s large range of freedom, but become better guided by the needs of the Synchronized State—through the society-wide synchronized incentivization mechanisms—at the same time.
+
+How will Society Protocol and the TEAA change humans and their identities? We don’t know exactly…but I believe it will make every individual more considerate of what society wants, and inclined (incentivized) to deliver it. Everyone will move more as one unit, and be more considerate of the societal wishes in their actions. _This can elevate the State, which as we covered in the beginning of the article: is ultimately the only way to elevate individual identities._
 
 #### Privacy
 
-Synchronized States of the TEAA allow us to maintain social cohesion while allowing data at the right level of privacy. This is because the protocol **<u>can</u>** **<u>see</u>** the important data (it has something to hook into) being that it’s tech based, the same format as the digital data flowing through it. That is the problem with the Nation States of the DEAA, they are not tech based…while the data flowing through their populace to facilitate their coordination has turned largely into digital data, they exist on another orthogonal. They cannot “plug-in” to the vital data flowing through society, so they must rely on a list of corporate sponsors. This means they don’t know what’s being taken outside of their “visibility jurisdiction” and how that will be used to cripple their shared reality. So they must coerce entities in their jurisdiction to do the bidding of the modern Surveillance State in order to survive.
+Synchronized States of the TEAA allow us to maintain social cohesion while allowing data at the right level of privacy. This is because the protocol **<u>can</u>** **<u>see</u>** the important data (it has something to hook into) being that it’s tech based, the same format as the digital data flowing through it. That is the problem with the Nation States of the DEAA, they are not tech based…while the data flowing through their populace to facilitate their coordination has turned largely into digital data, they exist on another orthogonal. They cannot “plug-in” to the vital data flowing through society, so they must rely on a list of corporate entities. This means they don’t know what’s being taken outside of their “visibility jurisdiction” and how that will be used to cripple their shared reality. So they must coerce entities in their jurisdiction to do the bidding of the modern Surveillance State in order to survive.
 
-While Society Protocol provides less privacy than ever before during history, as is the pattern of evolution during absolutely every single age (ZEA, SEA, DEA, TEA). It is simultaneously capable of providing privacy at all the right spots using cryptography. Privacy is correctly delineated[12](#fn:12).
+While Society Protocol provides less privacy than ever before during history, as is the pattern of evolution visible during absolutely every single age (ZEA, SEA, DEA, TEA). It is simultaneously capable of providing privacy at all the right spots using cryptography. _Privacy is correctly delineated_[18](#fn:18).
 
-**Pseudoanonimity****:** Society Protocol instances consist of pseudonymous accounts and allow for multiple identities. This is different from the traditional government IDs of the DEAA and can facilitate a sense of privacy in some cases. Pseudonymous expression is really important to any society, being that pseudonymous/anonymous expression is the only way individuals can express truth which is taboo or politically inconvenient or dangerous for their identity.
+**Pseudoanonimity****:** Society Protocol instances consist of pseudonymous accounts and allow for multiple identities. This is different from the traditional government IDs of the DEAA and can facilitate a sense of privacy in some cases. Pseudonymous expression is really important to any society, being that pseudonymous/anonymous expression is the only way individuals can express truth which is taboo, politically inconvenient, or dangerous for their identity.
 
 Pseudoanonimity has historically demonstrated itself to be an important tool for coordination under duress. Very basic things, that we take for granted today, required pseudoanonimity: Bitcoin by Satoshi Nakamoto, The Federalist Papers by Publius, Nicolaus Copernicus’s Heliocentric Theory.
 
@@ -508,57 +494,69 @@ Pseudoanonimity has historically demonstrated itself to be an important tool for
 
 Society needs these types of individuals to be able to facilitate freedom by “speaking truth to power” and coordinate under duress.
 
-In other ways, Society Protocol’s pseudonymous accounts publish a lot of public data and over time and solidify into lasting sybil-resistant identities. **Pseudoanonimity is not anonymity**. As accounts interact over time, their identity solidifies. The entire history of accounts, their actions, and the Energy that flows through them is non-fungible and leaves a unique fingerprint. We don’t expect the same type of lasting privacy from most pseudonymous accounts. The beautiful part about pseudonymous accounts in Society Protocol is that: we don’t have to judge their personal value (are these good or bad pseudonymous people), they either follow the rules of the protocol in a valuable way, or they will naturally die. The will of social cohesion and coordination is already included in the system.
+In other ways, Society Protocol’s pseudonymous accounts publish a lot of public data and over time and solidify into lasting sybil-resistant identities. **Pseudoanonimity is not anonymity**. As accounts interact over time, their identity solidifies. The entire history of accounts, their actions, and the Energy that flows through them is non-fungible and leaves a unique fingerprint. We don’t expect the same type of lasting privacy from most pseudonymous accounts. The beautiful part about pseudonymous accounts in SP is that: we don’t have to judge their personal value (are these good or bad pseudonymous people), they either follow the rules of the protocol in a valuable way, or they will naturally die. The will of social cohesion and coordination is already included in the system.
 
-In addition to pseuddoanonymmity, Society Protocol provides three different delineations of state data: _<u>public state</u>_, _<u>semi-private state</u>_, and _<u>private state</u>_. Everything doesn’t need to go into the public Timeline[13](#fn:13). Much of each accounts personal data can be stored locally or encrypted and stored with Farmers or in other clouds. The private keys holding identity ultimately lock and unlock data as the owners see fit, and only societal valuable synchronization and coordination data is shared publicly unencrypted.
+In addition to pseuddoanonymmity, Society Protocol provides three different delineations of state data: _<u>public state</u>_, _<u>semi-private state</u>_, and _<u>private state</u>_. Everything doesn’t need to go into the public Timeline[19](#fn:19). Much of each accounts personal data can be stored locally or encrypted and stored with Farmers or in other clouds. The private keys holding identity ultimately lock and unlock data as the owners see fit, and only societally valuable synchronization and coordination data is shared unencrypted publicly in the Timeline.
 
-- **public state:** Is verified by the accounts private key and placed on the quasi-immutable public Timeline. It is accessible by everyone, public information, and used for societal coordination. It is useful for data analytics. **public state** includes all Levels actions. This historical state adds up over time to illuminate Actors and Organizations identities.
-- **semi-private state:** This section pertains to things such as private communications, multimedia, creative content, emails shared between a subset of SP accounts which are able to unlock and access the **semi-private state** while it remains encrypted to everyone else, both at rest and in transit. **semi-private state** doesn’t need to go on the Timeline, and is usually stored with Farmers in the cloud to remain accessible to the entire subset of participants.
-- **private state:** Personal data which can be signed with the accounts private key for verification while retaining complete privacy.
+- **public state:** Is verified by the accounts private key and placed on the quasi-immutable public Timeline. It is accessible by everyone as public information, and used for societal coordination. It’s useful for data analytics. **public state** includes all Levels actions. This historical state adds up over time to illuminate Actors and Organizations identities.
+- **semi-private state:** This section pertains to things such as private communications, multimedia, creative content, emails shared between a subset of SP accounts which are able to unlock and access the **semi-private state** while it remains encrypted to everyone else, both at rest and in transit. **semi-private state** doesn’t need to go on the Timeline, and is usually stored with Farmers, or in the cloud to remain accessible to the entire subset of participants[20](#fn:20).
+- **private state:** Personal data which can be signed with the accounts private key for integrity and verification while retaining complete privacy.
 
 Private communications, multimedia, and personal information can finally be encrypted and shared world-wide at the right level of privacy without a centralized middle-man entity collecting and using all this data for its own gain and surveillance. Society Protocol facilitates direct peer-to-peer (P2P) identity and communications at the right level of encryption.
 
-Verifiable Credentials can even be used to communicate valuable attest-able information about the credentials held by identities, while retaining those actual credentials privately and not revealing them, using the magic of zero-knowledge proofs.
+Verifiable Credentials can even be used to communicate valuable attest-able information about the credentials held by identities, while retaining those actual credentials privately and not revealing them, using the moon math of zero-knowledge proofs.
 
 Identity has never been able to be controlled directly by individuals as <u>bearer assets</u>, while remaining accessible to society, with the right delineations of privacy. This can be used to leverage maximal coordination while maintaining both social cohesion and a sense of privacy.
 
-Ultimately, the shift to privacy of the TEAA doesn’t lie in either the privacy delineations of state nor the pseudonymous accounts Society Protocol offers. The ultimate shift to privacy is that every individuals public data is absolutely equally public, with equal access to this information for everyone, and a <u>complete alignment</u> between the governance and citizenry. **The game is fair for everyone.** So, yes, more data becomes public but it can be used for societal coordination and can’t be exploited disproportionately by certain advantaged entities. _Middle-men aren’t required, everyone has access to the same dataset and equal access to governance._
+Ultimately, the shift to privacy of the TEAA doesn’t lie in either the privacy delineations of state nor the pseudonymous accounts Society Protocol offers. The ultimate shift to privacy is that every individuals public data is absolutely equally public, with equal access to this information for everyone, and a <u>complete alignment</u> between the governance and citizenry. _The game is fair for everyone._ Yes, more data becomes public but it can be used for societal coordination and can’t be exploited disproportionately by certain advantaged entities. _Middle-men aren’t required, everyone has direct access to the same verified dataset and equal access to governance_[21](#fn:21)_._
 
 #### Coordination
 
 _We re about to enter the Age of Synchronicity baby!_ One unified, programmable, automated, coordinated, historically accurate Synchronized Social Contract (SSC). _It’s unfathomable to us now, what this will facilitate._
 
+_I don’t even know what to say, I just see a whole different world._
+
 #### Agency
 
-All Individual Actors will have full and equal access the SSC directly with no middle-men. Identity, assets, and data will become bearer assets—only accessible to their owners and their delegates.
+TEA revolutionizes agency for individuals by allowing them to take back direct control of their identity, property, and data from the hands of intermediary middle-men as **bearer assets**.
 
-Censorship resistance will become much stronger in Synchronized States, as there is no singular intermediary middle-men in interactions who can censor participants. If censorship is to happen, it must be the entire SSC itself. The majority of Event inputting nodes in the Synchronized State must collude, foregoing the shared ideology, to censor individuals. Such censorship is not _impossible, but it’s mostly entirely impractical_.
+> **bearer assets** – Assets where ownership is determined by possession. Whoever holds the asset (physically or digitally) is considered its owner, and no additional registration or proof of identity is needed. Examples include cash, certain cryptocurrencies, and bearer bonds.
 
-#### Summary & Limitations
+All identities, assets, and data in Society Protocol are **bearer assets**. The only entities that can permissionlessly act on identities, assets, and data are the Individual Actors owning the accounts and their delegates.
 
-We don’t know what the limitations of Synchronized States will be yet, it’s impractical to talk about them…but let’s hypothesize a little about the effects that Synchronized States will have on identities and how this age will turn out.
+At Society Protocol, we have a core ideological value of **Agency**, which can be found _in our_ [_Ideology_](https://societyprotocol.io/Published/Movement/Ideology)_._
 
-**The public history of all identities will become viewable.** Things that during past epochs were un-viewable, unknowable, and untraceable will become common knowledge. **This will alter peoples behavior in profound ways**_._ Trust will become more commonplace and accumulated. Flashbacks into Historical Events will make memories clear. Physical locations will become less important with global connectivity and synchronization, but more verifiable than ever. Tools of coordination, like [Proof of Location](https://blog.eigencloud.xyz/verifying-the-physical-world/) (PoL), may map everyone in society in real-time, pseudonymously. Compliance and incentives may be automatically enforced and distributed based on PoL. _Individuals whole life history will become mapped in ways that we couldn’t imagine before._
+> **Agency:** We believe that agency and decentralization of control enables more potential actions for every individual, increasing human potential.
 
-Identities will be able to sign contracts and interact horizontally globally much easier than during the DEAA. This will make societal interaction absolutely seamless at scale and free of middle-men.
+By allowing each individual to directly interact with the SSC—_we are expanding the range of potential actions, and therefore the potential, for every single individual participating in Society Protocol._ **This increases human potential—creating better people, by removing the barriers which middle-men impose on every interaction.**
 
-All participants in society will get a heads-up display (HUD) overlays equipped with all the <u>public state</u> information, guiding them through life. Imagine seeing the entire character history aggregates of random people on the street that you interact with, mapped by various different algorithms into sophisticated data—explaining that unique individual. _All this information becoming public will illuminate society._
+**A Synchronized State retains its ability to facilitate social cohesion and coordination, while granting direct agency to every participant. It also simultaneously allows fair open access to the public parts of the shared reality created by all participants. That’s a society-worth of real-life & real-time streaming public data, which everyone has an equal direct ability to access and interact with, which can be used to improve society.**
 
-The trust that each identity accumulates will be in the hands of its rightful owner and able to be used society-wide at any moment—additionally able to facilitate the extension of trust accumulated in that identity outside of SP using an EigenLayer type of re-staking technique with Energy. _The trust accumulated in our identities becomes personal property we can extend and channel precisely_.
+Censorship resistance will become much stronger in Synchronized States, as there is no singular intermediary in societal interactions who can censor participants. For censorship to happen, the majority of Event inputting nodes in the Synchronized State must collude—foregoing the shared ideology to censor individuals. Such censorship is not _impossible, but it’s a vast improvement from the DEAA, and mostly impractical_.
 
-Trust, once built, becomes a renewable source of bargaining power. Whereas the DEAA increased intelligence and individualism in individualism, we believe that the TEAA will increase the potential of social interactions. All of society will move as one, using the accumulated data and trust of the Synchronized State.
+#### Summary & Limitations of the TEAA
 
-In the meanwhile, the SSC will facilitate social cohesion and coordination innately for everyone. People will become more considerate of the social contract between them and society, and incentivized to act in ways that benefit everyone in the Synchronized State. This will change the way that people think about life—individualism will go up, but also the types of individualist decisions individuals will be making will be guided by the needs and SSC of the entire State. _This will change and elevate people to become better people overall._ It will elevate everyone.
+We don’t know what the limitations of Synchronized States will be yet, it’s impractical to talk about them…but let’s hypothesize a little about the effects that Synchronized States will have on our collective identities and how this age will turn out…
 
-This transition is going to be as big of a transition as the ZEAA—>SEAA, which introduced permanent records, and SEAA—>DEAA, which introduced duplicated contracts and democratic principles. They both completely changed the nature of societies. There have only been three of these phases in human history, and this is the fourth. We can’t even close to foresee all the changes the TEAA will bring at the current moment, but they should be fantastical.
+The public history of all identities in the system will become viewable. Things that during past epochs were un-viewable, unknowable, and untraceable will become common knowledge. **This will alter peoples behavior in profound ways**_._ Trust will become more commonplace and accumulated. Flashbacks into Historical Events will make memories clear. Physical locations will become less important with global connectivity and synchronization, but more verifiable than ever. Tools of coordination, like [Proof of Location](https://blog.eigencloud.xyz/verifying-the-physical-world/) (PoL), may map everyone in society in real-time, pseudonymously. Compliance and incentives may be automatically enforced and distributed based on PoL. _Individuals whole life history will become mapped in ways that we can’t yet imagine._
 
-_The TEAA will usher in the Age of Synchronicity._
+Identities will be able to sign contracts and interact: locally, vertically, horizontally, and globally (society-wide in as groups) with unprecedented ease compared to the DEAA. _This will make societal interactions absolutely seamless and synchronized at scale._
+
+In the background, the SSC of the Synchronized State will facilitate social cohesion and coordination innately for everyone. People will become more considerate of the social contract between them and society, and incentivized to act in ways that benefit everyone in the Synchronized State. This will change the way that people think about life—individualism will go up, but also the types of individualist decisions individuals will be making will be better guided by the needs and SSC of the entire Synchronized State. _This will change and elevate individuals to become better people overall._
+
+All participants in society will get a heads-up display (HUD) overlays equipped with all the <u>public state</u> information, guiding them through life. Imagine seeing the entire character history aggregates of random people on the street that you interact with, mapped by various different algorithms into sophisticated data—explaining that unique individual and even your potential connections to them. _All this information becoming public will illuminate society._
+
+The trust that each identity accumulates will be in the hands of its rightful oner and able to be leveraged society-wide at any moment. Additionally, Society Protocol instances will be able to facilitate the extension of trust accumulated in identities outside of SP using an EigenLayer type of re-staking technique with Energy. _The trust accumulated in our identities becomes personal property we can extend and channel precisely_.
+
+Trust, once built, becomes a renewable source of bargaining power. Whereas the DEAA increased intelligence and individualism, we believe that the TEAA will increase the potential of all social interactions society-wide at scale—allowing society to _move as one,_ by using all the accumulated data and trust of the Synchronized State. _That’s why we call it the Age of Synchronicity._
+
+This transition is going to be as big of a transition as: the ZEAA—>SEAA (which introduced permanent records) and SEAA—>DEAA (which introduced duplicated contracts and democratic principles). Each phase has entirely changed the nature of identities and societies. There have only been three phases so far in the entire human history—and Synchronized States are the fourth. We can’t even close to foreseeing all the changes the TEAA will bring at the current moment but they _should be fantastical_.
 
 ### Mirror Principle
 
 _Ever notice how the whole world seems angry when you’re angry and calm when you’re calm? This is called The Mirror Principle._
 
-_Our world is formed by the reflection of perception and inner beliefs which exist within us. How do we get those perceptions and inner beliefs? It’s effectively from the world reflecting itself, we are all one thing._
+_Our world is formed by the reflection of perception and inner beliefs which exist within us. Where do we get those perceptions and inner beliefs? It’s effectively from the world reflecting itself, we are all one thing._
 
 _Then, our identity is limited by the world reflecting itself, which forms our inner beliefs and perception._
 
@@ -566,43 +564,62 @@ _Then ultimately, we can only elevate our identities to reach higher levels by e
 
 ### Conclusion
 
-What makes us who we are? Our entire identity range is controlled by the State structures around us. What gives our identity more powers is better, more powerful, more coordinated State structures, which can afford for more individualism, agency, social cohesion, and coordination. _We can’t become better individual people without this._
+**What makes us who we are?** The fundamental architecture of our identities—every role we can inhabit, every dream we're permitted to pursue, every boundary of self-expression—is ultimately determined by the State structures surrounding us.
+
+More advanced State structures can afford greater specialization (allowing unique talents to flourish), expanded individualism (diverse expressions of self), enhanced agency (more potential for action), superior coordination (enabling complex collective achievements), and stronger social cohesion (maintaining unity amid diversity).
+
+**This creates a paradox at the heart of human development**: We cannot transcend our individual limitations without collectively transcending our societal limitations. **The deeper truth:** Individual self-actualization is not only a personal project—it's a civilizational one. We can't become better people without building better societies. _We are merely a reflection of the universe around us._
 
 At each stage of societal evolution, identities have changed along with the State structures. The overall pattern is:
 
-- **<u>Roles</u>** become more specialized and better specialized,
-- **<u>Individualism</u>** always trends up and expands
-- P**<u>rivacy</u>** always goes down but also changes in nature,
-- **<u>Societal</u> <u>coordination</u>** always increases.
+- **Roles** have become more specialized and better selected
+- **Individualism** always trends up and expands
+- **Privacy** always decreases, but also changes in nature
+- **Societal coordination** always increases
 
-- During the ZEAA: Peoples identities were fluid and probably entirely based on what dualistic beliefs of the tribe were around them (what the tribe needed in adapting times).
-- During the SEAA: Identities were based directly on individuals proximity to the stored state. The further from the records, the more commoditized and duller the individual. The closer to the records, the more individualistic and intelligent.
-- During the DEAA: Identities are based on duplicated contracts (including democracy) and configuration of middle-men who facilitate them.
+**During the ZEAA**: Identities were fluid and entirely based on whatever dualistic beliefs of the tribe around them had at the current moment. _Whatever the tribe needed in an unpredictable, uncharted, and unstable world at the present moment._
 
-What will the new types of societies which come from Society Protocol in the TEAA bring as far as identity is concerned? At Society Protocol, we believe:
+**During the SEAA**: Identities were based directly on individuals proximity to the vertical integrations of recorded state. The further from the records—the more commoditized and duller the individual; the closer to the records—the more individualistic and intelligent.
 
-- it will be more about “how can I contribute to society?” because that’s incentivized, both at an individual and organizational level. (Individuals will become better people).
-- It will be less about racial ethnic tribes.
-- More synchronized information available for everyone will make everyone more aware and intelligent, always connected and able to make better decisions.
+**During the DEAA**: Identities are based on duplicated contracts and democratic principles. The ideals of _equality underpin both, facilitating horizontal interactions,_ and empowering the middle-men who facilitate them.
 
-We are also sure many changes we do not foresee–are coming and will alter identity in drastic and profound ways.
+_What will the new types of societies which come from Synchronized States during the TEAA bring as far as identity is concerned?_ At Society Protocol, we believe:
 
-The Age of Synchronicity awaits us, and it will be as big of a shift for humanity as learning to inscribe permanent records in the SEAA and the duplicated contracts fostering democratic principles of the DEAA.
+- It will be more about “how can I contribute to society?” because that’s incentivized, both at an individual and organizational level. (Individuals will become better people.)
+- The worldwide Synchronized Social Contract (SSC) will make everyone more connected, aware, and intelligent—able to make better decisions as a society at scale.
+- _The state of the present moment and history will become more illuminated._
+- There will be more trust and it will be less about physical features.
 
-The only thing which remains uncertain is who’s going to build it: will it be you or someone else?
+_We are also certain many changes we do not foresee are coming, and will alter identity in drastic and profound ways._
+
+The Age of Synchronicity awaits us, and it will be as big of a shift for humanity as learning to inscribe permanent records in the SEAA, and the duplicated contracts fostering democratic principles of equality in the DEAA. The only thing which remains uncertain is who’s going to build it: will it be you or someone else?
 
 If you are interested in contributing to the creation of Society Protocol and would like to be a part of the journey, you can: [join our community](https://societyprotocol.io/), [invest in the movement](https://societyprotocol.io/), and [contribute to the architecture](https://societyprotocol.io/).
+
+If you would like more content about society, identity, longevity, and purpose: take a look at [Virtuous Cycle](https://virtuouscycle.co).
+
+If you are looking for a community to join or invest in, where everyone is aligned around the same goals of: refining identity, enhancing longevity, and optimizing purpose: take a look at [School of Change](https://schoolofchange.co).
 
 1. The State itself is being limited in its identity by the need to keep tribal cohesion and survive against other rival States.
 2. At every stage/epoch of societal evolution, our range of identity is limited by societal cohesion. We can only have as much individualism, agency, or privacy as the State structure can sustain while maintaining societal cohesion.
 3. Identity slots are roles that society needs. They are fluid, limited, and differ in various societies. For example, a society generally needs one president, thousands of movie stars, and hundreds of thousands of baristas. _These roles are fluidly changing, and often not clearly defined, but they do exist, are limited, and have scarcity. This forms a pyramid. It also creates “identity markets” with people vying for various identity slots in the hierarchy. The slots are limited top-to-bottom, a society can only support so many beggars: there’s only a certain amount of identity slots available for beggars._
 4. A few individuals are programmed by themselves, but this requires self-sufficiency and breaking the indoctrination cycle. If you exit this pattern (and can survive alone, that is the hard part). You can detach the shared reality influence side completely (by having no shared reality ties), giving you full control of your identity. This is a part of ancient yogic traditions. It’s a path that is extremely rarely applicable to anything valuable and necessary. If you feel inexorably about needing more information about this path, you can contact me at: [Virtuous Cycle](https://virtuouscycle.co).
 5. Even the patterns or rituals holding your identity in place themselves could easily be changed or adjusted, as they weren’t recorded.
-6. This one is particularly funny when you find out individualism is an R&D function of the State.
-7. Nation States limit the identity of individuals to non-privacy using both cultural cues (“if you have nothing to hide, then you have nothing to fear” is a logical fallacy) and policies of economic and legal support for technology giants to pilfer all the citizens data (using tax incentives, the unequal application of laws, and effectively never imposing stiff penalties the data breaches which occur under such circumstances).
-8. Not for very long at least. We can fool time for a little bit…and its the same in Society Protocol. Anyone can create false actions in the short-run, but they’re unsustainable in the long run.
-9. Trust, not truth. Consensus doesn’t create truth, it creates trust.
-10. As well as the outside world.
-11. This will improve intelligence in the human population, as they can drop their masks of equality and focus on co-operating in valuable synergistic ways using their differences.
-12. Over time, as people experiment and Synchronized States evolve, the borders of what’s private, semi-private, and public will shift and evolve.
-13. In the future, as cryptography grows more refined: parts of the Timeline itself may become encrypted while retaining informational integrity. (This is too far out to concern ourselves with at this point.)
+6. No matter what these organizations claim to do with our data now, there is little to stop them from changing their policies in the future or simply getting hacked by malicious actors’ attacks on their stashes of data, which they have proven unable to stop consistently for the past 20 years.
+
+Imagine if someone broke into Google’s, Microsoft’s, or Facebook’s servers (which hasn't really happened yet, but is always a possibility) and exfiltrated literally everyones’ private conversations, emails, profiles, and location data from the past two decades at the same time—dumping it all into the internet. Would the world explode if every individual in the world could read absolutely ALL of everyone other individuals private information from the past two decades?
+7. This happened entirely because the intermediaries of the societal state have once again captured total control of it. Exactly like the church of medieval Europe had control of the societal state until the advent of the printing press.
+8. This one is particularly funny when you find out individualism is an R&D function of the State.
+9. Nation States limit the identity of individuals to non-privacy using both cultural cues (“if you have nothing to hide, then you have nothing to fear” is a logical fallacy) and policies of economic and legal support for technology giants to pilfer all the citizens data (using tax incentives, the unequal application of laws, and effectively never imposing stiff penalties the data breaches which occur under such circumstances).
+10. It takes additional steps to add privacy while remaining social cohesive and coordinated. The same process openly is easier, more direct, and cheaper. Meaning, privacy comes at a price of social cohesion & coordination as opposed to doing nothing. Privacy should only be used when required.
+11. Don’t step outside the box into the 💀 zone.
+12. The true foundation of democracy was not even the understanding that we are all _equal_, but rather the understanding that people should get some form of a voice in collective governance. Either way, without a way to facilitate “who should get how much voice” (which we don’t have a method to do in Democracy), equality is the only available ideology to facilitate the process of democracy.
+13. Our identity is stored in is duplicated “equal” contracts, but this doesn’t mean the parties holding them are equal in power or resources.
+14. Not for very long at least. We can fool time for a little bit…and its the same in Society Protocol. Anyone can create false actions in the short-run, but they’re unsustainable in the long run.
+15. Trust, not truth. Consensus doesn’t create truth, it creates trust.
+16. As well as the outside world (existing outside of your Synchronized State).
+17. Democracy of the DEAA cannot facilitate meritocracy because it can’t figure out how to distribute such power structures in decision-making. The society-wide SSC of Society Protocol can accomplish this while simultaneously maintaining Equal Rights for everyone.
+18. Over time, as people experiment and Synchronized States evolve, the borders of what’s private, semi-private, and public will shift and evolve.
+19. In the future, as cryptography grows more refined: parts of the Timeline itself may become encrypted while retaining informational integrity. (This is too far out to concern ourselves with at this point.)
+20. semi-private state is not vital to facilitating the Timeline. If parts of it are lost, the wider SP instance Timeline will move on without issues.
+21. This quirk actually depends on how your SP instance has Governance configured. The protocol can facilitate equal access but doesn’t necessarily have to (other Governance methods and mixes are possible).

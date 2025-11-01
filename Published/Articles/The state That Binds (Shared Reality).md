@@ -1,6 +1,6 @@
 ---
 created: 2025-10-03T12:17
-updated: 2025-10-28T12:31
+updated: 2025-10-30T23:00
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
@@ -36,7 +36,7 @@ In this process, everyone gets a bit (or a lot) confused. The shared reality tha
 
 On a positive note, now we have a tribal pattern. We’ve baked a tribal pie––**a shared reality**[^2]. Our tribe can now coordinate using this state—improving our protection and survival while it is competing with other tribes—who are playing the same exact game.
 
-To give a concrete example of subjective private perception (subjective truth) vs consensus (shared reality): subjective private perception is our individual perception of time (depending on how we are feeling energetically and emotionally in the moment, it can go fast or slow), while shared reality is clock time we synchronize around (it’s a consensus we can all agree on). While subjective private perception always lives within us, shared reality does not live within us—it is external. We must measure, uphold, and synchronize it. The subjective private perception and shared reality coexist in parallel, overlap in our perception, and never see the same thing.
+To give a concrete example of subjective private perception (subjective truth) vs consensus (shared reality): subjective private perception is our individual perception of time (depending on how we are feeling energetically and emotionally in the moment, it can go fast or slow), while shared reality is clock time we synchronize around (it’s a consensus we can all agree on). While subjective private perception always lives within us, shared reality does not live within us—it is external. We must measure and uphold it. The subjective private perception and shared reality coexist in parallel, overlap in our perception, and never see the same thing.
 
 Hence, everyone in the world walks around confused. It’s the blind leading the blind. **We’re not living in our realities**, we’re living in the “shared reality,” which exists as a shared story we propagate, not in our subjective perception. Socially, it’s an important pretend world, more vital to an individual’s survival than their subjective truth.
 
@@ -71,7 +71,7 @@ It’s kind of made-up by the tribe. The tribe is trying to maintain, progress, 
 
 Since influencing it is _immensely valuable_, and yet it doesn’t exist in anyplace in particular—we’re all constantly fighting over influencing and modifying it. All the way from the micro level of relationships to the macro level of Nation States. We negotiate, deceive, and fight physical conflicts for influence over the shared reality.
 
-We wear beliefs as a fashion, because shared reality doesn’t belong to us…and if reality doesn’t belong to us, then our identity doesn’t belong to us either. Hence, we adopt the beliefs that we believe would be the most beneficial for us in the shared reality. _For most people, beliefs are a fashion to enhance their identity in the shared reality rather than independent conviction__s._ Erik Torenberg does a good job of describing these mechanics in [Beliefs are Fashions](https://eriktorenberg.substack.com/p/beliefs-are-fashions) based off Rob Henderson’s work on [luxury beliefs](https://www.robkhenderson.com/p/thorstein-veblens-theory-of-the-leisure).
+We wear beliefs as a fashion, because shared reality doesn’t belong to us…and if reality doesn’t belong to us, then our identity doesn’t belong to us either. Hence, we adopt the beliefs that we believe would be the most beneficial for us in the shared reality. _For most people, beliefs are a fashion to enhance their identity in the shared reality rather than independent convictions._ Erik Torenberg does a good job of describing these mechanics in [Beliefs are Fashions](https://eriktorenberg.substack.com/p/beliefs-are-fashions) based off Rob Henderson’s work on [luxury beliefs](https://www.robkhenderson.com/p/thorstein-veblens-theory-of-the-leisure).
 
 > “People don’t even have beliefs per se, separate from the current moment and what their peers think. The idea of “belief” itself is a misnomer. Implied in “belief” is an individual, first-principles, derivation process of figuring out what’s true, whereas it’s more like a complex algorithm that takes into account one’s peer group, the loyalties one owes and to whom, who has more status and what talking points fit better accordingly.  
 >   
@@ -412,7 +412,7 @@ It’s primarily this lack of neutrality (_<u>fairness of representation</u>_, _
 
 Web3 STBs, in turn, fall more under control of their owners than the earlier example of Bitcoin, which was solo-launched by Satoshi Nakamoto before people understood the game theory of these designs. 3D synchronized states are newer, more powerful, and perceived to be less neutral (due to their social layers being more organized from the start, although it’s impossible to tell how neutral the imperceptible social layers of permissionless synchronized states are until it’s too late).
 
-3D synchronized states are defined by their platform nature and interoperability. These communities don’t function as a single shared reality, but rather many intersecting communities holding up a singular shared reality. _I__n the case of Ethereum: Aave, Gnosis, ENS, Tornado Cash, Chainlink, and USDT…and many other entities all contribute to the beam upholding the shared reality and influencing it._
+3D synchronized states are defined by their platform nature and interoperability. These communities don’t function as a single shared reality, but rather many intersecting communities holding up a singular shared reality. _In the case of Ethereum: Aave, Gnosis, ENS, Tornado Cash, Chainlink, and USDT…and many other entities all contribute to the beam upholding the shared reality and influencing it._
 
 ![[Ethereum SR.excalidraw.png]]
 
