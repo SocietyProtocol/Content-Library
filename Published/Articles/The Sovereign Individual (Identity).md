@@ -1,8 +1,8 @@
 ---
 created: 2025-10-07T18:38
-updated: 2025-11-01T19:23
+updated: 2025-11-02T20:47
 ---
-What does it mean to be _“you”_? If you’re reading this, you’re a mostly a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
+What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
 Are you free to identify and create _“yourself”_ as anything you desire? If so, how come you aren’t a sultan with your own country, 300 wives, and 3 mansions yet?
 
@@ -10,9 +10,12 @@ _Ok, let’s get past those hopes and dreams real quick._
 
 **Individuals aren’t free and will never be free to fully control their identity.** Throughout the entirety of human history, identity (what we’re allowed to be), has always been controlled by the community structure around us, the State we’re a part of—based off its needs. What individuals are allowed to identify as, be, and become is a range within that box. **As individuals, we exist at the behest of the community and ultimately the State protecting us**[^1].
 
-Each State has a different range as far as what it allows in members identities[^2], some allow a wider range…others a narrower one…but fundamentally an individuals identity has to remain within the box their State will tolerate. The State towers over identity and threatens ostracism or death if you step out of bounds. _We aren’t free to become anything we want, our range is limited to something that our State finds valuable enough to find tolerable._ **_So that’s the first step._**
+Each State has a different range as far as what it allows in members identities[^2], some allow a wider range…others a narrower one…but fundamentally an individuals identity has to remain within the box their State will tolerate. The State towers over identity and threatens ostracism or death if you step out of bounds. _We aren’t free to become anything we want, our range is limited to something that our State finds valuable enough to find tolerable._ 
 
-This game theoretic equation is often referred to as ostracism, and falsely labelled as a relic of our ancient hunter-gatherer tribes (if an identity wasn’t something the community found valuable, an individual would be ostracized: equalling unable to survive independently in a tribal world). It’s often cited as a relic of the past, but <u>that part hasn’t changed</u>. An individual today would have a really hard time surviving without membership in one of the worlds 193 Nation States—the modern evolution of ancient tribes. **The need of the Nation State to keep identities within a range that’s valuable for it hasn’t changed. What’s changed is the size of the State structure and the range of identities it can tolerate—both have expanded as civilization has evolved.** Today, in the liberalism of the modern Western world that range almost seems infinite—<u>but it isn’t</u>.
+![[Identity Selection.png]]
+<center>The First Step</center>
+
+This game theoretic equation is often referred to as ostracism, and falsely labelled as a relic of our ancient hunter-gatherer tribes (if an identity wasn’t something the community found valuable, an individual would be ostracized: equalling unable to survive independently in a tribal world). It’s often cited as a relic of the past, but <u>that part hasn’t changed</u>. An individual today would have a really hard time surviving without membership in one of the worlds 193 Nation States—the modern evolution of ancient tribes. **The need of the Nation State to keep identities within a range that’s valuable for it hasn’t changed.** What’s changed is the size of the State structure and the range of identities it can tolerate—both have expanded as civilization has evolved. Today, in the liberalism of the modern Western world that range almost seems infinite—<u>but it isn’t</u>.
 
 **Identity is always limited by the needs of the State**.
 
@@ -20,7 +23,10 @@ This game theoretic equation is often referred to as ostracism, and falsely labe
 
 **The second step** is understanding how identity forms within that range. The range encompasses the total of our identity potential. Are we free and in-control to go anywhere within that range and choose our place within it? Theoretically, yes. Practically, it is a compromise consisting of two sides: <u>the individual (internal)</u> and the <u>shared reality (external)</u>.
 
-In conjunction with the individual, the ever changing meta-game existing in the shared reality influences their identity within that range. So, even within that entire range: W_e don’t entirely belong to ourselves. The identity is a negotiation between the individual and the shared realities they are a part of (their external environment/surroundings/community)._ This involves multiple layers, but at the highest layer it’s the Nation State structure protecting the individual in the modern age. **_So that’s the second step._**
+In conjunction with the individual, the ever changing meta-game existing in the shared reality influences their identity within that range. So, even within that entire range: W_e don’t entirely belong to ourselves. The identity is a negotiation between the individual and the shared realities they are a part of (their external environment/surroundings/community)._ This involves multiple layers, but at the highest layer it’s the Nation State structure protecting the individual in the modern age. 
+
+![[Identity Negotiation.png]]
+<center>The Second Step</center>
 
 Identifying as the most dangerous man in the world is within the range a Nation State can allow (one obviously exists), but its difficult to say I’m the most dangerous man in the world if the shared reality will strike down that identity by not accepting it. If I keep persisting in my version of reality, I will become considered delusional and then crazy, then ostracized or taken to the crazy house. _The game theory here is that we, as individuals, negotiate with the shared reality for our identities from a pool of available identity slots_ _(roles)[^3], to maximize our survival._
 
@@ -29,6 +35,9 @@ This means that simply by thinking about someone a certain way, we can pin their
 _Identity controls everything._ Our mentality, the range of ideas floating around in our minds, how our attention moves, how we perceive things, our range of reactions, our lifespan, the odor we produce, our physical strength, our attractiveness. It's the programming for humans, and we're all coded.
 
 It’s also worth mentioning, that the shared reality is responsible for our initial programming, via the indoctrination process described in [The state That Binds](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). This programming allows us to function as a member of the State. Meaning, even within this identity negotiation between the individual and the shared reality, the shared reality sets up much of the initial programming parameters while we’re helpless children, before we become adults and can distinguish for ourselves which part of the box (of identity ranges) we want to reside in[^4].
+
+![[Identity Negotiation Indoctrinated.png]]
+<center>The zeroth or -1 step. The game is rigged.</center> 
 
 Once we factor in these limitations (the death box) and (shared reality indoctrination & influence) _everything else we can choose for ourselves._ It’s really only the death box, indoctrination programming, and the constant shared reality influence that limits us.
 
@@ -121,13 +130,17 @@ The legacies of these rituals weren’t recorded. Everything during the ZEAA was
 
 Individuals had to fit their “role” into the tribal State’s shared reality of social cohesion (a small range). Their only freedom to differentiate individually was inside that tiny range. Lots of death outside that range.
 
+![[Identity Selection Small.png]]
+
 During the ZEAA, individuals whole concept of lasting identity probably wasn’t as deep or strategic as ours today. They probably didn’t ponder about who they were so much, because it constantly changed, but rather acted on it—locked into whatever their identity was in the moment (locked into that level of Maslow’s hierarchy of needs).
 
 Roles were fully attached to ethnicity, your Tribe (State) _<u>was</u>_ your ethnicity.
 
 #### Privacy
 
-While privacy from the tribe was rare; privacy over time was common. Whatever an individual did, could easily be wiped from the record, _because there was no record_. No CCTV cameras, no credit scores…Individuals were tracked by grandmothers. _It was basically like in Italy._
+While privacy from the tribe was rare; privacy over time was common. Whatever an individual did, could easily be wiped from the record, _because there was no record_. No CCTV cameras, no credit scores…Individuals were tracked by grandmothers. 
+
+![[grandmothers-surveillance.png|600]]
 
 #### Individualism
 
@@ -139,7 +152,7 @@ The social cohesion (reputation system) was heavily influenced by the tribal eld
 
 #### Coordination
 
-Tribes couldn’t coordinate well during the ZEAA. They were unable to create specialized individualistic individuals (who would facilitate greater coordination) or record state to help them coordinate. _They didn’t even have walkie-talkies._ As a result, tribal societies during the ZEAA couldn’t scale.
+Tribes couldn’t coordinate well during the ZEAA. They were unable to create specialized individualistic individuals (who would facilitate greater coordination) or record state to help them coordinate. As a result, tribal societies during the ZEAA couldn’t scale.
 
 #### Agency
 
@@ -159,9 +172,11 @@ Written records enabled the accumulation of knowledge, bureaucratic control, and
 
 Hierarchies emerged. Classical States imposed documented identities for censuses, taxes, and military conscription. This boosted coordination amongst the elites while simultaneously eroding power, privacy, and the tribal bonds from the vast majority of people within the societal pyramid—who couldn’t access or alter the recorded state.
 
-Knowledge became separated from identities for the first time in history. During the ZEAA, _identity was synonymous with knowledge_. “Elder loss” meant losing all the knowledge stored within that individual. It was only when written records emerged that identity and knowledge became separated.
+![[Identity Negotiation SEAA.png]]
 
-Identity was still intimately tied to reputation and the opinions of the close ones around you, but it was also inscribed by the scribes and communicated up the pyramid to the rulers and their representatives in a macro sense, as rough macro mappings. Identity became tied to entire empires through records.
+Knowledge became separated from identities for the first time in history. During the ZEAA, _identity was synonymous with knowledge_. “Elder loss” meant losing all the knowledge stored within that person. It was only when written records emerged that identity and knowledge became separated.
+
+Identity was still intimately tied to reputation and the opinions of the close ones around you, but it was also inscribed by the scribes and communicated up the pyramid to the rulers and their representatives in a macro sense, as rough macro mappings. Identity became tied, to entire empires, through records.
 
 #### Roles
 
@@ -232,6 +247,9 @@ Individuals came to feel they had a "social contact" shared with others which wa
 
 The DEAA is fundamentally an age of intermediary middle-men facilitating horizontal societal interactions using duplicated contracts. This is because for all our identity records to interoperate, we need middle-men to connect all our separate duplicated contracts to the rest of society. Religious structures, such as churches and mosques served this function early during the DEAA. In modern times, this function is largely in the hands of those who own and control our identity, property, and data records: corporations and Nation States.
 
+![[Hubs of DEAA.excalidraw.png|600]]
+<center>The hubs of the DEAA allow participants to interoperate with the rest of the system. They connect all the separate duplicate contracts</center>
+
 * * *
 
 #### Modern DEAA (You are here 🗺️)
@@ -276,7 +294,7 @@ Roles shifted from ascribed feudal roles, to achieved & attained individualist s
 
 _Anyone can become anything! You too can be like Mike!_
 
-![[michael-jordan-slam-4.jpg]]
+![[michael-jordan-slam.jpg]]
 
 Roles during the DEAA have become significantly more decoupled from race and ethnicity. Today, we are citizens of Nation States, most of which have abstracted away the conceptualization of race and ethnicity from the conceptualization of the State structure in order to increase the coordination and efficiency of multiple tribes working together as one structure. Most Nation States are multi-ethnic and multi-cultural. Race is still an issue, but the primary bind on identities is the Nation State, not the race. When I travel, they don’t ask for my race, they ask what Nation State I’m from—for my passport. Multiple ethnicities and races have equal legal rights inside a single Nation State structure.
 
@@ -302,13 +320,11 @@ Additionally, the DEAA has enhanced property rights. It enabled the precise trac
 
 _Privacy has been severely eroded during the DEAA._ We still have the old-fashioned communal reputation—the neighborhood grandmothers keeping an eye on us—but now the surveillance has gone global. Everyone's watching: governments, corporations, and billions of people online. Our actions and reputations are tracked worldwide. Hundreds of institutions monitor and record our entire lives. _Privacy has never been scarcer._
 
+![[modern-surveillance.excalidraw.png]]
+
 Anonymous (and to a lesser degree pseudonymous) digital existence cannot be tolerated by the Nation State, because it cannot provide social cohesion under such circumstances. Since the Nation State itself is a creature of past simpler times (of duplicated written contracts and democracy)—it can only hook into and see the things happening within those systems, meaning: _it can’t naturally access digital data_. Since it can’t itself perceive the digital data—flowing like blood flow throughout its territory—it needs to find some eyes—”Oh, hi corporations! 👀.” _But since corporations still can’t perceive anonymous digital expressions, <u>the State can’t allow them</u>._ **That would disintegrate its social cohesion.** _A State that cannot provide social cohesion cannot survive._ _Welcome to Surveillance States 🎉_.
 
 People often believe that it is surveillance capitalism they are living under, and that the corporate interests are incentivized to pilfer individuals data for profits—**_that’s not the case_**. <u>It’s not the corporations or businesses facilitating Surveillance States; it is the Nation State itself forcing corporations to disallow privacy and pilfer data</u>[^9]. This is techno-feudalism, not surveillance capitalism, because the base need for Surveillance States doesn’t originate from corporations—it comes from the Nation States’ need for social cohesion**.** _Again, the State can only provide as much individualism as it can sustain while maintaining social cohesion. The State itself cannot go outside of that box, it’s_ [_shared reality_](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) _will leak out, and it will die._
-
-**Let’s take a look at a short list of the entities tracking and editing your identity:**
-
-![[corporate-america-fortune-500-companies-usa-flag-design-turnpike.jpg]]
 
 Individuals have entered into a risky world…where they have both: no privacy (severely less than ever before), and the protection they receive in exchange for their identities’ compliance is still effectively limited to the whims of their rulers, because the intermediary middle-men have hijacked the democratic process. **Surveillance States aren’t neutral observation machines; the technocratic elites in control of them have their own agendas**. They will bend your identity into a pretzel: sending you to Iraq or Afghanistan, feeding you COVID vaccines that don’t work, or erasing you from the shared reality altogether to achieve their interests. _<u>Since individuals have no privacy, at both a micro and macro level in the modern day, there is nowhere to hide and nothing restraining their power</u>._
 
@@ -425,6 +441,7 @@ The identity data each SP instance generates will either remain in the hands of 
 > **The Synchronized Social Contract (SSC)** is the singular transparent synchronized social contract facilitating a shared reality, shared by all participants inside a Society Protocol instance.
 
 ![[state-sphere.png|600]]
+<center>The Synchronized Social Contract</center>
 
 _Identities of the TEAA interact with directly with the SSC_. Rather than interacting with many separate independent duplicated contracts of the DEAA—**identities of the TEAA interact _directly_ with the SSC**.
 

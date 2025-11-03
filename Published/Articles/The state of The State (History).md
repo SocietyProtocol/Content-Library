@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-10-29T12:42
+updated: 2025-11-02T18:39
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 ## Table of Contents
@@ -435,9 +435,9 @@ _What is really left out of the public state these days? Private moments, inform
 
 ### Illustration of Double-Entry Accounting
 #### Part 1
-![[Double-Entry Accounting Part1.excalidraw.png|90%]]
+![[DEAA Part 1.excalidraw.png|90%]]
 #### Part 2
-![[Double-Entry Accounting Part2.excalidraw.png|90%]]
+![[DEAA Part 2.excalidraw.png|90%]]
 
 ---
 The defining feature of the double-entry accounting period is **duplication**: multiple copies have enabled more verification and transmissibility in our societal state[^13]. 

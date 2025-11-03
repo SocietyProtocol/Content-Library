@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T11:23
-updated: 2025-10-23T22:34
+updated: 2025-11-02T21:43
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
@@ -11,6 +11,7 @@ updated: 2025-10-23T22:34
 [[The state of The State (History)]]
 [[Published/Articles/The state That Binds (Shared Reality)|The state That Binds (Shared Reality)]]
 [[Published/Articles/Synchronized States (The Golden Record)|Synchronized States (The Golden Record)]]
+[[The Sovereign Individual (Identity)|The Sovereign Individual (Identity)]]
 
 ### Handbook
 [[Handbook-Global]]
@@ -41,5 +42,6 @@ updated: 2025-10-23T22:34
 
 %%### Team
 [Anton VS](https://linktr.ee/antonvs)  – Visionary Founder, Inventor of Web4 – Social: [X](https://x.com/V1rtuousCycle), [Farcaster](https://farcaster.xyz/Virtuouscycle), [Lens](https://orb.club/@virtuouscycle)%%
+
 
 
