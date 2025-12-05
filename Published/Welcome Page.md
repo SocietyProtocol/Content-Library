@@ -1,10 +1,16 @@
 ---
 created: 2025-06-01T11:23
-updated: 2025-11-02T21:43
+updated: 2025-12-05T09:58
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
+*Web4.*
+
 ## Table of Contents
+
+### Videos
+<div style="padding:51.43% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1143269323?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Narrative Video"></iframe></div>
+
 ### Articles
 [[Fake Everything (Prelude)]]
 [[Published/Articles/4-Dimensional Synchronization (Clocks)|4-Dimensional Synchronization (Clocks)]]
@@ -39,9 +45,6 @@ updated: 2025-11-02T21:43
 [X](https://x.com/ProtocolSociety)  | [Farcaster](https://farcaster.xyz/societyprotocol)  | [Lens](https://orb.club/@societyprotocol)
 [Discord](https://discord.com/invite/fpk7eH7aWQ)
 [Github](https://github.com/SocietyProtocol)
-
-%%### Team
-[Anton VS](https://linktr.ee/antonvs)  – Visionary Founder, Inventor of Web4 – Social: [X](https://x.com/V1rtuousCycle), [Farcaster](https://farcaster.xyz/Virtuouscycle), [Lens](https://orb.club/@virtuouscycle)%%
-
-
-
+<!-- [Forums](https://forum.societyprotocol.io) -->
+### Copyright Notice
+_All content on this website, including text, images, and code, is © 2025 Society Protocol Foundation. All rights reserved._

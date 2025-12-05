@@ -1,9 +1,7 @@
 ---
 created: 2025-04-18T13:18
-updated: 2025-08-21T11:37
+updated: 2025-11-14T19:21
 ---
-## Introduction
-
 It's hard to imagine a world before precise clocks[^1]. Across the entirety of society, individuals who were attempting to coordinate had no precise means to synchronize. Actions that we as modern humans take for granted, like saying "lets meet at 12:00 tomorrow", weren't possible – because there was no 12:00! Just like there was no 1:00-11:00 or any precise integer for us to agree on. 
 
 The introduction of the mechanical clock revolutionized societal function by providing **a single, precise integer that everyone could synchronize around.**
@@ -254,8 +252,6 @@ As humanity evolved from sundials (0D) to mechanical clocks (1D), Bitcoin (2D), 
 Better synchronized groups always conquer the groups with inferior synchronization throughout history, because synchronization is the precursor of coordination. 
 
 Just like we entered the **Industrial Age** with the clock, we will enter the **Age of Synchronicity** with Society Protocol as our shared ledger of synchronization and coordination. 
-
-The future belongs to those who can synchronize their thoughts and actions at a higher dimension.
 
 ---
 ### Bibliography

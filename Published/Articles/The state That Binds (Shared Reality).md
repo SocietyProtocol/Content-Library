@@ -1,11 +1,10 @@
 ---
 created: 2025-10-03T12:17
-updated: 2025-11-01T18:04
+updated: 2025-12-02T17:42
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
-_This article is part of the state trilogy; terminology for the trilogy can be found [[Terminology for the state trilogy|here]]_.  
-_They can all be read independently, but you might want to read_ [_The state of the State_](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) _before this article and_ [_Synchronized States_](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)) _afterwards._
+_This article is part of the state trilogy; terminology for the trilogy can be found [[Terminology for the state trilogy|here]]_. *You might want to read [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [Synchronized States (The Golden Record)](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)) in addition to this essay.*
 
 * * *
 
@@ -19,7 +18,7 @@ Let’s break down the nature of reality. Since it doesn’t come from you, it h
 
 ### The Nature of Reality
 
-Our natural state of reality upon birth is a private perception (private state) (subjective truth). Almost immediately from that point onwards, we begin a journey of indoctrination into the shared reality of the tribe (semi-private state) (consensus). This process demands a good chunk of our early lives and culminates in adulthood—when we are able to function autonomously as a member of the tribe—seamlessly understanding and interacting with the shared reality. During the indoctrination period, we must learn: the rituals, common knowledge, patterns, and beliefs which form the shared reality of our tribe. The process includes learning: the language, rituals of the tribe, and the beliefs and meta-knowledge which exist in the consensus (such as religion, political ideologies, status symbols, and friends & enemies of the tribe). From the moment of birth…we are programmed to become productive and valuable members of the tribe via this indoctrination process. Without it we couldn’t function in society.
+Our natural state of reality upon birth is a private perception, a <u>private state</u> of *subjective truth*. Almost immediately from that point onwards, we begin a journey of indoctrination into the shared reality of the tribe, a <u>semi-private state</u> derived from a *consensus*. This process demands a good chunk of our early lives and culminates in adulthood—when we are able to function autonomously as a member of the tribe—seamlessly understanding and interacting with the shared reality. During the indoctrination period, we must learn: the rituals, common knowledge, patterns, and beliefs which form the shared reality of our tribe. The process includes learning: the language, rituals of the tribe, and the beliefs and meta-knowledge which exist in the consensus (such as religion, political ideologies, status symbols, and friends & enemies of the tribe). From the moment of birth…we are programmed to become productive and valuable members of the tribe via this indoctrination process. Without it we couldn’t function in society.
 
 The issue is, this semi-private consensus is fundamentally a compromise—**a shared reality**. It is never our private perception of subjective truth—**consensus is not the truth**. It is a shared reality which allows us to interoperate with the other participants who share the same reality. It’s a compromise of our individual subjective truths into a shared reality we can (hopefully) all agree on (sorry, this part is actually impossible).
 
@@ -347,7 +346,7 @@ Whether power is decentralized or not in a synchronized state depends not only o
 
 At the end of the day, the mutability vs immutability, security vs insecurity, credible-neutrality vs favoritism, censorship resistance vs censorship, trustless or trusted nature, and decentralization vs centralization—are all derived from the desires of the social layer. What we find at the bottom—is that: <u>synchronized states are simply humans who want to synchronize and coordinate around a shared reality</u>**.**
 
-Oftentimes, the people not understanding this premise, promise things that sounds good…like <u>immutabilit</u>y, <u>credible neutrality</u>, <u>security via consensus</u>, <u>trustlessness</u>, <u>censorship resistance</u>, and <u>decentralization</u> but their mouth can’t cash these checks. **It’s not how synchronized states fundamentally work.** **They only do one thing consistently: programmatically synchronize a shared reality** **fo****r a social layer.**
+Oftentimes, the people not understanding this premise, promise things that sounds good…like <u>immutabilit</u>y, <u>credible neutrality</u>, <u>security via consensus</u>, <u>trustlessness</u>, <u>censorship resistance</u>, and <u>decentralization</u> but their mouth can’t cash these checks. **It’s not how synchronized states fundamentally work.** **They only do one thing consistently: programmatically synchronize a shared reality for a social layer.**
 
 ## How can synchronized states help us share a STB?
 
@@ -503,7 +502,7 @@ People become bound to their shared reality (over time), this happens through th
 
 We don’t provide either of these things at Society Protocol.
 
-If you’re interested in more knowledge about society, identity, longevity, and purpose: take a look at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co).
+If you’re interested in more knowledge about society, identity, longevity, and purpose: take a look at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co). 
 
 If you are looking for more content about the evolution of identities and Society Protocol, read [The Sovereign Individual](https://societyprotocol.io/404).
 

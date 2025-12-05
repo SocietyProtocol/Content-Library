@@ -1,10 +1,8 @@
 ---
 created: 2025-10-23T20:14
-updated: 2025-10-29T12:44
+updated: 2025-11-06T20:22
 ---
 ## Defining Our Terms
-
-Before proceeding, we must establish critical distinctions in our terminology:
 
 - **state** (lowercase): Society's current condition or status—the collective memory and context that forms our shared reality.
 - **State** (uppercase): The tribe, kingdom, or nation bound together by their shared state.

@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2025-11-02T20:47
+updated: 2025-12-02T17:04
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
@@ -37,7 +37,7 @@ _Identity controls everything._ Our mentality, the range of ideas floating aroun
 It’s also worth mentioning, that the shared reality is responsible for our initial programming, via the indoctrination process described in [The state That Binds](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). This programming allows us to function as a member of the State. Meaning, even within this identity negotiation between the individual and the shared reality, the shared reality sets up much of the initial programming parameters while we’re helpless children, before we become adults and can distinguish for ourselves which part of the box (of identity ranges) we want to reside in[^4].
 
 ![[Identity Negotiation Indoctrinated.png]]
-<center>The zeroth or -1 step. The game is rigged.</center> 
+<center>The Zero Step</center> 
 
 Once we factor in these limitations (the death box) and (shared reality indoctrination & influence) _everything else we can choose for ourselves._ It’s really only the death box, indoctrination programming, and the constant shared reality influence that limits us.
 
@@ -47,13 +47,14 @@ To form our identity optimally, we then have to understand "the shape of the wor
 
 _It’s not difficult, it’s impossible._ The issue is: our indoctrination prevents us from perceiving things accurately to begin with.
 
-So now we understand all of this and are wiser to it…let’s tune our identity from this point forward armed with some intellect. Let’s create some fashionable beliefs and mannerisms 👞👒.
+So now we understand all of this and are wiser to it…let’s tune our identity from this point forward armed with some intellect. Let’s create some fashionable beliefs and mannerisms 👞👒👗.
 
 _Beliefs are fashion._
 
-- People wear and own what they identify with and want to be perceived as. Often taking an item of lower quality but associated with a brand we are associated with, over an item of higher quality.
+- People wear and own what they identify with and want to be perceived as. 
+	- Often taking an item of lower quality but associated with a brand we are associated with, over an item of higher quality.
 - A lot of times people’s beliefs are held by their friends and not themselves.
-- Erik Torenberg and Rob Henderson describe how these mechanics work in detail, \[@hendersonLuxuryBeliefsAre2023\] and \[@torenbergBeliefsAreFashions2022\].
+- Rob Henderson and Erik Torenberg describe how these mechanics work in detail, in \[@hendersonLuxuryBeliefsAre2023\] and \[@torenbergBeliefsAreFashions2022\].
 
 * * *
 
@@ -61,9 +62,9 @@ _Beliefs are fashion._
 
 The limit to individualism is always set by the State you're a part of, based on its needs and limited by its ability to maintain social cohesion. Increasing individualism can find new innovations and ways of doing things more effectively, but it’s a trade-off with social cohesion (more individualism makes it harder to maintain societal cohesion). Often the State structure doesn't have the organizational capacity “budget” to afford this loss. _The amount of individualism a State can afford is limited by its social cohesion mechanisms._ _That’s the State’s R&D budget._
 
-The ability for individualism comes from the State, and it waxes and wanes at certain times. During peacetime, the State can allow a wide degree of individualism for exploration, experimentation, creativity to flourish. During wartime, it must corral everyone into formation—curtailing individualism. Hence the draft, turns everyone into soldiers. Individualism always falls within the purview of the State, depending on what it can afford (as an R&D budget) while maintaining social cohesion. At the end of the day, if we get too "individualized" and imbalance the social cohesion, the State must step in and curb it. If it doesn't—it will disappear or be conquered by another State itself—_you won't all become free_.
+The ability for individualism comes from the State, and it waxes and wanes at certain times. During peacetime, the State can allow a wide degree of individualism for exploration, experimentation, and creativity to flourish. During wartime, it must corral everyone into formation—curtailing individualism. Hence the draft, turns everyone into soldiers. Individualism always falls within the purview of the State, depending on what it can afford (as an R&D budget) while maintaining social cohesion. At the end of the day, if we get too "individualized" and imbalance the social cohesion, the State must step in and curb it. If it doesn't—it will disappear or be conquered by another State itself—_you won't all become free_.
 
-The State also knows it doesn't entirely know what it needs or what it can find in the box of individualism. It’s kind of a mystery pandoras box. We’ve _used this individual freedom to invent Society Protocol. Lol._
+The State also knows it doesn't entirely know what it needs or what it can find in the box of individualism. It’s kind of a mystery pandoras box. We’ve used this individual freedom to invent Society Protocol. 🫡 🤣
 
 At each epoch of societal evolution, the social cohesion mechanisms have evolved and worked differently, enabling society to facilitate more individual freedom; while staying within the rules of needing to achieve social cohesion.
 
@@ -87,13 +88,13 @@ At each epoch of societal evolution, the social cohesion mechanisms have evolved
 
 * * *
 
-> **This fundamentally means that we can only create better more powerful identities (and people) by creating better coordinated societies.**
+> ***This fundamentally means that we can only create better more powerful identities (and people) by creating better coordinated societies.***
 
-* * *
+<!-- * * *
 
 #### A Brief Interlude
 
-More teachings about how to refine identity, achieve longevity, and find purpose can be found at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co).
+More teachings about how to refine identity, achieve longevity, and find purpose can be found at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co). -->
 
 ## Evolution of Identity
 
@@ -348,12 +349,12 @@ It contains both correct and incorrect thinking at the same time. It’s true…
 
 **It’s close to impossible to find privacy because the Nation State structure cannot facilitate it**. When the weight of the Nation State bears down on corporations and individuals; _it’s essentially impossible to resist_. All attempts at digital privacy have failed miserably_, because we all exist within the territorial jurisdiction of a Nation State._ **_Therefore…you have no privacy…and can’t have any privacy. <u>Privacy equals safety</u>. Therefore…you can’t have any safety._**
 
-_Then what equals safety?_ This whole privacy means safety thing has me concerned 🤔…hmm. How can we find safety⁉️ **There are only two potential paths to safety, neither of which are currently being worked on** 🤦‍♂️:
+_Then what equals safety?_ This whole privacy means safety thing has me concerned 🤔…hmm. How can we find safety⁉️ **There are only two potential paths to safety, neither of which are currently being worked on**:
 
 1. **A more advanced State structure which can facilitate privacy due to it’s ability to retain social cohesion <u>despite privacy</u>.** This can be accomplished by hooking directly into digital identities while remaining able to retain some privacy for some aspects using cryptography.
 2. **Fairness and equality of representation in the State (Complete Alignment)**. This option isn’t directly about privacy, but rather making the situation around privacy improved for society. At the current moment, we have unequal privacy (some of us have all the data while others have none) and unequal representation (we do not all have equitable access to make governance decisions).
-
-If we simply adjust that pattern, flipping it into <u>equal privacy</u> and <u>equal representation</u> for everyone: that would change the equation. Our society would not require as much privacy as before to alleviate the issue of safety. Everybody could even potentially have less privacy, but if we make it fair for everyone, <u>equal privacy</u> and <u>equal representation</u>. That would be more satisfactory to everyone. All the data from this public state, isn’t useless, it can be used to improve societal coordination.
+	
+	If we simply adjust that pattern, flipping it into <u>equal privacy</u> and <u>equal representation</u> for everyone: that would change the equation. Our society would not require as much privacy as before to alleviate the issue of safety. Everybody could even potentially have less privacy, but if we make it fair for everyone, <u>equal privacy</u> and <u>equal representation</u>. That would be more satisfactory to everyone. All the data from this public state, isn’t useless, it can be used to improve societal coordination.
 
 As we look back at our travelled epochs: the ZEAA, SEAA, and DEAA. _During each epoch, privacy has only eroded._ If we think about future technologies, it’s hard to imagine a future where that pattern would reverse. **A thorny issue about privacy, is that privacy and social cohesion (and coordination) tend to be counter-opposing forces**[^10]. _During each epoch of human evolution, coordination and social cohesion have increased, and privacy has decreased._ The State, which controls our identities fully[^11], cares vastly more about social cohesion and coordination than it cares about privacy.
 
@@ -443,7 +444,7 @@ The identity data each SP instance generates will either remain in the hands of 
 ![[state-sphere.png|600]]
 <center>The Synchronized Social Contract</center>
 
-_Identities of the TEAA interact with directly with the SSC_. Rather than interacting with many separate independent duplicated contracts of the DEAA—**identities of the TEAA interact _directly_ with the SSC**.
+Rather than interacting with many separate independent duplicated contracts of the DEAA, identities of the TEAA interact directly with the SSC.
 
 The SSC is the singular synchronized source of trust[^15] for everyone in an SP instance. All participants[^16] have equal accessibility to interact directly with the SSC.
 

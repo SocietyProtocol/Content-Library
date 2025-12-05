@@ -1,6 +1,6 @@
 ---
 created: 2025-04-17T11:15
-updated: 2025-08-19T21:00
+updated: 2025-11-21T22:26
 ---
 Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. To verify this, please run a simple thought experiment:
 
@@ -190,7 +190,7 @@ These DeFi operators existing in the state machine <u>must pay attention</u> to 
 
 While it would appear that we are talking about fork-choice rule in this section, we are not. **We are talking about social layer coordination**. The social layer does not necessarily need to fork the network to leave.
 
-When the organized social layer decides it’s time to move (fork) or simply not honor the blockchain network–**there is no security, asset valuation, or governance method that will save you**. Either you move with the social layer (which can manipulate or invalidate your assets); or all your assets deriving power from that social layer[^2] will invalidated in the eyes of the group when the social layer leaves the building.
+When the organized social layer decides it’s time to move (fork) or simply not honor the blockchain network–**there is no security, asset valuation, or governance method that will save you**. Either you move with the social layer (which can manipulate or invalidate your assets); or all your assets deriving power from that social layer[^2] will be invalidated in the eyes of the group when the social layer leaves the building.
 
 ![[Whoosh.jpg|750]]
 
@@ -217,7 +217,7 @@ Blockchain started in 2008 as a vision to decentralize the monetary supply with 
 **Decentralization as a concept can be broken down into two important functions:**
 
 1. To make the organization lack one central point of failure (distributed)
-2. To keep the orgaanization free of power capture capture by a few centralized parties (decentralized)
+2. To keep the organization free of power capture capture by a few centralized parties (decentralized)
 
 The world has currently only managed to create <u>distributed</u> synchronized state organizations thus far. While the power sources have become worldwide and hard to track down (able to use opacity and jurisdictional arbitrage), **they are not meaningfully <u>decentralized</u>.**
 
