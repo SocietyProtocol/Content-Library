@@ -4,8 +4,6 @@ updated: 2025-12-05T09:58
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
-*Web4.*
-
 ## Table of Contents
 
 ### Videos
@@ -18,6 +16,7 @@ updated: 2025-12-05T09:58
 [[Published/Articles/The state That Binds (Shared Reality)|The state That Binds (Shared Reality)]]
 [[Published/Articles/Synchronized States (The Golden Record)|Synchronized States (The Golden Record)]]
 [[The Sovereign Individual (Identity)|The Sovereign Individual (Identity)]]
+[[Published/Articles/Energy Is All You Need (Money)|Energy Is All You Need (Money)]]
 
 ### Handbook
 [[Handbook-Global]]

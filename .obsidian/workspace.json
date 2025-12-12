@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Welcome Page.md",
+                "file": "Published/Articles/Energy Is All You Need (Money).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome Page"
+              "title": "Energy Is All You Need (Money)"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Published/Articles/Synchronized States (The Golden Record).md",
+                "file": "Published/Articles/Energy Is All You Need (Money).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Synchronized States (The Golden Record)"
+              "title": "Backlinks for Energy Is All You Need (Money)"
             }
           },
           {
@@ -228,11 +228,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "25878848cca8e4c5",
+  "active": "50d3ef46b7b953cf",
   "lastOpenFiles": [
+    "Published/Welcome Page.md",
+    "Published/Articles/Energy Is All You Need (Money).md",
+    "Published/Articles/Synchronized States (The Golden Record).md",
     "Extras/Illustrations/Handbook-Actor.excalidraw.md",
     "Published/Articles/The state That Binds (Shared Reality).md",
-    "Published/Welcome Page.md",
     "Extras/Icons/actor-mando-icon.png",
     "Extras/Icons/actor-trooper-icon.png",
     "Extras/Icons/actor-vader-icon.png",
@@ -245,10 +247,8 @@
     "Published/Handbook/Handbook-Global.md",
     "Published/Handbook/Handbook-Actor.md",
     "Published/Articles/Fake Everything (Prelude).md",
-    "Published/Articles/Energy Is All You Need (Money).md",
     "Published/Articles/4-Dimensional Synchronization (Clocks).md",
     "Drafts/Outlines/How We Are Building Society Protocol.md",
-    "Published/Articles/Synchronized States (The Golden Record).md",
     "Extras/Brand/Fonts/Drawing 2025-11-15 14.42.49.excalidraw.md",
     "Published/Articles/The Sovereign Individual (Identity).md",
     "Published/Articles/The Sovereign Individual (Agency).md",

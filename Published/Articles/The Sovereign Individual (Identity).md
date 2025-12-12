@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2025-12-02T17:04
+updated: 2025-12-11T22:32
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
@@ -37,7 +37,7 @@ _Identity controls everything._ Our mentality, the range of ideas floating aroun
 It’s also worth mentioning, that the shared reality is responsible for our initial programming, via the indoctrination process described in [The state That Binds](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). This programming allows us to function as a member of the State. Meaning, even within this identity negotiation between the individual and the shared reality, the shared reality sets up much of the initial programming parameters while we’re helpless children, before we become adults and can distinguish for ourselves which part of the box (of identity ranges) we want to reside in[^4].
 
 ![[Identity Negotiation Indoctrinated.png]]
-<center>The Zero Step</center> 
+<center>The Zeroth Step</center> 
 
 Once we factor in these limitations (the death box) and (shared reality indoctrination & influence) _everything else we can choose for ourselves._ It’s really only the death box, indoctrination programming, and the constant shared reality influence that limits us.
 
@@ -640,7 +640,6 @@ Torenberg, E. (2022). Beliefs are Fashions [Substack Newsletter]. In _Erik Toren
 Wang, K. (n.d.). _Imitation Triangles_. https://kaiwenwang.com/writing/imitation-triangles.
 
 ### Footnotes
-
 [^1]: The State itself is being limited in its identity by the need to keep tribal cohesion and survive against other rival States.
 [^2]: At every stage/epoch of societal evolution, our range of identity is limited by societal cohesion. We can only have as much individualism, agency, or privacy as the State structure can sustain while maintaining societal cohesion.
 [^3]:  Identity slots are roles that society needs. They are fluid, limited, and differ in various societies. For example, a society generally needs one president, thousands of movie stars, and hundreds of thousands of baristas. _These roles are fluidly changing, and often not clearly defined, but they do exist, are limited, and have scarcity. This forms a pyramid. It also creates “identity markets” with people vying for various identity slots in the hierarchy. The slots are limited top-to-bottom, a society can only support so many beggars: there’s only a certain amount of identity slots available for beggars._
