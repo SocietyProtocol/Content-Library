@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2025-12-11T22:32
+updated: 2026-01-08T23:18
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
@@ -460,11 +460,11 @@ People want to build a community where it can’t be taken away by others around
 
 #### Roles
 
-Society Protocol allows every Individual Actor to fluidly choose their own roles inside SP instances by using Levels. Participants will be able to become a tremendous range of roles. Each Individual Actor and Organization determines how to allocate their Energy and integrate their individuality into the fabric of society—_forming a unique identity signature over time._
+Society Protocol allows every Individual Actor to fluidly choose their own roles inside SP instances by using Value Functions. Participants will be able to become a tremendous range of roles. Each Individual Actor and Organization determines how to allocate their Energy and integrate their individuality into the fabric of society—_forming a unique identity signature over time._
 
-Individuals don’t have to choose one role or commit to anything forever—they can divide their Energy between Levels however they decide is best for them at each point in time. **The SSC already includes everything necessary to provide social cohesion and optimize coordination**—allowing every Individual Actor to have a unique configuration of how their Energy is distributed between Levels without oversight.
+Individuals don’t have to choose one role or commit to anything forever—they can divide their Energy between Functions however they decide is best for them at each point in time. **The SSC already includes everything necessary to provide social cohesion and optimize coordination**—allowing every Individual Actor to have a unique configuration of how their Energy is distributed between Functions without oversight.
 
-![[Levels.excalidraw.svg|800]]
+![[Value Functions.excalidraw.svg|800]]
 
 - **Parents –** Individuals who are good at recognizing others who are aligned and talented can become successful as Parents, inviting many valuable people to their SP instance—expanding the power of their shared reality.
 - **Hunters –** Individuals who want earn Energy in a relatively easy fashion while helping their SP instance propagate Events, especially those who have the best machines to do so, can become successful Hunters. Hunters expand censorship resistance for everyone and clean the Energy pool of stagnant Energy.
@@ -476,7 +476,7 @@ Individuals don’t have to choose one role or commit to anything forever—they
 - **Farmers –** The immense need to store all societal data in a distributed fashion will spawn a need for distributed storage. The optimal individuals from all over the world will become Farmers, who store societal state data.
 - **Portal –** Ever wanted your own society? With only you and the cool people you call friends? Individuals who are unhappy with their SP instance will choose the role of Portal (exiting). Exiting individuals provide feedback to the SP instance (by leaving) while allowing the instance to retain the value they’ve created in exchange for retaining their verifiable historical identity in a new instance.
 
-These are the 9 original Levels or roles. Additional roles can be added in Society Protocol instances as Levels to suit the _coordination_ and _societal cohesion_ needs of the various social layers using Society Protocol. _Not every instance needs to contain all the Levels—they are configurable_.
+These are the 9 original Value Functions or roles. Additional roles can be added in Society Protocol instances as Value Functions to suit the _coordination_ and _societal cohesion_ needs of the various social layers using Society Protocol. _Not every instance needs to contain all the Value Functions—they are configurable_.
 
 Individual Actors choose their own roles, there are millions of variations and niches within every role, they can change roles fluidly, and every Individual Actor in the system has absolutely equal access to participate in each role _permissionlessly_ (without needing permission from anybody). Everyone receives unprecedented agency in choosing their own roles, path, and fate…all the while maintaining social cohesion.
 
@@ -498,7 +498,7 @@ Synchronized States will facilitate the replacement of _democratic principles_ w
 > 
 > **_Meritocracy:_** _Our social contract incentivizes meritocracy (not democracy or autocracy). We aim for the best people for each specific problem to be making decisions about that issue (in the right quantity and optimized process (amount of resources)). The primary root of decisions to optimize for is the survival of the State. All subgroups of meritocracy (i.e. the meritocracy of blacksmithing, are subservient to the root: the survival of the State)._
 
-Every Level in Society Protocol is designed to facilitate maximum individual freedom while retaining social cohesion and optimal coordination mechanisms. SP gives Individual Actors maximum freedom to become the best version of themselves in this way. During the TEAA, it will no longer be about affording a large R&D budget in order to experiment with a wide range of individualism. Individualism will retain it’s large range of freedom, but become better guided by the needs of the Synchronized State—through the society-wide synchronized incentivization mechanisms—at the same time.
+Every Value Function in Society Protocol is designed to facilitate maximum individual freedom while retaining social cohesion and optimal coordination mechanisms. SP gives Individual Actors maximum freedom to become the best version of themselves in this way. During the TEAA, it will no longer be about affording a large R&D budget in order to experiment with a wide range of individualism. Individualism will retain it’s large range of freedom, but become better guided by the needs of the Synchronized State—through the society-wide synchronized incentivization mechanisms—at the same time.
 
 How will Society Protocol and the TEAA change humans and their identities? We don’t know exactly…but I believe it will make every individual more considerate of what society wants, and inclined (incentivized) to deliver it. Everyone will move more as one unit, and be more considerate of the societal wishes in their actions. _This can elevate the State, which as we covered in the beginning of the article: is ultimately the only way to elevate individual identities._
 
@@ -528,7 +528,7 @@ In other ways, Society Protocol’s pseudonymous accounts publish a lot of publi
 
 In addition to pseuddoanonymmity, Society Protocol provides three different delineations of state data: _<u>public state</u>_, _<u>semi-private state</u>_, and _<u>private state</u>_. Everything doesn’t need to go into the public Timeline[^19]. Much of each accounts personal data can be stored locally or encrypted and stored with Farmers or in other clouds. The private keys holding identity ultimately lock and unlock data as the owners see fit, and only societally valuable synchronization and coordination data is shared unencrypted publicly in the Timeline.
 
-- **public state:** Is verified by the accounts private key and placed on the quasi-immutable public Timeline. It is accessible by everyone as public information, and used for societal coordination. It’s useful for data analytics. **public state** includes all Levels actions. This historical state adds up over time to illuminate Actors and Organizations identities.
+- **public state:** Is verified by the accounts private key and placed on the quasi-immutable public Timeline. It is accessible by everyone as public information, and used for societal coordination. It’s useful for data analytics. **public state** includes all Value Function interactions. This historical state adds up over time to illuminate Actors and Organizations identities.
 - **semi-private state:** This section pertains to things such as private communications, multimedia, creative content, emails shared between a subset of SP accounts which are able to unlock and access the **semi-private state** while it remains encrypted to everyone else, both at rest and in transit. **semi-private state** doesn’t need to go on the Timeline, and is usually stored with Farmers, or in the cloud to remain accessible to the entire subset of participants[^20].
 - **private state:** Personal data which can be signed with the accounts private key for integrity and verification while retaining complete privacy.
 

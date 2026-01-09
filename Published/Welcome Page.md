@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T11:23
-updated: 2025-12-05T09:58
+updated: 2026-01-08T23:32
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
@@ -21,19 +21,19 @@ updated: 2025-12-05T09:58
 ### Handbook
 [[Handbook-Global]]
 [[Handbook-Actor]]
-[[Handbook-Levels]]
 [[Handbook-Governance]]
-[[Level-Parenting]]
-[[Level-Hunting]]
-[[Level-Property]]
-[[Level-Curation]]
-[[Level-Governance (Distributed Courts)]]
-[[Level-Governance (Futarchy)]]
-[[Level-Organizations]]
-[[Level-Communication]]
-[[Level-Farming]]
-[[Level-Portal]]
-
+[[Handbook-Value Functions]]
+[[Function-Parenting]]
+[[Function-Hunting]]
+[[Function-Property]]
+[[Function-Curation]]
+[[Function-Governance (Distributed Courts)]]
+[[Function-Governance (Futarchy)]]
+[[Function-Organizations]]
+[[Function-Communication]]
+[[Function-Farming]]
+[[Function-Portal]]
+ 
 ### Movement
 [[Ideology]]
 

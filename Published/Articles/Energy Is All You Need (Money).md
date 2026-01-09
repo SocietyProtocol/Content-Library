@@ -1,9 +1,9 @@
 ---
 created: 2025-11-27T23:24
-updated: 2025-12-12T00:02
+updated: 2026-01-08T21:29
 ---
 # Table of Contents
-*There are two main parts to this article, the "Fundamentals of Money" covers how money works and the "Evolutions of Monetary Systems" covers the evolutionary steps of money throughout history. Feel free to skip some sections if you already understand it.* 
+*There are two main parts to this article, the "Fundamentals of Money" covers how money works and the "Evolutions of Monetary Systems" covers the evolutionary stages of money throughout history.*
 
 1. [Introduction](#Introduction)
 2. [The Fundamentals of Money](#The%20Fundamentals%20of%20Money)
@@ -48,7 +48,7 @@ The question of how to <u>measure</u>, <u>store</u>, and <u>transfer</u> value t
 
 We used to value each other by how many seashells, oxen, corn satchels, metallic ingots, coins, and paper representations of value a person possessed. Today, our monetary systems are digital, semi-attached to identity, and stored by intermediaries. **All of these systems are outdated**.
 
-Humanity has always wanted to transmit value directly through identities[^3], but has never had anywhere close to a technological infrastructure required to handle such a thing. In the upcoming _age_, money will become directly abstracted to the value each entities’ identity brings to society.
+Humanity has always wanted to transmit value directly through identities[^3], but has never had anywhere close to a technological infrastructure required to handle such an undertaking. In the upcoming _age_, money will become directly abstracted to the value each entities’ identity brings to society.
 
 At the end of the blockchain evolution, value isn’t going to be transferred through fiat currencies, blockchain tokens, or CBDCs. Value will be directly implanted and transferred through identities. _That’s what we’re building at Society Protocol._
 
@@ -69,11 +69,9 @@ In this section, we will cover the mechanics of how money works. There is an imp
 Monetary systems are complex and it would create a big burden on society. Whether or not people are educated about money, they need to use a money system. Society should have a fair system that facilitates them to do what they like. A baker should focus on baking, not on the soundness, fairness, exploitability, and complex taxation of the monetary system.
 
 ## Functions of Money
-
 **Money is used for** [**three functions**](https://www.econlib.org/library/YPDBooks/Jevons/jvnMME.html?chapter_num=4#book-reader)**: to <u>measure</u>, <u>transfer</u>, and <u>store</u> value.** _These functions can notably be served independently by different materials in a monetary system. For example: you might <u>measure</u> value in Dollars, <u>transfer</u> it in Rupees, and <u>store</u> it in Bitcoin._
 
 #### Measure: Unit of Account (UoA)
-
 Money is used as a <u>measure</u> of value, against which all other goods and services can be comparatively priced. Without this base of measurement, we would need to learn (and constantly re-evaluate) the pricing of every good or service against every other good or service on the market. This is n² combinations, which grows unfathomable to sustain with even merely 500 market offerings totaling 250,000 ever-shifting prices.
 
 By using money as a unit of account, we lower the need to measure prices down to the exact number of market offerings, all priced against the singular UoA.
@@ -83,15 +81,13 @@ By using money as a unit of account, we lower the need to measure prices down to
 By all using the same UoA, we are able to arrive at an identical <u>measurement</u> of value. _Effectively speaking the same language._ This allows us to trade.
 
 #### Transfer: Medium of Exchange (MoE)
-
-Money _lubricates_ trade exchanges by allowing us a medium to transfer value efficiently. Without an efficient medium for transferring any size denomination of value…we would only be able to exchange offerings of identical value.
+Money _lubricates_ trade exchanges by allowing us a medium to <u>transfer</u> value efficiently. Without an efficient medium for transferring any size denomination of value…we would only be able to exchange offerings of identical value.
 
 To be able to exchange non-identical value offerings, we must either employ _money_ or _debt_ to _lubricate_ the value difference. Our potential range of trade interactions is therefore directly proportional to how widely and precisely our money material can <u>transfer</u> value as a MoE.
 
 Over the course of history, this function has taken many mediums...none of them perfect. All of them needed to be stored, secured, measured, divided, and transferred efficiently, to settle up exchanges of value. _Imagine transferring wheelbarrows of corn or iron to settle value flows today._ The limitations of past monetary systems made transferring value extraordinarily difficult. Even cash today feels quite clumsy: _What denominations do you need?_ _What do you do with the change? How do you secure it? How can you transfer value with it internationally?_
 
 #### Store: Store of Value (SoV)
-
 _Money is societal value <u>stored</u> in durable form, that is the essence._ For that to be true, good money must retain essentially as close to equal value compared to every other trade offering in the market as possible.
 
 Assuming everything else is equal—money shouldn’t grow or decay in value (compared to the aggregate basket of every other offering in the economy). As a <u>store</u> of societal value:
@@ -148,13 +144,13 @@ This quality is most important for long-term contracts where money is used as a 
 
 #### Cognizability
 
-The material we use as money should be easy to verify the authenticity of and distinguish from other materials.
+The material we use as money should be easy to <u>recognize</u> the authenticity of and distinguish from other materials.
 
 > “By this name we may denote the capability of a substance for being easily recognized and distinguished from all other substances. As a medium of exchange, money has to be continually handed about, and it will occasion great trouble if every person receiving currency has to scrutinize, weigh, and test it. If it requires any skill to discriminate good money from bad, poor ignorant people are sure to be imposed upon. Hence the medium of exchange should have certain distinct marks which nobody can mistake.” (Jevons, 1876)
 
 ## Qualities Monetary Systems Need to Possess
 
-The previous section about the _<u>qualities of money materials</u>_ focuses on money from an individual’s perspective (as a microcosm). The system of money itself (as a macrocosm) would also like to possess certain qualities. _What qualities are important in a monetary system?_
+The previous section about the _qualities of money materials_ focuses on money from an individual’s perspective (as a microcosm). The system of money itself (as a macrocosm) would also like to possess certain qualities. _What qualities are important in a monetary system?_
 
 #### Scarcity (Limited Supply)
 
@@ -168,7 +164,7 @@ We all benefit from trade, but to use a monetary system is never free—it alway
 
 The historical evolution of monetary systems is a steady slope of decreasing transaction costs expanding the range of profitable trade interactions possible at each evolutionary stage. _The easier it is to <u>transfer</u> value, the more trades we can profitably partake in—elevating the total wealth of our society._
 
-Consider the simple act of buying a bottle of water for $1. This trivial exchange, completed in seconds using fiat currency at any corner store, would have been economically impossible in an era of oxen or gold ingots—where the overhead of measuring, and transferring value would have exceeded the value of the water itself.
+Consider the simple act of buying a bottle of water for $1. This trivial exchange, completed in seconds using fiat currency at any corner store, would have been economically impossible in an era of oxen or gold ingots—where the overhead of <u>measuring</u>, and <u>transferring</u> value would have exceeded the value of the water itself.
 
 #### Inspectability (Bookkeeping of Flows)
 
@@ -404,7 +400,7 @@ Under the direction of the Federal Reserve, between 1945–1971, the United Stat
 
 The temptation for whoever is in control of the value supply to fraudulently manipulate it at **the expense of everyone else’s value** is always irresistible—just as much so when in a dominant position as when in a desperate one, as this story shows.
 
-The United States already had everything, and _still_ decided to see how far it could “stretch” the monetary supply. _“What would be the cheapest and lowest point of value that the people would be willing to transact in?”_ Until, this exploitation was counter-exploited and the United States lost it’s real value (gold)—dragging the entire world with it into inconvertible paper money, by controlling the world’s dominant military power. Fiat currency is an indefinite “forced loan” of societal value from the populace to the central bank—essentially economic servitude
+The United States already had everything, and _still_ decided to see how far it could “stretch” the monetary supply. _“What would be the cheapest and lowest point of value that the people would be willing to transact in?”_ Until, this exploitation was counter-exploited and the United States lost it’s real value (gold)—dragging the entire world with it into inconvertible paper money, by controlling the world’s dominant military power. Fiat currency is an indefinite “forced loan” of societal value from the populace to the central bank—essentially economic servitude.
 
 **Fiat currencies aren’t new.** Stanley Jevons wrote about them in 1876. They are the unconstrained gutter bottom of all monetary systems, a sewer that governments fall into when they have lost legitimacy, and struggle to get out of.
 
@@ -581,7 +577,7 @@ _How do we go from static assets (objects and abstractions representing value), 
 
 **The core concept is: How do we redistribute Energy in such a way, that at each point in time, every entities’ Energy in the system is measured accurately?**
 
-All we need for this to happen is a protocol for redistributing Energy (explicit social value) to society accurately, which includes all the common generalized functions all societies engage in (in Society Protocol these are called Levels, you can read about them in [Level Up](https://lex.page/d/009a574f-a5db-45cb-ae7c-1323eb3d6aa0)).
+All we need for this to happen is a protocol for redistributing Energy (explicit social value) to society accurately, which includes all the common generalized functions all societies engage in (in Society Protocol these are called Value Functions, you can read about them in [Energy Redistribution (Value Systems)](https://lex.page/d/009a574f-a5db-45cb-ae7c-1323eb3d6aa0)).
 
 In order to achieve such a protocol, two things are required:
 
@@ -603,7 +599,7 @@ In order to achieve such a protocol, two things are required:
 - **Money**: Energy is the <u>stored</u> value of each participant’s identity to society over time.
 - **Currency**: Energy is used as an official currency which all participants in a Society Protocol instance can use to <u>transfer</u> their societal value around instantly worldwide.
 - **Explicit social status**: Energy gives all participants a common language to <u>measure</u> value by mapping the explicit social status of every participant in the system to the same metric—showing each entities’ current standing and where it originates from. Where it came from, where they came from, whom they’ve interacted with, how their status has been earned, and how it’s been spent.
-- **Access to control**: Energy’s <u>utility</u> is in allowing participants access to control a proportional portion of societal interactions by using the Levels and Governance functionality of Society Protocol. It additionally shows everyone in the system how every participants Energy has been allocated throughout their entire Lifeline and used for utility as a pie chart.
+- **Access to control**: Energy’s <u>utility</u> is in allowing participants access to control a proportional portion of societal interactions by using the Governance and Value Functions of Society Protocol. It additionally shows everyone in the system how every participants Energy has been allocated throughout their entire Lifeline and used for utility as a pie chart.
 - **Ownership of a Synchronized State**: Although no one directly owns the Synchronized State, Energy is the closest mapping we have to measure the proportional ownership of each identity in a Synchronized State.
 
 ### How Does Energy Work?
@@ -612,7 +608,7 @@ All participants are algorithmically and automatically rewarded in Energy for do
 
 _Energy can never be captured and held by those who do not produce value._ For example, if a hostile government seizes half of the Energy in a Society Protocol instance, and attempts to lock it in a vault…it will simply float away over time towards those entities who are contributing value to the protocol.  
   
-A lot of this redistribution is accomplished by the [Hunt Level](https://societyprotocol.io/Published/Handbook/Level-Hunting) mechanism—which lotteries off Energy at every Timeslot from everyone in the protocol, based on their Activity Score. Other methods of redistributing Energy also exist at every other Level, to facilitate the streaming of societal Energy (money) towards valuable participants. Each Society Protocol instance will be a little bit different in this regard, regarding the variety and intensity of the functions controlling how Energy is redistributed over time.
+A lot of this redistribution is accomplished by the [Hunt Value Function](https://societyprotocol.io/Published/Handbook/Function-Hunting)—which lotteries off Energy at every Timeslot from everyone in the protocol, based on their Activity Score. Other methods of redistributing Energy also exist in every other Value Function, to facilitate the streaming of societal Energy (money) towards valuable participants. Each Society Protocol instance will be a little bit different in this regard, regarding the variety and intensity of the functions controlling how Energy is redistributed over time.
 
 > “Energy cannot be created or destroyed, it can only be changed from one form to another.” ―Albert Einstein
 
@@ -624,11 +620,11 @@ Inflation and deflation have been side-effects of the material used for money. T
 
 **Energy puts everyone at the same level. No one can create it, and no one can destroy it. There are no privileged parties in the system—everyone is playing by the same exact rules.**
 
-Energy redistribution in Society Protocol instances is based on Levels and Protocol Parameters. Various SP instances will have different Levels included in their Synchronized State—based off how they prioritize redistributing their value (Energy). There is no single clearly optimal way—some implementations are better and worse, but there is not a single game-theory optimal formula to redistribute the Energy in a SP instance…different priorities and optimizations favored by various types of participants will create a multitude of SSC’s. Society Protocol has an [ideology](https://societyprotocol.io/Published/Movement/Ideology) to guide this process for our partner communities who are seeking our support on their journey, based off what we consider correct as an organization.
+Energy redistribution in Society Protocol instances is based on Value Functions and Protocol Parameters. Various SP instances will have different Functions included in their Synchronized State—based off how they prioritize redistributing their value (Energy). There is no single clearly optimal way—some implementations are better and worse, but there is not a single game-theory optimal formula to redistribute the Energy in a SP instance…different priorities and optimizations favored by various types of participants will create a multitude of SSC’s. Society Protocol has an [ideology](https://societyprotocol.io/Published/Movement/Ideology) to guide this process for our partner communities who are seeking our support on their journey, based off what we consider correct as an organization.
 
 **Rules on how Energy can be <u>transferred</u> as a currency can also vary across various SP instances.**
 
-Energy is not 100% fungible. Just like Ether, Bitcoin, and CBDCs—every piece of Energy has a specific fully transparent history of where it’s been, while simultaneously counting as a fungible unit for use in Levels. Various SP instances will create different rulesets about how the Energy inside their instance can flow—for various reasons. Some SP instances will have no limits at all on the <u>transfer</u> of value and how Energy can be used, while others will program specific rules to limit and control it for a multitude of reasons.
+Energy is not 100% fungible. Just like Ether, Bitcoin, and CBDCs—every piece of Energy has a specific fully transparent history of where it’s been, while simultaneously counting as a fungible unit for use in Functions. Various SP instances will create different rulesets about how the Energy inside their instance can flow—for various reasons. Some SP instances will have no limits at all on the <u>transfer</u> of value and how Energy can be used, while others will program specific rules to limit and control it for a multitude of reasons.
 
 There again isn’t a clear game-theory optimal way to do this, there are tradeoffs to many approaches. Any functionality which can be programmed into a Turing-complete environment can be achieved—including hooks into identities, organizations, histories, etc. At Society Protocol, we will only support organizations who follow our [ideology](https://societyprotocol.io/Published/Movement/Ideology) in their implementations.
 
@@ -672,7 +668,7 @@ _Energy doesn’t function like this example presented by Satoshi, it doesn’t 
 
 It’s time for us to revisit our favorite, **_Gresham’s Law_**_…which causes us so many problems: “bad money drives the good out of circulation, but good money cannot drive out bad money.”_
 
-_Society Protocol invert this cycle._ All Energy is in a sense the same, yet at the same time non-fungible in the sense that each piece of Energy has a unique history. All Energy is incentivized to be put to work doing things that are valuable to society (more information about this can be found in [Rebalancing Pyramids](https://lex.page/d/4e7563f6-01a6-491b-9aaf-36703e351e81) and [Level Up](https://lex.page/d/009a574f-a5db-45cb-ae7c-1323eb3d6aa0)) to avoid decay, and has absolutely fungible access to utility of the Levels in that sense.  
+_Society Protocol inverts this cycle._ All Energy is in a sense the same, yet at the same time non-fungible in the sense that each piece of Energy has a unique history. All Energy is incentivized to be put to work doing things that are valuable to society (more information about this can be found in [Rebalancing Pyramids](https://lex.page/d/4e7563f6-01a6-491b-9aaf-36703e351e81) and [Energy Redistribution](https://lex.page/d/009a574f-a5db-45cb-ae7c-1323eb3d6aa0)) to avoid decay, and has absolutely fungible access to utility of the Value Functions.  
   
 At the same time, if Energy is used as a MoE, to <u>transfer</u> value, and is considered “unequal”, (let’s say some Energy is owned by a terrorist, and nobody wants it). It would have _less_ of a chance to be accepted a MoE, not more chance—leaving that Energy out of circulation would get it lost in various ways (it would be redistributed via Hunting mechanism to the more valuable Actors in society) _healing it in the process._
 
@@ -680,20 +676,20 @@ At the same time, if Energy is used as a MoE, to <u>transfer</u> value, and is c
 
 So, we get back to the problem of: money is something that everyone similarly trusts and desires, and believes everyone else around them likewise values. _Energy exactly describes those characteristics_…every participant inside an SP instance wants Energy, because it allows them to interact with the entire system. It’s a prerequisite for existing in Society Protocol: therefore, anyone that wants to participate automatically values Energy. An account without Energy in Society Protocol is considered _dead and is frozen forever_. **Energy is the optimal form of money, for each and every society.** Yet, only Synchronized States can use it.
 
-Society Protocol instances don’t pay anything or require any separate effort to upkeep the mint and circulation of their monetary system. Energy is included into the system itself—it’s a core part of every Synchronized State. _All the burdensome mechanics of needing to upkeep a money system go out the window_[^27].
+Society Protocol instances don’t pay anything or require any separate effort to upkeep the mint and circulation of their monetary system. Energy is included into the system itself—it’s a core part of every Web4 protocol. _All the burdensome mechanics of needing to upkeep a money system go out the window_[^27].
 
 **Removing Intermediaries**:
 
-- Banks the unbanked – Every Society Protocol account is effectively a sovereign bank account, digitally connected to the entire SSC (and beyond!). Each individual's identity IS their bank—only the account owner and their designated delegates can access it, with no intermediaries required. Society Protocol grants every participant direct bearer asset control over their identity, assets, and data while maintaining seamless global connectivity through the SSC.
+- Banks the unbanked – Every Society Protocol account is effectively a sovereign bank account, digitally connected to the entire SSC (and beyond). Each individual's identity IS their bank—only the account owner and their designated delegates can access it, with no intermediaries required. Society Protocol grants every participant direct bearer asset control over their identity, assets, and data while maintaining seamless global connectivity through the SSC.
 - Cuts out all the bureaucratic costs – All our financial infrastructure takes a lot of money and effort to upkeep, and nevertheless remains woefully clumsy. All the accounting and infrastructure can be handled automatically by Society Protocol, which is simply a _duplicated computer program_.
 - Removes a special subset of intermediaries from “creating money” or controlling the money supply. No intermediaries can “mint” or “destroy” money in Society Protocol like the gold miners or the central banks of today. The social contract regarding value flows is stored transparently in the SSC and controlled by the Governance of the Synchronized State.
 - Every participant gains direct, real-time visibility into all societal value flows—no gatekeepers, no information asymmetries, no privileged access. The complete economic picture that was once hidden behind various intermediaries becomes transparently available to everyone.
 
-**Coordination:** Energy isn’t a neutral static object, but rather a flowing representation of value to society—it coordinates all participants: incentivizing the actions society finds valuable, and disincentivizing the actions which society finds detrimental. All [shared realities](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) exhibit some degree of coordination of their values. The big difference in Synchronized States, is that we can algorithmically automate this process across the entire Synchronized State—by embedding it into the Synchronized Social Contract (SSC), indicating what’s valuable (more information about this can be found in [Rebalancing Pyramids](https://lex.page/d/4e7563f6-01a6-491b-9aaf-36703e351e81) and [Level Up](https://lex.page/d/009a574f-a5db-45cb-ae7c-1323eb3d6aa0)).
+**Coordination:** Energy isn’t a neutral static object, but rather a flowing representation of value to society—it coordinates all participants: incentivizing the actions society finds valuable, and disincentivizing the actions which society finds detrimental. All [shared realities](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) exhibit some degree of coordination of their values. The big difference in Synchronized States, is that we can algorithmically automate this process across the entire Synchronized State—by embedding it into the Synchronized Social Contract (SSC), indicating what’s valuable (more information about this can be found in [Rebalancing Pyramids](https://lex.page/d/4e7563f6-01a6-491b-9aaf-36703e351e81) and [Energy Redistribution](https://lex.page/d/009a574f-a5db-45cb-ae7c-1323eb3d6aa0)).
 
 **Community Currency:** Energy functions as what would be considered a community currency. It’s a form of value passed around within a community. A small group can use Energy to <u>measure</u>, <u>transfer,</u> and <u>store</u> value right away, without requiring middle-men. As long as the community values their [shared reality](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) in the Synchronized State—the Energy within it will remain valuable in proportion to the value of the shared reality. **The value of Energy is directly proportional to the value of the society itself. Therefore, every participant is incentivized to support the value of their society—creating a virtuous cycle.** This remains the constant whether there’s two participants in the shared reality—or the entirety of all the humans in existence use it.
 
-Adding new and valuable participants into the shared reality is also easy and incentivized by using the [Parenting](https://societyprotocol.io/Published/Handbook/Level-Parenting) Level.
+Adding new and valuable participants into the shared reality is also easy and incentivized by using the [Parenting](https://societyprotocol.io/Published/Handbook/Function-Parenting) Function.
 
 **Scale:** So what size can Society Protocol instances scale to? _Worldwide and interplanetary._ Every Society Protocol instance receives a monetary system in their unique SSC which scales from 2–100 billion people. Modern technology allows us to scale these systems to onboard the entire global human population—both present and future. Society Protocol can become useful at two people, but can functionally support entire civilizations.
 
@@ -703,7 +699,7 @@ Adding new and valuable participants into the shared reality is also easy and in
 
 As the world is currently on fiat currency systems (which never last), the potential choices for our future monetary orders would seem to be listed above in the cryptocurrency comparison of Bitcoin vs Ethereum vs CBDCs. _Let’s add Energy into the comparison_[^28].
 
-**Monetary Qualities – Energy (Society Protocol)**
+**Monetary Qualities – Energy (Web4)**
 ![[Monetary Qualities – Energy.png]]
 
 **Functions of Money:** Energy can be used to <u>measure</u> value in society due to its inherent **stability of value** (which is tied to the stability of the social layer using the SP instance). It can be used to <u>transfer</u> value instantly worldwide, with enough **velocity** and **portability** to handle all civilizational value flows both at present and in the future**.** It can be used to <u>store</u> value directly tied to your identity within the Synchronized State—where Energy always has inherent **utility and value**. Keeping that value stored inside a common shared reality raises its _monetary premium_.
@@ -758,7 +754,7 @@ A good example of this is the modern banking system. Three qualities can explain
 
 _It’s possible to be oppressed and benefiting at the same time._
 
-Meaning, until we create better systems—even an extremely exploitative system is usually better than without it. If we want to remove these exploitations, we must create better systems first. **Society Protocol is not a revolution, it’s an evolution.**
+Meaning, until we create better systems—even an extremely exploitative system is usually better than without it. If we want to remove these exploitations, we must create better systems first. 
 
 ## Conclusion
 
@@ -802,10 +798,10 @@ Szabo, N. (2002). _Shelling Out: The Origins of Money  Satoshi Nakamoto Institu
 [^19]: The other 30% of the value is distributed using an inflationary proof of stake (PoS) mechanism, counterbalanced by a deflationary mechanism which burns the Ether (value)) depending on usage, implemented post EIP-1559.
 [^20]: Theoretically, the price stability of Ether should depend on the usage of compute on the Ethereum network—which isn’t correlated to the aggregate basket of market goods.
 [^21]: People often model the requirements for payment networks based off the economic interactions that large payment networks handle today, but it’s crucial to recognize that these value interactions will scale in the future—just like they have expanded through every previous evolution of monetary orders.
-[^22]: Notably, this redistribution mechanism will work differently in various instances of Society Protocol. Each instance is opinionated and will decide for itself: what it values, how it Governs, and what Levels (roles) it allows.
+[^22]: Notably, this redistribution mechanism will work differently in various instances of Society Protocol. Each instance is opinionated and will decide for itself: what it values, how it Governs, and what Value Functions it includes.
 [^23]: _It’s quite a simple concept._ Yet, it wasn’t possible to represent in that way as an abstraction until recently with technological advances—namely Bitcoin. There was simply no technology or material to facilitate such an abstraction available to humanity before…so, civilizations used what they could to achieve these ends.
-[^24]: This happens because everyone can participate permissionlessly in holding up the infrastructure after joining an SP instance. Combined together with technological advances, this makes society easier to hold up. At the same time…only the optimal people in the world are incentivized to participate…as the marketplace of Levels creates a competition to produce those roles at the highest quality and lowest cost.
+[^24]: This happens because everyone can participate permissionlessly in holding up the infrastructure after joining an SP instance. Combined together with technological advances, this makes society easier to hold up. At the same time…only the optimal people in the world are incentivized to participate…as the marketplace of Value Functions creates a competition to produce those roles at the highest quality and lowest cost.
 [^25]: EigenCloud can in some ways be considered as a “bank for value and trust”—what it does is actually the evolution of fractional reserve banking. EigenCloud takes value and trust from Ethereum (and other platforms), often already liquid staked (meaning it’s pledged somewhere), and rehypothecates that value to secure other sources named AVSs (establishing the trust for them to operate). _This is the essence of fractional reserve banking, the same value is used in multiple places at once._
 [^26]: This can even include a Parenting invite to any Society Protocol instance you would like to be a part of.
-[^27]: The only thing that needs to be tuned is how much Energy each function (Level) costs & receives. Those parameters are controlled by the Governance of the system.
+[^27]: The only thing that needs to be tuned is how much Energy each Function costs & receives. Those parameters are controlled by the Governance of the system.
 [^28]: _Energy can technically be considered a form of cryptocurrency._ Access to the state machine in Society Protocol instance is secured using exactly the same cryptographic methods as in cryptocurrencies and CBDCs.

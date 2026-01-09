@@ -1,11 +1,11 @@
 ---
 created: 2025-10-03T12:17
-updated: 2025-12-07T22:07
+updated: 2026-01-07T22:16
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
 _This article is part of the state trilogy; terminology for the trilogy can be found [[Terminology for the state trilogy|here]]. 
-They can all be read independently. The other parts are [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [Synchronized States (The Golden Record)](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record))._
+The other parts are [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [Synchronized States (The Golden Record)](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record))._
 
 * * *
 
@@ -454,7 +454,7 @@ Additionally, we achieve this using algorithms. By combining subjective governan
 
 This <u>Rebalancing Pyramid</u> effect makes people incentivized to join Society Protocol instances at any point, not just at the beginning. Participants always receive their fair share of the shared reality. More information about this is covered in [Rebalancing Pyramids](https://societyprotocol.io/404).
 
-It also incentivizes Society Protocol instances to create Protocol Parameters, Levels, and Laws which are as close to _fair_ and _legitimate_ as possible—creating a competition between rival instances to attract users—in which the most balanced instances have a generic advantage and will win (with the general public) in the end—just like the clock we use today after a millennia of refinement. There is also room for wide variety of niche instances.
+It also incentivizes Society Protocol instances to create Protocol Parameters, Value Functions, and Laws which are as close to _fair_ and _legitimate_ as possible—creating a competition between rival instances to attract users—in which the most balanced instances have a generic advantage and will win (with the general public) in the end—just like the clock we use today after a millennia of refinement. There is also room for wide variety of niche instances.
 
 #### The quality of state
 

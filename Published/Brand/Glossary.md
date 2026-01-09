@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2025-10-31T12:28
+updated: 2026-01-08T22:14
 ---
 # Concepts
 
@@ -43,7 +43,7 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
     - Can alternatively be called the *state hypersphere* for a more formal representation.
 - **state slice:** taking a subset of the state (not encompassing the whole state).
 - **state transition function (STF):** The STF explains the ruleset of how each synchronized state updates its state between time intervals.
-- **state that binds (STB):** Refers to  the state which binds our realities together and forms a shared reality (which is reached through a consensus). The STB phenomenon gravitationally pulls people together into a singular context, it has an energetic power and gravitational pull to it.
+- **state that binds (STB):** Refers to  the state which binds our realities together and forms a shared reality (which is reached through a consensus). The STB phenomenon gravitationally pulls people together into a singular context––it has an energetic power and gravitational pull to it.
     - The gravitational pull and power of a STB (*expands)* and (*contracts)* based on the strength of the shared reality.
         - The Timeline is a “lifeline”. The Timeline grows (expands) and shrinks (contracts) in power based on the strength of the STB.
         - The state sphere element always contains the same 100% of Energy, but grows more vibrant with more activity happening inside the container.
@@ -57,9 +57,10 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
     2. **Synchronized States** (uppercase): can synchronize a community, binding them to a shared reality, and fulfill all the essential functions to bind a State.
         - Society Protocol is a Synchronized State
         - Synchronized State and Synchronized Network State can be used interchangeably.
+- **Synchronized Social Contract (SSC):** The explicit ruleset expressing how the synchronized state operates, visible to all participants. The SSC is implicitly accepted by all participants who interact within the synchronized state.  
 
 ## Energy
-- **Energy:** Is the base value system of Society Protocol instances.
+- **Energy:** Is the monetary system of Society Protocol instances.
     - Energy is zero-sum, it cannot be created or destroyed, it can only be transferred between different Actors and Organizations.
     - Energy can always be calculated as a percentage of the total Energy.
 - **Energy Reserve**: The unallocated Energy of an Actor is stored in the Energy Reserve. 
@@ -70,38 +71,39 @@ Society Protocol terminology is meant to be used as proper nouns, to distinguish
     - We will have both human and non-human Actors, should we delinianate further?
     - **Genesis Actors**: Actors who are alive at the Genesis Time of a Society Protocol instance. 
 - **Lifeline**: Actors have a Lifeline, which is equal to the Timelapse between their Birth and Death Events.
-- **Activity Score:** Each account has an Activity Score which is accumulated through activity, by performing Events at Levels and decays over time to calculate their “aliveness” in the protocol.
+- **Activity Score:** Each account has an Activity Score which is accumulated through activity (by interacting at various Value Functions), and decays over time. The Activity Score is used to calculate their “aliveness” in the protocol.
 - **Programmable Will**: Automatically goes into effect upon the Death Event of an Actor to determine the lineage for ownership of their Property. 
 
 ## Events
-- **Event:**  An event is an action which occurs inside the protocol, including: activity at one of the levels, energy transfers, birth & death events.
-    - Includes: past event(s) and current event(s)
+- **Event:**  An Event is an action which occurs inside the protocol, these include: Energy transfers, Value Functions interactions, and Governance decisions.
     - Synonymous with transactions in blockchain terminology. 
-- **Historical events:** Historical events are an amalgamation of Events forming a larger historical picture.
-- **Flashbacks**: The act of looking at events in the past in the Timeline.
+- **Historical Events:** Historical Events are an amalgamation of Events forming a larger historical picture.
+- **Flashbacks**: The act of replaying Events/Historical Events from the past in the Timeline.
 
 ## Protocol Artifacts
 - **Constitution**: The Constitution initiates each Society Protocol instance with a certain ruleset, which can include both objective and subjective portions. The Laws in the constitution are the initial Laws of the protocol instance and can limit the power of Governance. 
 - **Laws**: The legal structure of the protocol instance. 
 - **Courts**: Make decisions about disputes of Actors and Organizations in the protocol instance.
-- **Parameters**: Contain variables which control the "physics" of the protocol instance. 
+- **Protocol Parameters**: Contain variables which control the "physics" of the protocol instance. 
+	- Can alternatively be called *Parameters* for shorthand.
 
-## Levels
-Levels are how instances of Society Protocol implement the redistribution of Energy. Each Level aims to combine individual interests with the societal interest to improve coordination abilities. 
+## Value Functions (VFs)
+- Value Functions are how instances of Society Protocol implement the redistribution of Energy. Each Function aims to combine individual interests with the societal interest to improve coordination abilities. 
+- Can alternatively be called *Functions* for shorthand.
 
 1. **Parenting**: 
-    - This Level forms Family Trees
+    - This Function forms Family Trees
         - **Parent**: The Actor issuing the invite to the system. Parents can introduce Children to their society, at a temporary cost to themselves, which can gradually reap rewards if those Children survive and are successful in the instance.
         - **Child**: The Actor receiving the invite to the system. Children are members of the instance, invited by the Parent, and can be dependent on the Parent, up to a certain time, during their infancy while they reach adulthood and can repay the parent.
         - **Birth Event**: This is a special Event in the protocol where a new Actor enters the system and begins their Lifeline. 
-        - **Family Tree**: This explicit structure forms automatically in the protocol based off the Parenting level. 
+        - **Family Tree**: This explicit structure forms automatically in the protocol based off the Parenting Function. 
 2. **Hunting**
 	- **Hunter:** Each Timeslot, one or multiple Hunters are selected to input Events into the protocol, and be rewarded with the Energy of the Hunted parties.
 	- **Hunted:** Each Timeslot, one or multiple parties are chosen to be Hunted in the protocol in a probabilistic lottery in which their chances to win are based off their Activity Score.
 	- **Hunt:**  Each Timeslot, there is a Hunt in which the Energy of the Hunted parties gets redistributed to the Hunter(s).
 3. **Property**
-    - Includes physical infrastructure such as factories and digital infrastructure such as smart-contract exchanges
-    - Can alternatively be called *Programmable Property* or *Property Objects*, or *Objects*.
+	- Includes physical infrastructure such as factories and digital infrastructure such as smart-contract exchanges
+	- Can alternatively be called *Programmable Property* or *Property Objects*, or *Objects*.
 4. **Curation**
 	- **Curator:** The Actor or Organization who is doing the curating. I.E. either creating a Curation Container or minting a Curation Slot. 
 	- **Curated:** The Actor, Property, or Organization which is being analyzed.
@@ -109,25 +111,25 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 	- **Perspective:** The limitation list of the Actors and Organizations who are allowed to participate in this Curation Container. 
 	- **Curation Unit Price (CUP):** The price to participate in a Curation Container and mint a single Curation Slot.
 	- **Curation Slot:** An NFT received for participating in a Curation Container which collects royalties from other Curation Slots which are minted afterwards.
-5. **Governance**: Has the ability to make changes to the Laws, Courts, Parameters, Levels, and Constitution of a Society Protocol instance.
+5. **Governance**: Has the ability to make changes to the Laws, Courts, Parameters, Value Functions, and Constitution of a Society Protocol instance.
 	- **Governance Domains**: The five different areas of governance decisions in Society Protocol: Constitution, Protocol Parameters, Laws, Courts, and Disputes.
 	- **Governors**: The people participating in the Governance of Society Protocol. 
-	- **Distributed Courts (dCourts)**: An incentivized court system to make governance decisions which exists at the Governance Level. 
+	- **Distributed Courts (dCourts)**: An incentivized court system to make governance decisions which exists in the Governance Value Function. 
 	- **Jury Pool**: The Actors and Organizations which participate in dCourts.
 	- **Jury**: The Actors and Organizations which participate in dCourts and are selected to make a decision.
-	- **Juror**: A single Individual Actor or Organization who is participating in dCourts.
+	- **Juror**: A single Actor or Organization who is participating in dCourts.
 	- **Futarchy**: A system of group decision making where prediction markets decide on what decision to make based on an optimization metric.
 	- **Seers**: Actors and Organizations participating in Futarchy.
 6. **Organizations**
-    - This Level includes two types of Organizations:
+    - This Function includes two types of Organizations:
         - **Distributed Corporations (dCorps)**
         - **Cultural Agreements (Cultures)**
             - Can alternatively be called _Distributed Cultures (dCultures, dCults)_.
 7. **Communication**
     - Includes different types of communication at different tiers of privacy.
 8. **Farming**
-    - This Level is about incentivizing the storing of the state generated in a Society Protocol instance.
-    - **Farmer:** The entity allocating their Energy to the Farming Level.  
+    - This Value Function is about incentivizing the storing of the state generated in a Society Protocol instance.
+    - **Farmer:** The entity allocating their Energy to the Farming Function.  
 9. **Portal**
 
 ## Synchronization & Coordination
@@ -135,7 +137,17 @@ Levels are how instances of Society Protocol implement the redistribution of Ene
 	- Shortform: 4D Sync
 - **Web4** – Refers to a synchronized state which synchronizes a shared reality on 4-Dimensions. Enabling: read-write-own-coordinate. 
 - **Byzantine Generals Problem** – The [Byzantine Generals Problem](https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem) is a theoretical scenario in distributed computing that illustrates the challenge of achieving consensus among multiple parties when some may be unreliable or malicious. 
-- **Automated Trust** 🤝 - The ability to automate trust between actors in the system algorithmically due to actors being objects in the system via cryptography and verifiable immutable history. 
+- **Automated Trust** 🤝 - The ability to automate trust between Actors in the system algorithmically due to Actors being objects in the system, via cryptography and verifiable immutable history. 
+
+### Historical Ages
+- **Zero-Entry Accounting Age (ZEAA)** – *Tribes (Pre 100,000 BCE – 3,500 BCE)*. 
+	- The pre-historic epoch before humans learned to record permanent written state, lasting from the dawn of time until ~3,500 BCE. The civilizational formations of this time were **Tribes**.
+- **Single-Entry Accounting Age (SEAA)** – *Classical States (3,500 BCE – 476 CE)*. 
+	- The age of hierarchical empires, starting when humans learned to record permanent written state and coming to a close ~476 CE with the disintegration of Rome. The civilizational formations of the time were **Classical States**.
+- **Double-Entry Accounting Age (DEAA)** – *Nation States (500 – Present)*. 
+	- The age of duplicated permanent records. This age started after the fall of Rome, when humans started duplicating records to ensure accuracy and verifiability, rather than relying on one permanent record, and is still ongoing today. This civilizational formations of this age are **Nation States**.
+- **Triple-Entry Accounting Age (TEAA)** – *Synchronized States (Future)*. 
+	- The age of worldwide synchronization. It starts when societies are able to synchronize their entire state using Society Protocol, and ushers in the *Age of Synchronicity*. The civilizational formations of this epoch are **Synchronized States**.
 
 ## Supplementary Glossary
 - **blockchain ledgers –** A blockchain is a decentralized, distributed digital ledger that records transactions across a network of computers in a secure, transparent, and tamper-resistant way.

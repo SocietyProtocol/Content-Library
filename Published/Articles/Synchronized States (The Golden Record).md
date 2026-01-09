@@ -1,11 +1,11 @@
 ---
 created: 2025-07-17T19:11
-updated: 2025-12-07T22:05
+updated: 2025-12-21T08:06
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
 _This article is part of the state trilogy; terminology for the trilogy can be found [[Terminology for the state trilogy|here]]. 
-They can all be read independently. The other parts are [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [The state That Binds (Shared Reality)](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality))._
+The other parts are [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [The state That Binds (Shared Reality)](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality))._
 
 * * *
 
