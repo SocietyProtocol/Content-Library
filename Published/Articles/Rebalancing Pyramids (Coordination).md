@@ -1,12 +1,33 @@
 ---
 created: 2026-01-08T18:17
-updated: 2026-01-27T19:02
+updated: 2026-01-29T15:50
 ---
-# Rebalancing Pyramids
+# Table of Contents
+*There are two main parts to this article, "Theory of Coordination" covers the theoretical aspects and "The History of Alignment" covers the evolutionary stages of coordination throughout human history.*
 
-## Introduction
+1. [Introduction](#Introduction)
+2. [Theory of Coordination](#Theory%20of%20Coordination)
+	1. [Desire and The Pyramid](#Desire%20and%20The%20Pyramid)
+		1. [Desire (Individual Interests)](#Desire%20(Individual%20Interests))
+		2. [The Pyramid (Societal Interests)](#The%20Pyramid%20(Societal%20Interests))
+		3. [Aligning Interests (Virtuous Cycle)](#Aligning%20Interests%20(Virtuous%20Cycle))
+		4. [Rebalancing Pyramids](#Rebalancing%20Pyramids)
+	2. [Additional Coordination Concepts](#Additional%20Coordination%20Concepts)
+		1. [Tit-For-Tat](#Tit-For-Tat)
+		2. [The Sum of Your Thinking (Negative, Zero, and Positive Sum)](#The%20Sum%20of%20Your%20Thinking%20(Negative,%20Zero,%20and%20Positive%20Sum))
+		3. [Societal Coordination vs Individual Privacy](#Societal%20Coordination%20vs%20Individual%20Privacy)
+3. [The History of Alignment (Coordination)](#The%20History%20of%20Alignment%20(Coordination))
+	1. [Primitive Pyramids (Muddy and Unstable)](#Primitive%20Pyramids%20(Muddy%20and%20Unstable))
+	2. [Vertical Pyramids (Static)](#Vertical%20Pyramids%20(Static))
+	3. [Horizontal Pyramids (Manually Adjustable)](#Horizontal%20Pyramids%20(Manually%20Adjustable))
+	4. [Rebalancing Pyramids (Automated)](#Rebalancing%20Pyramids%20(Automated))
+		1. [Blockchain Pyramids (Web3) vs Rebalancing Pyramids (Web4)](#Blockchain%20Pyramids%20(Web3)%20vs%20Rebalancing%20Pyramids%20(Web4))
+		2. [The Advantages of Synchronized States (Web4)](#The%20Advantages%20of%20Synchronized%20States%20(Web4))
+		3. [The Future of Human Coordination](#The%20Future%20of%20Human%20Coordination)
+4. [Conclusion](#Conclusion)
+# Introduction
 
-_The superpower of humanity is coordination._
+_The superpower of humanity is coordination._ 
 
 It’s the singular human trait that allowed us to achieve dominion over this planet. Complex coordination, using language initially around ~200,000 BCE, is what separated and differentiated Homo sapiens from every other species in the animal kingdom. _Our ways of transferring state became superior (to have complex coordination, we must transfer and preserve a complex state)_.
 
@@ -19,6 +40,8 @@ The ultimate goal of every human behavior isn’t to establish various social hi
 Because social hierarchies allow us to coordinate, organizing them effectively is generally the barrier between completing the actual functional tasks successfully or failure. _Have you ever seen someone fail their actual functional task <u>intentionally</u>, due to the social hierarchy coordination constraints placed on them?_
 
 Without a pecking order, we cannot exist. Our social hierarchies shape our identities. Our society would be retarded, completely unable to work together. It would be pillaged and conquered by another non-retarded society, we would then become assimilated (usually enslaved) at the bottom of their pecking order[^1]. _So everyone gets a pecking order!_
+
+![[oprah-pecking.jpg|600]]
 
 So…the prerequisite to existing as a civilization, blocking the path of all decisions (our ability to scale as a civilization, form relationships, or chop wood)…_is that we must be able to establish and maintain social hierarchies_. _Every other behavior we partake in can only be considered as a part of this coordination mechanism._
 
@@ -36,9 +59,9 @@ _Social hierarchies are political._ When there isn’t a distinguished pecking o
 
 Throughout history, humanity, not too long ago, was hardly able to coordinate at all—unable to scale past small primitive tribes. Each epoch of human societal evolution has increased our abilities to coordinate. Society Protocol will unlock the ability for automated interplanetary coordination. The need for coordination isn’t going away, but in the upcoming triple-entry accounting age (TEAA) humanity will possess the technology needed to coordinate entire civilizations semi-automatically, synchronously, and fairly in the background. This will free up every individual’s cognitive resources to participate in higher level endeavors and unlock focus on more important tasks.
 
-The crux of coordination is this: Humans aren’t very effectively coordinated compared to our potential. We naturally do things that are best for ourselves, rather than what is best for our society. _This lack of teamwork costs us 99%+ of our potential._ People aren't naturally able to coordinate effectively, and as a result the whole civilization suffers and lives shitty. Imagine a planet where all humans coordinated optimally, sharing the same reality, like efficient machines, in order to enhance each others lives. That would be the top of our coordination potential, and we’re less than 1% of the way there.
+The crux of coordination is this: Humans aren’t very effectively coordinated compared to our potential. We naturally do things that are best for ourselves, rather than what is best for our society. _This lack of teamwork costs us 99%+ of our potential._ People aren't naturally able to coordinate effectively, and as a result the whole civilization suffers and lives shitty. Imagine a planet where all humans coordinated optimally, sharing the same reality, like efficient machines, in order to enhance each others lives. That would be the top of our coordination potential, and we’re less than 1% of the way there. 
 
-Caption: Coordination is the only difference between this and this: This transformation doesn't innately require smarter people, more natural resources, or better weapons. It takes more sophisticated coordination.
+![[future of coordination or trashheap.png|]] *Caption: Coordination is the only difference between this and this: This transformation doesn't innately require smarter people, more natural resources, or better weapons. It takes more sophisticated coordination.*
 
 We’re now standing at the threshold of the most profound transformation in human coordination since the start of the double-entry accounting age (DEAA) around 2,000 years ago. _The way that we coordinate as a civilization is about to fundamentally be reshaped—changing how societies are organized, power is distributed, and each individual’s abilities and worth are determined._
 
@@ -58,17 +81,22 @@ One day, I wondered, “Why don’t humans all work together and coordinate opti
 
 > A group of employees may want to secure a contract, but each member wants their individual contribution to be recognized. A football team wants to win a match, but each striker prefers to score rather than pass the ball. A political party wants to win an election, but each contender for top political positions focuses on strengthening their own bargaining position in case their party wins.\[@pageWhyWeOften2024\]
 
+![[Individual Interests & Societal Pyramid.excalidraw.png|700]]
 To talk about aligning status hierarchies, we are always simultaneously considering two sides: the **<u>individual interests (desire)</u>** and the **<u>collective interests (pyramid)</u>**. Individual actors all have individual interests (desires), and their purpose is always to use whatever means are available to them to achieve those desires. As a societal coalition, we have <u>collective interests</u>. It’s in our <u>collective interests:</u> to align the selfish <u>individual interests</u> of each participating individual into something that is valuable for the coalition. Otherwise, all our selfish interests would conflict—making us unable to coordinate effectively. 
 
-To coordinate as a group, we must move with social cohesion. The only way to do this is to align the <u>individual interests</u> of participants in the group together with the <u>collective interests</u>.
+![[Misaligned Interests – Alignment.excalidraw.png|700]]
 
-Each individual actor always maintains their own <u>individual interests</u> inside the pyramid structure. No amount of social cohesion eliminates those, it's their individual purpose. All we can do as a coalition, is to manipulate each individual's game-theoretic optimal (GTO) decisions to get their <u>individual interests</u> closer to the <u>collective interests</u> of the societal pyramid.
+To coordinate as a group, we must move with social cohesion. The only way to do this is to align the <u>individual interests</u> of participants in the group together with the <u>collective interests</u>. Each individual actor always maintains their own <u>individual interests</u> inside the pyramid structure. No amount of social cohesion eliminates those, it's their individual purpose. All we can do as a coalition, is to manipulate each individual's game-theoretic optimal (GTO) decisions to get their <u>individual interests</u> closer to the <u>collective interests</u> of the societal pyramid.
+
+![[Individual Interests vs Societal Pyramid.excalidraw.png|700]]
 
 With the ultimate goal being to merge each <u>individual’s interests</u> (their optimal selfish decision) to exactly overlap with the <u>collective interests</u> (what the group wants from them as a pyramid). If the merging of the two is the ultimate coordination goal representing perfect alignment, then the delta or distance between them measures the amount of coordination that we’re leaking as a group, compared to perfection.
 
+ I want to note that this merging doesn't mean tyranny (where individuals are incentivized to **ACT** like their individual interests are aligned with the collective, while in reality they aren't truly aligned at all). This chart above illustrates the true merging of interests, where they are literally the same thing[^5]. 
+
 ### Desire (Individual Interests)
 
-_The thing about people…is that they all want something._ They also all want somethings in common (in 2025 it was Sydney Sweeney). Unfortunately, not every individual can attain their individual desires due to scarcity. Desires also change upon attainment—accomplishments don’t last forever, individuals constantly adjust their desires. Nevertheless, we all want something, and the overlap of our <u>individual desires</u>, when viewed as an aggregated collective, forms the demand side of the economic chart for those things[^5].
+_The thing about people…is that they all want something._ They also all want somethings in common (in 2025 it was Sydney Sweeney). Unfortunately, not every individual can attain their individual desires due to scarcity. Desires also change upon attainment—accomplishments don’t last forever, individuals constantly adjust their desires. Nevertheless, we all want something, and the overlap of our <u>individual desires</u>, when viewed as an aggregated collective, forms the demand side of the economic chart for those things[^6].
 
 **Individuals will do anything to get their <u>individual interests</u>.** Individuals DO NOT ever subordinate their <u>individual interests</u> to the <u>collective interests</u> of the coalition they’re a part of. Their <u>individual interests</u> (perceived from their lens) are ALWAYS the action they’re going to take.
 
@@ -88,15 +116,15 @@ We live in a society where _organizational constraints_ dictate that there are f
 
 As individuals, we're all a part of (usually multiple) social hierarchy pyramids. We've previously covered the individual interests side in *[The Sovereign Individual (Identity)](https://societyprotocol.io/Published/Articles/The+Sovereign+Individual+(Identity))*. In contrast, this article focuses on the societal pyramid side. Without any pyramid there to protect us—we would be very very dead (more likely enslaved by another pyramid). So everyone gets to join a pyramid no matter what, they're inclusive. 
 
-Social coalitions must form into pyramids to survive[^6]. These pyramids structurally have their own needs, mandated by their structure. To continue existing and coordinating as a group the pyramid must maintain an equilibrium. The pyramid structure wants to remain balanced, maintaining a golden ratio of _ϕ_= $(\frac{21+5}{2})$ between its hierarchical tiers to remain optimally effective. If it becomes too imbalanced towards any one side, the pyramid begins to break apart. Likewise, if it's filled with the wrong individuals in the wrong identity slots (roles), the pyramid becomes ineffective.  
+Social coalitions must form into pyramids to survive[^7]. These pyramids structurally have their own needs, mandated by their structure. To continue existing and coordinating as a group the pyramid must maintain an equilibrium. The pyramid structure wants to remain balanced, maintaining a golden ratio of _ϕ_= $(\frac{21+5}{2})$ between its hierarchical tiers to remain optimally effective. If it becomes too imbalanced towards any one side, the pyramid begins to break apart. Likewise, if it's filled with the wrong individuals in the wrong identity slots (roles), the pyramid becomes ineffective.  
 
-**Meritocracy.** The pyramid ideally wants to form a meritocratic structure, where everyone’s value is accurately mapped to their role and position in the explicit status hierarchy[^7]––at each point in time. Such a configuration would be the pinnacle of organizing social pyramids––the ideal scenario—where every participant is accurately placed and repositioned exactly where they should be in the status hierarchy at all times[^8]. _The closer that we get to achieving that ideal state of meritocracy—the more the coalition will thrive, because it itself is allocating its resources optimally (making good decisions)._
+**Meritocracy.** The pyramid ideally wants to form a meritocratic structure, where everyone’s value is accurately mapped to their role and position in the explicit status hierarchy[^8]––at each point in time. Such a configuration would be the pinnacle of organizing social pyramids––the ideal scenario—where every participant is accurately placed and repositioned exactly where they should be in the status hierarchy at all times[^9]. _The closer that we get to achieving that ideal state of meritocracy—the more the coalition will thrive, because it itself is allocating its resources optimally (making good decisions)._
 
 _Meritocracy doesn’t make everyone equal—because we’re not all equal—we never have been equal––we’re all different._ What we would like to see happen as a societal coalition…is the competition for the roles inside the pyramid to be optimizing for the parameters we want and be fair to everyone, and as a result…be consistently accurately mapping to those individuals who have the most merit for each identity slot (role). _This gets all the individual participants in the coalition beneficial results, each earning bonus karmic points 💚 and living a better life, without necessarily contributing any value themselves._
 
 While the societal pyramid wants to rebalance into optimal meritocratic configurations, it has never really had a means to do so, because it kind of doesn’t exist in its own right—_it’s a golem of <u>individual interests</u>. It doesn’t have a singular intention of its own_. There is no societal pyramid I can go speak with and ask what it wants, or even visualize its superstructure completely and concretely to understand it: during the ZEAA, SEAA, and DEAA. *Those abilities are arriving in the TEAA.*
 
-Its decision-making process consists of some form of governance a.k.a group decision-making. Previously, we’ve gone through three epochs[^9]:
+Its decision-making process consists of some form of governance a.k.a group decision-making. Previously, we’ve gone through three epochs[^10]:
 
 - Zero-entry accounting age (ZEAA): where group-decision making was handled through the threat of physical violence.
 - Single-entry accounting age (SEAA): where group decision-making was handled through absolute monarchies.
@@ -104,7 +132,7 @@ Its decision-making process consists of some form of governance a.k.a group deci
 
 In all cases, decisions are made using some combination of <u>individual interests</u>. From the individual perspective: No individual’s desires want to rebalance the pyramid optimally, each individual is competing for the best role for themselves. _The optimal configuration for the societal pyramid is never the intention of any participant while simultaneously being in the interests of every participant in the coalition. This is known as a [tragedy of the commons](https://math.uchicago.edu/~shmuel/Modeling/Hardin,%20Tragedy%20of%20the%20Commons.pdf)_.
 
-To figure out what the pyramid wants...is a highly complex theoretical art and science––which is not well studied in theory (there are no college courses on how to coordinate a society[^10]), but additionally gets obscured by the dualistic political wishes of individual participants in practice. 
+To figure out what the pyramid wants...is a highly complex theoretical art and science––which is not well studied in theory (there are no college courses on how to coordinate a society[^11]), but additionally gets obscured by the dualistic political wishes of individual participants in practice. 
 
 **…But**. _We can say it has interests._ We can also say that the <u>societal interests</u> of a coalition are _very important_, at least equally as important as the <u>individual interests</u> of its participants. 
 
@@ -112,7 +140,7 @@ To figure out what the pyramid wants...is a highly complex theoretical art and s
 
 The social contract is important, yet we cannot directly perceive/analyze, distinguish what a good decision for the coalition would be, or easily make decisions as a group (govern).
 
-Additionally, while it’s in the interests of the majority of participants to rebalance the societal pyramid; the people at the top, who wield tremendous power, are never in favor of rebalancing the pyramid[^11]. They often create (or capture) systems, and we have no way of rebalancing after that. The system usually just grinds on without rebalancing, until it’s inevitable collapse.
+Additionally, while it’s in the interests of the majority of participants to rebalance the societal pyramid; the people at the top, who wield tremendous power, are never in favor of rebalancing the pyramid[^12]. They often create (or capture) systems, and we have no way of rebalancing after that. The system usually just grinds on without rebalancing, until it’s inevitable collapse.
 
 So the question becomes: How do we sort & rebalance the societal pyramid, to make sure that people are sorted into roles based on merit...when those residing in higher positions in the pyramid, who as a consequence wield the power, are never incentivized to do so? 
 
@@ -120,7 +148,7 @@ How can we rebalance the societal pyramid in a way that’s fair and accurate wi
 
 1. **Creating a singular perceivable social contract for the pyramid:** Visualize the pyramid structure’s social contract and use theory combined with history and analytics to identify its potential improvement decision-tree. This isn’t possible in the DEAA, because our social hierarchies are a patchwork of duplicated contracts fragmented between silos. There is no singular structure to visualize.)
 2. **Game Theory:** Theoretically analyze and decipher what is best for this societal pyramid based off its stated collective goals. Using research and game theory, we can arrive at a range of clearly better and worse solutions and their tradeoffs. This process often requires deep theoretical understandings, technical analysis, and debate, and its all moot without the power to actually implement and execute decisions.
-3. **Governance Implementation:** We would need a group decision-making (governance) method which is able to make a decision as close to the <u>collective interest</u> point as possible and implement the chosen decision evenly across the pyramid[^12]. Our governance method would need to be able to both make and execute this decision. 
+3. **Governance Implementation:** We would need a group decision-making (governance) method which is able to make a decision as close to the <u>collective interest</u> point as possible and implement the chosen decision evenly across the pyramid[^13]. Our governance method would need to be able to both make and execute this decision. 
 4. **Acknowledge Skew:** Once it comes time to rely on participants inside the coalition to actually make a decision, their <u>individual interests</u> will skew it away from any perfectly optimal equilibrium we have created using **game theory**. Even so, that’s kind of as good as it gets. What we want is their skew of <u>individual interests</u> to be as close in proximity to the GTO <u>colllective interest</u> as possible.
 
 ---
@@ -137,11 +165,11 @@ Just like _duality_ emerges from the <u>individual interests’</u> divergence f
 
 ### Aligning Interests (Virtuous Cycle)
 
-Ultimately, in order to align interests and achieve better coordination—we must move the interests of all individual actors closer to those of the pyramid[^13] organically (this must happen from the actors’ perspective). From the pyramid side, in order to achieve this, it’s crucial to [accurately gauge and reward the contributions of all individual participants](https://www.optimallyirrational.com/p/why-we-so-often-fail-to-work-together?open=false#%C2%A7fighting-for-prestige-and-social-recognition).
+Ultimately, in order to align interests and achieve better coordination—we must move the interests of all individual actors closer to those of the pyramid[^14] organically (this must happen from the actors’ perspective). From the pyramid side, in order to achieve this, it’s crucial to [accurately gauge and reward the contributions of all individual participants](https://www.optimallyirrational.com/p/why-we-so-often-fail-to-work-together?open=false#%C2%A7fighting-for-prestige-and-social-recognition).
 
 The problem in current and past epochs of civilization is that there has never been a direct pyramid or social contract layer for individuals to interact with—in the current double-entry accounting age (DEAA), individuals are always engaging 'representatives of the pyramid'—other individual actors, each with their own individual interests—to acquire recognition for their actions in the pyramid. This lack of unified and transparent social contract creates [a plethora of perverse incentives](https://www.optimallyirrational.com/i/160629904/fighting-for-power), where individuals manipulate the information available and perception of the patchwork of social contracts, in order to elevate themselves in the social hierarchy. This behavior is game theory optimal (GTO) strategy for the individual but destructive to the <u>collective interests</u>.
 
-The social status games that all participants in the coalition are forced to engage in depend on the superstructure of the societal pyramid itself––the infrastructure, social contract, and culture of the coalition. Whenever the societal pyramid doesn’t ascribe credit, or worse yet, incorrectly ascribes credit (both of which happen consistently all day everyday in modern society), all participants within the pyramid superstructure _suffer silently, in an imperceptible way, which can only be visualized using game theory_, in exact proportion to the sum of every participant’s delta/distance from the perfect coordination alignment[^14]
+The social status games that all participants in the coalition are forced to engage in depend on the superstructure of the societal pyramid itself––the infrastructure, social contract, and culture of the coalition. Whenever the societal pyramid doesn’t ascribe credit, or worse yet, incorrectly ascribes credit (both of which happen consistently all day everyday in modern society), all participants within the pyramid superstructure _suffer silently, in an imperceptible way, which can only be visualized using game theory_, in exact proportion to the sum of every participant’s delta/distance from the perfect coordination alignment[^15]
 
 > Play stupid games, win stupid prizes. –Naval
 
@@ -151,9 +179,11 @@ This isn't a single person, it's happening at every suboptimal interaction on a 
 
 The duality of individuals doesn’t change; all individuals are still competing and cooperating at the same time. The individual’s selfish desires don’t change. This process doesn’t remove the indoctrination aspects coming from the pyramid side, the coalition still pursues those…It’s just that by bringing the game theoretic optimal (GTO) move of the individual closer to the coalition's optimal move for that individual—**it elevates the whole societal pyramid and everyone within it**––_creating a butterfly effect from small individual alignments, which with consistently repeated interactions, affects everyone in the pyramid._ 
 
+![[Aligned Interests – Alignment.excalidraw.png|700]]
+
 Perfect alignment of individual and group interests isn’t possible to achieve, but what we can do is bring the two as close together as possible. The more that a society can achieve this objective—the more optimally its coalition is able to function, _and as a consequence its shared reality becomes more valuable_. If a society coordinates inefficiently, and its shared reality doesn’t function well enough to survive…it will be conquered by a rival pyramid superstructure, and its individual participants’ interests will be assimilated into the bottom of that pyramid. _Everyone gets a pyramid!_
 
-### **Rebalancing Pyramids**
+### Rebalancing Pyramids
 
 Rebalancing the societal pyramid accurately isn’t all of coordination…but it’s perhaps _<u>the root of coordination</u>_. Without accurate social hierarchies, groups become unable to function at all. Just _imagine_ an inversion or randomization of the status hierarchy roles in our current society—it would be absolute chaos.
 
@@ -164,6 +194,8 @@ Rebalancing the societal pyramid accurately isn’t all of coordination…but it
 I don’t know of any other reason for societal failure outside of these two, but these two are an infinite challenge.
 
 **Why do we need to rebalance the pyramid?**
+
+![[wars to preserve a failing system.png]]
 
 Wars are mostly the byproduct of captured pyramid structures in the capture-collapse-revolution cycle, since the pyramid is unable to adequately rebalance internally, it has to collapse. Wars are an eternal story of old people who have captured the pyramid manifesting their <u>individual interests</u>, which are oftentimes in deep disalignment with the <u>collective interests</u> of the societal pyramid. 
 
@@ -193,7 +225,7 @@ Without this future prospect, the dynamics shift dramatically. The prisoner's di
 > “Those who suffer together, stay together.”
 4. Trust can be lost instantly. It is built one step at a time, but can fall down multiple steps at a time.
 
-**Building trust is hard**[^15], but it’s also the <u>only</u> way to create real lasting value without falling into the pits of hell…betraying and betrayed by everyone around you.
+**Building trust is hard**[^16], but it’s also the <u>only</u> way to create real lasting value without falling into the pits of hell…betraying and betrayed by everyone around you.
 
 There are two resources which do an excellent job of displaying how the game theory of trust works:
 - [_The Evolution of Trust_](https://ncase.me/trust/)
@@ -209,22 +241,23 @@ It really depends on what kind of State structure you are living in, and its rel
 - **Zero Sum:** When a societal pyramid is at a perfect theoretical stable equilibrium (not growing or shrinking): there is a zero-sum amount of value in the system. Individuals within the system must compete over how to divide this value—each fighting for a bigger share of that zero-sum amount of value.
 - **Negative Sum**: _This scenario is also possible._ This is the scenario where participants eat each other (are incentivized to be negative to each other) because the value in the societal pyramid itself is shrinking. _It’s like The Hunger Games_. This occurs when their shared societal pyramid is being conquered. Individuals in such a system must ultimately turn on each other with negative intentions, undermining each other, even more so than in a zero-sum system, because there will be less resources to divide in the future than in the present.
 
-_This scenario applies often to oppressed groups._ The truth is, that some groups are oppressed and not allowed to coordinate, while their resources are exfiltrated. That is the history of the world, and it reflects in the economics, politics, and cultures of those groups. The Indian subcontinent is an example of this, as is Africa. The laws, culture, and individuals are often negative to each other, because their systems are negative sum in nature. **This isn’t a bug in the system**, it’s important to understand that nature is perfect as is. That is their optimal coordination equilibrium. Positive sum thinking for an average individual becomes suicidal in such systems.
+	_This scenario applies often to oppressed groups._ The truth is, that some groups are oppressed and not allowed to coordinate, while their resources are exfiltrated. That is the history of the world, and it reflects in the economics, politics, and cultures of those groups. The Indian subcontinent is an example of this, as is Africa. The laws, culture, and individuals are often negative to each other, because their systems are negative sum in nature. **This isn’t a bug in the system**, it’s important to understand that nature is perfect as is. That is their optimal coordination equilibrium. Positive sum thinking for an average individual becomes suicidal in such systems.
 
-**This is the cost of coordination failure as a society.** The individuals within these systems are culturally incentivized to devour each other. _It is the mythology of Moloch (there isn’t enough energy to go around, so its better to sacrifice the children)._
+	**This is the cost of coordination failure as a society.** The individuals within these systems are culturally incentivized to devour each other. _It is the mythology of Moloch (there isn’t enough energy to go around, so its better to sacrifice the children)._
 
-This is not an uncommon situation throughout the world, and is absolutely the game theory optimal (GTO) behavior for most of the <u>average</u> individuals in such societal pyramids. Attempting to be positive sum player in a negative sum societal pyramid is not going to work (in the average case)—there isn’t enough value to go around.
+	![[moloch.jpg|600]]
+	<center>Moloch. Ancient deity. We sacrificed the children to him by throwing them into the flames.</center>
+
+	This is not an uncommon situation throughout the world, and is absolutely the game theory optimal (GTO) behavior for most of the <u>average</u> individuals in such societal pyramids. Attempting to be positive sum player in a negative sum societal pyramid is not going to work (in the average case)—there isn’t enough value to go around.
 
 **<u>This doesn’t apply to every individual inside the State superstructure</u>.** Individuals can be positive sum in a microcosm while the State superstructure is negative sum in the macrocosm, but it does apply to all individuals (averaged together) inside the macrocosm of their societal pyramid structure.
 
 As an individual, you can retain a positive, neutral, or negative mindset in any of the three systems. But a positive mindset in a system that is shrinking (without being part of a positive microcosm of energy) would hurt rather than help you.
 
 This game isn’t absolute because the game itself isn’t zero-sum. At the current moment, humans are, as a species, conquering more value in a zero-sum universe. This means that more States can stay positive sum/zero sum than equilibrium, despite being conquered, because humanity itself is succeeding and flourishing.
-
-#### Winner Take Most Game
+#### Winner Take Most Game 
 
 As societal pyramids, States are all competing for 100% of the [shared reality](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). A State which is 20% worse at coordination, doesn’t fare 20% worse. It becomes captured, controlled, and disrupted by the State which is marginally better. It’s a winner take most game where small edges matter and the society which coordinates the best always historically conquers the weaker coordinated society.
-
 ### Societal Coordination vs Individual Privacy
 
 The <u>societal pyramid’s interests</u> for optimizing societal coordination are at odds with every <u>individual participant’s desire</u> for privacy within it. _They’re counter opposing forces._ The process of achieving privacy adds extra complexity to each interaction and decreases the potential for societal coordination.
@@ -233,7 +266,7 @@ In [The Sovereign Individual](https://societyprotocol.io/Published/Articles/The+
 
 Privacy places significant limitations on societal coordination. It’s important to know how power is distributed and the history of identities interacting in the system—without these features, powerful secret societies form into organized cabals and manipulate the rest of the participants in the system using their asymmetrical informational advantages. _Therefore, in addition to adding complexity, this privacy trade-off might actually be ruinous for achieving the fair coordination of a society. It appears that the more privacy we attain, the higher the abilities for individuals to coordinate into powerful cabals._
 
-**Some amount of privacy is obviously necessary.** On a technical level, Society Protocol can support all variations possible with cryptography[^16]. At a philosophical level…it remains to be seen where the optimal line is drawn (between individual privacy and societal coordination) in the TEAA. For example, we aren't certain at Society Protocol whether encrypting all the Energy in the system and every interaction between participants at different Value Functions would actually be in the <u>societal interest</u>.
+**Some amount of privacy is obviously necessary.** On a technical level, Society Protocol can support all variations possible with cryptography[^17]. At a philosophical level…it remains to be seen where the optimal line is drawn (between individual privacy and societal coordination) in the TEAA. For example, we aren't certain at Society Protocol whether encrypting all the Energy in the system and every interaction between participants at different Value Functions would actually be in the <u>societal interest</u>.
 
 In the TEAA, **identity is the scarce identifying & differentiating resource**. To hide every identity’s history from each other in the system…may not be a beneficial quality after all. It may simply be the way things are done in the DEAA, because we have no choice in the matter due to its informational architecture structure (duplicated contracts). 
 
@@ -249,7 +282,10 @@ The pyramid structure ultimately determines what a society is able to build, the
 
 Throughout history, each epoch has brought a new type of societal pyramid superstructure, which was an <u>evolution</u> of the previous epoch. These aren’t merely <u>revolutions</u> (where power flips from one faction to another to rebalance the pyramid), they are much bigger _evolutionary journeys_ which completely redefine the structural nature of the pyramid itself, and redefine civilization in the process—with drastic changes.
 
-When mapped to a timeline, society’s evolution has been a continuous ebb-and-flow of alternating centralization and decentralization structures[^17].
+When mapped to a timeline, society’s evolution has been a continuous ebb-and-flow of alternating centralization and decentralization structures[^18].
+
+![[Changing Tides of Centralization & Decentralization.excalidraw.png]]
+<center>The Ebb & Flow of Centralization and Decentralization during the course of the DEAA</center>
 
 Today, money makes the world go around. In the past, different societies throughout history have valued different things; the explicit social hierarchy of societal pyramids hasn’t always been defined by money. The Catholic Church didn’t run on money, it ran on divine rights. The Soviet Union didn’t run on money, it ran on the paradoxical combination of equality and prestige (nobody really had money, but being an educator or principal was a highly prestigious role). Our current societies run on faux-capitalism (techno-feudalism) fueled by an infinite supply of fiat currency. In the prior age, during the reign of the British Empire, they ran on real laissez-faire capitalism. *The social hierarchy of value doesn’t necessarily function on free-markets, it functions on roles.*
 
@@ -262,17 +298,10 @@ In this section, we will cover the evolution of coordination in human civilizati
 
 Each epoch has introduced new ways of coordination. Instead of replacing the previous epoch's coordination methods, each epoch’s coordination methods stack on top of each other—adding multi-dimensional coordination capacities. We still use rituals from the ZEAA to coordinate today, we still use vertical recorded hierarchies from the SEAA, and we still use the democratic principles of the DEAA. We will soon add automated rebalancing and synchronization of the TEAA.
 
-#### **Rebalancing Pyramids**
-Rebalancing the societal pyramid accurately isn’t all of coordination…but it’s perhaps _<u>the root of coordination</u>_. Without accurate social hierarchies, groups become unable to function at all. Just _imagine_ an inversion or randomization of the status hierarchy roles in our current society—it would be absolute chaos.
-
-Throughout history, almost every society fails for one of two reasons:
-1. It collapses due to a suboptimal distribution of status hierarchies within the pyramid (internal pyramid failure)
-2. It is conquered by a more optimized and efficient pyramid structure (external pyramid failure) 
-
-I don’t know of any other reason for societal failure outside of these two, but these two are an infinite challenge.
-
 ## Primitive Pyramids (Muddy and Unstable)
 ###### Tribes – Zero-Entry Accounting Age (ZEAA) – (Pre 10,000 BCE – 3,500 BCE)
+![[zeaa pyramid.png|600]]
+<center>ZEAA social hierarchy pyramid</center>
 
 From the very earliest ancient days, when Homo sapiens learned language—allowing us to coordinate in complex ways—coordination has been <u>the</u> core factor in our success.
 
@@ -288,31 +317,27 @@ It’s one of the most important primitive coordination tools to emerge, and gam
 
 Substituting a singular organized religion with an array of independent spiritual beliefs would have been entirely counterproductive…it would decrease the Tribe’s ability to form social hierarchies and coordinate by putting everyone on their own different individualist spiritual page, and ultimately be entirely counterproductive, because this unorganized formation would be conquered by a better coordinated group using organized religion anyways—making all participants lose their individual spirituality. _This dynamic shows an interesting thing about spirituality and individuality—to have those abilities, we must first be able to include these abilities into our coordination frameworks as a group._
 
-**Coordination Methods:** Rituals, language, organized religion, and primitive money systems (collectibles)
-
-**Group Decision-Making Methods:** Physical strength (threat of violence). Enshrined council (Tribal circles where input went to the tribal leader or elder, and they made a decision.)
-
-**Rebalancing Mechanisms:** Fluid roles made rebalancing too unpredictable. Individuals didn’t know which role they would get, how long they would keep it, or the foundations that held it in place—so they couldn’t prepare and specialize accordingly.
+![[ZEAA Coordination Methods.png]]
 
 The primitive “pyramids of mud” of the ZEAA were conquered by the colossal vertically integrated pyramids of the SEAA.
 
 ## Vertical Pyramids (Static)
 ###### Classical States – Single-Entry Accounting Age (SEAA) – (3500 BCE–476 CE)
+![[seaa pyramid.png|700]]
+<center>SEAA social hierarchy pyramid</center>
 
 Societal hierarchies learned to scale into grandiose pyramids when permanent records emerged, enabling vertical integration throughout the entire pyramid structure. This formed empires, as colossal vertical pyramid structures were erected—the SEAA was the _Age of Classical Empires_. The Egyptian, Roman, Persian, and Chinese empires were all products of humans learning to form into vertical pyramid structures. These colossal vertical pyramids swallowed up just about every small Tribe, absorbing them. 
 
 The social hierarchy pyramids of the SEAA resembled the ancient pyramids of the ancient Egyptians: they were colossal in size, sturdily made of solid stones, and not moveable (without much discernment or possibility for rebalancing). This meant societal roles were often fixed from birth until death. While societal hierarchies gained the ability to scale and specialize…they didn’t have much of a way to rebalance roles effectively based on merit. Consequentially, the optimal person from the pyramid was hardly ever accurately positioned for each specialized role in the societal pyramid. _Some of the truly mad emperors of Rome come to mind…(they really shouldn’t have been in that position, but that’s just how the pyramid was designed)._
 
-**Coordination Methods:** Monetary systems (commodities & coinage), permanent written records, vertical hierarchies, taxes.
-
-**Group Decision-Making Methods:** Absolute Monarchy. The pyramids of the SEAA didn’t concern themselves with a balance of power, or equality in any form, because they didn’t have a decision-making process they could use as a group to coordinate[^18].
-
-**Rebalancing Mechanisms:** Too static. Kings ruled through divine rights for many generations, and the pyramid was unable to rebalance. Everyone’s roles were essentially fixed or close to fixed. Bloodlines were the most important differentiator.
+![[SEAA Coordination Methods.png]]
 
 The grandiose pyramids of the SEAA were conquered due to being unable to make good decisions at scale, in massive empires, without having a more decentralized and adaptive decision-making process. All important decisions going up to the emperor, who didn’t have the best information and often wasn’t the best person selected for the role to make decisions, proved to be a very inefficient process—unable to keep up with the constantly evolving situation in all corners of the empire.
 
 ## Horizontal Pyramids (Manually Adjustable)
 ###### Nation States – Double-Entry Accounting Age (DEAA) – (500 – Present)
+![[deaa pyramid.png]]
+<center>DEAA social hierarchy pyramid</center>
 
 > _“We should not judge a man’s merit by his great qualities, but by the use he makes of them.”_ –François de La Rochefoucauld
 
@@ -334,15 +359,18 @@ The DEAA is fueled by representative governance in all forms: parliaments, corpo
 
 It’s important to understand where these mechanics originate from. During the early parts of the DEAA, the nobles demanded some decision-making power from the absolute monarch kings (this is best displayed in the [Magna Carta](<https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#The+Magna+Carta+(1215)>))…As a result, they evolved the governance system into using duplicated contracts to create a form of horizontal “democratic as equals decision-making” by voting on decisions. During the time, there was no method, <u>nor will</u>, to collect this input from the entire populace at scale. What started out as an enshrined council of nobles voting eventually opened up into representative democracy—where the lower tiers of the societal pyramid could select a noble from the higher tiers to represent them in a parliament. The <u>individual interests</u> of these nobles have never fully overlapped with their constituents. That's still where we are today....representative democracy. 
 
+![[Representative Democracy Interests.png|700]]
+
 Direct democracy has never been tried; it has only become technologically feasible recently at scale due to the Internet. In the past, there was no means of facilitating direct governance transmissible and secure at scale, and no willpower from the elites to allow the bottom parts of the pyramid to make decisions (and thereby rebalance the top of the pyramid). Modern societal coordination tools still don’t effectively grant the majority of the populace representation in their own social hierarchies. *Since the  <u>individual interests</u> of the representatives diverge from the <u>collective interests</u> of the entire population: this structure creates a significant loss of coordination value for the entire population––costing every participant within the societal pyramid in proportion to the distance of the divergence between <u>individual interests</u> of the representatives away from the <u>collective interests</u> of the coalition.*
 
 #### Illuminati 
 There's a little-known quirk to the pyramids of the DEAA. We will call it the “_Illuminati._” What happens in the DEAA pyramids, is that…since the spots near the top of the pyramid are so few and so desired (there’s a whole mass of people underneath aiming for them)…the elites in privileged positions at the top of the pyramid must create alliances with each other in order to secure their positions. (Without this important alliance—they would have no sustainable edges to retain their positions, and almost certainly get overrun by the masses underneath trying to rebalance into their rare and valuable slots in the social hierarchy.) So in order to preserve their status, the Illuminati of the DEAA must ally with each other, forming a separate structure at the top of the pyramid, and lift it off—entirely separating themselves from the rebalancing effect at the bottom of the pyramid. _The top is separated from the bottom of the pyramid via these alliances, and the barrier is a very difficult one to cross. The club at the top can hardly sustain their own bloodlines[^19]. 
 
 That is why…ultimately, while the systems of the DEAA have learned to rebalance––the top of the pyramid still doesn’t functionally rebalance well due to its very limited pool of talent.
-Since these are the most powerful and pivotal roles and positions of leverage, affecting the entirety of society: all humans in the rest of the system are heavily dependent, and highly affected, by the inefficiency of this rebalancing. The Illuminati’s inability to effectively rebalance, and their interests not being fully aligned with the entire pyramid, causes tremendous harm to the <u>societal interest</u>, and leads to the standard pattern known as “The Big Cycle”. 
+Since these are the most powerful and pivotal roles and positions of leverage, affecting the entirety of society: all humans in the rest of the system are heavily dependent, and highly affected, by the inefficiency of this rebalancing. The Illuminati’s inability to effectively rebalance, and their interests not being fully aligned with the entire pyramid, causes tremendous harm to the <u>societal interest</u>, and leads to the standard patterns known as “The Big Cycle” [@raydalioPrinciplesDealingChanging2021]. 
 
-_Caption: This inevitable cycle repeats consistently in the DEAA._
+![[the big cycle.png]]
+<center>The big cycle of "changing world orders" repeats consistently in the DEAA, due to a disallignment of interests. The pyramid must collapse before it can rebalance.</center>
 
 The top of the pyramid controls all coordination underneath, and hence it's easy to take control of the pyramid by simply capturing a handful of Illuminati nodes, which are responsible for all the decision-making and difficult to rebalance \[hint[^20]]. Since these are the most powerful and pivotal leverage points in a society, our civilizations grind to a complete halt from the lack of vertical rebalancing here before undergoing the collapse —> revolution cycle. _This is perhaps the biggest flaw of the pyramids of the DEAA: the individual interests of the elite representatives are not fully aligned with the collective interests of the whole societal pyramid. Firstly, it’s a small club of elites who are making all the decisions. Secondly, the entire societal pyramid is completely dependent on them; yet they aren't capable of rebalancing effectively into optimal meritocratic configurations. Thirdly, it's relatively easy to capture the whole pyramid by simply gaining control a handful of its elite individuals._ It’s the reason our governance systems are currently outdated, because while the rest of the pyramid is able to rebalance, the Illuminati controlling the very upper tiers of power in absolutely all the spheres (political, financial, and informational) are unable to effectively rebalance the pyramid. _The DEAA doesn’t rebalance the top of the pyramid effectively._
 
@@ -373,16 +401,16 @@ The nature of identity and privacy in the DEAA makes this problem worse. True ow
 
 While this is a valid and reasonable strategy of the DEAA, due to the nature of its pyramids…the entire DEAA is coming to an end. **Society Protocol is a coordination tool which truly illuminates the pyramid for everyone, not just the Illuminati.**
 
-**Coordination Methods:** Duplicated contracts, horizontal interactions “as equals”, individualism, economic free markets (capitalism)
-
-**Group Decision-Making Methods:** Democracy (representative governance)
-
-**Rebalancing Mechanisms:** Horizontal interactions between participants
+![[oprah-illuminati.gif]]
 
 In the DEAA, humanity learned how to _manually_ rebalance the societal hierarchies. The problem is...this takes SO MUCH ENERGY!! It also forces everyone into a lifetime of manual status games—eternally creating a patchwork of disconnected status hierarchies manually, manually thinking about them, and then manually interacting to update them. There is no automated system. As a result, this information remains opaque and malleable, and it isn’t evenly propagated through society. There are many manual social hierarchy systems, each of which are disconnected, must be updated manually, and none of which have equal representation in the process. _The manual pyramids of the DEAA will evolve into the automatically rebalancing pyramids of the TEAA—Synchronized States._
 
+![[DEAA Coordination Methods.png]]
+
 ## Rebalancing Pyramids (Automated)
 ###### Synchronized States – Triple-Entry Accounting Age (TEAA) – (Starts now)
+![[teaa pyramid.png|600]]
+<center>TEAA social hierarchy pyramid (automatically rebalances everyone inside using algorithms)</center>
 
 *The TEAA will usher in the automated rebalancing pyramids of Synchronized States––entirely reconstructing the societal pyramid superstructure by using first-principles thinking and modern technology.* The rebalancing pyramids of the TEAA will: better align incentives for all participants, automatically rebalance using algorithms, be synchronized worldwide, have direct representation for all participants, and enable meritocracy as a new form of group decision-making. This is achieved by forming a single unified **<u>Synchronized Social Contract (SSC)</u>** for each society. Each SSC is clear in its rules, transparent in its history, and can be directly accessed by all participants—enabling direct representation. Thus, making the social contract equitable and infinitely more challenging to manipulate than the patchwork of duplicated contracts forming the social hierarchies of the DEAA.
 
@@ -436,10 +464,6 @@ If you leave a Bitcoin or Ether token in the state machine for 200 years, and th
 
 _As a result, Web3 participants are incentivized to join pyramids they perceive as being successful in the future as early as possible, speak loudly about how much they’re contributing (to get other people interested) and contribute little value. Web3 pyramids produce a constantly degrading curve of adoption incentives throughout their lifetime, which is only counterbalanced by their success, but at a certain point…this degrading curve creates a game theoretic scenario where it’s more beneficial for participants to join a newly formed degrading curve at the start, rather than participate in the bottom of an established successful degraded curve of adoption._ _At that point in the curve, blockchains start to lose members to a new curve and collapse[^27]._
 
-**Web3 Adoption Cycle (consider placing this header in the graphic):**
-
-Caption: That is why blockchains are often called pyramid schemes.
-
 #### Web4 Adoption Cycle
 
 If an Actor leaves Energy in the Society Protocol state machine for 200 years, and then comes back…their Energy will be drained proportionally to the value they contributed during that time period and likely not be there when they return. In the case of Energy, their value is correctly following economic principles. It is directly tied to each participant’s contributed value to the coalition at each point in time. At whatever point they return in the future, their value will remain proportional to their contribution to the coalition.
@@ -472,11 +496,15 @@ Synchronized States fundamentally transform how we coordinate. Every participant
 
 **Direct representation can eliminate the Illuminati top quirk of the DEAA.** The top slots in TEAA social pyramids are unable to opaquely form alliances with each other to avoid rebalancing...at a minimum this would be visible to all. If the value system of a Synchronized State is configured optimally, it can make all parties compete with each other, without any benefit to forming into cabals and only a downside really (in the same way that stock market traders don't form into cabals, because they're economically incentivized to compete with each other). Governance is the exception, political parties are inevitable and use cooperation between large groups to enact change––this is normal. Even that dynamic can be alleviated a little bit, to protect against malicious cabals and cartels... As systems designers, we can improve this dynamic by occasionally directly double checking the will of the Governors against the wider will of the entire populace via direct interactions. *That's about as good as it gets.* *It's pretty close to the theoretical limits of governance.*  
 
+![[Society Protocol Interests.png|700]]
+
 **Escaping Goverance capture**: Even in the case of Synchronized State capture, it's easier for people to fork or Portal out than it is to exit in the case of Nation States, which requires physical war or diplomacy over territories. I expect Synchronized States to be more competitive and interoperable than their predecessor, with lower switching costs. 
 
 #### Aligned Incentives in Every Value Function
 
-Believe it or not, the only difference between the images below is the proper alignment of incentives and the power to enforce them.
+![[future of coordination or trashheap.png]]
+
+Believe it or not, the only difference between the images above is the proper alignment of incentives and the power to enforce them.
 
 A thorny fundamental issue recurrently appears in group coordination called the “[_tragedy of the commons_](https://math.uchicago.edu/~shmuel/Modeling/Hardin,%20Tragedy%20of%20the%20Commons.pdf)_."_ It’s basically a way of saying “when nobody is in charge of communal objects…everybody takes advantage, nobody is able to marshal resources effectively, and the communal objects themselves go to shit.” This is simply the manifestation of <u>individual interests</u> not matching up with the <u>collective interests</u>.
 
@@ -568,6 +596,9 @@ In today’s world (DEAA), power is mostly derived from informational advantages
 
 _The coordination pyramid superstructure of Society Protocol will manifest in the real world in real-time._ Using modern hardware, such as this [AI enhanced helmet](https://x.com/goingparabolic/status/2010179746076962989?s=46&t=KHVZieex948L7UZSsS4vjA), all the data will come alive to create an overlay over life at all times—illuminating every social interaction. The overlay will show all sorts of relevant information about the entities participants interact with (identities, assets, and data objects), pulling from their entire public history (which is stored in the Timeline). This vast knowledge-base will be presented to each user in a personalized fashion—to give each user the personalized heads-up-display (HUD) they desire.
 
+![[eagle eye helmet.webp|600]]
+<center>Eagle Eye AI Helmet</center>
+
 In the not too distant future, life will become very similar to an interactive massive multiplayer online game (MMORPG)—where everyone’s identity is loaded into the “game of life” and interactions occur directly between everyone’s self-sovereign identity (SSI) stored in Society Protocol, like playing a video game character. _This feature will **greatly** increase trust and coordination in society._ **_It was never possible before._**
 
 #### Modularity of Value Systems
@@ -594,6 +625,8 @@ Everyone can clearly see and define what the update will do, it is controlled as
 
 Additionally, the public immutable history stored in the Timeline allows for clear analytics of the past and debates about "what are the optimal changes to be made?". Coalitions can accurately track the past to see what’s working, what’s not working, and make changes based off an accurate version of history. **_This was never possible before._**
 
+![[TEAA Coordination Methods.png]]
+
 ### The Future of Human Coordination
 
 Synchronized States represent the inevitable leap for the future of human coordination. (You can read [Synchronized States (The Golden Record)](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)) to understand this inevitability). Humanity will collectively live in a dystopia until this transition completes.
@@ -619,15 +652,14 @@ Throughout every epoch of human history…_the organized minority has always con
 
 An opportunity like this hasn’t come around for a few millenniums. The only thing which remains uncertain is who’s going to build it...will it be you or someone else? If you are interested in contributing to the creation of Society Protocol and would like to be a part of the journey, you can: [join our community](https://societyprotocol.io/), [invest in the movement](https://societyprotocol.io/), and [contribute to the architecture](https://societyprotocol.io/).
 
+
+
 * * *
 
-**Coordination Methods:** Worldwide synchronization of the state, Synchronized Social Contract (SSC), Value Functions
+#### Full Table of Coordination Evolution (ZEAA–TEAA)
+![[ZEAA–TEAA Coordination Methods.png]]
 
-**Group Decision-Making Methods:** Meritocracy,
-
-**Rebalancing Mechanisms:** Automated Value Functions
-
-## Conclusion
+# Conclusion
 
 We stand at the threshold of the _Age of Synchronicity_—a transformation as profound as any in human history. The emergence of triple-entry accounting and Synchronized States represents not merely an incremental advancement but a fundamental reimagining of how humanity coordinates around its shared reality. _This evolution will reshape our collective existence at a scale unseen for thousands of years._
 
@@ -640,6 +672,7 @@ The future of human coordination begins now, with Society Protocol illuminating 
 ### Bibliography
 Dawkins, R. (2016). _The selfish gene_ (40th anniversary edition). Oxford University Press.
 Page, L. (2024). _Why we so often fail to work together_. https://www.optimallyirrational.com/p/why-we-so-often-fail-to-work-together?publication_id=1631989.
+Ray Dalio. (2021). _Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail_. https://economicprinciples.org/the-changing-world-order.
 Storr, W. (2022). _The status game_. William Collins.
 
 ### Footnotes
@@ -647,20 +680,20 @@ Storr, W. (2022). _The status game_. William Collins.
 [^2]: There are oftentimes overlapping implicit and explicit social hierarchies that exist in parallel, but say completely different things. The implicit order often differs from the explicit ranks in a social hierarchy.
 [^3]: Games humans play to establish social hierarchies. _The Status Game_ by Will Storr is a good book on this \[@storrStatusGame2022\].
 [^4]: Where all participants end up spending their energy only to end up doing harm to each other anyways, leading to a less than zero-sum result.
-[^5]: These amalgamated individual desires also strangely form another pyramid, an economic pyramid of scarcity (creating the demand side of it).
-[^6]: Otherwise, they are captured by rival pyramids.
-[^7]: In multiple verticals, there isn’t only one sphere of coordination value.
-[^8]: If this form of meritocracy represents the theoretically perfect coordination abilities of a coalition, the delta (distance) between this ideal structure and how the actual coalition's societal pyramid looks in practice, equals the total coordination value our coalition is leaking in its current formation. There are multiple verticals of status hierarchies in the coalition, to get the total amount of coordination value leaking from the optimal coordination capacity of the coalition, we would sum all of these status hierarchy verticals together.
-[^9]: These layers all stack on top of each other, we still use the threat of physical violence to enforce democratic principles in the DEAA. 
-[^10]: That’s because the individuals at the top of the pyramid create the college courses, and they are perfectly content.
-[^11]: Some of the most vile, desperate, and despicable behavior in human nature comes when people believe they are backtracking in status. It creates the recipe of: wielding power and having little to lose by wielding it inappropriately other than what they would lose by losing that power anyways. In addition, many of those who wield power have accumulated it over their lifetime, and are now quite old, nearing their death anyways. So, there aren’t many transitions or repercussions to misusing that accumulated power.
-[^12]: This is way impossible with both dictatorship and democracy because in a dictatorship we’re always ending up making the <u>individual interests</u> decision of the dictator and in a democracy we’re always ending up making a decision which is an amalgamation of all <u>individual interests</u> without any qualifications into the decision-making process.
-[^13]: I suppose the pyramid itself moves closer to the interests of individual actors too…but seeing that it’s an amalgamated golem of a combination of their unique desires itself…each actor pulling it from a different direction might stabilize it. In any case, it should be much easier to move the <u>individual interests</u> decisions using the gravity point of the pyramid, compared to moving the decision points of the entire pyramid based on an individuals desires. (The fact that this happens often in the history, where a single person with a lot of power adjusts the entire pyramid towards their preferred path without popular support, displays a lack of robust group coordination.)
-[^14]: This might actually have network effects, where it’s not a linear loss, but rather superlinear or exponential (because if this coordination was attained it would start compounding into network effects).
-[^15]: It’s very tricky too, because of the dualistic nature of <u>competition</u> combined with <u>cooperation</u> at all times in coordination. If people were straightforward and transparent with each other, they would paradoxically be unable to build trust, for example.
-[^16]: Although achieving privacy in practice adds complexity, and would likely be added only after the more transparent variants of the system are available.
-[^17]: Humans don’t learn in a straight line. There is a tendency to go too far in one direction before overcompensating and going too far towards the opposite direction.
-[^18]: A balance of power is only important insofar as it helps the State survive and become stronger, otherwise it’s a liability. If the societies of the SEAA tried to balance the power, without having decision-making processes to achieve that, it would only lead to their downfall and wasn’t required until the DEAA age Nation States came along.
+[^5]: An impossible theoretical feat, but it's important to know what to aim for.
+[^6]: These amalgamated individual desires also strangely form another pyramid, an economic pyramid of scarcity (creating the demand side of it).
+[^7]: Otherwise, they are captured by rival pyramids.
+[^8]: In multiple verticals, there isn’t only one sphere of coordination value.
+[^9]: If this form of meritocracy represents the theoretically perfect coordination abilities of a coalition, the delta (distance) between this ideal structure and how the actual coalition's societal pyramid looks in practice, equals the total coordination value our coalition is leaking in its current formation. There are multiple verticals of status hierarchies in the coalition, to get the total amount of coordination value leaking from the optimal coordination capacity of the coalition, we would sum all of these status hierarchy verticals together.
+[^10]: These layers all stack on top of each other, we still use the threat of physical violence to enforce democratic principles in the DEAA. 
+[^11]: That’s because the individuals at the top of the pyramid create the college courses, and they are perfectly content.
+[^12]: Some of the most vile, desperate, and despicable behavior in human nature comes when people believe they are backtracking in status. It creates the recipe of: wielding power and having little to lose by wielding it inappropriately other than what they would lose by losing that power anyways. In addition, many of those who wield power have accumulated it over their lifetime, and are now quite old, nearing their death anyways. So, there aren’t many transitions or repercussions to misusing that accumulated power.
+[^13]: This is way impossible with both dictatorship and democracy because in a dictatorship we’re always ending up making the <u>individual interests</u> decision of the dictator and in a democracy we’re always ending up making a decision which is an amalgamation of all <u>individual interests</u> without any qualifications into the decision-making process.
+[^14]: I suppose the pyramid itself moves closer to the interests of individual actors too…but seeing that it’s an amalgamated golem of a combination of their unique desires itself…each actor pulling it from a different direction might stabilize it. In any case, it should be much easier to move the <u>individual interests</u> decisions using the gravity point of the pyramid, compared to moving the decision points of the entire pyramid based on an individuals desires. (The fact that this happens often in the history, where a single person with a lot of power adjusts the entire pyramid towards their preferred path without popular support, displays a lack of robust group coordination.)
+[^15]: This might actually have network effects, where it’s not a linear loss, but rather superlinear or exponential (because if this coordination was attained it would start compounding into network effects).
+[^16]: It’s very tricky too, because of the dualistic nature of <u>competition</u> combined with <u>cooperation</u> at all times in coordination. If people were straightforward and transparent with each other, they would paradoxically be unable to build trust, for example.
+[^17]: Although achieving privacy in practice adds complexity, and would likely be added only after the more transparent variants of the system are available.
+[^18]: Humans don’t learn in a straight line. There is a tendency to go too far in one direction before overcompensating and going too far towards the opposite direction.
 [^19]: To sustain a replacement amount of children of their bloodlines replacing them, they must maintain an equal amount of power. Most elites at the top throughout history have significantly more than merely (2) a replacement amount of children. In order to give those Illuminati children elite opportunities at the top of the pyramid, the elites must be more successful than average—conquering more power in a zero-sum political game. That’s before we get into any form of rebalancing attempts breaching the Illuminati alliance from the bottom part of the pyramid. This is called [elite overproduction](https://www.noahpinion.blog/p/the-elite-overproduction-hypothesis-994).
 [^20]: That's the bankers job..
 [^21]: This contrasts with the DEAA, where individuals cant see the duplicated contracts other individuals sign and partake in. Only the middle-men aggregator platforms, such as Facebook or LinkedIn, can truly see all of those. This dynamic creates enormous power imbalances, and secret opaque parts of the societal map where espionage and secret societies thrive. As a result, much valuable societal information remains held in silos.
@@ -678,3 +711,5 @@ Storr, W. (2022). _The status game_. William Collins.
 [^33]: Additionally, Protocol Parameters, Laws, and Constitution play a role in defining and tuning the knobs of value systems.
 [^34]: We estimate that the TEAA of Synchronized States will be able to support human civilizations of 10-100x current numbers (100 billion–1 trillion individuals) simply by using the exact same amount of resources in more optimized ways.
 [^35]: This happens because of _informational advantages_ and is very well displayed by the [Werewolf Game](https://faisalkhan.com/knowledge-center/industry-perspective-commentary/understanding-the-werewolf-game-and-its-relation-to-game-theory/), where the villagers are generally unable to decipher who the werewolves are and lose the game to the werewolves. The same dynamic has been playing out in real life for at least the past 4,000 years (starting when written records gave some entities severe informational asymmetries over others).
+[^36]: Our ways of transferring state became superior (to have complex coordination, we must transfer and preserve a complex state).
+[^37]: A balance of power is only important insofar as it helps the State survive and become stronger, otherwise it’s a liability. If the societies of the SEAA tried to balance the power, without having decision-making processes to achieve that, it would only lead to their downfall and wasn’t required until the DEAA age Nation States came along.

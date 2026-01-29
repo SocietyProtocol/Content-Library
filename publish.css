@@ -1,3 +1,7 @@
+.published-container {
+  --page-width: 90ch;
+}
+
 img {
   max-width: 100%;      
   display: block !important;

@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Articles/Rebalancing Pyramids (Coordination).md",
+                "file": "Published/Welcome Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rebalancing Pyramids (Coordination)"
+              "title": "Welcome Page"
             }
           },
           {
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Published/Articles/Rebalancing Pyramids (Coordination).md",
+                "file": "Published/Welcome Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rebalancing Pyramids (Coordination)"
+              "title": "Backlinks for Welcome Page"
             }
           },
           {
@@ -286,6 +286,11 @@
   },
   "active": "5becb67a457f598b",
   "lastOpenFiles": [
+    "Extras/Illustrations/Tables/ZEAA–TEAA Coordination Methods/ZEAA Coordination Methods.png",
+    "Extras/Illustrations/Tables/ZEAA–TEAA Coordination Methods/Screenshot 2026-01-29 at 3.43.28 PM.png",
+    "Extras/Illustrations/Tables/ZEAA–TEAA Coordination Methods/SEAA Coordination Methods.png",
+    "Extras/Illustrations/Tables/ZEAA–TEAA Coordination Methods/Screenshot 2026-01-29 at 3.41.19 PM.png",
+    "Published/Articles/Rebalancing Pyramids (Coordination).md",
     "Published/Handbook/Handbook-Value Functions.md",
     "Published/Handbook/Function-Portal.md",
     "Extras/Illustrations/Value Functions.excalidraw.svg",
@@ -317,10 +322,6 @@
     "Published/Articles/4-Dimensional Synchronization (Clocks).md",
     "Drafts/Outlines/How We Are Building Society Protocol.md",
     "Extras/Brand/Fonts/Drawing 2025-11-15 14.42.49.excalidraw.md",
-    "Published/Articles/The Sovereign Individual (Identity).md",
-    "Extras/Illustrations/Levels.excalidraw.svg",
-    "Extras/Illustrations/Ownership Preference.excalidraw.png",
-    "Extras/Illustrations/Level-Curation.excalidraw.png",
     "Extras/Brand/Fonts/Inter-Italic-VariableFont_opsz,wght.ttf",
     "Extras/Brand/Fonts/Inter-VariableFont_opsz,wght.ttf",
     "Extras/Brand/Fonts/pptelegraf-ultrabold.otf",
