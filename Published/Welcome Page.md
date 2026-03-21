@@ -18,7 +18,8 @@ updated: 2026-01-08T23:32
 [[The Sovereign Individual (Identity)|The Sovereign Individual (Identity)]]
 [[Published/Articles/Energy Is All You Need (Money)|Energy Is All You Need (Money)]]
 [[Published/Articles/Rebalancing Pyramids (Coordination)|Rebalancing Pyramids (Coordination)]] 
-
+[[Published/Articles/Re-distribution! (Value Systems)|Re-distribution! (Value Systems)]] 
+[[Published/Articles/How We Are Building Society Protocol|How We Are Building Society Protocol]] 
 ### Handbook
 [[Handbook-Global]]
 [[Handbook-Actor]]
