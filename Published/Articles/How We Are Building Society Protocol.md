@@ -39,7 +39,7 @@ Society Protocol does not need to be entirely completed to become valuable and t
 
 **_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay many dragons. The most powerful one of which is ethereal, sitting on a massive pile of gold, has an army of goblin wardens, and has sucked up the life-force of all the humans in the world while influencing every jurisdiction it can get its claws into. Only by slaying these dragons can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
 
-![[kerafyrm.jpg]]*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*
+![kerafyrm](../../Extras/Images/kerafyrm.jpg)*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*
 
 In [Synchronized States](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)), we elaborated on why the transition from Nation States to Synchronized States is absolutely inevitable. To summarize, Nation States will enter into a prisoners dilemma with each other, in which, absolutely all of them will be forced to transition into Synchronized States. The only open question remaining—_is_ **_how this transition unfolds_**: Does humanity transition directly into The Age of Synchronicity (Aquarius), or does it spend a few centuries in a dark techno-feudal age first? _We will find out._ **It depends on the story humanity tells itself. <u>The stories we collectively tell ourselves are ultimately self-fulfilling prophecies</u>. Which story will you choose? Which story will humanity choose? The outcome is up to all of us dear readers.** _I know which story I want to see._
 
@@ -53,7 +53,7 @@ In [Synchronized States](https://societyprotocol.io/Published/Articles/Synchroni
 
 _The old matrix is collapsing, and the new one is yet to be born._
 
-![[Now-is-the-age-of-monsters.png|600]]
+![600](../../Extras/Images/Now-is-the-age-of-monsters.png)
 
 <center>Society Protocol is a horizontally wide project, to transition the world. We accept many types of monsters in our ranks.</center>
 
@@ -154,7 +154,7 @@ The success of Bitcoin, Ethereum and Web3 movement is crucial for our success. W
 
 ### Macro Roadmap
 
-![[Macro Roadmap.png]]
+![Macro Roadmap](../../Extras/Infographics/Macro%20Roadmap.png)
 
 #### Roadmap Steps Overview
 1. **Create core content & infrastructure (2025–2026):** This stage includes creating all the core content to explain the Society Protocol system, and the core infrastructure required to support the weight of its movement (all the creative content and Web3 Outpost). 
@@ -215,7 +215,7 @@ We intend for the global movement to form hubs all over the world. Gatherings, m
 
 The next sections cover the three main segments of our movement, which are: the core team, affiliates, and the community.
 
-![[SP Movement Concentric Circles.excalidraw.png|600]]
+![600](../../Extras/Illustrations/SP%20Movement%20Concentric%20Circles.excalidraw.png)
 
 <center>Concentric circles illustration of the roles in the Society Protocol movement</center>
 
@@ -233,7 +233,7 @@ The Mythical Man Month is a classic book pertaining to this exactly subject. It 
 
 **Our organization will not be starting any Synchronized States.** <u>We aren’t politically motivated</u>. **The Society Protocol Foundation, DAO, and core team all have absolutely no interest in being the kings of a new world.** Our organization is much like the Linux Foundation—_<u>we are the stewards of infrastructure</u>. We are not looking to conquer the world, we serve the world from a position of neutrality._ _We serve the kings and queens of a new world, and help them achieve their aims of better coordinating their societies by providing the secure, modular, and neutral infrastructure, which all Synchronized States will use._
 
-![[galaxy-spiral-annotated.excalidraw.png|800]]
+![800](../../Extras/Images/galaxy-spiral-annotated.excalidraw.png)
 
 > The game is always rigged, the game always has one fatal weak spot. –Esoteric Knowledge
 > 
@@ -308,7 +308,7 @@ We encourage people to join our community using pseudonyms. You’re welcome to 
 
 ### Value Flows Chart
 
-![[Movement Value Flows.excalidraw.png]]
+![Movement Value Flows.excalidraw](../../Extras/Infographics/Movement%20Value%20Flows.excalidraw.png)
 
 ## Financial Strategy & Fundraising
 
@@ -325,7 +325,7 @@ To fuel this movement we will need financial resources. We have created a well t
 
 The SPEC token represents contribution to Society Protocol. It’s a token that stores value, and combines with the accounts in the Web3 Outpost to distinguish who has contributed what value to Society Protocol during the process of building it.
 
-![[SPEC Token Distribution.png|800]]
+![800](../../Extras/Infographics/SPEC%20Token%20Distribution.png)
 
 The way that value invested in the SPEC token will be recouped is simple: we expect millions of SP instances to be launched in a bid to transition the world from Nation States to Synchronized States. Some of them will be spectacular successes worth gazillions of dollars, many of them will fail…SPEC token holders have a chance to be airdropped in accordance to their contribution in EACH one of these of instances. SPEC token holders gain the potential for millions of airdrops, stretching over decades, as SP instances are launched and experimented with, in accordance with their contribution.
 
@@ -388,7 +388,7 @@ Since the codebase is always source-available, any sociopathic entities who capt
 
 You may be wondering, “Have you thought about the issue of the big scary dragon, the one which captures everyone in its clutches and drains their life-force? The magical ethereal dragon sitting on a pile of gold, with an army of goblins around it, and all those bones in its lair…the one which scares and eats everyone?”[^22]
 
-![[dragons-clutches.gif]]
+![dragons-clutches](../../Extras/Images/dragons-clutches.gif)
 
 _Well…yes. Yes we have…_
 
@@ -420,13 +420,13 @@ While no dragon can hold Society Protocol, reptiles are not all known to be smar
 
 **That’s it. The journey is complete and we enter the Age of Synchronicity.**
 
-![[sleeper-corpse.webp]]_Caption: The creators of Everquest never intended Kerafyrm, the Sleeper to die, it was designed to be impossible. Nevertheless, a group of adventurers, from a coalition of guilds on the Rallos Zek PvP server woke him by killing his four warders and fought for ~3 hours, bringing him down to ~26% HP. Sony Online Entertainment (SOE) then despawned him (suspected GM intervention or bug to keep him "unkillable"). SOE later apologized, offered compensation, and respawned him sleeping. On November 17, 2003, the same groups returned, battled for ~3–4 hours, and finally killed him. Kerafyrm, the Sleeper was slain, and never respawned again._
+![sleeper-corpse](../../Extras/Images/sleeper-corpse.webp)_Caption: The creators of Everquest never intended Kerafyrm, the Sleeper to die, it was designed to be impossible. Nevertheless, a group of adventurers, from a coalition of guilds on the Rallos Zek PvP server woke him by killing his four warders and fought for ~3 hours, bringing him down to ~26% HP. Sony Online Entertainment (SOE) then despawned him (suspected GM intervention or bug to keep him "unkillable"). SOE later apologized, offered compensation, and respawned him sleeping. On November 17, 2003, the same groups returned, battled for ~3–4 hours, and finally killed him. Kerafyrm, the Sleeper was slain, and never respawned again._
 
 _Thank you dragon, thanks for playing._
 
 **Let’s reconstruct all the steps backwards from the Age of Synchronicity...**
 
-![[Reverse Timeline from Age of Synchronicity.png]]
+![Reverse Timeline from Age of Synchronicity](../../Extras/Infographics/Reverse%20Timeline%20from%20Age%20of%20Synchronicity.png)
 
 ## Conclusion
 

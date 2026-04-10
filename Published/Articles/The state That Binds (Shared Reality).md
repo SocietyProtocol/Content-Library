@@ -1,10 +1,10 @@
 ---
 created: 2025-10-03T12:17
-updated: 2026-04-10T11:08
+updated: 2026-04-11T13:07
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
-_This article is part of the state trilogy; terminology for the trilogy can be found [[Terminology for the state trilogy|here]]. 
+_This article is part of the state trilogy; terminology for the trilogy can be found [here](../../Extras/Resources/Terminology%20for%20the%20state%20trilogy.md). 
 The other parts are [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [Synchronized States (The Golden Record)](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record))._
 
 * * *
@@ -15,7 +15,7 @@ What is reality, who _makes it, where does it come from?_
 
 Let’s break down the nature of reality. Since it doesn’t come from you, it has to come from somewhere.
 
-![[buddha-on-humanity.jpg|450]]
+![450](../../Extras/Memes/buddha-on-humanity.jpg)
 
 ### The Nature of Reality
 
@@ -32,7 +32,7 @@ In this process, everyone gets a bit (or a lot) confused. The shared reality tha
 1. From private subjective truth into a shared reality (consensus)
 2. From clear-ish shared reality into a twisted and warped one––as parties fight to manipulate the shared reality for personal gain (serving as a political mask and the narrative of the tribe).
 
-![[twisting-shared-reality.png|500]]<center>So much of our reality gets lost in transmission. Time and space bend and warp it 🧬.</center>
+![500](../../Extras/Images/twisting-shared-reality.png)<center>So much of our reality gets lost in transmission. Time and space bend and warp it 🧬.</center>
 
 On a positive note, now we have a tribal pattern. We’ve baked a tribal pie––**a shared reality**[^2]. Our tribe can now coordinate using this state—improving our protection and survival while it is competing with other tribes—who are playing the same exact game.
 
@@ -63,7 +63,7 @@ The STB has transitioned through four epochs. Each epoch has fundamentally alter
 > 3. **Double-Entry: Nation States:** The legitimacy of the shared reality is rooted in duplicated contracts and agreements. This system is supposed to facilitate access to the shared reality equally for the population. Today, we all feel like we have access and influence over the shared reality (at least in the Western world). Whether we do or not, is another question. The duplication of the STB allowed multiple parties to imbue lasting contractual agreements into the shared reality.
 > 4. **Triple-Entry: Synchronized States:** Every global participant has equal access to a synchronized shared reality. The entire history of how we arrived to this state in the shared reality, including all previous states, is quasi-immutably recorded in a chronological Timeline.
 
-![[Epochs of Shared Reality.excalidraw.png]]
+![Epochs of Shared Reality.excalidraw](../../Extras/Illustrations/Epochs%20of%20Shared%20Reality.excalidraw.png)
 
 The STB is always fundamentally a social layer trying to maintain coordination.
 
@@ -183,7 +183,7 @@ The language of English is another good example. It has network effects that all
 
 All human connections—whether micro relationships, communities, or macro States—are born, sustained, and ultimately dissolved around the gravitational pull of their shared realities. When we think about it, States are essentially organizations fighting for control over the state—both their own and rival neighbors. _There is only 100% of reality to go around._
 
-![[SR State Competition – DEAA.excalidraw.png|500]]
+![500](../../Extras/Illustrations/SR%20State%20Competition%20–%20DEAA.excalidraw.png)
 <center>DEAA States fighting for control over 100% of shared reality.</center>
 
 Every individual is to some degree sharing this ethereal STB, the shared reality—and each one wants a little bit more representation[^8], because the STB is innately tied to our identity, and having less control over it gives other actors more control over our identities. Both individuals and States are fighting for control over each other’s _identities_ via control of the shared reality.
@@ -192,7 +192,7 @@ Every individual is to some degree sharing this ethereal STB, the shared reality
 
 All shared realities have a gravitational pull. Most people perceive blockchain ledgers to be like a single thread, whereas, they are actually more like this:
 
-![[sr-gravity.excalidraw.png|450]]
+![450](../../Extras/Fragments/Shared%20Reality/sr-gravity.excalidraw.png)
 <center>A Timeline which grows stronger and fades with it’s energetic and gravitational pull—which derives from the strength of social layer using it.</center>
 
 During the past epochs of humanity, we have never been able to synchronize the shared reality or its gravitational pull into a single chronological timeline. Humans have never had anywhere close to the technological capacity necessary to do something like that. It’s only possible by using (S)synchronized (S)states.
@@ -216,10 +216,10 @@ Consider the CIA triangle/square experiment from earlier in this article, or how
 Shared realities can be perceived as the lifelines of their relationships, community, or State. We’re going to use the linear Timeline of synchronized states to illustrate how they grow and fade:
 
 **Illustration of a STB as it grows in gravitation:**
-![[Shared Reality Growing.excalidraw.png]]
+![Shared Reality Growing.excalidraw](../../Extras/Illustrations/Shared%20Reality%20Growing.excalidraw.png)
 
 **Illustration of a STB as it fades in power and gravitation:**
-![[Shared Reality Fading.excalidraw.png]]
+![Shared Reality Fading.excalidraw](../../Extras/Illustrations/Shared%20Reality%20Fading.excalidraw.png)
 
 ### Split Reality (STB Forks)
 
@@ -275,7 +275,7 @@ Most people believe that blockchains are some sort of immutable financial indest
 
 There is no immutable code, there never was—there is only a community. Therefore, we must place our trust in the community, rather than the code. Yet the community cannot be perceived in 1D, 2D, or 3D synchronized states. It is invisible, while retaining the power to alter the shared reality for everyone (including the past, present, and future).
 
-![[Synchronized State Mutateability.excalidraw.png]]
+![Synchronized State Mutateability.excalidraw](../../Extras/Illustrations/Synchronized%20State%20Mutateability.excalidraw.png)
 <center>Both social layer forks and reorganizations at the protocol layer can alter the shared reality for all participants existing within it.</center>
 
 Mutating the state (adjustments): So, we can change it, we can mold it, we can refactor it, we can do a lot of things…but what we're ultimately trying to achieve in the end is as close as possible a valuable synchronized state: a shared a reality that the social layer, and ultimately every participant finds valuable and can use reliably. Blockchains must be reconceptualized as a social coordination mechanism which synchronizes a shared reality to a ledger—_community coordination tools_. They create a STB which unites disparate people, from different realities, pulling them gravitationally into one shared reality over time.
@@ -364,7 +364,7 @@ All synchronized states can help us store and synchronize a shared reality. As t
 3. **3-Dimensional: Web3 (Ethereum, CBDCs)**
 4. **4-Dimensional: Web4 (Society Protocol)**
 
-![[1D-2D-3D-4D Transition.png]]
+![1D-2D-3D-4D Transition](../../Extras/Images/1D-2D-3D-4D%20Transition.png)
 
 In all of the currently existing cases (from 1D-3D) the dominant systems have already eaten many shared reality alternatives to survive and grow into their positions. _The clock has eaten the many alternative versions of timekeeping systems. Bitcoin has eaten many alternative versions of POW chains shared realities. Ethereum has eaten many 3-Dimensional attempts at a shared reality._
 
@@ -384,7 +384,7 @@ Bitcoin can <u>read</u> and <u>write</u> to the synchronized STB. It can facilit
 
 It’s relatively new and relatively neutral due to the revolutionary nature of it and no pre-mines…but not as neutral as we would like it to be—quickly forming into its own cabal power structure emanating from the miners and the social layer. Participants exist at the behest of the cabal and how long there will be value to maintaining this shared reality is uncertain. We would like it to be more balanced, but this may be impossible with its pre-programmed economic formula of emissions and lack of governance mechanics to adjust its “immutable” pyramid structure. So far, there is a lot of value to maintaining it, and nothing else has arrived on the market with equal or greater ability to replace Bitcoin as a store of value (SOV)[^14]. For a better understanding of these dynamics, read [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)).
 
-![[sr-growing-conquering.excalidraw.png]]
+![sr-growing-conquering.excalidraw](../../Extras/Fragments/Shared%20Reality/sr-growing-conquering.excalidraw.png)
 <center>Bitcoin as a STB has eaten a lot of weaker ones.</center>
 
 **Problem is:** This shared reality lacks depth, it can’t store objects.
@@ -397,7 +397,7 @@ Web3 is extremely new. It was originally created by Vitalik Buterin in 2015 \[@v
 
 Unlike Bitcoin, which has remained “legitimately immutable[^15]” throughout its lifetime, participants in Web3 have figured out that they are distributing the economic value of shared realities, and began manipulating them from both the inside (pre-mined distributions) and outside (social layer manipulation). Ethereum was launched 70% pre-mined to allocate most of the social value to early participants, underwent a transformational fork altering its entire shared reality during the infamous [DAO hack incident](https://www.coindesk.com/consensus-magazine/2023/05/09/coindesk-turns-10-how-the-dao-hack-changed-ethereum-and-crypto), and undergoes routine updates altering the protocol’s shared reality from the social layer for everyone.
 
-![[sr-fading-conquered.excalidraw.png]]
+![sr-fading-conquered.excalidraw](../../Extras/Fragments/Shared%20Reality/sr-fading-conquered.excalidraw.png)
 <center>Ethereum hard fork, eating Ethereum Classic.</center>
 
 > While Bitcoin has remained “legitimately immutable” and Ethereum has not in practice, the underlying technology that enables their “immutability” is identical––both systems can undergo mutations. The difference is purely in the actions of the social layer sharing the STB.
@@ -414,7 +414,7 @@ Web3 STBs, in turn, fall more under control of their owners than the earlier exa
 
 3D synchronized states are defined by their platform nature and interoperability. These communities don’t function as a single shared reality, but rather many intersecting communities holding up a singular shared reality. _In the case of Ethereum: Aave, Gnosis, ENS, Tornado Cash, Chainlink, and USDT…and many other entities all contribute to the beam upholding the shared reality and influencing it._
 
-![[Ethereum SR.excalidraw.png]]
+![Ethereum SR.excalidraw](../../Extras/Fragments/Shared%20Reality/Ethereum%20SR.excalidraw.png)
 
 **Problem is:** This shared reality lacks identity, sybil-resistance, and the social layer. While the objects exist inside the shared reality, the people controlling them are still outside of the model.
 
@@ -484,7 +484,7 @@ In Society Protocol, the Synchronized State participants can now perceive Actors
 If you are interested in contributing to the creation of Society Protocol and would like to be a part of the journey, you can: [join our community](https://societyprotocol.io/), [invest in the movement](https://societyprotocol.io/), and [contribute to the architecture](https://societyprotocol.io/).
 
 ### Patterns of Synchronized Shared Realities:
-![[Patterns of Synchronized Shared Realities.png]]
+![Patterns of Synchronized Shared Realities](../../Extras/Illustrations/Tables/Patterns%20of%20Synchronized%20Shared%20Realities.png)
 ### Where does the shared reality come from?
 
 So we get back to the question: if it’s not you, then who controls the shared reality? Where does the consensus come from?

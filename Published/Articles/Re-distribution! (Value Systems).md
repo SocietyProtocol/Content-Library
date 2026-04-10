@@ -111,7 +111,7 @@ Society Protocol comes with nine original Value Functions: [_Parenting_](https:/
 
 Below, we’ll explore how Society Protocol's nine original Value Functions evolve their equivalents from the DEAA.
 
-![[Value Functions.excalidraw.svg]]
+![Value Functions.excalidraw](../../Extras/Illustrations/Value%20Functions.excalidraw.svg)
 
 ### (DEAA) Indoctrination/Referral Systems ➡️ (TEAA) Parenting
 
@@ -235,7 +235,7 @@ Governance can be relabeled as “group decision-making” and is always a neces
 
 Through the usage of _duplicated contracts,_ societies have evolved into attempting to allow everyone to participate using democratic principles (for better or worse). The DEAA generally only supports representative democracy because the technology to gather direct votes in a secure manner has been essentially nonexistent[^7]. Democracy isn’t a perfect form of decision-making, it’s theoretically flawed in many ways: it’s slow, the majority of people aren’t well informed, and their opinions are manipulatable in many ways: disinformation, bribes, etc.
 
-![[osho-democracy.jpg|600]]
+![600](../../Extras/Memes/osho-democracy.jpg)
 
 That said, the alternatives for organizational group decision-making are limited and the bar is low. Beyond physical violence, our only options have been monarchies and oligarchic enshrined councils.
 
@@ -251,7 +251,7 @@ While not all the Governance in SP runs through Value Functions, the Governance 
 
 **<u>TEAA incentive alignment</u>**: The governance mechanisms of the TEAA aim to reward participants who are able to make the best possible decisions, while using less effort than a Democracy by not needing to involve everyone in all decisions, at all times. These are the principles of meritocracy which the TEAA will be built on. TEAA governance mechanisms allow any Actor or Organization to participate in Governance, <u>but incentivize only the best Governors, and don’t mandate or desire that everyone participates</u>. The system aims to reward competence and alignment in decision-making. Meritocratic systems can entirely offload the economic costs of governance (such as representative salaries) from the populace, by allowing direct representation and structuring incentives as zero-sum mini games between decision-makers.
 
-![[Dictatorship vs Democracy vs Meritocracy.excalidraw.png]]
+![Dictatorship vs Democracy vs Meritocracy.excalidraw](../../Extras/Illustrations/Dictatorship%20vs%20Democracy%20vs%20Meritocracy.excalidraw.png)
 
 ### (DEAA) Organizations \[Corporations and Religions\] ➡️ (TEAA) Organizations \[Distributed Corporations and Cultural Agreements\]
 

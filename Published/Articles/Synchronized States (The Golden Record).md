@@ -1,10 +1,10 @@
 ---
 created: 2025-07-17T19:11
-updated: 2026-04-10T11:08
+updated: 2026-04-11T13:07
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
-_This article is part of the state trilogy; terminology for the trilogy can be found [[Terminology for the state trilogy|here]]. 
+_This article is part of the state trilogy; terminology for the trilogy can be found [here](../../Extras/Resources/Terminology%20for%20the%20state%20trilogy.md). 
 The other parts are [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [The state That Binds (Shared Reality)](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality))._
 
 * * *
@@ -49,7 +49,7 @@ Four technologies are just about wholly responsible for this imbalance:
 1. **Telecommunications** – Telecommunication is the forefather. For the first time in history, a governance-corporate alliance could intrude on the private state of citizens and manipulate the public state at a societal scale by reading pinpointed private state via phone lines, and writing to the public state by controlling the media (radio and television). _Without telecommunications, the other items on this list wouldn’t be possible._
 2. **The Internet** – This bastion of freedom has been responsible for more power siphoned from the individual than ever before in history. _Why do you think you’re allowed to talk?_ All modern data collection and tracking is currently enabled by the Internet: mobile phones, web2 corporate oligopolies, media, telecommunication companies, and banks. _For every ounce of freedom you are granted, a pound is being siphoned by exfiltrating societal state data._
 
-![[declaration of independence of cyberspace.png|600]]
+![600](../../Extras/Memes/declaration%20of%20independence%20of%20cyberspace.png)
 <center>"Sure thing boss, you're free. 👍 Congratulations!" –Governments 😂</center>
 <center>Well...that didn't work out so well now...did it? 🤦‍♀️</center> 
 
@@ -62,7 +62,7 @@ This is a direct evolution of when the Medieval Church stored and controlled the
 
 Instead of storing the public state of society, the technocratic elites have amassed: global, instantaneous, and pinpointed ownership and control—including all the features of CRUD (Create, Read, Update, Delete)—of essentially every individual in the world. This includes readability (including reading your private and semi-private information), analytics (with any level of precision), update abilities (such as controlling your feed or updating your accounts to be shadow banned), and delete (simply erasing individuals from the shared reality). Additionally, there's a new and extremely powerful create feature (using AI to create new shared reality by training it on the entire[^7] societal state). _The Eye of Sauron didn’t have such powers._ This is a worldwide panopticon. 
 
-![[Church-Data Center Transition 1.png]]
+![Church-Data Center Transition 1](../../Extras/Images/Church-Data%20Center%20Transition%201.png)
 
 The social contract has changed: No one ever signed up for a social contract where a small group of technocratic elites dictate rules and manipulate [the state of the State](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) via control of the technology. The Western world signed everyone up for Democracy. Our forefathers fought and died for equal rights and a constitutional republic where the will of the people prevails. That was taken from the people, subtly, by any means necessary via control of the state. _Never have so few people held power over so many throughout human history._
 
@@ -78,7 +78,7 @@ _The data and algorithms applied to it control your life, yet you do not control
 
 The corporate & governance alliance of technocratic elites have used telecommunications, the Internet, AI, and CBDCs to gain unprecedented control of the state, which is essentially equal to mind-control of the entire populace…and mind-control <u>is equal to slavery</u>[^8]. _The citizenry do not owe Nation States slavery:_ _that is not the social contract we signed up for._
 
-![[this is anal sex.jpeg|500]]
+![500](../../Extras/Memes/this%20is%20anal%20sex.jpeg)
 
 Imagine how twisted things have gotten...where instead of people being proud of their States, and looking to bring them glory at all costs–people are fearful and doing everything in their power (they don’t have much power) to stop progress such as AI and CBDCs. <u>They are blocked from cheering for their own State to succeed, due to perverse coordination</u>. Understand how backwards that is…because each State is in competition with the rest, but an equal threat is coming from within—the elites and the people have nearly more enmity towards each other than rival States.
 
@@ -94,7 +94,7 @@ This shows the inverse pattern that we're in. People should be proud of their St
 
 _Why do you think that is?_ It’s because you live in a tyranny — you don’t live in a free society. You may get to “vote”, but have no decision-making power or control over the candidates presented as choices nor their decisions. You want to know who does? _I’ll let you guess._
 
-![[no algorithmification without representation.jpg|700]]
+![700](../../Extras/Memes/no%20algorithmification%20without%20representation.jpg)
 * * *
 
 This imbalance has culminated into multi-polarity and the start of WW3. Those in control are tightening their grip as much as they can, just as much to protect themselves from their own dissatisfied populace as to defend against an external enemy. _This only has the effect of making the coordination imbalance worse—like a crescendo._
@@ -190,7 +190,7 @@ Control of the state with the precision of telecommunications, the Internet, AI,
 1. Society will inevitably transition from Nation States to Synchronized States. _It is already happening._ Because Synchronized States are fundamentally 10-100x more efficient at fulfilling all the functions of a State, it’s like comparing horses to automobiles.
 2. There are only two ways this evolution can occur (they will be revealed later in this article). Only two paths in which we can attempt to improve the coordination and exit this polycrisis; one leads to very dystopian outcomes while the other leads to profoundly utopian outcomes.
 
-![[Castles Crossroads ???.jpg|500]]
+![500](../../Extras/Memes/Castles%20Crossroads%20???.jpg)
 
 *Humanity will have to choose a way. If it fails to choose and take action, a way will be chosen for it. You will be presented with a choice towards the end of this article, and how individuals collectively respond to that choice will determine the future.*
 
@@ -233,7 +233,7 @@ This organism would have a discernable heart and brain (along with other organs)
 
 The Timeline on Synchronized States can be thought of as the lifeline of a State—the _heartbeat._ While the group decision-making (governance) of a Synchronized State can be thought of as the brain of a State_—the thoughts._
 
-![[Timeline Heartbeat.png|]]
+![Timeline Heartbeat](../../Extras/Illustrations/Timeline%20Heartbeat.png)
 ### synchronized states vs Synchronized States
 
 > ## Defining Our Terms
@@ -413,7 +413,7 @@ _Wait, what is Web4?_ There is another horse in this race, it’s a dark horse.
 
 _Evolution: The Transformation_
 
-![[3D-4D Transition.png]]<center>3D –> 4D. The 4th Dimension is Energy, which turns our static 3-Dimensional cube into an alive 4-Dimensional sphere full of life.</center>
+![3D-4D Transition](../../Extras/Images/3D-4D%20Transition.png)<center>3D –> 4D. The 4th Dimension is Energy, which turns our static 3-Dimensional cube into an alive 4-Dimensional sphere full of life.</center>
 
 #### From Property to Individuals (Web4 is Alive)
 
@@ -439,7 +439,7 @@ Placing people in the Web4 protocol allows us to achieve something extraordinary
 
 Web4 has the fairest state ownership and control in town. When compared to the centralized control of data centers, separated cabal control of Web3, or the imbalanced control of technocratic elites in CBDC: _it’s heavenly alignment_.
 
-![[Alignment of Interests Comparison.png]]
+![Alignment of Interests Comparison](../../Extras/Illustrations/Alignment%20of%20Interests%20Comparison.png)
 #### Rebalancing Pyramids
 
 By reimagining the roots of the base layer of value into a model of Energy, we are able to change our societal structure from a “static” pyramid (where those in control of a system easily stay on top until the system itself falls) to an “alive” rebalancing pyramid structure (where the value is constantly automatedly flowing to individuals who bring value from those who don’t). This has a myriad of positive effects which are covered in more detail in the [Rebalancing Pyramids](https://societyprotocol.io) article. _This type of societal coordination was never possible before in human history._
@@ -451,7 +451,7 @@ Society Protocol is the only known protocol for Web4. It is the inheritor and ev
 Society Protocol is the first true Synchronized State protocol (it can function to truly bind and coordinate a tribe together, and not just their assets). While CBDCs can eventually evolve to form Synchronized States, it is designed to do this, out of the box.
 
 #### Energy
-![[energy flowing.gif|500]]
+![500](../../Extras/Images/energy%20flowing.gif)
 <center>Energy is always flowing</center>
 
 Energy simultaneously allows for ownership, control of the protocol, and explicit societal value–in one. **A complete overlap between ownership and the community.**
@@ -514,11 +514,11 @@ Just as the imbalance began with telecommunications a century ago, and is rapidl
 * * *
 
 ### Patterns Chart: Web3, CBDCs, Web4: Society Protocol
-![[Synchronized States – Web3 vs CBDCs vs Society Protocol.png]]
+![Synchronized States – Web3 vs CBDCs vs Society Protocol](../../Extras/Illustrations/Tables/Synchronized%20States%20–%20Web3%20vs%20CBDCs%20vs%20Society%20Protocol.png)
 
 ---
 ### The Roads Revealed
-![[Crossroads SP vs CBDC.png|500]]Caption: At the end of the day, it’s not the castle. The journey of our lives is mostly about the road—_it’s the road we must spend our lives walking on and exist with every day._ Which road do you want to traverse, the road to the _The Age of Synchronicity_ or the road to techno-feudalism? 
+![500](../../Extras/Memes/Crossroads%20SP%20vs%20CBDC.png)Caption: At the end of the day, it’s not the castle. The journey of our lives is mostly about the road—_it’s the road we must spend our lives walking on and exist with every day._ Which road do you want to traverse, the road to the _The Age of Synchronicity_ or the road to techno-feudalism? 
 
 One path is unlucky, full of moloch and a difficult life. The other seems difficult, like a challenge, but is lucky and a beautiful journey.
 
@@ -528,7 +528,7 @@ Dear readers,
 
 The future is truly in your collective hands.
 
-![[strength of a wall.png|600]]Are you willing to defend the walls of CBDCs as technocratic feudalist slaves? Do you believe that others will to defend such walls is impregnable?
+![600](../../Extras/Memes/strength%20of%20a%20wall.png)Are you willing to defend the walls of CBDCs as technocratic feudalist slaves? Do you believe that others will to defend such walls is impregnable?
 
 The goal of this article is to convince you that contributing towards manifesting Society Protocol is a lot easier, more fulfilling, and less risky than merely existing inside the ever expanding underclass of the polycrisis crescendo with constantly eroding liberties and powers, _but it is you who must choose._
 
@@ -536,7 +536,7 @@ If you don’t stand up, the only thing that’s guaranteed is technocratic feud
 
 Either stand-up and find a way out of the polycrisis or sit-down and live and die a slave while the walls close in every moment for the rest of your life.
 
-![[blue pill red pill.png]]Caption: We have no capacity to make the choice for you, and can’t do this alone. Stand and live free or sit and worsen the prognosis for yourself, your family, and the future of humanity. _The choice is yours._ 
+![blue pill red pill](../../Extras/Memes/blue%20pill%20red%20pill.png)Caption: We have no capacity to make the choice for you, and can’t do this alone. Stand and live free or sit and worsen the prognosis for yourself, your family, and the future of humanity. _The choice is yours._ 
 
 We need your support. We need you to [join our community](https://societyprotocol.io), [invest in the movement](https://societyprotocol.io), and [build the architecture](https://societyprotocol.io) for the first Synchronized State. _A momentous project for humanity._
 

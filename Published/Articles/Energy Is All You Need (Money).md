@@ -1,6 +1,6 @@
 ---
 created: 2025-11-27T23:24
-updated: 2026-04-10T11:10
+updated: 2026-04-11T13:07
 ---
 # Table of Contents
 *There are two main parts to this article, the "Fundamentals of Money" covers how money works and the "Evolutions of Monetary Systems" covers the evolutionary stages of money throughout history.*
@@ -260,7 +260,7 @@ In _Shelling Out_, Nick Szabo does a very convincing job of explaining that the 
 
 > “Indeed, collectibles provided a fundamental improvement to the workings of reciprocal altruism, allowing humans to cooperate in ways unavailable to other species. For them, reciprocal altruism is severely limited by unreliable memory. Collectibles augmented our large brains and language as solutions to the Prisoner’s Dilemma that keeps almost all animals from cooperating via delayed reciprocation with non-kin.” (Szabo, 2002)
 
-![[collectible-money.jpg]]_Caption: A primitive collectible monetary artifact. Detail of necklace from a burial at Sungir, Russia, 28,000 BCE._
+![collectible-money](../../Extras/Images/collectible-money.jpg)_Caption: A primitive collectible monetary artifact. Detail of necklace from a burial at Sungir, Russia, 28,000 BCE._
 
 Primitive commodity money replaced the need for memory and trust (about the complex problem of who owes whom how many favors or how much value), allowing us to <u>store</u> value in durable goods, which proved to be beyond useful. Collectibles and eventually other commodities reduced the heavy cognitive load for favor tracking and delayed reciprocation. By inventing commodity money—humans began the ascent to <u>measure</u>, <u>transfer</u>, and <u>store</u> value over time.
 
@@ -288,11 +288,11 @@ The commodity money age spanned thirty thousand years, during which the material
 
 > “The ancient Goths and Celts were accustomed to fashion gold into thick wires, which they rolled up into spiral rings and probably wore upon their fingers until the metal was wanted for trading purposes. There can be little doubt that this ring money, of which abundant specimens have been found in various parts of Europe and Asia, formed the first approximation to a coinage. In some cases the rings may have been intentionally made of equal weight; for Cæsar speaks of the Britons as having iron rings, adjusted to a certain weight, to serve as money.” (Jevons, 1876)
 
-![[money-rings.jpg]]_Caption: Ring money was the precursor to coinage. It helped standardize monetary denominations to make money more easily used to measure value as a unit of account._
+![money-rings](../../Extras/Images/money-rings.jpg)_Caption: Ring money was the precursor to coinage. It helped standardize monetary denominations to make money more easily used to measure value as a unit of account._
 
 > “Although, in rings, grains, or stamped ingots, we have an approximation to what we call coin, it is plain that we must do something more to make convenient money. The stamp must be so impressed as to certify, not only the fineness and the original weight, but also the absence of any subsequent alteration. To coin metal, as we now understand the art, is to form it into flat pieces of a circular, oval, square, hexagonal, octagonal, or other regular outline, and then to impress designs from engraved dies upon both sides, and sometimes upon the edges. Not only is it very costly and difficult to counterfeit coins well executed in this manner, but the integrity of the design assures us that no owner of the coin has tampered with it.” (Jevons, 1876)
 
-![[coinage.webp]]_Caption: Coins are ingots of metals of which the weight and fineness are certified by the integrity of designs impressed upon the surfaces of the metal. So, the difference between metal ring money and coinage is a good seal_[^8].  
+![coinage](../../Extras/Images/coinage.webp)_Caption: Coins are ingots of metals of which the weight and fineness are certified by the integrity of designs impressed upon the surfaces of the metal. So, the difference between metal ring money and coinage is a good seal_[^8].  
   
 This excerpt from [_Shelling Out_](https://nakamotoinstitute.org/library/shelling-out/) explains the significance of minting coinage:
 
@@ -337,11 +337,11 @@ Paper currencies originated in China in the 8th century[^10]. This innovation wa
 
 The earliest official paper money in history was the Jiaozi (交子), introduced in China during the Song Dynasty in the city of Chengdu, around 1023–1024 CE. It emerged as a response to the shortage and inconvenience of heavy iron and copper coins. Merchants initially issued private promissory notes (similar to IOUs) backed by deposits of coins or goods. By 1024, the Song government established an official bureau in Chengdu to issue state-controlled Jiaozi, making it the world's first government-issued paper currency.
 
-![[Jaozi.jpg]]_Caption: Jiaozi from the Song dynasty was created using woodblock printing and stamped with six different inks and multiple banknote seals to make it cognizable._
+![Jaozi](../../Extras/Images/Jaozi.jpg)_Caption: Jiaozi from the Song dynasty was created using woodblock printing and stamped with six different inks and multiple banknote seals to make it cognizable._
 
 Paper currency wouldn't emerge in Europe until the printing press made it feasible—almost a millennium later in 1661, when Sweden's Stockholm Banco issued Europe's earliest banknotes, the Kreditivsedlar.
 
-![[Kreditivsedlar.jpg]]_Caption: Pictured: A Kreditivsedlar banknote from 1666. All Kreditivsedlar notes were initially signed by the head of the bank himself and the other clerks of the bank._
+![Kreditivsedlar](../../Extras/Images/Kreditivsedlar.jpg)_Caption: Pictured: A Kreditivsedlar banknote from 1666. All Kreditivsedlar notes were initially signed by the head of the bank himself and the other clerks of the bank._
 
 Paper currencies allowed societies to [^12]retain a value system based in the qualities of metallic money for <u>measurement</u> (UoA) and <u>storage</u> (SoV), while abstracting away the <u>transfer</u> of value (MoE) into easier to manage paper representations.
 
@@ -394,7 +394,7 @@ After the Second World War, the United States government was the wealthiest in t
 
 _The story is a tragic, but predictable one._ It starts in 1933, when the United States outlawed the private ownership of gold (value). After the Second World War, the Federal Reserve in charge of the currency, ended up printing about 500% as much of the paper currency as the gold it was representing to fund the rebuilding of Europe, Great Society Program, and the Vietnam War. In total, the United States owned 2/3rds of the world’s gold supply, and the Federal Reserve printed 5x that, so, in total: _330% of the worlds total value supply in paper currency_. Not fearing gold redemption from private citizens (_because that was illegal_)—the only entities which could redeem the overprinted US Dollars for gold were other Nation States. In ruins after WWII, they couldn’t take advantage of it either. Nevertheless, eventually foreign Nation States caught on (especially France), and started converting the overprinted paper dollar representations into gold. During this time, the United States gold supply dropped from ~20,000 tons to ~10,000 tons—realizing that it would simply lose the rest of its gold supply to further conversions of the overprinted paper currency quickly, Richard Nixon took the United States off the gold standard in 1971—breaking the social contract and refusing to honor further redemptions.
 
-![[Gold reserves.png]]_Caption: Gold reserves of Nation States 1950–1973 ([source](https://swcs.com.au/goldreserves.htm#Table1))._
+![Gold reserves](../../Extras/Images/Gold%20reserves.png)_Caption: Gold reserves of Nation States 1950–1973 ([source](https://swcs.com.au/goldreserves.htm#Table1))._
 
 Under the direction of the Federal Reserve, between 1945–1971, the United States wen’t from dominantly controlling 2/3rds of the world’s total gold supply to the lowest tier underworld of monetary systems: _inconvertible paper currency_. By March 1973, no major currency remained convertible to gold. By 1976, during the Jamaica Accords, all nations in the world followed suit and agreed to abandon the gold standard. All nations of the world betrayed their social contract with their people at this time.[^14]
 
@@ -414,7 +414,7 @@ Fiat currency is a forced indefinite loan of every participants social value to 
 
 **A Real-World Example**
 
-![[Federal Reserve MBS.png]]
+![Federal Reserve MBS](../../Extras/Images/Federal%20Reserve%20MBS.png)
 
 After the World Financial Crisis of 2008—the United States Federal Reserve printed some value (money) for itself and bought what amounts to 22% of all the home mortgages in the United States (as mortgage backed securities (MBSs)). In the process, redistributing 22% of the total value in real-estate mortgages to itself. _Effectively, rescuing the risky businesses of private banks from bankruptcy using the “forced loan” granted by the entire taxpayer population, seizing possession of 22% of home mortgage value for itself, and evicting the same taxpayer base which couldn’t afford their mortgage._
 
@@ -426,7 +426,7 @@ The world’s switch to fiat currencies in the 1970s represents the death of cap
 
 **Fiat Currencies and capitalism are fundamentally incompatible**. “Just announcing $4.5 trillion in future spending to support securities markets was enough to keep owners of capital protected from the downsides of the coronavirus. The Federal Reserve announced on March 23 that it would start direct purchases of corporate debt—an unprecedented rescue of corporate America. Since then, the stock market has risen over 30 percent, corporate bond funds have recovered, and companies have saved tens of billions in borrowing costs,” from [How the Fed Bailed Out the Investor Class Without Spending a Cent](https://prospect.org/2020/05/27/how-fed-bailed-out-the-investor-class-corporate-america/). The Federal Reserve ultimately shifts the value of society wherever it wants in a <u>fiat currency</u> system. Free market value flows comparatively have 0% control of the system.
 
-![[helicopter-money.png|600]]
+![600](../../Extras/Images/helicopter-money.png)
 
 Banks morphed from intermediaries of convenience—helping to facilitate the seamless <u>transfer</u> and <u>storage</u> of value during the <u>representative money age</u>—into critical infrastructure during the <u>fiat currency age</u>. Headed by the central bank of each Nation State, the former privately held intermediaries have completely taken over the value flows of society. Upon printing money and placing it into circulation, this money goes to the State’s favored banks, who use this “forced loan” from the populace—to grant loans to the populace—thereby increasing the monetary (M2) supply.
 
@@ -438,7 +438,7 @@ On the pro side, digital fiat currencies is the first time that money has become
 
 **Fiat currencies aren’t a new invention, they’ve been around for almost a millennium—every single one of them has failed.**
 
-![[World Gold Council.webp]]_Caption:_ _The average lifespan of a fiat currency over this sample size is around ~30 years before failure. (Source: World Gold Council)_
+![World Gold Council](../../Extras/Images/World%20Gold%20Council.webp)_Caption:_ _The average lifespan of a fiat currency over this sample size is around ~30 years before failure. (Source: World Gold Council)_
 
 **Summary:**
 
@@ -511,7 +511,7 @@ While Bitcoin possesses excellent qualities of the materials of money, it lacks 
 - **Stability of Value ❌** – The value of Bitcoin has been fluctuating in unstable ways for the past 17 years. It has no mechanisms to keep price stability against the aggregate basket of other goods on the market, and we can’t see its true value because we can’t see who’s participating in the network at any given time.
 - **Homogenity ❓** – In some ways, a Bitcoin is a Bitcoin is a Bitcoin—entirely fungible. In some other ways, the history of every Bitcoin is unique and entirely visible on the blockchain ledger.  
   
-![[zooko fungibility quote.png]]
+![zooko fungibility quote](../../Extras/Images/zooko%20fungibility%20quote.png)
 
 Similarly, while Bitcoin possesses mostly excellent qualities for a monetary system, it lacks one important quality:
 
@@ -563,7 +563,7 @@ CBDCs also lack the majority of all the qualities desired in a monetary system:
 **Functions of Money**: CBDCs cannot effectively <u>store</u> of value because of their lack **scarcity**. CBDCs cannot function as an effective <u>measure</u> of value, because they lack **stability of value**. The only monetary function CBDCs can adequately fulfill in the present is the <u>transfer</u> of value, by using their **velocity**. But it’s not likely that CBDC infrastructure will be able to handle even societies’ <u>transfer</u> of value requirements as micro-value interactions in economies are expected to scale in the future.
 
 #### Monetary Qualities – Bitcoin vs Ethereum vs CBDCs:
-![[Monetary Qualities – Bitcoin vs Ethereum vs CBDCs.png]]
+![Monetary Qualities – Bitcoin vs Ethereum vs CBDCs](../../Extras/Illustrations/Tables/Monetary%20Qualities%20–%20Bitcoin%20vs%20Ethereum%20vs%20CBDCs.png)
 
 ## Energy – Society Protocol (Starts Now)
 
@@ -700,7 +700,7 @@ Adding new and valuable participants into the shared reality is also easy and in
 As the world is currently on fiat currency systems (which never last), the potential choices for our future monetary orders would seem to be listed above in the cryptocurrency comparison of Bitcoin vs Ethereum vs CBDCs. _Let’s add Energy into the comparison_[^28].
 
 **Monetary Qualities – Energy (Web4)**
-![[Monetary Qualities – Energy.png]]
+![Monetary Qualities – Energy](../../Extras/Illustrations/Tables/Monetary%20Qualities%20–%20Energy.png)
 
 **Functions of Money:** Energy can be used to <u>measure</u> value in society due to its inherent **stability of value** (which is tied to the stability of the social layer using the SP instance). It can be used to <u>transfer</u> value instantly worldwide, with enough **velocity** and **portability** to handle all civilizational value flows both at present and in the future**.** It can be used to <u>store</u> value directly tied to your identity within the Synchronized State—where Energy always has inherent **utility and value**. Keeping that value stored inside a common shared reality raises its _monetary premium_.
 

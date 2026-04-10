@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2026-04-06T23:45
+updated: 2026-04-11T13:07
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 ## Table of Contents
@@ -25,7 +25,7 @@ There are three distinct layers of state within a State. All of these delineatio
 - **semi-private state**: The non-public shared context within subgroups, such as: families, friends, or organizations.
 - **private state**: An individual's current condition or status—the internal record unique to each person.  
 
-![[the state.excalidraw.png|600]] 
+![600](../../Extras/Illustrations/the%20state.excalidraw.png) 
 
 The state is naturally subjective and in the eye of the individual (private state), mutating as it travels between perceptions. Creating a shared (semi-private state) and eventually society wide (public state) out of subjective private states—is no small feat. It also does not remove the private or semi-private states.
 
@@ -52,7 +52,7 @@ Each successive state builds upon its predecessor in time. Each <u>current state
 
 **There is no state without the present.** All past states are actually encapsulated in the current state of the moment. Therefore, we perceive all <u>past states</u> through the lens of the <u>current state</u>.
 
-![[are-the-past-states.jpeg|550]]
+![550](../../Extras/Memes/are-the-past-states.jpeg)
 
 Consider: what is the current private state in your mind as you process these words? What is your history? How do state transition functions in your mind work?
 
@@ -96,7 +96,7 @@ Envision a campfire flickering under a starlit sky, voices weaving tales of ance
 > 
 > Moreover, the oral recitation of legal proclamations and ritual procedures played a pivotal role in tribal governance. Often performed in temples and royal courts, divinatory practices relied on the spoken word to interpret omens and communicate the will of the gods. Such ceremonies reinforced the divine sanction of a ruler’s authority and maintained social order by integrating a common belief system, the basis of legal systems. 
 
-![[bard-singing.excalidraw.png|80%]]
+![80%](../../Extras/Memes/bard-singing.excalidraw.png)
 
 Whoa, _I’m getting tired just from thinking about it_. That’s A LOT of work to store the mutable, ever-changing state! Bards gotta work every day to sing it out! It’s also power. Remember, **he who controls the _state_ controls the _State_**_._ Storytellers, bards, and priests were probably pretty powerful figures—more powerful than history would have us believe[^2].
 
@@ -122,10 +122,10 @@ Consider the precarious position: what resides in the state of your tribal compa
 
 ### Illustration of Zero-Entry Accounting
 #### Part 1
-![[Zero-Entry Accounting Part1.png]]
+![Zero-Entry Accounting Part1](../../Extras/Illustrations/Zero-Entry%20Accounting%20Part1.png)
 *Caption: No common thread. Fuzzy zone changes everything. Time changes everything. Step into the fuzzy zone and state is mutated. Illuminated moments don’t last.*
 #### Part 2
-![[Zero-Entry Accounting Part2.png|90%]]
+![90%](../../Extras/Illustrations/Zero-Entry%20Accounting%20Part2.png)
 * * *
 
 The absence of permanent state records imposed severe coordination limits on early societies. Societies remained fractured into small tribes precisely because they lacked the ability to permanently record their collective private, semi-private, and public states.
@@ -142,7 +142,7 @@ Hieroglyphs emerged around the same time in Egypt. The Ancient Egyptians called 
 
 > “Cuneiform writing expressed in tangible form the whole of the human experience for the first time in history. Cuneiform can be understood, in fact, as the beginning of human historical documentation [@markCuneiform2022].”
 
-![[cuneiform.webp|700]]
+![700](../../Extras/Images/cuneiform.webp)
 <center>Single-entry accounting was the first step towards a recorded state.</center>
 
 An elite professional class named scribes emerged from an entirely illiterate population. Scribes functioned as **gatekeepers of the state**. Often part of the elite or priestly class, they maintained records for the ruling elite[^4]. **Literacy was a tool of power**, it was entirely concentrated among the scribes who alone had access to CRUD the written state, at the command of the kings and pharaohs—who claimed full control of the public state. What did the kings and pharaohs choose to do with control of the shared reality of public state? They often wrote “_I am god.”_
@@ -215,9 +215,9 @@ Despite its permanence, the written state remained fundamentally untrustworthy�
 
 ### Illustration of Single-Entry Accounting
 #### Part 1
-![[Single-Entry Accounting Part1.png]]
+![Single-Entry Accounting Part1](../../Extras/Illustrations/Single-Entry%20Accounting%20Part1.png)
 #### Part 2
-![[Single-Entry Accounting Part2.png]]
+![Single-Entry Accounting Part2](../../Extras/Illustrations/Single-Entry%20Accounting%20Part2.png)
 * * *
 
 Writing enabled more complex and accountable bureaucracies, allowing rulers to tax, regulate, and enforce laws over larger territories and populations. It also facilitated long-distance trade, diplomatic correspondence, and the codification of laws and religious texts, which in turn strengthened the authority of kings and created Classical States. The societal impact of writing was profound: it increased State power, enabled the rise of bureaucratic classes, and laid the foundation for legal and literary traditions which shaped cultures for millennia.
@@ -238,12 +238,12 @@ All three contributed to the development of a more sophisticated and transmissib
 
 The Church’s spread reinforced its role as a record-keeper, a continuation of Roman archival practices. Bishops and monks documented ecclesiastical and secular affairs, from tithe ledgers to royal charters. This was critical in post-Roman Europe, where secular bureaucracies were weak. By the 9th century, parish registers and monastic archives were widespread, laying the groundwork for later medieval legal and administrative systems. The Church, as a record-keeper, facilitated access to laws. Monasteries and cathedrals stored copies of royal charters or statutes, and clerics often read them to illiterate populations. *The churches had become decentralized nodes as repositories of the state during a fragmented period in Medieval Europe.*
 
-![[cathedral.jpg|700]]
-![[cathedral.avif|700]]_We’re talking about cathedrals that took centuries to build – their function was to_ <u>preserve the state</u>. _The church should really be thought of as the early double-entry accounting age’s data centers._
+![700](../../Extras/Images/cathedral.jpg)
+![700](../../Extras/Images/cathedral.avif)_We’re talking about cathedrals that took centuries to build – their function was to_ <u>preserve the state</u>. _The church should really be thought of as the early double-entry accounting age’s data centers._
 
 By the medieval period in Europe (c. 500–1500 CE), the Church and secular notaries played a key role in contract duplication. Charters and indentures—named for their “indented” edges, which allowed matching copies to verify authenticity—were common. These were written on a single parchment, then cut irregularly so each party held a matching half. The Church’s scriptoria often produced these documents, as monks and clerics were trusted scribes. The practice of duplicating contracts was driven by the need for *mutual trust* and *dispute resolution* in societies with growing trade and literacy. It became standard as writing materials (papyrus, parchment, and later paper) became more accessible and legal systems emphasized verifiable agreements.
 
-![[indenture.webp]]*This “indenture” contract is named after its indented edges, which were cut in a way that duplicated the state to enhance verifiability. Multiple parties started possessing shared ownership of the recorded state.*
+![indenture](../../Extras/Images/indenture.webp)*This “indenture” contract is named after its indented edges, which were cut in a way that duplicated the state to enhance verifiability. Multiple parties started possessing shared ownership of the recorded state.*
 
 **Communal Movements (11th–13th Centuries)**: In Italian city-states like Florence and Siena, urban citizens (merchants, artisans) formed communes that negotiated charters with rulers or bishops, granting local governance rights. These charters were duplicated, with copies held by communes and sometimes posted publicly. Citizens demanded access to these written agreements to ensure rulers honored them. By the 13th century, notaries in Italy and France standardized duplicated contracts, with copies for each party and a register kept by the notary.
 
@@ -259,7 +259,7 @@ The Magna Carta was not a single document but a widely circulated text. This doc
 - **Rights and obligations:** Legal records became more central to governance, with scribes and clerks documenting agreements to limit arbitrary rule. This marked a shift toward constitutionalism, where written documents defined rights and obligations, influencing later medieval parliaments.
 - **Double-entry bureaucracies:** The Magna Carta’s clauses, such as those on taxation and justice, required detailed records to enforce compliance (e.g., tracking feudal dues or court proceedings). This spurred the growth of bureaucratic systems in England, with royal chanceries and exchequers producing more systematic written records. The volume and organization of public records increased, with dedicated officials (e.g., clerks of the rolls) ensuring their permanence and accessibility. 
 
-![[magna-carta.png|600]]
+![600](../../Extras/Images/magna-carta.png)
 <center>The Magna Carta</center>
 
 While many of its 63 clauses dealt with feudal issues specific to the time, such as land rights and taxation, its broader significance lies in the concept that even the king was subject to the law, laying a foundational idea for constitutional governance. The Magna Carta's importance grew over time, evolving from a practical resolution of a political crisis into a symbol of liberty and the rule of law. It influenced later legal documents, including the English Bill of Rights (1689) and the U.S. Constitution (1787)––particularly in establishing principles like due process and trial by jury. Though only a few clauses remain in effect today, its legacy endures as a cornerstone of democratic ideals, inspiring movements for individual rights and legal accountability worldwide. It marked a critical step toward curbing absolute power and fostering the idea that governance should be based on mutual obligations between ruler and ruled.
@@ -270,7 +270,7 @@ The Magna Carta was a defining document of the double-entry period. Its legacy�
 
 In the mid-15th century, Johannes Gutenberg's printing press ignited the Print Revolution—a technological leap that would democratize knowledge and fundamentally reshape human civilization. Few innovations have had such profound consequences for the course of history. By transforming how information was duplicated and distributed[^8], Gutenberg set in motion changes that would echo through centuries, permanently altering the relationship between populations and power structures.
 
-![[print-revolution.webp|600]]
+![600](../../Extras/Images/print-revolution.webp)
 
 While the Magna Carta democratized access to the public state for the elites, the printing press democratized access to the state for the masses. *It enabled the trivial duplication of the state*. The printing press is the first time in human history when the masses were able to share their thoughts as recorded state. For the first millions of years of evolution, this wasn’t accessible. Until the 1500s, ideas of almost the entire global populace were unable to be captured and shared. Meanwhile, the church’s official doctrine—its public state—dominated medieval life.
 
@@ -319,7 +319,7 @@ Electricity allowed the state to be illuminated and expand beyond writing. The M
 
 Electricity itself is also state. Houses began lighting up with power, duplicated across all of society. The overall state of society rapidly advanced and became *illuminated*. Electricity and natural resources came to power everything. This energy produced the fuel that holds modern society up. 
 
-![[no-rich-low-energy-country.jpeg|600]]
+![600](../../Extras/Images/no-rich-low-energy-country.jpeg)
 <center>There is no such thing as a rich low-energy country.</center>
 
 States which learned to channel this energy from electricity and natural resources in the most efficient manner grew faster and prospered—conquering rivals. The most illuminated states created the most illuminated States.
@@ -352,7 +352,7 @@ The entire double-entry accounting period is characterized by: _duplication of t
 
 This increase in trust afforded Nation States the ability to print paper currencies (double entry accounting made sure they were **almost** always backed by trusty gold in the State's coffers), have judicial court systems (where two parties fight over the rightful version of the public state), and facilitates democratic group decision making systems (where multiple parties express opinions to form a consensus about which state to adopt).
 
-![[evolution-indenture-democracy.png]]*The duplicated state of the indenture scaled into the duplicated state of modern democracy (social contract).*
+![evolution-indenture-democracy](../../Extras/Images/evolution-indenture-democracy.png)*The duplicated state of the indenture scaled into the duplicated state of modern democracy (social contract).*
 
 The duplicated state of the double-entry accounting age requires less protection compared to the single-entry period. Today, society trusts essentially all of its state records (<u>private</u>, <u>semi-private</u>, and <u>public state</u>) to data centers owned by corporations and Nation States (_humans have made the logical decision that duplicated double-entry state owned by the data center is more beneficial than single-entry state made by the data center about them)_. These entities have been given god-like power that pharaohs could't even write about (they didn't know how to write).
 
@@ -435,9 +435,9 @@ _What is really left out of the public state these days? Private moments, inform
 
 ### Illustration of Double-Entry Accounting
 #### Part 1
-![[DEAA Part 1.excalidraw.png|90%]]
+![90%](../../Extras/Illustrations/DEAA%20Part%201.excalidraw.png)
 #### Part 2
-![[DEAA Part 2.excalidraw.png|90%]]
+![90%](../../Extras/Illustrations/DEAA%20Part%202.excalidraw.png)
 
 ---
 The defining feature of the double-entry accounting period is **duplication**: multiple copies have enabled more verification and transmissibility in our societal state[^13]. 
@@ -455,11 +455,11 @@ In a Synchronized State, the state is simultaneously _<u>duplicated widely</u>_ 
 
 The state is immutable[^14], a significant portion of society is incentivized to remain duplicating and synchronizing it in unison. The individual actors of Synchronized States themselves uphold the state and subsequently, their shared reality and its State—anyone with an account can participate.
 
-![[uphold-the-state.jpg|80%]]
+![80%](../../Extras/Images/uphold-the-state.jpg)
 
 The state exists on a singular _Timeline_, including all <u>past states</u> and a <u>current state</u>. It transitions from one _Time_ to another across all of society simultaneously via an algorithm known as a **state transition function (STF)**. The STF defines the algorithmic rules for state transitions.
 
-![[STF.excalidraw.png|90%]]
+![90%](../../Extras/Illustrations/STF.excalidraw.png)
 
 Synchronized States are data societies bound by what people perceive as valuable: <u>the state</u> and the <u>algorithms governing it</u>. Unlike the past ages, when the state was stored by gatekeepers: in temples by scribes, cathedrals by monks, or data centers by nerds—the state of Synchronized States is stored as a _duplicated computer program_.
 
@@ -597,7 +597,7 @@ Since we have a clear delineation between the <u>private</u>, <u>semi-private</u
 **<u>7 Byzantine Generals Problem</u>**: _Solved_/. The 7 Generals can gather around any city, country, or State and send verifiable encrypted messages to coordinate at nearly the speed of light (enabling complex, multi-step conditional operations and strategies, rather than mere binary attack decisions), which have the full weight of their identity, property, and data behind them.
 
 ### Illustration of Triple-Entry Accounting
-![[Triple-Entry Accounting.excalidraw.png]]
+![Triple-Entry Accounting.excalidraw](../../Extras/Illustrations/Triple-Entry%20Accounting.excalidraw.png)
 
 
 We stand at the threshold of **The Age of Synchronicity**—a transformation as profound as any in human history. The emergence of triple-entry accounting and Synchronized States represents not merely an incremental advancement but a fundamental reimagining of how humanity tracks and coordinates around its shared reality. This evolution will reshape our collective existence at a scale unseen for thousands of years.

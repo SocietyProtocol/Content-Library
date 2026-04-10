@@ -1,6 +1,6 @@
 ---
 created: 2025-04-17T11:15
-updated: 2025-11-21T22:26
+updated: 2026-04-11T13:07
 ---
 Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. To verify this, please run a simple thought experiment:
 
@@ -23,7 +23,7 @@ While these dynamics are always theoretically costly to ordinary participants, l
 Market participants perceive asset valuations through the lens of global markets…yet these valuations are _easily manipulated_ with permissionless sybil attacks. **True valuations must include the true ownership set.** Since blockchain networks do not have sybil resistance, we cannot make assertions or trust in the decentralization of the ownership set, and therefore the asset valuation itself–**making sound money impossible**.
 
 **Visualization of ownership categories:**
-![[Ownership Preference.excalidraw.png|700]]_Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out; is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
+![700](../../Extras/Illustrations/Ownership%20Preference.excalidraw.png)_Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out; is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
 
 ### Fake Transactions
 
@@ -136,7 +136,7 @@ Attempts at creating true governance systems and organizations, such as decentra
 
 > “Oh, sorry sir. A cabal actually owns the majority of this DAO…no way to prove, no way to perceive. **Sorry, your votes don’t actually count**. We do appreciate you offering feedback, and please have some swag at our next conference, it’s on us!”.
 
-![[are-not-real.jpg|350]]
+![350](../../Extras/Memes/are-not-real.jpg)
 
 Governance actually functions as a feedback mechanism for the cabal in these organizations. Which isn’t necessarily a bad or a good thing, again we want to reiterate–**you’re investing in the strength of the cabal.**
 
@@ -192,7 +192,7 @@ While it would appear that we are talking about fork-choice rule in this section
 
 When the organized social layer decides it’s time to move (fork) or simply not honor the blockchain network–**there is no security, asset valuation, or governance method that will save you**. Either you move with the social layer (which can manipulate or invalidate your assets); or all your assets deriving power from that social layer[^2] will be invalidated in the eyes of the group when the social layer leaves the building.
 
-![[Whoosh.jpg|750]]
+![750](../../Extras/Memes/Whoosh.jpg)
 
 This rule applies any blockchain network and any singular or plural application(s) built on top of it. The social layer, which is assumed to be uncoordinated, but in reality is unevenly coordinated – can simply move to a new ledger and strike you out of the ledger if they are: 1) coordinated enough to do so AND 2) feel like it. This creates another series of perverse incentives for individual actors forming cabals at the social layer and punishments for individuals not being aware of the social layer dynamics (which are fog of war murky due to information flow in real life and politics).
 
@@ -249,7 +249,7 @@ The issue is, participants (who are not battling in these cabals), cannot see wh
 
 So civilization is at a critical turning point: we've moved from Web2, where users owned nothing, into Web3, where users believe they own something—but in reality, still don't. To truly progress, we must evolve toward Web4, where ownership isn't an illusion, but a more stable reality. _The cabal can’t rug us…if their lives…are on the blockchain_!
 
-![[cabal-cant-rug-us.jpg|700]]
+![700](../../Extras/Memes/cabal-cant-rug-us.jpg)
 
 ## **Society Protocol**
 
