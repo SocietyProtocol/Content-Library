@@ -1,6 +1,6 @@
 ---
 created: 2025-07-17T19:11
-updated: 2025-12-21T08:06
+updated: 2026-04-10T11:08
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
@@ -579,9 +579,9 @@ If you are the President or decision-maker of a Nation State and would like to i
 ---
 
 #### Bibliography
-Brooks, F. P. (1991). _The mythical man-month: essays on software engineering_ (Repr). Addison-Wesley.
-Varoufakis, Y. (2021, June 28). _Techno-Feudalism Is Taking Over_. Project Syndicate. [https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06](https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06)
-Why are conversations limited to about four people? A theoretical exploration of the conversation size constraint. (2019). _Evolution and Human Behavior_, _40_(2), 140–147. [https://doi.org/10.1016/j.evolhumbehav.2018.09.004](https://doi.org/10.1016/j.evolhumbehav.2018.09.004)
+1. Brooks, F. P. (1991). _The mythical man-month: essays on software engineering_ (Repr). Addison-Wesley.
+2. Varoufakis, Y. (2021, June 28). _Techno-Feudalism Is Taking Over_. Project Syndicate. [https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06](https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06)
+3. Why are conversations limited to about four people? A theoretical exploration of the conversation size constraint. (2019). _Evolution and Human Behavior_, _40_(2), 140–147. [https://doi.org/10.1016/j.evolhumbehav.2018.09.004](https://doi.org/10.1016/j.evolhumbehav.2018.09.004)
 
 #### Footnotes
 [^1]: Is the East doing much better? The short answer is: _no_. It only appears that way due to relative success compared to its past (low starting point), Western economic demand for cheaper goods (economic fuel), and the current catastrophic failure of its Western counterparts (an ugly friend makes us all more beautiful). 

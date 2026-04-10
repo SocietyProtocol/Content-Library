@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2026-01-08T23:18
+updated: 2026-04-10T11:09
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
@@ -634,10 +634,10 @@ If you are looking for a community to join or invest in, where everyone is align
 
 ---
 ### Bibliography
-Em. (2025). Privacy Means Safety. In _Privacy Guides_. https://www.privacyguides.org/articles/2025/03/25/privacy-means-safety/.
-Henderson, R. (2023). _Luxury Beliefs are Status Symbols_. https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for.
-Torenberg, E. (2022). Beliefs are Fashions [Substack Newsletter]. In _Erik Torenberg_.
-Wang, K. (n.d.). _Imitation Triangles_. https://kaiwenwang.com/writing/imitation-triangles.
+1. Em. (2025). Privacy Means Safety. In _Privacy Guides_. https://www.privacyguides.org/articles/2025/03/25/privacy-means-safety/.
+2. Henderson, R. (2023). _Luxury Beliefs are Status Symbols_. https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for.
+3. Torenberg, E. (2022). Beliefs are Fashions [Substack Newsletter]. In _Erik Torenberg_.
+4. Wang, K. (n.d.). _Imitation Triangles_. https://kaiwenwang.com/writing/imitation-triangles.
 
 ### Footnotes
 [^1]: The State itself is being limited in its identity by the need to keep tribal cohesion and survive against other rival States.

@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:18
-updated: 2026-03-18T22:17
+updated: 2026-04-10T11:05
 ---
 ### Table of Contents
 1. [Introduction](#Introduction)
@@ -25,9 +25,9 @@ updated: 2026-03-18T22:17
 > 
 > —Antoine de Saint-Exupéry
 
-At Society Protocol (SP), we are building the next societal matrix (I guess that counts as a ship)––to usher in a new epoch of human civilization––the _Age of Synchronicity_[^1].
+At Society Protocol (SP), we are building the vessel for the next societal matrix––to usher in a new epoch of human civilization––the _Age of Synchronicity_[^1].
 
-We can’t possibly aspire to explain to you how amazing the _Age of Synchronicity_ will be…_because it stretches outside the realms of our imaginations_. **_It hasn’t been built yet, and so we can’t fully visualize it_**_. We can only yearn for a vast and endless new civilization—where all of society moves as one._ We have written about our rough expectations for the _Age of Synchronicity_ in other articles…and it does sound fantastical...but those are only the dreams of some blindfolded people in a cave—the shades of light we are able to visualize at this moment, as first-order effects. _We cannot fully visualize, understand, or explain how fantastical the Age of Synchronicity is going to be—_**_without actually experiencing it_**_…and to experience it…we need to build it._
+We can’t possibly aspire to explain to you how amazing the Age of Synchronicity will be…_because it stretches outside the realms of our imaginations_. **_It hasn’t been built yet, and so we can’t fully visualize it_**_. We can only yearn for a vast and endless new civilization—where all of society moves as one._ We have written about our rough expectations for the Age of Synchronicity in other articles…and it does sound fantastical...but those are only the dreams of some blindfolded people in a cave—the reflections of light we are able to visualize at this moment, as first-order effects. _We cannot fully visualize, understand, or explain how fantastical the Age of Synchronicity is going to be—_**_without actually experiencing it_**_…and to experience it…we need to build it._
 
 _So…How are we building Society Protocol?_
 
@@ -35,11 +35,11 @@ _So…How are we building Society Protocol?_
 
 **_Piece by piece._**
 
-Society Protocol does not need to be entirely completed to become valuable and transition humanity into a new epoch. Sure…we have a lifetime of work ahead of us (and it likely it stretches past our lifetimes)…but the project becomes valuable to the world in around 3-5 years, once the MVP is released, and its value increases every year thereafter, like a snowball. _It’s like building an exquisite cathedral or a pyramid—fully, it will take centuries, but the foundation serves its purpose._
+Society Protocol does not need to be entirely completed to become valuable and transition humanity into a new epoch of civilization. Sure…we have a lifetime of work ahead of us (and it likely it stretches past our lifetimes)…but the project becomes valuable to the world in around 3-5 years, once the MVP is released, and its value increases every year thereafter. _It’s like building an exquisite cathedral or a pyramid—fully, it will take centuries, but the foundation serves its core purpose as a prayer hall or pharaoh's tomb._
 
-**_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay a dragon…a very powerful dragon. One, which is ethereal, sitting on a massive pile of gold, and has sucked up the life-force of all the humans in the world. Only by slaying this dragon can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
+**_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay many dragons. The most powerful one of which is ethereal, sitting on a massive pile of gold, has an army of goblin wardens, and has sucked up the life-force of all the humans in the world while influencing every jurisdiction it can get its claws into. Only by slaying these dragons can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
 
-![[kerafyrm.jpg]]*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath (Everquest). The creators of the Everquest game designed Kerafyrm, the Sleeper to be entirely un-defeatable[^22].*
+![[kerafyrm.jpg]]*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*
 
 In [Synchronized States](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)), we elaborated on why the transition from Nation States to Synchronized States is absolutely inevitable. To summarize, Nation States will enter into a prisoners dilemma with each other, in which, absolutely all of them will be forced to transition into Synchronized States. The only open question remaining—_is_ **_how this transition unfolds_**: Does humanity transition directly into The Age of Synchronicity (Aquarius), or does it spend a few centuries in a dark techno-feudal age first? _We will find out._ **It depends on the story humanity tells itself. <u>The stories we collectively tell ourselves are ultimately self-fulfilling prophecies</u>. Which story will you choose? Which story will humanity choose? The outcome is up to all of us dear readers.** _I know which story I want to see._
 
@@ -57,15 +57,15 @@ _The old matrix is collapsing, and the new one is yet to be born._
 
 <center>Society Protocol is a horizontally wide project, to transition the world. We accept many types of monsters in our ranks.</center>
 
-This article covers how we’re handing th transition. The sections covered include: what we’re building, our movement, the financial & fundraising strategy, and the journey we expect ahead. Ultimately, blockchain and the decentralization movement cannot fulfill it’s vision without Society Protocol[^2].
+This article covers how we’re handing this transition. The sections covered include: what we’re building, our movement, the financial & fundraising strategy, and the journey we expect ahead. Ultimately, blockchain and the decentralization movement cannot fulfill it’s vision without Society Protocol[^3].
 
 ## What Are We Building?
 
 In the big picture, we’re building a new world. A better world. A new iteration of the societal matrix. _Synchronized States. And ultimately, the Age of Synchronicity._
 
-In the micro details, we’re building a <u>codebase for Society Protocol</u> and a <u>Web3 Outpost to serve as the Schelling Point</u> for our distributed & decentralized[^3] movement to gather around.
+In the micro details, we’re building a <u>codebase for Society Protocol</u> and a <u>Web3 Outpost to serve as the Schelling Point</u> for our distributed & decentralized[^4] movement to gather around.
 
-The best comparison for what we’re actually doing as an organization, is the [Linux Foundation](https://www.linuxfoundation.org/). There isn’t one version of Linux. It’s an open source codebase shared by the whole world due to its reliability, neutrality, and security—in order to start Linux instances. We are creating something very similar at the Society Protocol. We’re building the codebase for Society Protocol—which is an source-available[^4] protocol enabling anyone to spin up their own Synchronized State by instantiating and maintaining customizable Society Protocol instances.
+The best comparison for what we’re actually doing as an organization, is the [Linux Foundation](https://www.linuxfoundation.org/). There isn’t one version of Linux. It’s an open source codebase shared by the whole world due to its reliability, neutrality, and security—in order to start Linux instances. We are creating something very similar at the Society Protocol. We’re building the codebase for Society Protocol—which is an source-available[^5] protocol enabling anyone to spin up their own Synchronized State by instantiating and maintaining customizable Society Protocol instances.
 
 The only real difference between our organizational structure and the Linux Foundation—is the Web3 aspect of it. It’s the <u>Web3 Outpost</u>, which we use as a [Schelling point](https://nav.al/schelling-point) to allow our community a censorship-resistant coordination method—in order to:
 
@@ -76,29 +76,29 @@ The only real difference between our organizational structure and the Linux Foun
 
 ### A Single Codebase, Many Communities
 
-Building Society Protocol IS GOING TO BE A DIFFICULT TECHNICAL CHALLENGE[^5]. We’re going to need brilliant engineers to accomplish it. **Civilization only needs ONE—most secure, most robust, _<u>modular,</u>_ source-available codebase for Society Protocol to spawn an infinite amount of customizable instances**. Once one version works, and its security becomes battle tested, and it’s source-available, it’s modular enough to allow various configurations—<u>there’s no reason to create more variants</u>. _A single secure, neutral, and modular codebase will spawn many Society Protocol instances._
+Building Society Protocol IS GOING TO BE A DIFFICULT TECHNICAL CHALLENGE[^6]. We’re going to need brilliant engineers to accomplish it. **Civilization only needs ONE—most secure, most robust, _<u>modular,</u>_ source-available codebase for Society Protocol to spawn an infinite amount of customizable instances**. Once one version works, and its security becomes battle tested, and it’s source-available, it’s modular enough to allow various configurations—<u>there’s no reason to create more variants</u>. _A single secure, neutral, and modular codebase will spawn many Society Protocol instances._
 
 #### **The three important characteristics:**
 
-**Secure** – If people are to entrust their lives and identities to this matrix, is a lot of risk. It’s obviously of tremendous importance that the codebase is extremely secure. Security is perhaps the most important quality of the codebase. It can only be achieved with an approach which places security above all else, builds the project in a modular concentric ring fashion (with the innermost rings being the most secure), and undergoes lengthy time periods of battle-testing. **The codebase must have impeccable security.** _It will take time._ Our organization will prioritize security at the foundational level—especially for the core parts of the Society Protocol codebase[^6], which are comparable to the Linux kernel.
+**Secure** – If people are to entrust their lives and identities to this matrix, it is a lot of risk. It’s obviously of tremendous importance that the codebase is extremely secure. Security is perhaps the most important quality of the codebase. It can only be achieved with an approach which places security above all else, builds the project in a modular concentric ring fashion (with the innermost rings being the most secure), and undergoes lengthy time periods of battle-testing. **The codebase must have impeccable security.** _It will take time._ Our organization will prioritize security at the foundational level—especially for the core parts of the Society Protocol codebase[^7], which are comparable to the Linux kernel.
 
 **Modular** – Different communities will each use SP in their own unique ways: with their own Value Functions, UIs, Protocol Parameters, and Constitutions; with distinct ideologies and cultures; with varied computing hardware and geographic clusters. While the core remains the stable, each community will want its own modular configuration. **Our role is to ensure that the codebase is designed and built to be modular enough to support these customizable configurations of interoperable features effortlessly.** This part of the codebase is designed like the parts of Linux outside of the kernel.
 
-**Neutral** – _The source-available codebase should remain neutral, in a way all communities are able to entrust._ For all communities to be able to use SP confidently, it must be designed in a generic way—for the general use-case, and remain fair to all types of communities—avoiding a specific specialization or skew towards a favored use case or particular type of organization[^7]. _We’re building the most generic (neutral, yet modular) and secure platform that everyone can use (as close to equally as possible) to create their variant of Synchronized States._
+**Neutral** – _The source-available codebase should remain neutral, in a way all communities are able to entrust._ For all communities to be able to use SP confidently, it must be designed in a generic way—for the general use-case, and remain fair to all types of communities—avoiding a specific specialization or skew towards a favored use case or particular type of organization[^8]. _We’re building the most generic (neutral, yet modular) and secure platform that everyone can use (as close to equally as possible) to create their variant of Synchronized States._
 
 _From this one codebase, thousands of Synchronized States will bloom._ It will be the most secure, central, source-available codebase for Society Protocol. Will will have succeeded, if we can accomplish this as an organization: build the most secure, modular, and neutral codebase for Society Protocol.
 
 ### Web3 Outpost (Schelling Point)
 
-_The Web3 Outpost will serve as the_ [_Schelling Point_](https://nav.al/schelling-point) _around which the Society Protocol movement will gather._ It’s purpose is to keep our keep our community aligned and together through this journey, by using the censorship-resistant, “immutable”, and economic qualities of Web3; as we build the transition to Web4. (Don’t worry…this won’t be a quick transition, and we expect our Web3 Outpost to still be around and valuable in 20 years time).
+_The Web3 Outpost will serve as the_ [_Schelling Point_](https://nav.al/schelling-point) _around which the Society Protocol movement will gather._ It’s purpose is to keep our community aligned and together through this journey, by using the censorship-resistant, “immutable”, and economic qualities of Web3; as we build the transition to Web4. (Don’t worry…this won’t be a quick transition, and we expect our Web3 Outpost to still be around and valuable in 20 years time).
 
 Ultimately, the Web3 Outpost is designed to: bind us together, keep track of individual contributions, provide an economic substrate to finance and manage our organization, and provide a censorship-resistant space for hosting our community and content.
 
 #### **The Web3 Outpost consists of several pieces:**
 
-**Society Protocol DAO**[^8] – The DAO serves as the decision-making body and treasury for our movement. It's governed exclusively by Governors—badge-holding members from the core team, affiliates, and our community with specialized expertise and skin in the game[^9].
+**Society Protocol DAO**[^9] – The DAO serves as the decision-making body and treasury for our movement. It's governed exclusively by Governors—badge-holding members from the core team, affiliates, and our community with specialized expertise and skin in the game[^10].
 
-Unlike typical token-based DAOs, ours deliberately excludes pseudonymous accounts and SPEC token holders from direct governance[^10]. This design prevents sybil attacks and upholds our meritocratic principles by ensuring only identified, accountable parties make decisions. Governors may add or remove peers, but governance always remains with proven contributors rather than anonymous participants[^11].
+Unlike typical token-based DAOs, ours deliberately excludes pseudonymous accounts and SPEC token holders from direct governance[^11]. This design prevents sybil attacks and upholds our meritocratic principles by ensuring only identified, accountable parties make decisions. Governors may add or remove peers, but governance always remains with proven contributors rather than anonymous participants[^12].
 
 **Web3 Application** – The Web3 Application serves to provide unique identity accounts for all participants in our movement. It tracks the contributions and characteristics of each individual account over time by using the <u>badge system</u>.
 
@@ -114,9 +114,9 @@ Badges are ERC-1155 NFTs on Ethereum. They can represent any type of <u>contribu
 
 Upon the initial release of the SP MVP and thereafter…communities will use their unique accounts (with accumulated identity histories, badges, and SPEC) from the Web3 Outpost to create and portal identities into their unique Web4 Society Protocol instances. Millions of unique Web4 instances are expected to be launched in this process, because each community will want their own instance. The evolution of SP instances, and the communities launching them will stretch over decades, if not centuries. As a constant stream of new communities launch instances, they will create a feedback loop, which will refine the protocol with each new instance launched over time.
 
-The Web3 Application additionally allows accounts to form and cluster inside of communities. These communities consist of: our partner communities and unaligned communities[^12]. They represent different groups that are gathering at the Web3 Outpost, with the intention of transferring their communities into Society Protocol instances. _The Web3 Application allows these communities to gather in one spot, keep track of members and contributions via badges, interact using their censorship resistant identities, and make decisions as a group._
+The Web3 Application additionally allows accounts to form and cluster inside of communities. These communities consist of: our partner communities and unaligned communities[^13]. They represent different groups that are gathering at the Web3 Outpost, with the intention of transferring their communities into Society Protocol instances. _The Web3 Application allows these communities to gather in one spot, keep track of members and contributions via badges, interact using their censorship resistant identities, and make decisions as a group._
 
-All sorts of communities—both established organizations and new upstarts—will want to create SP instances to coordinate themselves. These instances provide complete societal infrastructure out of the box: shared reality, identity systems, monetary systems, governance frameworks, synchronized history, and organizational capacity—all designed to scale seamlessly from 2 people to 10 billion. The purpose of the Web3 Application/Outpost is to enable these groups a clearly defined, accurate set of Genesis Actors based on contributions and characteristics to enable them to start the most potent and powerful SP instances immediately[^13].
+All sorts of communities—both established organizations and new upstarts—will want to create SP instances to coordinate themselves. These instances provide complete societal infrastructure out of the box: shared reality, identity systems, monetary systems, governance frameworks, synchronized history, and organizational capacity—all designed to scale seamlessly from 2 people to 10 billion. The purpose of the Web3 Application/Outpost is to enable these groups a clearly defined, accurate set of Genesis Actors based on contributions and characteristics to enable them to start the most potent and powerful SP instances immediately[^14].
 
 **Web3 Forums** – The Web3 forum is the first of their kind, and used for stable lasting discussions, when a chat communications tool like Discord isn’t optimal. They offer our community a censorship-resistant flow of lasting communication. Our Web3 Forum is built on top of [Lens Protocol](https://lens.xyz/) on the [zkSync](https://www.zksync.io/) network. We are looking at ways to combine the Web3 Forum accounts into a unified structure with the Web3 Application accounts on Ethereum.
 
@@ -130,7 +130,7 @@ Millions of Society Protocol instances are expected to be created—with SPEC to
 
 As communities look to fill the ranks of their SP instances with valuable members— they will look to grant initial Energy distributions to accounts which have shown a legitimate history of participating and contributing to the SP movement—SPEC token holders.
 
-SPEC serves as a way to coordinate the creation of potentially grandiose SP instances based on legitimate contribution right away. It provides a legitimate process for the distribution of initial Energy, which is (generally) going to be the most optimal, fair, and efficient way for most SP instances (not all) to establish themselves. These instances will retain a direct line of legitimacy, and be able to scale participation from day one by using the <u>account system</u> (to decide who to invite) and SPEC token holdings (to decide how much Energy to give each account)[^14].
+SPEC serves as a way to coordinate the creation of potentially grandiose SP instances based on legitimate contribution right away. It provides a legitimate process for the distribution of initial Energy, which is (generally) going to be the most optimal, fair, and efficient way for most SP instances (not all) to establish themselves. These instances will retain a direct line of legitimacy, and be able to scale participation from day one by using the <u>account system</u> (to decide who to invite) and SPEC token holdings (to decide how much Energy to give each account)[^15].
 
 More info about the SPEC token [here](https://staging-society-protocol-client.vercel.app/spec-token).
 
@@ -179,7 +179,7 @@ The beautiful thing about Society Protocol, is that while the entire transition 
 
 ## Our Movement
 
-If we dream of going on a Voyage to create Synchronized States—_we’re going to need a movement_. <u>Our organization alone won’t handle the pressure of buildling a new world</u>—it must be as a part of a movement. **We are creating a movement to bring Society Protocol to life**_—_it consists of three main segments: the core team, affiliates, and the community.
+If we dream of going on a Voyage to create Synchronized States—_we’re going to need a movement_. <u>Our organization alone won’t handle the pressure of buildling a new world</u>—it must be as a part of a movement. **We are creating a movement to bring Society Protocol to life**—it consists of three main segments: the core team, affiliates, and the community.
 
 > “Another form of wealth, hidden from the archaeologist, were titles to offices. Such social positions were more valuable than the tangible forms of wealth in many hunter-gatherer cultures. Examples of such positions included clan leaders, war party leaders, hunting party leaders, membership in a particular long-term trading partnership (with a particular person in a neighboring clan or tribe), midwives, and religious healers. Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege.” \[@szaboShellingOutOrigins2002\]
 
@@ -193,7 +193,7 @@ The movement is a coordinated mass of distributed humans, participating from all
 > 
 > I now feel obligated to go on a quest to bring this project to the world. Watching the the world as we know it coming to a close, and radically change for the worse…exasperates both the need and risk of this journey.
 > 
-> We really need to attempt to transition the world into the next phase (TEAA), as cleanly and crisply as possible, if we want to have great lives and leave something worth living in for our children.
+> We really need to attempt to transition the world into the next phase (TEAA), as cleanly and smoothly as possible, if we want to have great lives and leave something worth living in for our children.
 > 
 > One of the biggest things that I can offer, is that I’m not leaving. I’ll be here to offer myself as a resource and provide a guiding hand, for as long as it takes and as long as I am able to.
 > 
@@ -223,7 +223,7 @@ The next sections cover the three main segments of our movement, which are: the 
 
 The core team is the inner core, composed of members of the community who get compensated from the treasury to work on Society Protocol. The core team must remain productive, specialized, culturally aligned, and organized—to produce and steward a world-changing protocol. There are lots of roles required: researchers, designers, developers, management, business developers, lawyers, and advocates. **The core team is directly responsible for the research, design, and development of Society Protocol.**
 
-The core team is coordinated by the DAO and the Web3 Outpost system[^15]. Core team members can be identified in the DAO by their “core team member” badges. The planning and direction of what the core team builds, is controlled by the governance of the Society Protocol DAO—in which the core team will ultimately control around 38% of the decision-making power[^16]. _The core team is the execution arm of the SP DAO governors will._
+The core team is coordinated by the DAO and the Web3 Outpost system[^16]. Core team members can be identified in the DAO by their “core team member” badges. The planning and direction of what the core team builds, is controlled by the governance of the Society Protocol DAO—in which the core team will ultimately control around 38% of the decision-making power[^17]. _The core team is the execution arm of the SP DAO governors will._
 
 All the relevant things pertaining to distributed organizations to coordinate and manage people apply, in the same way as any other organization: organizational hierarchies, culture, management, pay structures, and infrastructure must all be optimized for the core team to be able to function efficiently and fulfill its duties.
 
@@ -241,7 +241,7 @@ The Mythical Man Month is a classic book pertaining to this exactly subject. It 
 
 Our organization exists to make the most _neutral_ and _balanced_ SP codebase and Web3 Outpost possible. **_We’re not here to rig any games._** _Our organizational “raison d'être” is to build the most balanced, modular, and secure system we can manage, while remaining credibly neutral to all the communities using it._ It’s going to be the various entities and communities which create their own Society Protocol instances…each will slightly imbalance their instance’s parameters, each in their own unique way—to achieve their goals. Some of these will become the future rulers of a new age (incredibly powerful)…they will compete against each other under these conditions (the imbalances they chose for their societies, as a differentiator). None of them will be perfectly balanced, communities will compete for the most potent and lasting variants. _This is not the job of our core team and organization._ **_We’re here to make the most balanced infrastructure for everyone._**
 
-**It’s important that the core team remains distributed & decentralized_._** All team members should remain replaceable—simply cogs in a large distributed machine. Any irreplaceable team members may become targets of operations by powerful entities, threatening their well-being and physical safety[^17]._ Many roles on the core team may choose to remain pseudonymous. _Core team members don’t want to become irreplaceable cogs._ This is mitigated by building everything out in the open, operating with a culture of resilience, and assigning an overlap of multiple team members to tasks whenever possible[^18].
+**It’s important that the core team remains distributed & decentralized_._** All team members should remain replaceable—simply cogs in a large distributed machine. Any irreplaceable team members may become targets of operations by powerful entities, threatening their well-being and physical safety[^18]._ Many roles on the core team may choose to remain pseudonymous. _Core team members don’t want to become irreplaceable cogs._ This is mitigated by building everything out in the open, operating with a culture of resilience, and assigning an overlap of multiple team members to tasks whenever possible[^19].
 
 > We are currently looking for an executive CEO co-founder—to steer the ship and make executive decisions on the way to a new world. More about this role can be found [here](https://societyprotocol.io/Published/Organization/Roles).
 
@@ -269,19 +269,17 @@ _Each partnership with affiliates is a bespoke contract…_which generally invol
 
 Our community is distributed and spans the globe. It’s a unique tapestry of individuals from all walks of life, each bringing their own valuable skills and knowledge—united with one shared purpose—_to construct powerful Synchronized States and usher in the Age of Synchronicity (Aquarius)_.
 
-Our community will be vast and diverse. It will trend younger, and skews evenly in gender. This is for individuals who would like to architect a better world—instead of living in the one the past generations have left for us.
+Our community will be vast and diverse. It will trend younger, and skews evenly in gender. This is for individuals who would like to architect a better world—instead of living in the one the past generations have left for us. _A world of possibilities._
 
-**_A world of possibilities._**
+_This is for the innovators._
 
-**_This is for the innovators._**
+_This is for those who do not consent to living unfree in a broken world._
 
-**_This is for those who do not consent to living unfree in a broken world._**
+_This is for the fearless._
 
-**_This is for the fearless._**
+_This is for the ambitious._
 
-**_This is for the ambitious._**
-
-**_This is for those who want to pass on a a better world to future generations._**
+_This is for those who want to pass on a a better world to future generations._
 
 * * *
 
@@ -356,13 +354,13 @@ If upon the end of the ICO fundraise, we do not raise adequate resources to buil
 
 > “If it was easy, everyone would do it.”
 
-This is a long journey, we don’t expect it to be easy. We will run into many kinds of obstacles. There will be code errors, teamwork issues, political challenges, financial constraints, and overall uncertainty. Society Protocol instances will collapse. We will have strong allies and strong enemies. Some people will give up; others will betray the cause[^19]. _In the end, transitioning the world into an entirely new age of civilization—will be worth it._
+This is a long journey, we don’t expect it to be easy. We will run into many kinds of obstacles. There will be code errors, teamwork issues, political challenges, financial constraints, and overall uncertainty. Society Protocol instances will collapse. We will have strong allies and strong enemies. Some people will give up; others will betray the cause[^20]. _In the end, transitioning the world into an entirely new age of civilization—will be worth it._
 
 Our movement will stay together and grow like a ball of energy by using the Web3 Outpost as a Schelling point. At the beginning—it will be more start-ups and nerds—innovators. Over time, the movement will grow to embody essentially all major organizations and Nation States.
 
 Early on, start-up communities will use the codebase…eventually, all Nation States will be forced to transition, and they will be thankful that the codebase they’re inheriting and trusting has been verified by all these smaller communities—who all contributed toward making the project possible and bloom. Some of these start-up communities will themselves grow into large Synchronized State empires.
 
-_It’s a journey of the transition from Web3 to Web4[^20]._
+_It’s a journey of the transition from Web3 to Web4[^21]._
 
 _It’s the journey of the transition from Nation States to Synchronized States._
 
@@ -388,7 +386,7 @@ Since the codebase is always source-available, any sociopathic entities who capt
 
 ### The Dragons Clutches
 
-You may be wondering, “Have you thought about the issue of the big scary dragon, the one which captures everyone in its clutches and drains their life-force? The magical ethereal dragon sitting on a pile of gold, with an army of goblins around it, and all those bones in its lair…the one which scares and eats everyone?”[^21]
+You may be wondering, “Have you thought about the issue of the big scary dragon, the one which captures everyone in its clutches and drains their life-force? The magical ethereal dragon sitting on a pile of gold, with an army of goblins around it, and all those bones in its lair…the one which scares and eats everyone?”[^22]
 
 ![[dragons-clutches.gif]]
 
@@ -400,21 +398,25 @@ Nation States, and the powerful (often cannibalistic) sociopaths running them, a
 
 #### Escaping The Dragons Clutches
 
-No dragon…whether ethereal, or fire-breathing, or deeply occult, or with a massive army of goblins…_<u>can clutch and hold this thing</u>_. _Society Protocol is just as ethereal…it ultimately escapes any clutches that try to grasp and hold it._ Society Protocol is merely an idea and source-available codebase—it’s not something that can be clutched and retains by any set of hands—neither ordinary human hands nor magical dragon claws. _It flows out through their hands like sand, or waves of energy flow through reality—can you grasp and hold the waves flowing through your hands?_ They’re there right now! Go ahead, grasp them!
+No dragon…whether ethereal, or fire-breathing, or deeply occult, or with a massive army of goblins…_<u>can clutch and hold this thing</u>_. _Society Protocol is just as ethereal…it ultimately escapes any clutches that try to grasp and hold it._ Society Protocol is merely an idea and source-available codebase—it’s not something that can be clutched and retains by any set of hands—neither ordinary human hands nor magical dragon claws. _It flows out through their hands like the waves of energy flow through reality—can you grasp and hold the waves flowing through your hands?_ They’re there right now! Go ahead, grasp them!
 
-While no dragon can hold Society Protocol, reptiles are not all known to be smart. And it might take them a few steps for the dragon to truly understand this itself. **Here are the steps:**
+While no dragon can hold Society Protocol, reptiles are not all known to be smart. And it might take a few steps for a dragon to truly understand this for themselves. **Here are the steps:**
 
-If the dragon: doesn’t know that they can’t grasp and capture SP:
+**If the dragon doesn’t know that they can’t grasp and capture SP:**
 
-↪️ Step 1: Proceed to try and capture the project and founders! ⤵️
+↪️ Step 1: Proceed to try and capture the project and team! ⤵️
 
-**figures out holding team members wont help and it’s losing the race to a distributed movement, does know:**
+**figures out holding team members and codebase wont help it, and it’s losing the race to a distributed global movement, does know:**
 
-↪️ Step 2: Dragon wants to build their own version! ⤵️
+↪️ Step 2: Dragon now wants to build its own version, and control the movement! ⤵️
 
-**figures out that their own isolated version is too slow and frail and can’t win in an open field. That it needs to be an open codebase, which can’t be clutched:**
+**figures out that its own isolated version is too slow and insecure, that it can’t win in an open field, and ultimately that it needs to be an open codebase, which can’t be clutched:**
 
-↪️ Step 3: Negotiates with us about implementing Synchronized States for their Nation State organization using a variant of our secure, neutral, modular codebase. ⤵️
+↪️ Step 3: Dragon doesn't like any of this at all and decides to entirely banish Society Protocol from the realm! ⤵️
+
+**figures out that it's in a prisoners dilemma with other dragons, and that it can't afford to set itself back like this:**
+
+↪️ Step 4: Negotiates with us about implementing Synchronized States for their Nation State using a variant of our secure, neutral, modular codebase. ⤵️
 
 **That’s it. The journey is complete and we enter the Age of Synchronicity.**
 
@@ -422,7 +424,7 @@ If the dragon: doesn’t know that they can’t grasp and capture SP:
 
 _Thank you dragon, thanks for playing._
 
-**Let’s reconstruct all the steps to Society Protocol taking over the world…**
+**Let’s reconstruct all the steps backwards from the Age of Synchronicity...**
 
 ![[Reverse Timeline from Age of Synchronicity.png]]
 
@@ -439,29 +441,29 @@ To those reading this who feel the pull of something greater: you're needed. Whe
 If you are interested in contributing to Society Protocol, you can [join our community](https://societyprotocol.io/), [invest in the movement](https://societyprotocol.io/), and [contribute to the architecture](https://societyprotocol.io/).
 
 ### Bibliography
-David Chapman. (n.d.). _Geeks, MOPs, and sociopaths in subculture evolution  Meaningness_. https://meaningness.com/geeks-mops-sociopaths.
-Szabo, N. (2002). _Shelling Out: The Origins of Money  Satoshi Nakamoto Institute_. https://nakamotoinstitute.org/library/shelling-out/.
+1. David Chapman. (n.d.). _Geeks, MOPs, and sociopaths in subculture evolution  Meaningness_. https://meaningness.com/geeks-mops-sociopaths.
+2. Szabo, N. (2002). _Shelling Out: The Origins of Money  Satoshi Nakamoto Institute_. https://nakamotoinstitute.org/library/shelling-out/.
 
 ### Footnotes
 [^1]: Often referred to as the _Age of Aquarius_.
-[^2]: This is explained in [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)).
-[^3]: The distinction to make between in defining _distributed_ and _decentralized_ is that: distributed physically distributes the resources of the network, so that no one central point failing can cause the a failure in the network infrastructure…while decentralized decentralizes (spreads out) the power structure of the community, so that no one party can be captured to control the network decision-making.
-[^4]: Source-available and open source are slightly different licenses. The Society Protocol codebase may become open source...it's too early for us to guarantee such a thing. It's a guarantee the codebase will be source-available. About the open source part––we need to consult with lawyers.
-[^5]: As an engineer, I can attest that it’s a very difficult, but also possible technical challenge.
-[^6]: As we step / stretch away from the core of the codebase—towards Value Functions, extensions, and UIs…security becomes slightly less of a concern (although its still crucial), but the central core must be _impeccably_ secure.
-[^7]: Although, ultimately, to some degree…we are partnered with our community partners, and in a sense, they are our customers (where our money comes from). Since our community partners should be a diverse group of organizations with different competing needs and requirements…this business dynamic should work out to create a neutral, secure, and modular codebase in the end.
-[^8]: The on-chain Society Protocol DAO will be supported by the traditionally structured Society Protocol Foundation—which is a non-profit legal entity serving as the connector to the nation state legal and financial system.
-[^9]: The DAO aims to be governed by a meritocracy, it is not a democracy. This is a tenet of the TEAA, which is embedded into our [ideology](https://societyprotocol.io/Published/Movement/Ideology).
-[^10]: SPEC token holders can use their tokens to vote and provide feedback on governance decisions, while governors closer, more focused and committed to the project retain execution authority.
-[^11]: This method prevents the exploitable non-sybil resistant nature of pseudonymous token voting, which can be exploited to take over the DAO via controlling the token and drain the treasury.
-[^12]: We will work closely with our partner communities and display their communities in our UI interface, partner communities are obligated to follow our ideology. Unaffiliated communities, who are not obligated to follow our movements ideology are also welcome, but will need to create their own UI interfaces to display their community information.
-[^13]: Nobody will want to manually do this process of gathering a list of identities, coordinating these invites, and figuring out how much Energy to give to contributors and who to include in a randomized way—it won’t be able to compete with SP instances launched using the accumulated data from the Web3 Outpost.
-[^14]: Otherwise, this process has to be done manually and deciding “How much Energy each account gets?” manually, for large groups, is a coordination nightmare. SPEC provides a legitimate lineage for this transition.
-[^15]: Although there is technically no requirement for a traditional corporate architecture, the Society Protocol Foundation will be maintained as a traditional entity for interaction with the traditional legal and corporate world.
-[^16]: Many Governors will be outside of the core team, they are _advisors_ and _partner communities_.
-[^17]: We are considering requiring all core team members to upload a [warrant canary](https://www.okta.com/identity-101/warrant-canary/)—n order to enhance operational integrity.
-[^18]: This quality increases the diversity of thought and thus, quality of outcomes. A creative early stage project like Society Protocol benefits from heterogeneous perspectives to homogenous ones.
-[^19]: Only to end up in misery and slavery as their usefulness runs out.
-[^20]: The success of Bitcoin, Ethereum, and Web3 is crucial for our success. We expect the Web3 Outpost to last for at least 20+ years, and are reliant on the foundation of Web3’s infrastructure. We stand on the shoulders of giants. We are not enemies, and fully support the Web3 movement. It simply cannot accomplish what the Web4 movement can.  
-[^21]: Of course we’re talking about Nation States and the secret societies often controlling them.
-[^22]: The great prismatic dragon was born out of the forbidden coupling of two different elemental dragons - making him into a great abomination in the eyes of many. At first many dragons flocked to Kerafyrm feeling the god-like being would bring a new age to their kind, the children of Veeshan. However, his unfathomable power and the taboo of his creation by the laws of Veeshan led to a great madness overwhelming Kerafyrm. The laws of Veeshan forbid dragons to kill and eat other dragons under any circumstance, and Kerafyrm violated these laws too by killing those who spoke out against him. 
+[^2]: The great prismatic dragon was born out of the forbidden coupling of two different elemental dragons - making him into a great abomination in the eyes of many. At first many dragons flocked to Kerafyrm feeling the god-like being would bring a new age to their kind, the children of Veeshan. However, his unfathomable power and the taboo of his creation by the laws of Veeshan led to a great madness overwhelming Kerafyrm. The laws of Veeshan forbid dragons to kill and eat other dragons under any circumstance, and Kerafyrm violated these laws too by killing those who spoke out against him. 
+[^3]: This is explained in [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)).
+[^4]: The distinction to make between in defining _distributed_ and _decentralized_ is that: distributed physically distributes the resources of the network, so that no one central point failing can cause the a failure in the network infrastructure…while decentralized decentralizes (spreads out) the power structure of the community, so that no one party can be captured to control the network decision-making.
+[^5]: Source-available and open source are slightly different licenses. The Society Protocol codebase may become open source...it's too early for us to guarantee such a thing. It's a guarantee the codebase will be source-available. About the open source part––we need to consult with lawyers.
+[^6]: As an engineer, I can attest that it’s a very difficult, but also possible technical challenge.
+[^7]: As we step / stretch away from the core of the codebase—towards Value Functions, extensions, and UIs…security becomes slightly less of a concern (although its still crucial), but the central core must be _impeccably_ secure.
+[^8]: Although, ultimately, to some degree…we are partnered with our community partners, and in a sense, they are our customers (where our money comes from). Since our community partners should be a diverse group of organizations with different competing needs and requirements…this business dynamic should work out to create a neutral, secure, and modular codebase in the end.
+[^9]: The on-chain Society Protocol DAO will be supported by the traditionally structured Society Protocol Foundation—which is a non-profit legal entity serving as the connector to the nation state legal and financial system.
+[^10]: The DAO aims to be governed by a meritocracy, it is not a democracy. This is a tenet of the TEAA, which is embedded into our [ideology](https://societyprotocol.io/Published/Movement/Ideology).
+[^11]: SPEC token holders can use their tokens to vote and provide feedback on governance decisions, while governors closer, more focused and committed to the project retain execution authority.
+[^12]: This method prevents the exploitable non-sybil resistant nature of pseudonymous token voting, which can be exploited to take over the DAO via controlling the token and drain the treasury.
+[^13]: We will work closely with our partner communities and display their communities in our UI interface, partner communities are obligated to follow our ideology. Unaffiliated communities, who are not obligated to follow our movements ideology are also welcome, but will need to create their own UI interfaces to display their community information.
+[^14]: Nobody will want to manually do this process of gathering a list of identities, coordinating these invites, and figuring out how much Energy to give to contributors and who to include in a randomized way—it won’t be able to compete with SP instances launched using the accumulated data from the Web3 Outpost.
+[^15]: Otherwise, this process has to be done manually and deciding “How much Energy each account gets?” manually, for large groups, is a coordination nightmare. SPEC provides a legitimate lineage for this transition.
+[^16]: Although there is technically no requirement for a traditional corporate architecture, the Society Protocol Foundation will be maintained as a traditional entity for interaction with the traditional legal and corporate world.
+[^17]: Many Governors will be outside of the core team, they are _advisors_ and _partner communities_.
+[^18]: We are considering requiring all core team members to upload a [warrant canary](https://www.okta.com/identity-101/warrant-canary/)—n order to enhance operational integrity.
+[^19]: This quality increases the diversity of thought and thus, quality of outcomes. A creative early stage project like Society Protocol benefits from heterogeneous perspectives to homogenous ones.
+[^20]: Only to end up in misery and slavery as their usefulness runs out.
+[^21]: The success of Bitcoin, Ethereum, and Web3 is crucial for our success. We expect the Web3 Outpost to last for at least 20+ years, and are reliant on the foundation of Web3’s infrastructure. We stand on the shoulders of giants. We are not enemies, and fully support the Web3 movement. It simply cannot accomplish what the Web4 movement can.  
+[^22]: Of course we’re talking about Nation States and the secret societies often controlling them.

@@ -1,6 +1,6 @@
 ---
 created: 2025-10-03T12:17
-updated: 2026-01-07T22:16
+updated: 2026-04-10T11:08
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
@@ -38,7 +38,7 @@ On a positive note, now we have a tribal pattern. We’ve baked a tribal pie–�
 
 To give a concrete example of subjective private perception (subjective truth) vs consensus (shared reality): subjective private perception is our individual perception of time (depending on how we are feeling energetically and emotionally in the moment, it can go fast or slow), while shared reality is clock time we synchronize around (it’s a consensus we can all agree on). While subjective private perception always lives within us, shared reality does not live within us—it is external. We must measure and uphold it. The subjective private perception and shared reality coexist in parallel, overlap in our perception, and never see the same thing.
 
-Hence, everyone in the world walks around confused. It’s the blind leading the blind. **We’re not living in our realities**, we’re living in the “shared reality,” which exists as a shared story we propagate, not in our subjective perception. Socially, it’s an important pretend world, more vital to an individual’s survival than their subjective truth.
+Hence, everyone in the world walks around confused. It’s the blind leading the blind. **We’re not living in our realities**, we’re living in the “shared reality,” which exists as a shared story we propagate, not in our subjective perception. Socially, it’s an important pretend world, often more vital to an individual’s survival than their subjective truth.
 
 There is naturally no shared thread of reality that flows through the universe. We must form it—using energy from our physical beings. Let’s introduce a new term for this shared thread of reality:
 
@@ -523,11 +523,11 @@ Society Protocol changes this dynamic by bringing the social layer itself into t
 
 ---
 ### Bibliography
-Bob Briscoe, Andrew Odlyzko, & Benjamin Tilly. (2006). _Metcalfe’s Law is Wrong - IEEE Spectrum_. https://spectrum.ieee.org/metcalfes-law-is-wrong.
-Buterin, V. (2014). Ethereum Whitepaper. In _ethereum.org_. https://ethereum.org/en/whitepaper/.
-Buterin, V. (2020). _Credible Neutrality As A Guiding Principle_. https://balajis.com/p/credible-neutrality.
-Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
-Torenberg, E. (2022). Beliefs are Fashions [Substack Newsletter]. In _Erik Torenberg_.
+1. Bob Briscoe, Andrew Odlyzko, & Benjamin Tilly. (2006). _Metcalfe’s Law is Wrong - IEEE Spectrum_. https://spectrum.ieee.org/metcalfes-law-is-wrong.
+2. Buterin, V. (2014). Ethereum Whitepaper. In _ethereum.org_. https://ethereum.org/en/whitepaper/.
+3. Buterin, V. (2020). _Credible Neutrality As A Guiding Principle_. https://balajis.com/p/credible-neutrality.
+4. Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
+5. Torenberg, E. (2022). Beliefs are Fashions [Substack Newsletter]. In _Erik Torenberg_.
 
 ### Footnotes
 [^1]: This is why people need psychiatrists to understand themselves, because they’ve lost themselves as a consequence of the duality.

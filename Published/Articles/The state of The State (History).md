@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2025-11-02T18:39
+updated: 2026-04-06T23:45
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 ## Table of Contents
@@ -571,12 +571,17 @@ The non-fungibility of every Society Protocol instance establishes tremendous mo
 ### _Defining Patterns of Triple-Entry Accounting_
 
 **<u>Forms of State</u>**: _Synchronized States_.
+
 **<u>Accounting</u>:** _Full Accounting & Full Accountability_. All public state interactions are chronologically recorded in the _Timeline_ for the entire lifetime of the Synchronized State. Additionally, since data is the format of the state; the entire state can be algorithmically analyzed and acted upon, using computation.
+
 **<u>Public state contents</u>:** _Everything that’s relevant to the <u>public state</u>._ Instances of Society Protocol track: identity (who is it), money (who paid what), status (who holds power), social graphs and relationships (who knows whom), group decision making (governance), property rights (who owns what), organizations (distributed corporations, cultural agreements, and family trees), and more across history in the public state.
 
 Since we have a clear delineation between the <u>private</u>, <u>semi-private</u>, and <u>public state</u>. It’s optimal to only place data that belongs in the <u>public state</u>, meaning it is useful for the functioning of public society, there.
+
 **<u>Methods of state transmission</u>:** _Digital Data_. It’s also possible that we discover new mediums in the future! 
+
 **<u>Effort to propagate and maintain the state</u>:** _Essentially no effort (running a program)._ Installing occasional updates to the program is all the effort necessary to propagate and synchronize the state worldwide.
+
 **<u>Mutability/permanence of state (trust)</u>**: _Quasi-Immutable and Quasi-Permanent!_ Change is the only constant in this universe. Nothing is truly immutable and permanent...but relatively speaking, Synchronized States are a massive leap towards immutability and permanence of the state.
 
 - Immutability: It’s possible to fork history out of a Synchronized State and change its history and ruleset altogether, but requires widespread social consensus and coordination, and still leaves copies of the old state in many places.
@@ -588,6 +593,7 @@ Since we have a clear delineation between the <u>private</u>, <u>semi-private</u
 - Anyone in the system can participate in governance[^16], which controls some gated aspects of the <u>public state</u>.
 
 **<u>Synchronization</u>**: _Synchronized_. All events in Society Protocol happen in <u>one place</u> and <u>everywhere</u> simultaneously.
+
 **<u>7 Byzantine Generals Problem</u>**: _Solved_/. The 7 Generals can gather around any city, country, or State and send verifiable encrypted messages to coordinate at nearly the speed of light (enabling complex, multi-step conditional operations and strategies, rather than mere binary attack decisions), which have the full weight of their identity, property, and data behind them.
 
 ### Illustration of Triple-Entry Accounting
@@ -602,11 +608,11 @@ Will history still be written by the winners? _I’ll let you think about it_. W
 
 ---
 ### Bibliography
-Bitcoin Magazine. (2023, September 27). _What Is The Byzantine Generals Problem?_ Bitcoin Magazine - Bitcoin News, Articles and Expert Insights. [https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem](https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem)
-James Wright. (2014). _The Evolution of Writing | Denise Schmandt-Besserat_. [https://sites.utexas.edu/dsb/tokens/the-evolution-of-writing/](https://sites.utexas.edu/dsb/tokens/the-evolution-of-writing/)
-Mark, J. J. (2022, November 17). _Cuneiform_. World History Encyclopedia. [https://www.worldhistory.org/cuneiform/](https://www.worldhistory.org/cuneiform/)
-Roos, D. (2019, August 28). _7 Ways the Printing Press Changed the World_. HISTORY. [https://www.history.com/articles/printing-press-renaissance](https://www.history.com/articles/printing-press-renaissance)
-William G. Urry. (n.d.). _Paleography | Deciphering Ancient Writing & Manuscripts | Britannica_. Retrieved April 26, 2025, from [https://www.britannica.com/topic/paleography](https://www.britannica.com/topic/paleography)
+1. Bitcoin Magazine. (2023, September 27). _What Is The Byzantine Generals Problem?_ Bitcoin Magazine - Bitcoin News, Articles and Expert Insights. [https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem](https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem)
+2. James Wright. (2014). _The Evolution of Writing | Denise Schmandt-Besserat_. [https://sites.utexas.edu/dsb/tokens/the-evolution-of-writing/](https://sites.utexas.edu/dsb/tokens/the-evolution-of-writing/)
+3. Mark, J. J. (2022, November 17). _Cuneiform_. World History Encyclopedia. [https://www.worldhistory.org/cuneiform/](https://www.worldhistory.org/cuneiform/)
+4. Roos, D. (2019, August 28). _7 Ways the Printing Press Changed the World_. HISTORY. [https://www.history.com/articles/printing-press-renaissance](https://www.history.com/articles/printing-press-renaissance)
+5. William G. Urry. (n.d.). _Paleography | Deciphering Ancient Writing & Manuscripts | Britannica_. Retrieved April 26, 2025, from [https://www.britannica.com/topic/paleography](https://www.britannica.com/topic/paleography)
 
 ### Footnotes
 [^1]: The STF of the universe is physics. What is the STF of The State? _I don’t know. Why did you think I would know?_ I don’t think there’s a word for it in English.
@@ -626,6 +632,3 @@ William G. Urry. (n.d.). _Paleography | Deciphering Ancient Writing & Manuscript
 [^14]: It’s technically quasi-immutable; there are events known as forks in the blockchain world which can mutate the past and current states.
 [^15]:  Synchronized States will retain judges and courts for subjective decisions.
 [^16]: This is true in most Society Protocol variants, but autocracies and gated governance mechanisms are also possible.
-[^17]: I believe the word for this is *Fascism*.
-[^18]: This is a key characteristic of the double-entry accounting age: for the first time, the state contains some accounting + accountability.
-[^19]: Transmission wasn't trivial, but now possible.

@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T11:23
-updated: 2026-01-08T23:32
+updated: 2026-03-22T14:01
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
@@ -38,7 +38,7 @@ updated: 2026-01-08T23:32
  
 ### Movement
 [[Ideology]]
-
+ 
 ### Brand
 [[Glossary]]
 
@@ -48,4 +48,4 @@ updated: 2026-01-08T23:32
 [Github](https://github.com/SocietyProtocol)
 <!-- [Forums](https://forum.societyprotocol.io) -->
 ### Copyright Notice
-_All content on this website, including text, images, and code, is © 2025 Society Protocol Foundation. All rights reserved._
+_All content on this website, including text, images, and code, is © 2026 Society Protocol Foundation. All rights reserved._

@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:17
-updated: 2026-02-27T00:03
+updated: 2026-04-10T11:10
 ---
 # Table of Contents
 *There are two main parts to this article, "Theory of Coordination" covers the theoretical aspects and "The History of Alignment" covers the evolutionary stages of coordination throughout human history.*
@@ -668,10 +668,10 @@ _This transition is not optional—it’s inevitable._ Nation States have reache
 The future of human coordination begins now, with Society Protocol illuminating the path forward into this new epoch. We invite you to join us in building not just better technology, but a better foundation for civilization itself—one where the societal pyramid truly serves all participants in creating the most prosperous, fairly coordinated, and dynamic civilization in human history. The Age of Synchronicity awaits, and it will be as transformative for human coordination as anything that came before.
 
 ### Bibliography
-Dawkins, R. (2016). _The selfish gene_ (40th anniversary edition). Oxford University Press.
-Page, L. (2024). _Why we so often fail to work together_. https://www.optimallyirrational.com/p/why-we-so-often-fail-to-work-together?publication_id=1631989.
-Ray Dalio. (2021). _Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail_. https://economicprinciples.org/the-changing-world-order.
-Storr, W. (2022). _The status game_. William Collins.
+1. Dawkins, R. (2016). _The selfish gene_ (40th anniversary edition). Oxford University Press.
+2. Page, L. (2024). _Why we so often fail to work together_. https://www.optimallyirrational.com/p/why-we-so-often-fail-to-work-together?publication_id=1631989.
+3. Ray Dalio. (2021). _Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail_. https://economicprinciples.org/the-changing-world-order.
+4. Storr, W. (2022). _The status game_. William Collins.
 
 ### Footnotes
 [^1]: Our ways of transferring state became superior (to have complex coordination, we must transfer and preserve a complex state).

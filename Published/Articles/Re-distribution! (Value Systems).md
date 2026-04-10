@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:17
-updated: 2026-03-20T21:27
+updated: 2026-03-31T18:02
 ---
 ## Table of Contents
 1. [Introduction](#Introduction)
@@ -19,7 +19,7 @@ updated: 2026-03-20T21:27
 3. [Conclusion](#Conclusion)
 
 ## Introduction
-Redistribution gets a bad name…from the communists, and socialists, and fascists…and all the horrors of history, but the reality is that the State’s purpose is to <u>coordinate</u> people into the strongest possible structures, and that means redistributing stuff! _It’s literally their job._
+Redistribution gets a bad name…from the communists, and socialists, and fascists…and all the horrors of history, but the reality is that the State’s purpose is to <u>coordinate</u> people into the strongest possible structures, and that means redistributing resources! _It’s literally their job._
 
 All State structures redistribute resources. No State structure has ever existed throughout history without redistribution of some sort. **Coordination isn’t possible without the redistribution of resources.**
 
@@ -94,11 +94,11 @@ If you want to compare Society Protocol to simpler protocols like Bitcoin or Eth
 
 - Bitcoin only has one VF—_<u>it’s mining</u>_. The Bitcoin network values miners and rewards them with Bitcoin for their contributions. This value system is based on their agreed upon Synchronized Social Contract (SSC) which retains the Bitcoin rewards schedule—eventually unlocking 21 million Bitcoin.
 - Ethereum has two VFs—they’re _<u>staking</u> and <u>access to the EVM</u>_. The Ethereum network values two things: when users stake Ether to secure the protocol and when users pay Ether to access the EVM. _These are defined by the value system inside the SSC of Ethereum._
-- The original SP design contains nine VFs. _All nine Value Functions aren’t necessary to make Society Protocol valuable—the first three VFs is already a very powerful configuration[^5]._ SP instances each come with a modular assortment of Value Functions, which together define each society’s value system.
+- The original SP design contains nine VFs. _All nine Value Functions aren’t necessary to make Society Protocol valuable—the first three VFs is already a powerful configuration[^5]._ SP instances each come with a modular assortment of Value Functions, which together define each society’s value system.
 
 ## History/Evolution Of Value Systems — A Transition To A New Age
 
-Value systems are nothing new; they have been around since the beginning of time, in every organization.
+Value systems are nothing new; they have been around since the beginning of time, in every collective.
 
 We will cover how the value systems of the double-entry accounting age (DEAA) compare to those of the upcoming triple-entry accounting age (TEAA) in this article—analyzing their functionalities, limitations, and possibilities. The TEAA opens up possibilities which simply weren’t possible during the DEAA… Synchronized States will perform all the functions of value systems faster, with less effort, fairer, and more efficiently than the current Nation State paradigm.
 
@@ -121,7 +121,7 @@ The Parenting VF is the evolution of current indoctrination & referral mechanism
 
 Indoctrination & referral methods aren’t well tracked. The teacher hardly gets rewarded for indoctrinating the student in a classroom. The parent & child relationship functions similarly, with the parent expected to raise and indoctrinate the child without many formal economic bonds—hoping that the good child will fruitfully reward them in their old age if raised well, without any economic incentives to accomplish this—creating the misalignment of interests and often frustration in the relationship.
 
-*<u>DEAA incentive alignment</u>**: It’s difficult to keep track of formal referral or indoctrination incentive alignment. As a result, individuals often purposefully neglect and miss out on opportunities for these interactions because they aren’t incentivized correctly.
+**<u>DEAA incentive alignment</u>**: It’s difficult to keep track of formal referral or indoctrination incentive alignment. As a result, individuals often purposefully neglect and miss out on opportunities for these interactions because they aren’t incentivized correctly.
 
 #### TEAA of Synchronized States
 

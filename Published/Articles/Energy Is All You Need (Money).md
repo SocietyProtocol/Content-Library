@@ -1,6 +1,6 @@
 ---
 created: 2025-11-27T23:24
-updated: 2026-01-08T21:29
+updated: 2026-04-10T11:10
 ---
 # Table of Contents
 *There are two main parts to this article, the "Fundamentals of Money" covers how money works and the "Evolutions of Monetary Systems" covers the evolutionary stages of money throughout history.*
@@ -771,10 +771,10 @@ We need your support to accomplish this vision before the age of techno-feudalis
 If you are interested in contributing to the creation of Society Protocol and would like to be a part of the journey, you can: [<u>join our community</u>](https://societyprotocol.io/), [<u>invest in the movement</u>](https://societyprotocol.io/), and [<u>contribute to the architecture</u>](https://societyprotocol.io/).
 
 ### Bibliography
-Jevons, W. S. (1876). _Money and the Mechanism of Exchange_. https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange.
-Kameir, C. (2019). _The Cryptocurrency Confusion  HackerNoon_. https://www.forbes.com/sites/forbesfinancecouncil/2019/01/24/the-future-of-money-from-cryptocurrencies-to-money-over-ip/#28125bb76731.
-Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
-Szabo, N. (2002). _Shelling Out: The Origins of Money  Satoshi Nakamoto Institute_. https://nakamotoinstitute.org/library/shelling-out/.
+1. Jevons, W. S. (1876). _Money and the Mechanism of Exchange_. https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange.
+2. Kameir, C. (2019). _The Cryptocurrency Confusion  HackerNoon_. https://www.forbes.com/sites/forbesfinancecouncil/2019/01/24/the-future-of-money-from-cryptocurrencies-to-money-over-ip/#28125bb76731.
+3. Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
+4. Szabo, N. (2002). _Shelling Out: The Origins of Money  Satoshi Nakamoto Institute_. https://nakamotoinstitute.org/library/shelling-out/.
 
 ### Footnotes 
 [^1]: How do we determine what is valuable to society? _We don’t, the aggregate of society does._ It’s a combination of the social contract (State) and the free market (individual).

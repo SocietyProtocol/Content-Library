@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:18
-updated: 2025-11-14T19:21
+updated: 2026-04-10T11:06
 ---
 It's hard to imagine a world before precise clocks[^1]. Across the entirety of society, individuals who were attempting to coordinate had no precise means to synchronize. Actions that we as modern humans take for granted, like saying "lets meet at 12:00 tomorrow", weren't possible – because there was no 12:00! Just like there was no 1:00-11:00 or any precise integer for us to agree on. 
 
@@ -255,11 +255,11 @@ Just like we entered the **Industrial Age** with the clock, we will enter the **
 
 ---
 ### Bibliography
-Antonia Čirjak. (2020). How Did The Clock Change The World? In _WorldAtlas_. https://www.worldatlas.com/articles/how-did-the-clock-change-the-world.html.
-Buterin, V. (2014). _Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform._
-Cartwright, M. (2023). Clocks in the Scientific Revolution. In _World History Encyclopedia_. https://www.worldhistory.org/article/2315/clocks-in-the-scientific-revolution/.
-Medievalists.net. (2017). The role of the mechanical clock in medieval science. In _Medievalists.net_.
-Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
+1. Antonia Čirjak. (2020). How Did The Clock Change The World? In _WorldAtlas_. https://www.worldatlas.com/articles/how-did-the-clock-change-the-world.html.
+2. Buterin, V. (2014). _Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform._
+3. Cartwright, M. (2023). Clocks in the Scientific Revolution. In _World History Encyclopedia_. https://www.worldhistory.org/article/2315/clocks-in-the-scientific-revolution/.
+4. Medievalists.net. (2017). The role of the mechanical clock in medieval science. In _Medievalists.net_.
+5. Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
 
 ### Footnotes
 [^1]: Sundials, Water Clocks, and Hourglasses don't count because they don't synchronize time to even a precise 1-Dimensional number.
