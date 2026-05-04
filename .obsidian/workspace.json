@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Whitepaper/Whitepaper.md",
+                "file": "Published/Welcome Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whitepaper"
+              "title": "Welcome Page"
             }
           }
         ]
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Published/Whitepaper/Whitepaper.md",
+                "file": "Published/Welcome Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Whitepaper"
+              "title": "Backlinks for Welcome Page"
             }
           },
           {
@@ -189,12 +189,28 @@
   },
   "active": "27bf75518741784c",
   "lastOpenFiles": [
+    "Conversions/Whitepaper/Whitepaper.md",
+    "Conversions/Whitepaper/Whitepaper 1.md",
+    "Published/Whitepaper/Whitepaper 1.md",
+    "Conversions/Whitepaper",
+    "Conversions/Untitled",
+    "Conversions/Launch Articles/The Sovereign Individual (Identity).md",
+    "Conversions/Launch Articles/Rebalancing Pyramids (Coordination).md",
+    "Conversions/Launch Articles/The state of The State (History).md",
+    "Conversions/Launch Articles/The state That Binds (Shared Reality).md",
+    "Conversions/Launch Articles/Re-distribution! (Value Systems).md",
+    "Conversions/Launch Articles/Synchronized States (The Golden Record).md",
+    "Conversions/Launch Articles/How We Are Building Society Protocol.md",
+    "Conversions/Launch Articles/Fake Everything (Prelude).md",
+    "Conversions/Launch Articles/4-Dimensional Synchronization (Clocks).md",
+    "Conversions/Launch Articles/Energy Is All You Need (Money).md",
+    "Conversions/Launch Articles",
+    "Published/Whitepaper/Whitepaper.md",
     "Extras/Images/sad-wojak-3.webp",
     "Extras/Images/sad-wojak-2.webp",
     "Extras/Images/sad-wojak.webp 20-17-51-606.webp",
     "Published/Welcome Page.md",
     "Extras/Infographics/Macro Roadmap.png",
-    "Published/Whitepaper/Whitepaper.md",
     "05 🌐 Society Protocol/Whitepaper.md",
     "05 🌐 Society Protocol",
     "Published/Handbook/Function-Farming.md",
@@ -212,28 +228,12 @@
     "Published/Handbook/Function-Portal.md",
     "Published/Handbook/Function-Hunting.md",
     "Published/Handbook/Handbook-Global.md",
-    "Extras/Illustrations/Value Functions.excalidraw.md",
     "Extras/Illustrations/Handbook-Actor.excalidraw.svg",
-    "Published/Handbook/Function-Property.md",
-    "Published/Handbook/Handbook-Governance.md",
-    "Published/Handbook/Function-Communication.md",
-    "Published/Handbook/Function-Curation.md",
-    "Published/Handbook/Function-Governance (Distributed Courts).md",
-    "Extras/Illustrations/Handbook-Actor.excalidraw.md",
-    "Published/Articles/Synchronized States (The Golden Record).md",
-    "Published/Articles/Energy Is All You Need (Money).md",
-    "Extras/Icons/actor-mando-icon.png",
-    "Extras/Illustrations/Ownership Preference.excalidraw.md",
-    "Extras/Illustrations/Levels.excalidraw.md",
-    "Published/Handbook/Handbook-Levels.md",
     "Extras/Brand/Fonts/Inter-Italic-VariableFont_opsz,wght.ttf",
     "Extras/Brand/Fonts/Inter-VariableFont_opsz,wght.ttf",
     "Extras/Brand/Fonts/pptelegraf-ultrabold.otf",
     "Extras/Brand/Fonts/pptelegraf-ultralight.otf",
     "Extras/Brand/Fonts/pptelegraf-regular.otf",
-    "Extras/Brand/Fonts",
-    "05 🌐 Society Protocol/Content Library/Published/Articles",
-    "05 🌐 Society Protocol/Content Library/Published",
-    "05 🌐 Society Protocol/Content Library"
+    "Extras/Brand/Fonts"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2026-04-11T14:50
+updated: 2026-05-03T20:44
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
@@ -12,7 +12,7 @@ _Ok, let’s get past those hopes and dreams real quick._
 
 Each State has a different range as far as what it allows in members identities[^2], some allow a wider range…others a narrower one…but fundamentally an individuals identity has to remain within the box their State will tolerate. The State towers over identity and threatens ostracism or death if you step out of bounds. _We aren’t free to become anything we want, our range is limited to something that our State finds valuable enough to find tolerable._ 
 
-![Identity Selection](../../Extras/Illustrations/Identity%20Selection.png)
+![Identity Selection](/images/Illustrations/Identity%20Selection.png)
 <center>The First Step</center>
 
 This game theoretic equation is often referred to as ostracism, and falsely labelled as a relic of our ancient hunter-gatherer tribes (if an identity wasn’t something the community found valuable, an individual would be ostracized: equalling unable to survive independently in a tribal world). It’s often cited as a relic of the past, but <u>that part hasn’t changed</u>. An individual today would have a really hard time surviving without membership in one of the worlds 193 Nation States—the modern evolution of ancient tribes. **The need of the Nation State to keep identities within a range that’s valuable for it hasn’t changed.** What’s changed is the size of the State structure and the range of identities it can tolerate—both have expanded as civilization has evolved. Today, in the liberalism of the modern Western world that range almost seems infinite—<u>but it isn’t</u>.
@@ -25,7 +25,7 @@ This game theoretic equation is often referred to as ostracism, and falsely labe
 
 In conjunction with the individual, the ever changing meta-game existing in the shared reality influences their identity within that range. So, even within that entire range: W_e don’t entirely belong to ourselves. The identity is a negotiation between the individual and the shared realities they are a part of (their external environment/surroundings/community)._ This involves multiple layers, but at the highest layer it’s the Nation State structure protecting the individual in the modern age. 
 
-![Identity Negotiation](../../Extras/Illustrations/Identity%20Negotiation.png)
+![Identity Negotiation](/images/Illustrations/Identity%20Negotiation.png)
 <center>The Second Step</center>
 
 Identifying as the most dangerous man in the world is within the range a Nation State can allow (one obviously exists), but its difficult to say I’m the most dangerous man in the world if the shared reality will strike down that identity by not accepting it. If I keep persisting in my version of reality, I will become considered delusional and then crazy, then ostracized or taken to the crazy house. _The game theory here is that we, as individuals, negotiate with the shared reality for our identities from a pool of available identity slots_ _(roles)[^3], to maximize our survival._
@@ -36,14 +36,14 @@ _Identity controls everything._ Our mentality, the range of ideas floating aroun
 
 It’s also worth mentioning, that the shared reality is responsible for our initial programming, via the indoctrination process described in [The state That Binds](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). This programming allows us to function as a member of the State. Meaning, even within this identity negotiation between the individual and the shared reality, the shared reality sets up much of the initial programming parameters while we’re helpless children, before we become adults and can distinguish for ourselves which part of the box (of identity ranges) we want to reside in[^4].
 
-![Identity Negotiation Indoctrinated](../../Extras/Illustrations/Identity%20Negotiation%20Indoctrinated.png)
+![Identity Negotiation Indoctrinated](/images/Illustrations/Identity%20Negotiation%20Indoctrinated.png)
 <center>The Zeroth Step</center> 
 
 Once we factor in these limitations (the death box) and (shared reality indoctrination & influence) _everything else we can choose for ourselves._ It’s really only the death box, indoctrination programming, and the constant shared reality influence that limits us.
 
 To form our identity optimally, we then have to understand "the shape of the world.” That is our external environment: the changing meta-game of society at the current moment.
 
-> Having good perception is a necessary precondition for agency because most of the world is human-constructed. Hence taking action depends on internal state from perceiving the environment, not genetic templates. Without seeing the shape of the world, taking the right action is difficult.” \[@wangImitationTriangles2024\]
+> Having good perception is a necessary precondition for agency because most of the world is human-constructed. Hence taking action depends on internal state from perceiving the environment, not genetic templates. Without seeing the shape of the world, taking the right action is difficult.” (Wang, 2024)
 
 _It’s not difficult, it’s impossible._ The issue is: our indoctrination prevents us from perceiving things accurately to begin with.
 
@@ -54,7 +54,7 @@ _Beliefs are fashion._
 - People wear and own what they identify with and want to be perceived as. 
 	- Often taking an item of lower quality but associated with a brand we are associated with, over an item of higher quality.
 - A lot of times people’s beliefs are held by their friends and not themselves.
-- Rob Henderson and Erik Torenberg describe how these mechanics work in detail, in \[@hendersonLuxuryBeliefsAre2023\] and \[@torenbergBeliefsAreFashions2022\].
+- Rob Henderson and Erik Torenberg describe how these mechanics work in detail, in (Henderson, 2023) and (Torenberg, 2022). 
 
 * * *
 
@@ -90,20 +90,14 @@ At each epoch of societal evolution, the social cohesion mechanisms have evolved
 
 > ***This fundamentally means that we can only create better more powerful identities (and people) by creating better coordinated societies.***
 
-<!-- * * *
-
-#### A Brief Interlude
-
-More teachings about how to refine identity, achieve longevity, and find purpose can be found at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co). -->
-
 ## Evolution of Identity
 
 In this article, we will cover: where we have been in the past, where we are now, and how the nature of identity will change in the future. The four epochs we cover are the same pattern from every other article.
 
-1. [Zero-Entry Accounting (ZEA) – Tribes (Pre 10,000 BCE – 3,500 BCE)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Zero-Entry+Accounting+%E2%80%93+Tribes+(Pre+10%2C000+BCE+%E2%80%93+3%2C500+BCE))
-2. [Single-Entry Accounting (SEA) – Classical States (3500 BCE–476 CE)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Single-Entry+Accounting+%E2%80%93+Classical+States+(3500+BCE%E2%80%93476+CE))
-3. [Double-Entry Accounting (DEA) – Nation States (500 – Present)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Double-Entry+Accounting+%E2%80%93+Nation+States+(500+%E2%80%93+Present))
-4. [Triple-Entry Accounting (TEA) – Synchronized States (Starts now)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Triple-Entry+Accounting+%E2%80%93+Synchronized+States+(Starts+now))[](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Triple-Entry+Accounting+%E2%80%93+Synchronized+States+(Starts+now))
+1. [Zero-Entry Accounting (ZEA) – Tribes (Pre 10,000 BCE – 3,500 BCE)](/articles/the-state-of-the-State/#:~:text=Zero%2DEntry%20Accounting%20%E2%80%93%20Tribes%20(Pre%2010%2C000%20BCE%20%E2%80%93%203%2C500%20BCE))
+2. [Single-Entry Accounting (SEA) – Classical States (3500 BCE–476 CE)](/articles/the-state-of-the-State/#:~:text=Single%2D-,Entry,-Accounting%20%E2%80%93%20Classical%20States)
+3. [Double-Entry Accounting (DEA) – Nation States (500 – Present)](/articles/the-state-of-the-State/#double-entry-accounting-nation-states-500-present:~:text=Nation%20States%20(500%20%E2%80%93-,Present,-))
+4. [Triple-Entry Accounting (TEA) – Synchronized States (Starts now)](/articles/the-state-of-the-State/#triple-entry-accounting-synchronized-states-starts-now:~:text=Triple%2DEntry%20Accounting%20%E2%80%93-,Synchronized,-States%20(Starts%20now))
 
 It's important to understand that as we go through these epochs, they stack on top of each other––not replace each other. We still use reputation systems and rituals of identity change, originating from the ZEA age today, but have added permanent records (SEA), duplicated contracts (DEA), and soon world-wide synchronization (TEA).
 
@@ -131,7 +125,7 @@ The legacies of these rituals weren’t recorded. Everything during the ZEAA was
 
 Individuals had to fit their “role” into the tribal State’s shared reality of social cohesion (a small range). Their only freedom to differentiate individually was inside that tiny range. Lots of death outside that range.
 
-![Identity Selection Small](../../Extras/Illustrations/Identity%20Selection%20Small.png)
+![Identity Selection Small](/images/Illustrations/Identity%20Selection%20Small.png)
 
 During the ZEAA, individuals whole concept of lasting identity probably wasn’t as deep or strategic as ours today. They probably didn’t ponder about who they were so much, because it constantly changed, but rather acted on it—locked into whatever their identity was in the moment (locked into that level of Maslow’s hierarchy of needs).
 
@@ -141,7 +135,7 @@ Roles were fully attached to ethnicity, your Tribe (State) _<u>was</u>_ your eth
 
 While privacy from the tribe was rare; privacy over time was common. Whatever an individual did, could easily be wiped from the record, _because there was no record_. No CCTV cameras, no credit scores…Individuals were tracked by grandmothers. 
 
-![600](../../Extras/Memes/grandmothers-surveillance.png)
+![600](/images/Memes/grandmothers-surveillance.png)
 
 #### Individualism
 
@@ -173,7 +167,7 @@ Written records enabled the accumulation of knowledge, bureaucratic control, and
 
 Hierarchies emerged. Classical States imposed documented identities for censuses, taxes, and military conscription. This boosted coordination amongst the elites while simultaneously eroding power, privacy, and the tribal bonds from the vast majority of people within the societal pyramid—who couldn’t access or alter the recorded state.
 
-![Identity Negotiation SEAA](../../Extras/Illustrations/Identity%20Negotiation%20SEAA.png)
+![Identity Negotiation SEAA](/images/Illustrations/Identity%20Negotiation%20SEAA.png)
 
 Knowledge became separated from identities for the first time in history. During the ZEAA, _identity was synonymous with knowledge_. “Elder loss” meant losing all the knowledge stored within that person. It was only when written records emerged that identity and knowledge became separated.
 
@@ -248,7 +242,7 @@ Individuals came to feel they had a "social contact" shared with others which wa
 
 The DEAA is fundamentally an age of intermediary middle-men facilitating horizontal societal interactions using duplicated contracts. This is because for all our identity records to interoperate, we need middle-men to connect all our separate duplicated contracts to the rest of society. Religious structures, such as churches and mosques served this function early during the DEAA. In modern times, this function is largely in the hands of those who own and control our identity, property, and data records: corporations and Nation States.
 
-![600](../../Extras/Illustrations/Hubs%20of%20DEAA.excalidraw.png)
+![600](/images/Illustrations/Hubs%20of%20DEAA.excalidraw.png)
 <center>The hubs of the DEAA allow participants to interoperate with the rest of the system. They connect all the separate duplicate contracts</center>
 
 * * *
@@ -265,7 +259,7 @@ Currently, these duplicated contracts are in the form of digital data. To facili
 
 Identity is now a hybrid—personal, yet algorithmic (part of it belongs to you and part to the algorithms). _Who controls the algorithms?_
 
-![800](../../Extras/Images/terminator.jpg)
+![800](/images/Images/terminator.jpg)
 
 Each piece of accumulated data increases the power intermediaries have over individual’s identities. Intermediaries can use this power in many ways:
 
@@ -275,11 +269,11 @@ Each piece of accumulated data increases the power intermediaries have over indi
 
 The middle-men of the DEAA use this accumulated data, as leverage to negotiate for changes in our identities with overwhelming power. Our identities are shaped and molded by algorithms, belonging to ultra powerful intermediaries, alongside the "_equal_" parties we interact with. The biggest force shaping our identities in the modern DEAA is those in-control of the algorithms we all use—the technocratic elites[^6].
 
-![800](../../Extras/Images/matrix-neo-mouth.jpg)<center>Worldwide censorship is accessible at the click of a button.</center>
+![800](/images/Images/matrix-neo-mouth.jpg)<center>Worldwide censorship is accessible at the click of a button.</center>
 
-![atm-wthdrawal-declined](../../Extras/Memes/atm-wthdrawal-declined.jpg)<center>Debanking and confiscation of property is accessible at the click of a button.</center>
+![atm-wthdrawal-declined](/images/Memes/atm-wthdrawal-declined.jpg)<center>Debanking and confiscation of property is accessible at the click of a button.</center>
 
-![800](../../Extras/Images/isolation-room.png)<center>Removing an identity from its social connections is accessible at the click of a button, and can be done insidiously imperceptibly by tuning the algorithm.</center>
+![800](/images/Images/isolation-room.png)<center>Removing an identity from its social connections is accessible at the click of a button, and can be done insidiously imperceptibly by tuning the algorithm.</center>
 
 From the opposite individual side, the individual can't do any of these things. The individuals cannot select the algorithms imposed on their lives. They often can't even access information about their identity owned by the intermediaries. Individuals cannot effectively possess, access, interact with, or commercialize (buy & sell) their identity, property, or data without the support of these middle-men.
 
@@ -295,7 +289,7 @@ Roles shifted from ascribed feudal roles, to achieved & attained individualist s
 
 _Anyone can become anything! You too can be like Mike!_
 
-![michael-jordan-slam](../../Extras/Images/michael-jordan-slam.jpg)
+![michael-jordan-slam](/images/Images/michael-jordan-slam.jpg)
 
 Roles during the DEAA have become significantly more decoupled from race and ethnicity. Today, we are citizens of Nation States, most of which have abstracted away the conceptualization of race and ethnicity from the conceptualization of the State structure in order to increase the coordination and efficiency of multiple tribes working together as one structure. Most Nation States are multi-ethnic and multi-cultural. Race is still an issue, but the primary bind on identities is the Nation State, not the race. When I travel, they don’t ask for my race, they ask what Nation State I’m from—for my passport. Multiple ethnicities and races have equal legal rights inside a single Nation State structure.
 
@@ -321,7 +315,7 @@ Additionally, the DEAA has enhanced property rights. It enabled the precise trac
 
 _Privacy has been severely eroded during the DEAA._ We still have the old-fashioned communal reputation—the neighborhood grandmothers keeping an eye on us—but now the surveillance has gone global. Everyone's watching: governments, corporations, and billions of people online. Our actions and reputations are tracked worldwide. Hundreds of institutions monitor and record our entire lives. _Privacy has never been scarcer._
 
-![modern-surveillance.excalidraw](../../Extras/Memes/modern-surveillance.excalidraw.png)
+![modern-surveillance.excalidraw](/images/Memes/modern-surveillance.excalidraw.png)
 
 Anonymous (and to a lesser degree pseudonymous) digital existence cannot be tolerated by the Nation State, because it cannot provide social cohesion under such circumstances. Since the Nation State itself is a creature of past simpler times (of duplicated written contracts and democracy)—it can only hook into and see the things happening within those systems, meaning: _it can’t naturally access digital data_. Since it can’t itself perceive the digital data—flowing like blood flow throughout its territory—it needs to find some eyes—”Oh, hi corporations! 👀.” _But since corporations still can’t perceive anonymous digital expressions, <u>the State can’t allow them</u>._ **That would disintegrate its social cohesion.** _A State that cannot provide social cohesion cannot survive._ _Welcome to Surveillance States 🎉_.
 
@@ -341,7 +335,7 @@ This is from a very cool story called [Privacy Means Safety](https://www.privacy
 > 
 > There are many circumstances where inadvertently or maliciously exposed data can put someone in grave danger. Worse, sometimes this danger might not even be known at the time, but might become incredibly important later on.
 > 
-> We should never downplay the serious risk of exposing someone's data, even if this isn't a situation we personally experience, or even understand.” \[@emPrivacyMeansSafety2025\]
+> We should never downplay the serious risk of exposing someone's data, even if this isn't a situation we personally experience, or even understand.” (Em, 2025)
 
 _That’s a very cool story bro!_ Unfortunately, it’s kinda moot.
 
@@ -441,7 +435,7 @@ The identity data each SP instance generates will either remain in the hands of 
 
 > **The Synchronized Social Contract (SSC)** is the singular transparent synchronized social contract facilitating a shared reality, shared by all participants inside a Society Protocol instance.
 
-![600](../../Extras/Images/state-sphere.png)
+![600](/images/Images/state-sphere.png)
 <center>The Synchronized Social Contract</center>
 
 Rather than interacting with many separate independent duplicated contracts of the DEAA, identities of the TEAA interact directly with the SSC.
@@ -464,7 +458,7 @@ Society Protocol allows every Individual Actor to fluidly choose their own roles
 
 Individuals don’t have to choose one role or commit to anything forever—they can divide their Energy between Functions however they decide is best for them at each point in time. **The SSC already includes everything necessary to provide social cohesion and optimize coordination**—allowing every Individual Actor to have a unique configuration of how their Energy is distributed between Functions without oversight.
 
-![800](../../Extras/Illustrations/Value%20Functions.excalidraw.svg)
+![800](/images/Illustrations/Value%20Functions.excalidraw.svg)
 
 - **Parents –** Individuals who are good at recognizing others who are aligned and talented can become successful as Parents, inviting many valuable people to their SP instance—expanding the power of their shared reality.
 - **Hunters –** Individuals who want earn Energy in a relatively easy fashion while helping their SP instance propagate Events, especially those who have the best machines to do so, can become successful Hunters. Hunters expand censorship resistance for everyone and clean the Energy pool of stagnant Energy.
@@ -510,7 +504,7 @@ While Society Protocol provides less privacy than ever before during history, as
 
 **Pseudoanonimity**: Society Protocol instances consist of pseudonymous accounts and allow for multiple identities. This is different from the traditional government IDs of the DEAA and can facilitate a sense of privacy in some cases. Pseudonymous expression is really important to any society, being that pseudonymous/anonymous expression is the only way individuals can express truth which is taboo, politically inconvenient, or dangerous for their identity.
 
-![450](../../Extras/Images/cypherpunk-helmet.png)
+![450](/images/Images/cypherpunk-helmet.png)
 
 Pseudoanonimity has historically demonstrated itself to be an important tool for coordination under duress. Very basic things, that we take for granted today, required pseudoanonimity: Bitcoin by Satoshi Nakamoto, The Federalist Papers by Publius, Nicolaus Copernicus’s Heliocentric Theory.
 
@@ -618,7 +612,7 @@ _What will the new types of societies which come from Synchronized States during
 - It will be more about “how can I contribute to society?” because that’s incentivized, both at an individual and organizational level. (Individuals will become better people.)
 - The worldwide Synchronized Social Contract (SSC) will make everyone more connected, aware, and intelligent—able to make better decisions as a society at scale.
 
-![600](../../Extras/Images/flock-of-birds-2.png)
+![600](/images/Images/flock-of-birds-2.png)
 
 - _The state of the present moment and history will become more illuminated._ 
 
@@ -637,9 +631,9 @@ If you are looking for a community to join or invest in, where everyone is align
 1. Em. (2025). Privacy Means Safety. In _Privacy Guides_. https://www.privacyguides.org/articles/2025/03/25/privacy-means-safety/.
 2. Henderson, R. (2023). _Luxury Beliefs are Status Symbols_. https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for.
 3. Torenberg, E. (2022). Beliefs are Fashions [Substack Newsletter]. In _Erik Torenberg_.
-4. Wang, K. (n.d.). _Imitation Triangles_. https://kaiwenwang.com/writing/imitation-triangles.
+4. Wang, K. (2024). _Imitation Triangles_. https://kaiwenwang.com/writing/imitation-triangles.
 
-### Footnotes
+
 [^1]: The State itself is being limited in its identity by the need to keep tribal cohesion and survive against other rival States.
 [^2]: At every stage/epoch of societal evolution, our range of identity is limited by societal cohesion. We can only have as much individualism, agency, or privacy as the State structure can sustain while maintaining societal cohesion.
 [^3]:  Identity slots are roles that society needs. They are fluid, limited, and differ in various societies. For example, a society generally needs one president, thousands of movie stars, and hundreds of thousands of baristas. _These roles are fluidly changing, and often not clearly defined, but they do exist, are limited, and have scarcity. This forms a pyramid. It also creates “identity markets” with people vying for various identity slots in the hierarchy. The slots are limited top-to-bottom, a society can only support so many beggars: there’s only a certain amount of identity slots available for beggars._

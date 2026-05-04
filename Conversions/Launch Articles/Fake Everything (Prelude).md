@@ -1,6 +1,6 @@
 ---
 created: 2025-04-17T11:15
-updated: 2026-04-11T14:50
+updated: 2026-05-03T20:44
 ---
 Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. To verify this, please run a simple thought experiment:
 
@@ -14,7 +14,7 @@ Many implications can be drawn from this: that decentralization matters, why own
 
 **It gets worse**, economic game theory stipulates that participants are incentivized to form cabals and manipulate these perceptions to reap economic rewards. This is called <u>decentralization theater</u>. Another conclusion can be drawn (and practically observed if you peer close enough in this industry): every asset blockchain is a cabal of insiders manipulating the perception of ownership set for economic benefit as this behavior is the game theory optimal strategy. **Therefore, blockchains can never live up to their decentralized vision**, because the value of every asset is not only imperceptible without understanding the social layer but also always manipulated by a cabal of insiders underneath.
 
-**This situation isn’t something that we have to watch out for once** (such as collusion during the trusted setup of zk-snarks [@vitalikbuterinHowTrustedSetups2022]), it’s something that can happen at any point during the lifetime of a network, persists silently (as cabals do) in the system, and also happens to be the default starting state for any of these systems with participants who understand game theory.
+**This situation isn’t something that we have to watch out for once** (such as collusion during the trusted setup of zk-snarks (Vitalik Buterin, 2022), it’s something that can happen at any point during the lifetime of a network, persists silently (as cabals do) in the system, and also happens to be the default starting state for any of these systems with participants who understand game theory.
 
 While these dynamics are always theoretically costly to ordinary participants, let's combine theory with practice and explore some catastrophic scenarios. _This article is neither a condemnation of the entities involved, nor a pessimistic article. It underlies a systematic issue in blockchain networks that we have resolved at Society Protocol._
 
@@ -23,7 +23,7 @@ While these dynamics are always theoretically costly to ordinary participants, l
 Market participants perceive asset valuations through the lens of global markets…yet these valuations are _easily manipulated_ with permissionless sybil attacks. **True valuations must include the true ownership set.** Since blockchain networks do not have sybil resistance, we cannot make assertions or trust in the decentralization of the ownership set, and therefore the asset valuation itself–**making sound money impossible**.
 
 **Visualization of ownership categories:**
-![700](../../Extras/Illustrations/Ownership%20Preference.excalidraw.png)_Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out; is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
+![700](/images/Illustrations/Ownership%20Preference.excalidraw.png)_Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out; is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
 
 ### Fake Transactions
 
@@ -136,7 +136,7 @@ Attempts at creating true governance systems and organizations, such as decentra
 
 > “Oh, sorry sir. A cabal actually owns the majority of this DAO…no way to prove, no way to perceive. **Sorry, your votes don’t actually count**. We do appreciate you offering feedback, and please have some swag at our next conference, it’s on us!”.
 
-![350](../../Extras/Memes/are-not-real.jpg)
+![350](/images/Memes/are-not-real.jpg)
 
 Governance actually functions as a feedback mechanism for the cabal in these organizations. Which isn’t necessarily a bad or a good thing, again we want to reiterate–**you’re investing in the strength of the cabal.**
 
@@ -182,7 +182,7 @@ The true root of coordination in blockchains always happens underneath at the so
 
 In most modern networks, often the most powerful and coordinated social layer underneath is the organization which produces and releases updates for the network or application. You see–most blockchains and decentralized applications are still far off from fulfilling their final visions, requiring massive development work behind the scenes. Somebody has to coordinate all this building at the social layer: This group naturally has to be coordinated, organized, and aligned–with shared financial interests. The most powerful cabals in the blockchain world are often found here.
 
-An interesting piece by Haseeb Qureshi [@qureshiEthereumNowUnforkable2019] illustrated a convincing argument that a strong influence in the fork choice of blockchain networks is likely to be ultimately controlled at the social layer by financial entities, and especially centralized entities controlling real-world assets tied to the blockchain like USDT, USDC, and WBTC.
+An interesting piece by Haseeb Qureshi (Qureshi, 2019) illustrated a convincing argument that a strong influence in the fork choice of blockchain networks is likely to be ultimately controlled at the social layer by financial entities, and especially centralized entities controlling real-world assets tied to the blockchain like USDT, USDC, and WBTC.
 
 > “In the meantime, DeFi operators watch anxiously. Their hands are tied: they cannot pick sides too early. Why? Because for a DeFi operator, picking the correct fork is critical to their system surviving, and nobody wants to be blamed for instigating additional conflict.” (Qureshi, 2019)
 
@@ -192,7 +192,7 @@ While it would appear that we are talking about fork-choice rule in this section
 
 When the organized social layer decides it’s time to move (fork) or simply not honor the blockchain network–**there is no security, asset valuation, or governance method that will save you**. Either you move with the social layer (which can manipulate or invalidate your assets); or all your assets deriving power from that social layer[^2] will be invalidated in the eyes of the group when the social layer leaves the building.
 
-![750](../../Extras/Memes/Whoosh.jpg)
+![750](/images/Memes/Whoosh.jpg)
 
 This rule applies any blockchain network and any singular or plural application(s) built on top of it. The social layer, which is assumed to be uncoordinated, but in reality is unevenly coordinated – can simply move to a new ledger and strike you out of the ledger if they are: 1) coordinated enough to do so AND 2) feel like it. This creates another series of perverse incentives for individual actors forming cabals at the social layer and punishments for individuals not being aware of the social layer dynamics (which are fog of war murky due to information flow in real life and politics).
 
@@ -235,7 +235,7 @@ Does this mean that Blockchain is a fraud or scam? **Not exactly**…they’re m
 We must compare it to it’s alternatives. What blockchain offers is worldwide value transmission at the behest of a cabal. Which is kind of similar to what centralized fiat money systems controlled by cartels offer, except there’s less rules and the cabal is more opaque and network based. So it has legitimate conceivable advantages over the fiat system. While the fiat system is run by <u>nation states</u>, blockchains are run by <u>synchronized states</u>. How do they compare against commodities like gold? Let’s take a closer look!
 
 **The cartel (fiat) vs the cabal (crypto) vs the rock (commodities)!**
-![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/5444ba14-0790-43b2-a2e6-b464fbf7a351-RackMultipart20250417-132-njpzri.png)
+![](/images/Illustrations/Tables/Fiat%20vs%20Crypto%20vs%20Commodities%20Comparison.png)
 
 Despite everything we have expoused out about its flaws in this article…it turns out that blockchain based cabal ran <u>synchronized states</u> have legitimate advantages over both fiat and commodities systems! Not only are they likely **unstoppable**, they are also **valuable to society!** These networks are poised to _grow_.
 
@@ -249,7 +249,7 @@ The issue is, participants (who are not battling in these cabals), cannot see wh
 
 So civilization is at a critical turning point: we've moved from Web2, where users owned nothing, into Web3, where users believe they own something—but in reality, still don't. To truly progress, we must evolve toward Web4, where ownership isn't an illusion, but a more stable reality. _The cabal can’t rug us…if their lives…are on the blockchain_!
 
-![700](../../Extras/Memes/cabal-cant-rug-us.jpg)
+![700](/images/Memes/cabal-cant-rug-us.jpg)
 
 ## **Society Protocol**
 
@@ -280,7 +280,7 @@ Society Protocol has developed a synchronized state that is able to fulfill all 
 **Web3 is dead. Web4 is alive.** Both literally and figuratively.
 
 ### Let’s revisit our comparison:
-![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/3e15a5d0-65cf-4854-a90c-1765b917e766-RackMultipart20250417-162-i00i2g.png)
+![](/images/Illustrations/Tables/Fiat%20vs%20Crypto%20vs%20Commodities%20vs%20Society%20Comparison.png)
 
 ## **Conclusion**
 
@@ -297,7 +297,7 @@ Society Protocol disrupts this trajectory by bringing the social layer on-chain,
 1. Vitalik Buterin. (2022, March 14). _How do trusted setups work?_ [https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html)
 2. Qureshi, H. (2019, October 31). _Ethereum is now unforkable, thanks to DeFi_. Haseeb Qureshi. [https://haseebq.com/ethereum-is-now-unforkable-thanks-to-defi/](https://haseebq.com/ethereum-is-now-unforkable-thanks-to-defi/)
  
-### Footnotes
+
 [^1]: For example, blockchain networks often claim to provide censorship resistance and credible neutrality. If examined in more detail, these features are completely dependent on who the imperceptible factors of who owns the assets and is running the network nodes. What are their beliefs and tendencies?
 [^2]: This doesn’t necessarily include assets under control of that social layer i.e. in smart contracts. For example, assets locked inside a lending vault of a protocol that has vacated the blockchain network would remain there (assuming no governance changes), but the protocol governance token would become worthless (abandoned). This may or may not break the smart contracts.
 [^3]: These groups do not necessarily have to preserve your assets when they switch, those are political and reputational consideration.

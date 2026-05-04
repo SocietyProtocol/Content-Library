@@ -1,6 +1,6 @@
 ---
 created: 2025-11-27T23:24
-updated: 2026-04-11T14:50
+updated: 2026-05-03T20:43
 ---
 # Table of Contents
 *There are two main parts to this article, the "Fundamentals of Money" covers how money works and the "Evolutions of Monetary Systems" covers the evolutionary stages of money throughout history.*

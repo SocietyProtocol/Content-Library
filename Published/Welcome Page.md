@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T11:23
-updated: 2026-05-03T20:04
+updated: 2026-05-03T20:56
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
@@ -12,18 +12,18 @@ updated: 2026-05-03T20:04
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1186796830?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="game-theory-video-final"></iframe></div>
 
 ### Whitepaper
-[[Whitepaper]]
+[[05 🌐 Society Protocol/Content Library/Published/Whitepaper/Whitepaper]] 
 ### Articles
-[[Fake Everything (Prelude)]]
-[[Published/Articles/4-Dimensional Synchronization (Clocks)|4-Dimensional Synchronization (Clocks)]]
-[[The state of The State (History)]]
-[[Published/Articles/The state That Binds (Shared Reality)|The state That Binds (Shared Reality)]]
-[[Published/Articles/Synchronized States (The Golden Record)|Synchronized States (The Golden Record)]]
-[[The Sovereign Individual (Identity)|The Sovereign Individual (Identity)]]
-[[Published/Articles/Energy Is All You Need (Money)|Energy Is All You Need (Money)]]
-[[Published/Articles/Rebalancing Pyramids (Coordination)|Rebalancing Pyramids (Coordination)]] 
-[[Published/Articles/Re-distribution! (Value Systems)|Re-distribution! (Value Systems)]] 
-[[Published/Articles/How We Are Building Society Protocol|How We Are Building Society Protocol]] 
+[[Published/Launch Articles/Fake Everything (Prelude)|Fake Everything (Prelude)]]
+[[Published/Launch Articles/4-Dimensional Synchronization (Clocks)|4-Dimensional Synchronization (Clocks)]]
+[[Published/Launch Articles/The state of The State (History)|The state of The State (History)]]
+[[Published/Launch Articles/The state That Binds (Shared Reality)|The state That Binds (Shared Reality)]]
+[[Published/Launch Articles/Synchronized States (The Golden Record)|Synchronized States (The Golden Record)]]
+[[Published/Launch Articles/The Sovereign Individual (Identity)|The Sovereign Individual (Identity)]]
+[[Published/Launch Articles/Energy Is All You Need (Money)|Energy Is All You Need (Money)]]
+[[Published/Launch Articles/Rebalancing Pyramids (Coordination)|Rebalancing Pyramids (Coordination)]]
+[[Published/Launch Articles/Re-distribution! (Value Systems)|Re-distribution! (Value Systems)]]
+[[Published/Launch Articles/How We Are Building Society Protocol|How We Are Building Society Protocol]]
 ### Handbook
 [[Handbook-Global]]
 [[Handbook-Actor]]

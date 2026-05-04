@@ -1,23 +1,7 @@
 ---
 created: 2026-01-08T18:17
-updated: 2026-04-11T14:50
+updated: 2026-05-03T20:44
 ---
-## Table of Contents
-1. [Introduction](#Introduction)
-	1. [Value Systems](#Value%20Systems)
-	2. [Value Functions](#Value%20Functions)
-2. [History/Evolution Of Value Systems — A Transition To A New Age](#History/Evolution%20Of%20Value%20Systems%20%E2%80%94%20A%20Transition%20To%20A%20New%20Age)
-	1. [(DEAA) Indoctrination/Referral Systems ➡️ (TEAA) Parenting](#(DEAA)%20Indoctrination/Referral%20Systems%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Parenting)
-	2. [(DEAA) Informational Advantages/Edges ➡️ (TEAA) Hunting](#(DEAA)%20Informational%20Advantages/Edges%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Hunting)
-	3. [(DEAA) Property Rights ➡️ (TEAA) Property](#(DEAA)%20Property%20Rights%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Property)
-	4. [(DEAA) Gossip/Reviews ➡️ (TEAA) Curation](#(DEAA)%20Gossip/Reviews%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Curation)
-	5. [(DEAA) Governance ➡️ (TEAA) Governance](#(DEAA)%20Governance%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Governance)
-	6. [(DEAA) Organizations \[Corporations and Religions\] ➡️ (TEAA) Organizations \[Distributed Corporations and Cultural Agreements\]](#(DEAA)%20Organizations%20%5C%5BCorporations%20and%20Religions%5C%5D%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Organizations%20%5C%5BDistributed%20Corporations%20and%20Cultural%20Agreements%5C%5D)
-	7. [(DEAA) Communication Channels ➡️ (TEAA) Communication VF](#(DEAA)%20Communication%20Channels%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Communication%20VF)
-	8. [(DEAA) state Storage \[Data Centers and Libraries\] ➡️ (TEAA) Farming](#(DEAA)%20state%20Storage%20%5C%5BData%20Centers%20and%20Libraries%5C%5D%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Farming)
-	9. [(DEAA) Exit ➡️ (TEAA) Portal](#(DEAA)%20Exit%20%E2%9E%A1%EF%B8%8F%20(TEAA)%20Portal)
-3. [Conclusion](#Conclusion)
-
 ## Introduction
 Redistribution gets a bad name…from the communists, and socialists, and fascists…and all the horrors of history, but the reality is that the State’s purpose is to <u>coordinate</u> people into the strongest possible structures, and that means redistributing resources! _It’s literally their job._
 
@@ -111,7 +95,7 @@ Society Protocol comes with nine original Value Functions: [_Parenting_](https:/
 
 Below, we’ll explore how Society Protocol's nine original Value Functions evolve their equivalents from the DEAA.
 
-![Value Functions.excalidraw](../../Extras/Illustrations/Value%20Functions.excalidraw.svg)
+![Value Functions.excalidraw](/images/Illustrations/Value%20Functions.excalidraw.svg)
 
 ### (DEAA) Indoctrination/Referral Systems ➡️ (TEAA) Parenting
 
@@ -235,7 +219,7 @@ Governance can be relabeled as “group decision-making” and is always a neces
 
 Through the usage of _duplicated contracts,_ societies have evolved into attempting to allow everyone to participate using democratic principles (for better or worse). The DEAA generally only supports representative democracy because the technology to gather direct votes in a secure manner has been essentially nonexistent[^7]. Democracy isn’t a perfect form of decision-making, it’s theoretically flawed in many ways: it’s slow, the majority of people aren’t well informed, and their opinions are manipulatable in many ways: disinformation, bribes, etc.
 
-![600](../../Extras/Memes/osho-democracy.jpg)
+![600](/images/Memes/osho-democracy.jpg)
 
 That said, the alternatives for organizational group decision-making are limited and the bar is low. Beyond physical violence, our only options have been monarchies and oligarchic enshrined councils.
 
@@ -251,7 +235,7 @@ While not all the Governance in SP runs through Value Functions, the Governance 
 
 **<u>TEAA incentive alignment</u>**: The governance mechanisms of the TEAA aim to reward participants who are able to make the best possible decisions, while using less effort than a Democracy by not needing to involve everyone in all decisions, at all times. These are the principles of meritocracy which the TEAA will be built on. TEAA governance mechanisms allow any Actor or Organization to participate in Governance, <u>but incentivize only the best Governors, and don’t mandate or desire that everyone participates</u>. The system aims to reward competence and alignment in decision-making. Meritocratic systems can entirely offload the economic costs of governance (such as representative salaries) from the populace, by allowing direct representation and structuring incentives as zero-sum mini games between decision-makers.
 
-![Dictatorship vs Democracy vs Meritocracy.excalidraw](../../Extras/Illustrations/Dictatorship%20vs%20Democracy%20vs%20Meritocracy.excalidraw.png)
+![Dictatorship vs Democracy vs Meritocracy.excalidraw](/images/Illustrations/Dictatorship%20vs%20Democracy%20vs%20Meritocracy.excalidraw.png)
 
 ### (DEAA) Organizations \[Corporations and Religions\] ➡️ (TEAA) Organizations \[Distributed Corporations and Cultural Agreements\]
 
@@ -353,7 +337,7 @@ The nine original Value Functions aren't just upgrades to existing social mechan
 
 The Age of Synchronicity awaits, and with it, the possibility of societies that don't just survive but genuinely thrive—where redistribution becomes the engine of human flourishing rather than a source of horrors and corruption.
 
-### Footnotes
+
 [^1]: The social contract side always distorts the equation on the free market side. For example: a social contract with a 300% tax on cigarettes versus a 0% tax will equate to different equations on free market side. A social contract where polygamy is the norm, will equate to different dynamics in the free market for marriage.
 [^2]: For more information about coordination, please read [Rebalancing Pyramids (Coordination)](https://societyprotocol.io/Published/Articles/Rebalancing+Pyramids+(Coordination)).
 [^3]: Energy itself is how we measure and transfer value. It’s the monetary system, not the value system.

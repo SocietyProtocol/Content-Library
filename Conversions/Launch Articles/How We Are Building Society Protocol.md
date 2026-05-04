@@ -1,24 +1,7 @@
 ---
 created: 2026-01-08T18:18
-updated: 2026-04-24T22:47
+updated: 2026-05-03T20:44
 ---
-### Table of Contents
-1. [Introduction](#Introduction)
-2. [What Are We Building?](#What%20Are%20We%20Building?)
-	1. [A Single Codebase, Many Communities](#A%20Single%20Codebase,%20Many%20Communities)
-	2. [Web3 Outpost (Schelling Point)](#Web3%20Outpost%20(Schelling%20Point))
-	3. [Macro Roadmap](#Macro%20Roadmap)
-3. [Our Movement](#Our%20Movement)
-	1. [The Core Team](#The%20Core%20Team)
-	2. [Affiliates](#Affiliates)
-	3. [The Community](#The%20Community)
-	4. [Value Flows Chart](#Value%20Flows%20Chart)
-4. [Financial Strategy & Fundraising](#Financial%20Strategy%20&%20Fundraising)
-	1. [SPEC Token](#SPEC%20Token)
-5. [The Journey](#The%20Journey)
-	1. [The Dragons Clutches](#The%20Dragons%20Clutches)
-6. [Conclusion](#Conclusion)
-
 ## Introduction
 
 > “If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
@@ -27,7 +10,7 @@ updated: 2026-04-24T22:47
 
 At Society Protocol (SP), we are building the vessel for the next societal matrix––to usher in a new epoch of human civilization––the _Age of Synchronicity_[^1].
 
-We can’t possibly aspire to explain to you how amazing the Age of Synchronicity will be…_because it stretches outside the realms of our imaginations_. **_It hasn’t been built yet, and so we can’t fully visualize it_**_. We can only yearn for a vast and endless new civilization—where all of society moves as one._ We have written about our rough expectations for the Age of Synchronicity in other articles…and it does sound fantastical...but those are only the dreams of some blindfolded people in a cave—the reflections of light we are able to visualize at this moment, as first-order effects. _We cannot fully visualize, understand, or explain how fantastical the Age of Synchronicity is going to be—_**_without actually experiencing it…and to experience it…we need to build it._**
+We can’t possibly aspire to explain to you how amazing the Age of Synchronicity will be…_because it stretches outside the realms of our imaginations_. **_It hasn’t been built yet, and so we can’t fully visualize it_**_. We can only yearn for a vast and endless new civilization—where all of society moves as one._ We have written about our rough expectations for the Age of Synchronicity in other articles…and it does sound fantastical...but those are only the dreams of some blindfolded people in a cave—the reflections of light we are able to visualize at this moment, as first-order effects. _We cannot fully visualize, understand, or explain how fantastical the Age of Synchronicity is going to be—_**_without actually experiencing it_**_…and to experience it…we need to build it._
 
 _So…How are we building Society Protocol?_
 
@@ -37,9 +20,9 @@ _So…How are we building Society Protocol?_
 
 Society Protocol does not need to be entirely completed to become valuable and transition humanity into a new epoch of civilization. Sure…we have a lifetime of work ahead of us (and it likely it stretches past our lifetimes)…but the project becomes valuable to the world in around 3-5 years, once the MVP is released, and its value increases every year thereafter. _It’s like building an exquisite cathedral or a pyramid—fully, it will take centuries, but the foundation serves its core purpose as a prayer hall or pharaoh's tomb._
 
-**_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay dragons. The most powerful one of which is ethereal, sitting on a massive pile of gold, has an army of goblin wardens, and has sucked up the life-force of all the humans in the world while influencing every jurisdiction it can get its claws into. Only by slaying these dragons can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
+**_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay many dragons. The most powerful one of which is ethereal, sitting on a massive pile of gold, has an army of goblin wardens, and has sucked up the life-force of all the humans in the world while influencing every jurisdiction it can get its claws into. Only by slaying these dragons can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
 
-![kerafyrm](../../Extras/Images/kerafyrm.jpg)*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*
+![kerafyrm](/images/Images/kerafyrm.jpg)*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*
 
 In [Synchronized States](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)), we elaborated on why the transition from Nation States to Synchronized States is absolutely inevitable. To summarize, Nation States will enter into a prisoners dilemma with each other, in which, absolutely all of them will be forced to transition into Synchronized States. The only open question remaining—_is_ **_how this transition unfolds_**: Does humanity transition directly into The Age of Synchronicity (Aquarius), or does it spend a few centuries in a dark techno-feudal age first? _We will find out._ **It depends on the story humanity tells itself. <u>The stories we collectively tell ourselves are ultimately self-fulfilling prophecies</u>. Which story will you choose? Which story will humanity choose? The outcome is up to all of us dear readers.** _I know which story I want to see._
 
@@ -53,7 +36,7 @@ In [Synchronized States](https://societyprotocol.io/Published/Articles/Synchroni
 
 _The old matrix is collapsing, and the new one is yet to be born._
 
-![600](../../Extras/Images/Now-is-the-age-of-monsters.png)
+![600](/images/Images/Now-is-the-age-of-monsters.png)
 
 <center>Society Protocol is a horizontally wide project, to transition the world. We accept many types of monsters in our ranks.</center>
 
@@ -154,7 +137,7 @@ The success of Bitcoin, Ethereum and Web3 movement is crucial for our success. W
 
 ### Macro Roadmap
 
-![Macro Roadmap](../../Extras/Infographics/Macro%20Roadmap.png)
+![Macro Roadmap](/images/Infographics/Macro%20Roadmap.png)
 
 #### Roadmap Steps Overview
 1. **Create core content & infrastructure (2025–2026):** This stage includes creating all the core content to explain the Society Protocol system, and the core infrastructure required to support the weight of its movement (all the creative content and Web3 Outpost). 
@@ -181,7 +164,7 @@ The beautiful thing about Society Protocol, is that while the entire transition 
 
 If we dream of going on a Voyage to create Synchronized States—_we’re going to need a movement_. <u>Our organization alone won’t handle the pressure of buildling a new world</u>—it must be as a part of a movement. **We are creating a movement to bring Society Protocol to life**—it consists of three main segments: the core team, affiliates, and the community.
 
-> “Another form of wealth, hidden from the archaeologist, were titles to offices. Such social positions were more valuable than the tangible forms of wealth in many hunter-gatherer cultures. Examples of such positions included clan leaders, war party leaders, hunting party leaders, membership in a particular long-term trading partnership (with a particular person in a neighboring clan or tribe), midwives, and religious healers. Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege.” \[@szaboShellingOutOrigins2002\]
+> “Another form of wealth, hidden from the archaeologist, were titles to offices. Such social positions were more valuable than the tangible forms of wealth in many hunter-gatherer cultures. Examples of such positions included clan leaders, war party leaders, hunting party leaders, membership in a particular long-term trading partnership (with a particular person in a neighboring clan or tribe), midwives, and religious healers. Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege.” (Szabo, 2002)
 
 The movement is a coordinated mass of distributed humans, participating from all around the world, united by a singular intention to create Synchronized States. We coordinate around this objective by using the Web3 Outpost as our Schelling point—tracking roles and contributions through account badges, while leveraging the free market economics of Web3 to manage the financial side. _This infrastructure is built to be censorship-resistant, distributed, and decentralized from day one, providing the resilient foundation our movement needs to bring Society Protocol to life._
 
@@ -215,7 +198,7 @@ We intend for the global movement to form hubs all over the world. Gatherings, m
 
 The next sections cover the three main segments of our movement, which are: the core team, affiliates, and the community.
 
-![600](../../Extras/Illustrations/SP%20Movement%20Concentric%20Circles.excalidraw.png)
+![600](/images/Illustrations/SP%20Movement%20Concentric%20Circles.excalidraw.png)
 
 <center>Concentric circles illustration of the roles in the Society Protocol movement</center>
 
@@ -233,7 +216,7 @@ The Mythical Man Month is a classic book pertaining to this exactly subject. It 
 
 **Our organization will not be starting any Synchronized States.** <u>We aren’t politically motivated</u>. **The Society Protocol Foundation, DAO, and core team all have absolutely no interest in being the kings of a new world.** Our organization is much like the Linux Foundation—_<u>we are the stewards of infrastructure</u>. We are not looking to conquer the world, we serve the world from a position of neutrality._ _We serve the kings and queens of a new world, and help them achieve their aims of better coordinating their societies by providing the secure, modular, and neutral infrastructure, which all Synchronized States will use._
 
-![800](../../Extras/Images/galaxy-spiral-annotated.excalidraw.png)
+![800](/images/Images/galaxy-spiral-annotated.excalidraw.png)
 
 > The game is always rigged, the game always has one fatal weak spot. –Esoteric Knowledge
 > 
@@ -308,7 +291,7 @@ We encourage people to join our community using pseudonyms. You’re welcome to 
 
 ### Value Flows Chart
 
-![Movement Value Flows.excalidraw](../../Extras/Infographics/Movement%20Value%20Flows.excalidraw.png)
+![Movement Value Flows.excalidraw](/images/Infographics/Movement%20Value%20Flows.excalidraw.png)
 
 ## Financial Strategy & Fundraising
 
@@ -325,7 +308,7 @@ To fuel this movement we will need financial resources. We have created a well t
 
 The SPEC token represents contribution to Society Protocol. It’s a token that stores value, and combines with the accounts in the Web3 Outpost to distinguish who has contributed what value to Society Protocol during the process of building it.
 
-![800](../../Extras/Infographics/SPEC%20Token%20Distribution.png)
+![800](/images/Infographics/SPEC%20Token%20Distribution.png)
 
 The way that value invested in the SPEC token will be recouped is simple: we expect millions of SP instances to be launched in a bid to transition the world from Nation States to Synchronized States. Some of them will be spectacular successes worth gazillions of dollars, many of them will fail…SPEC token holders have a chance to be airdropped in accordance to their contribution in EACH one of these of instances. SPEC token holders gain the potential for millions of airdrops, stretching over decades, as SP instances are launched and experimented with, in accordance with their contribution.
 
@@ -372,7 +355,7 @@ _It’s a journey towards an entirely different epoch of human civilization—fr
 
 #### The Geeks, MOPs, and Sociopaths
 
-In his classic essay \[@davidchapmanGeeksMOPsSociopaths2015\], David Chapman brings to light a very fundamental concept of human organizations, which can be summarized as, “Nerds build new things, which attract the normies (MOPs), and then sociopaths show up and figure out how to capture and maximize the most value from the MOPs.” **This dynamic is all there is**_. It’s an absolutely inevitable natural pattern of ALL movements and organizations, and absolutely what will happen with Society Protocol._
+In his classic essay (David Chapman, n.d.), David Chapman brings to light a very fundamental concept of human organizations, which can be summarized as, “Nerds build new things, which attract the normies (MOPs), and then sociopaths show up and figure out how to capture and maximize the most value from the MOPs.” **This dynamic is all there is**_. It’s an absolutely inevitable natural pattern of ALL movements and organizations, and absolutely what will happen with Society Protocol._
 
 _So, what does this mean…?_
 
@@ -388,7 +371,7 @@ Since the codebase is always source-available, any sociopathic entities who capt
 
 You may be wondering, “Have you thought about the issue of the big scary dragon, the one which captures everyone in its clutches and drains their life-force? The magical ethereal dragon sitting on a pile of gold, with an army of goblins around it, and all those bones in its lair…the one which scares and eats everyone?”[^22]
 
-![dragons-clutches](../../Extras/Images/dragons-clutches.gif)
+![dragons-clutches](/images/Images/dragons-clutches.gif)
 
 _Well…yes. Yes we have…_
 
@@ -420,13 +403,13 @@ While no dragon can hold Society Protocol, reptiles are not all known to be smar
 
 **That’s it. The journey is complete and we enter the Age of Synchronicity.**
 
-![sleeper-corpse](../../Extras/Images/sleeper-corpse.webp)_Caption: The creators of Everquest never intended Kerafyrm, the Sleeper to die, it was designed to be impossible. Nevertheless, a group of adventurers, from a coalition of guilds on the Rallos Zek PvP server woke him by killing his four warders and fought for ~3 hours, bringing him down to ~26% HP. Sony Online Entertainment (SOE) then despawned him (suspected GM intervention or bug to keep him "unkillable"). SOE later apologized, offered compensation, and respawned him sleeping. On November 17, 2003, the same groups returned, battled for ~3–4 hours, and finally killed him. Kerafyrm, the Sleeper was slain, and never respawned again._
+![sleeper-corpse](/images/Images/sleeper-corpse.webp)_Caption: The creators of Everquest never intended Kerafyrm, the Sleeper to die, it was designed to be impossible. Nevertheless, a group of adventurers, from a coalition of guilds on the Rallos Zek PvP server woke him by killing his four warders and fought for ~3 hours, bringing him down to ~26% HP. Sony Online Entertainment (SOE) then despawned him (suspected GM intervention or bug to keep him "unkillable"). SOE later apologized, offered compensation, and respawned him sleeping. On November 17, 2003, the same groups returned, battled for ~3–4 hours, and finally killed him. Kerafyrm, the Sleeper was slain, and never respawned again._
 
 _Thank you dragon, thanks for playing._
 
 **Let’s reconstruct all the steps backwards from the Age of Synchronicity...**
 
-![Reverse Timeline from Age of Synchronicity](../../Extras/Infographics/Reverse%20Timeline%20from%20Age%20of%20Synchronicity.png)
+![Reverse Timeline from Age of Synchronicity](/images/Infographics/Reverse%20Timeline%20from%20Age%20of%20Synchronicity.png)
 
 ## Conclusion
 
@@ -444,7 +427,7 @@ If you are interested in contributing to Society Protocol, you can [join our com
 1. David Chapman. (n.d.). _Geeks, MOPs, and sociopaths in subculture evolution  Meaningness_. https://meaningness.com/geeks-mops-sociopaths.
 2. Szabo, N. (2002). _Shelling Out: The Origins of Money  Satoshi Nakamoto Institute_. https://nakamotoinstitute.org/library/shelling-out/.
 
-### Footnotes
+
 [^1]: Often referred to as the _Age of Aquarius_.
 [^2]: The great prismatic dragon was born out of the forbidden coupling of two different elemental dragons - making him into a great abomination in the eyes of many. At first many dragons flocked to Kerafyrm feeling the god-like being would bring a new age to their kind, the children of Veeshan. However, his unfathomable power and the taboo of his creation by the laws of Veeshan led to a great madness overwhelming Kerafyrm. The laws of Veeshan forbid dragons to kill and eat other dragons under any circumstance, and Kerafyrm violated these laws too by killing those who spoke out against him. 
 [^3]: This is explained in [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)).
