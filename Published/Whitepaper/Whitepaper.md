@@ -1,6 +1,6 @@
 ---
 created: 2026-04-23T15:58
-updated: 2026-05-03T18:13
+updated: 2026-05-03T19:59
 ---
 # Whitepaper
 
@@ -90,7 +90,7 @@ These hubs don't merely transmit our shared reality—_they actively reshape it_
 
 _Without a unified, synchronized record of <u>events</u>, we have no way to verify what's actually happening in our societies._ There is no verifiable, non-manipulated way to see the <u>events</u> occurring in the shared reality, presently and in the past, and the identities of individuals who are creating the events aren’t visible either. Information degrades like a game of telephone, except the telephone operators have their own secret agendas, and the power to rewrite messages for every participant.
 
-![](https://preview.redd.it/he-who-controls-the-past-controls-the-future-he-who-v0-3om5c8y0ufl61.jpg?width=640&crop=smart&auto=webp&s=bd4cb7be15f9e754d036bbf226bd846e818afef5)
+![[orwell-1984.webp]]
 
 The tragedy is that everyone knows this system is broken. We all feel the manipulation, the surveillance, the loss of agency. Yet, we remain trapped because these centralized hubs have become the only remaining Schelling points capable of coordinating any widespread shared reality at all.
 
@@ -136,6 +136,8 @@ Value systems form the basis for our incentive structures. As a result, the ince
 
 Since they are controlled by so few people, just like every other system, our value systems have become inverted. Incentive structures are poorly designed and easy to take advantage of, creating exploitable systems of allocating resources which are constantly gamed by bad actors. This inversion in our value systems has placed some of the absolute worst actors in society into the top echelons of power.
 
+![[Shadowy Hands Pillars (GT Video).png|1000]]
+
 ### The Times Are Dark And Getting Darker
 
 We are entering truly dark times. If these societal pillar breakdowns are not addressed, the projected impact is: _societal collapse_ and _humanity is not certain to survive._
@@ -160,6 +162,8 @@ The best case scenario…if we remain in these systems, is that they naturally e
 
 Recently, a movement to decentralize power has emerged—initially from the ideas of Satoshi Nakamoto in Bitcoin \[@satoshinakamotoBitcoinPeertoPeerElectronic2008\], and Vitalik Buterin in Ethereum \[@vitalikbuterinEthereumWhitepaper2014\]. The people rallied behind them, but quickly realized that the systematic flaws in these systems make them unable to truly decentralize power back to the hands of the people, and allow them to coordinate in a meaningful way.
 
+![[Shadowy Hands Blockchain (GT Video).png|1000]]
+
 Due to their inability to create sybil-resistant identities, these systems became dominated by cabals of insiders. This lack of real identity (identity pillar), translated to a lack of governance (governance pillar), and ultimately the inability to adjust their monetary policy (monetary pillar) and value systems (value system pillar).
 
 This incomplete foundation forced their economic models into pyramids, with a lack of rebalancing functionality. Without identity systems, the same oligarchic crypto cabals which have ruled the DEAA are required to emerge as a prerequisite to coordinate them at the social layer. More information about this can be found in [Fake Everything](https://societyprotocol.io/articles/fake-everything/).
@@ -181,6 +185,8 @@ Society Protocol introduces a distributed system for coordinating collectives in
 #### Synchronized States
 
 As opposed to the numb and sluggish Nation State model (where every duplicated contract is fragmented, and ultimately leads to the same pair of shadowy hands), in the new paradigm of Synchronized States, this pattern inverts. All eight pillars are unified into one system, while simultaneously decentralizing the power and control of the system to all participants equally—giving every participant true agency, freedom, and equal access. The Synchronized State is alive and vibrant, it is reflexive to the feelings of all its parts and edges with a great deal of sensitivity. _It moves as one._ Society Protocol is kind-of like a living organism where every entity is a cell.
+
+![[state sphere loop.gif]]
 
 The primary innovation of the Synchronized State is in synchronizing a shared reality (consensus of time) in multiple dimensions simultaneously. _That’s what unlocks everything else._ By combining four-dimensions of synchronization into one ledger, Society Protocol combines the clock and all the functions of the State into one duplicated computer program. The Synchronized State can fulfill all the functions of a State, but it functions with the synchronized precision of a clock. A State structure which functions with the precision of the clock has always been an impossible dream—an ideal which sovereigns would aspire to, _but here it actually becomes a reality_.
 
@@ -228,6 +234,8 @@ Civilization will become able to control AGI in an equitable manner as a whole. 
 ### The Eight Pillars of Coordination (Solutions)
 
 Society Protocol (SP) is a dynamic programmable world which consists of eight elements, which solve all eight pillars of coordination and unify them all into one complete system[^10].
+
+![[8 Pillars (GT Video).png|1000]]
 
 Together, they combine to form a Synchronized State.
 
@@ -277,6 +285,8 @@ _Societal state of DEAA: The societal state (status) of both the present and pas
 
 Society Protocol fundamentally transforms this paradigm by synchronizing and storing the entire state of society—every identity, transaction, interaction, relationship, and decision—into a single state machine called the <u>state sphere</u> that exists everywhere simultaneously. The entire quasi-immutable state of society is retained in a duplicated computer program. Society Protocol uses computation, cryptographic techniques, and the state transition function (STF) to ensure that each moment in time is preserved with an immutability that neither medieval churches nor modern data centers could ever hope to provide. This isn't just better record-keeping; it's a complete reconceptualization of how civilization maintains its state.
 
+![[state sphere (GT Video).png|1000]]
+
 The **state sphere** emerges as the living container of this synchronized reality. It’s a model world within which all Actors, Energy transactions, social graphs, Governance decisions, Property, Organizations, and much more, along with their complete histories, coexist in one unified system. Within the state sphere, the current status and entire past of the society’s history are retained verifiably. Every participant can perceive not just what's happening now, but trace the precise lineage of how we arrived here. The state sphere doesn't merely record events—it preserves the causal relationships between all objects—creating an unbroken chain of verifiable lineage that forms the foundation of history itself.
 
 The implications cascade through every aspect of human coordination. Society can finally organize itself in ways previously impossible with an absolutely accurate version of history at everyone's disposal. Corruption becomes archaeologically visible. Lies leave permanent traces. Excellence accumulates undeniable evidence. The state sphere doesn't just track state—_it illuminates it_—transforming humanity from the numb organism stumbling through a fragmented reality we know today, into a vibrant and unified organism that can finally see itself as a whole. This is the promise of Synchronized States…not just better records, but a civilization that can perceive and act on a singular unified thread of shared state at nearly the speed of light.
@@ -292,6 +302,8 @@ _Synchronization of DEAA: Currently, humanity synchronizes using a single intege
 * * *
 
 Society Protocol solves the issue of synchronization by using a consensus engine fueled by economic incentives as a way to update the state sphere (state machine)[^12]. This creates a synchronized chronological record of all public Events in a Timeline with Timeslots. This represents more than technological advancement—it's the emergence of a truly shared reality. For the first time in human history, disputes over "what happened" become obsolete. The Timeline provides a singular, verifiable version of Events that no individual or institution can retroactively alter to serve their interests. Imagine governance decisions that can be traced to their genealogical origins, monetary flows visible throughout their entire journey, or reputations built on demonstrable actions rather than manipulated narratives. The quasi-immutable nature of the Timeline means that altering history[^13] requires such widespread social consensus that shared reality becomes effectively unassailable.
+
+![[Timeline (GT Video).png|1000]]
 
 This transformation unifies society into a single synchronized organism. Instead of fragmented duplicated contracts scattered across data centers and institutions, all public state synchronizes together at nearly the speed of light. Every participant can perceive the same shared reality simultaneously—not just what time it is as today, but what's happening across the entire social fabric.
 
@@ -448,6 +460,8 @@ Ultimately, Society Protocol must be able to survive and compete with the other 
 Well, that’s a long question…but the simple answer is: _to accept it, they must fear it…and to fear it, they must fear their other groups (their rivals) using it against them. Ah, the classical prisoner’s dilemma!_ It’s the same reasons Nation States are adopting Bitcoin and Ethereum rather than trying to make them go back into the ether (no pun intended). _The cost on Nation States adopting Society Protocol is going to be smaller and easier, than it is for them to fight it and try to outright stop evolution, and they will try to do both at the same time._
 
 The quickest way for the Society Protocol movement to achieve this scenario is to essentially be difficult to stop and control…which means: to be a truly distributed and decentralized worldwide movement. A movement that nuclear weapons can’t stop, and shutting down the internet in your Nation State won’t accomplish. _If they can’t out coordinate you, they will join you._
+
+![[matrix-dragon.gif]]
 
 Ultimately, the dragons 🐉 won’t die, they will hop into the matrix and become matrix dragons. And…well, as in all prisoner’s dilemmas…the dragons which move to do so first and with the best strategies will have the greatest chance of surviving and succeeding in the future.
 
