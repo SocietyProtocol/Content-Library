@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:17
-updated: 2026-04-11T14:12
+updated: 2026-04-11T14:50
 ---
 # Table of Contents
 *There are two main parts to this article, "Theory of Coordination" covers the theoretical aspects and "The History of Alignment" covers the evolutionary stages of coordination throughout human history.*

@@ -1,14 +1,18 @@
 ---
 created: 2025-06-01T11:23
-updated: 2026-03-22T14:01
+updated: 2026-05-03T20:04
 ---
 *Society Protocol is a framework for creating Synchronized Network States.*
 *The future of human coordination.* 
 ## Table of Contents
 
-### Videos
+### Videos 
 <div style="padding:51.43% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1143269323?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Narrative Video"></iframe></div>
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1186796830?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="game-theory-video-final"></iframe></div>
+
+### Whitepaper
+[[Whitepaper]]
 ### Articles
 [[Fake Everything (Prelude)]]
 [[Published/Articles/4-Dimensional Synchronization (Clocks)|4-Dimensional Synchronization (Clocks)]]
@@ -35,17 +39,16 @@ updated: 2026-03-22T14:01
 [[Function-Communication]]
 [[Function-Farming]]
 [[Function-Portal]]
- 
 ### Movement
 [[Ideology]]
- 
 ### Brand
 [[Glossary]]
-
+[[Macro Roadmap.png|Roadmap]]
 ### Social Channels
 [X](https://x.com/ProtocolSociety)  | [Farcaster](https://farcaster.xyz/societyprotocol)  | [Lens](https://orb.club/@societyprotocol)
 [Discord](https://discord.com/invite/fpk7eH7aWQ)
 [Github](https://github.com/SocietyProtocol)
-<!-- [Forums](https://forum.societyprotocol.io) -->
+[Forums](https://forum.societyprotocol.io)
 ### Copyright Notice
 _All content on this website, including text, images, and code, is © 2026 Society Protocol Foundation. All rights reserved._
+

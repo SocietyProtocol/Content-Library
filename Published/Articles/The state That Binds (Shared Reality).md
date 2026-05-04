@@ -1,6 +1,6 @@
 ---
 created: 2025-10-03T12:17
-updated: 2026-04-11T13:07
+updated: 2026-04-20T00:05
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
@@ -284,7 +284,7 @@ It’s essentially impossible to plan the optimal economics from the outset of a
 
 > _The idea of a blockchain “rollback” dates back to 2010, less than two years after Bitcoin’s launch, when block 74638 ended up minting 184 billion BTC because of a software flaw. To resolve this, Satoshi Nakamoto released a patched version of the Bitcoin client, invalidating these transactions._
 > 
-> _Excerpt from:_ [Can the Ethereum blockchain roll back transactions? Understanding the limits and risks](https://cointelegraph.com/explained/can-the-ethereum-blockchain-roll-back-transactions-understanding-the-limits-and-risks)
+> _Excerpt from:_ [Can the Ethereum blockchain roll back transactions? Understanding the limits and risks](https://www.tradingview.com/news/cointelegraph:01701eb8f094b:0-can-the-ethereum-blockchain-roll-back-transactions-understanding-the-limits-and-risks/)
 
 Even the most immutable blockchain changes from the imperceptible social layer: [Bitcoin update to raise data limit on divisive OP\_RETURN function](https://cointelegraph.com/news/bitcoin-op-return-data-limit-raise-next-update), [Disclosure of CVE-2018-17144](https://bitcoincore.org/en/2018/09/20/notice/).
 

@@ -1,6 +1,6 @@
 ---
 created: 2025-04-17T11:15
-updated: 2026-04-11T13:07
+updated: 2026-04-11T14:50
 ---
 Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. To verify this, please run a simple thought experiment:
 

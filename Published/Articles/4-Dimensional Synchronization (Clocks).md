@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:18
-updated: 2026-04-11T13:07
+updated: 2026-04-11T14:50
 ---
 It's hard to imagine a world before precise clocks[^1]. Across the entirety of society, individuals who were attempting to coordinate had no precise means to synchronize. Actions that we as modern humans take for granted, like saying "lets meet at 12:00 tomorrow", weren't possible – because there was no 12:00! Just like there was no 1:00-11:00 or any precise integer for us to agree on. 
 

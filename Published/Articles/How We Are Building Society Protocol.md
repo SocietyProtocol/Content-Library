@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:18
-updated: 2026-04-10T11:05
+updated: 2026-04-24T22:47
 ---
 ### Table of Contents
 1. [Introduction](#Introduction)
@@ -27,7 +27,7 @@ updated: 2026-04-10T11:05
 
 At Society Protocol (SP), we are building the vessel for the next societal matrix––to usher in a new epoch of human civilization––the _Age of Synchronicity_[^1].
 
-We can’t possibly aspire to explain to you how amazing the Age of Synchronicity will be…_because it stretches outside the realms of our imaginations_. **_It hasn’t been built yet, and so we can’t fully visualize it_**_. We can only yearn for a vast and endless new civilization—where all of society moves as one._ We have written about our rough expectations for the Age of Synchronicity in other articles…and it does sound fantastical...but those are only the dreams of some blindfolded people in a cave—the reflections of light we are able to visualize at this moment, as first-order effects. _We cannot fully visualize, understand, or explain how fantastical the Age of Synchronicity is going to be—_**_without actually experiencing it_**_…and to experience it…we need to build it._
+We can’t possibly aspire to explain to you how amazing the Age of Synchronicity will be…_because it stretches outside the realms of our imaginations_. **_It hasn’t been built yet, and so we can’t fully visualize it_**_. We can only yearn for a vast and endless new civilization—where all of society moves as one._ We have written about our rough expectations for the Age of Synchronicity in other articles…and it does sound fantastical...but those are only the dreams of some blindfolded people in a cave—the reflections of light we are able to visualize at this moment, as first-order effects. _We cannot fully visualize, understand, or explain how fantastical the Age of Synchronicity is going to be—_**_without actually experiencing it…and to experience it…we need to build it._**
 
 _So…How are we building Society Protocol?_
 
@@ -37,7 +37,7 @@ _So…How are we building Society Protocol?_
 
 Society Protocol does not need to be entirely completed to become valuable and transition humanity into a new epoch of civilization. Sure…we have a lifetime of work ahead of us (and it likely it stretches past our lifetimes)…but the project becomes valuable to the world in around 3-5 years, once the MVP is released, and its value increases every year thereafter. _It’s like building an exquisite cathedral or a pyramid—fully, it will take centuries, but the foundation serves its core purpose as a prayer hall or pharaoh's tomb._
 
-**_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay many dragons. The most powerful one of which is ethereal, sitting on a massive pile of gold, has an army of goblin wardens, and has sucked up the life-force of all the humans in the world while influencing every jurisdiction it can get its claws into. Only by slaying these dragons can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
+**_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay dragons. The most powerful one of which is ethereal, sitting on a massive pile of gold, has an army of goblin wardens, and has sucked up the life-force of all the humans in the world while influencing every jurisdiction it can get its claws into. Only by slaying these dragons can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
 
 ![kerafyrm](../../Extras/Images/kerafyrm.jpg)*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*
 

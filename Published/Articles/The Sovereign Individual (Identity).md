@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2026-04-11T13:07
+updated: 2026-04-11T14:50
 ---
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 

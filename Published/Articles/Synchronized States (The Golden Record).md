@@ -1,6 +1,6 @@
 ---
 created: 2025-07-17T19:11
-updated: 2026-04-11T13:07
+updated: 2026-04-11T14:50
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
