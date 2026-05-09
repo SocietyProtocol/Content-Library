@@ -1,7 +1,8 @@
 ---
 created: 2025-10-07T18:38
-updated: 2026-05-03T20:43
+updated: 2026-05-09T15:20
 ---
+### Introduction
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
 
 Are you free to identify and create _“yourself”_ as anything you desire? If so, how come you aren’t a sultan with your own country, 300 wives, and 3 mansions yet?
@@ -43,7 +44,7 @@ Once we factor in these limitations (the death box) and (shared reality indoctri
 
 To form our identity optimally, we then have to understand "the shape of the world.” That is our external environment: the changing meta-game of society at the current moment.
 
-> Having good perception is a necessary precondition for agency because most of the world is human-constructed. Hence taking action depends on internal state from perceiving the environment, not genetic templates. Without seeing the shape of the world, taking the right action is difficult.” \[@wangImitationTriangles2024\]
+> Having good perception is a necessary precondition for agency because most of the world is human-constructed. Hence taking action depends on internal state from perceiving the environment, not genetic templates. Without seeing the shape of the world, taking the right action is difficult. \[@wangImitationTriangles2024\]
 
 _It’s not difficult, it’s impossible._ The issue is: our indoctrination prevents us from perceiving things accurately to begin with.
 
@@ -131,7 +132,7 @@ The legacies of these rituals weren’t recorded. Everything during the ZEAA was
 
 Individuals had to fit their “role” into the tribal State’s shared reality of social cohesion (a small range). Their only freedom to differentiate individually was inside that tiny range. Lots of death outside that range.
 
-![Identity Selection Small](../../Extras/Illustrations/Identity%20Selection%20Small.png)
+![700](../../Extras/Illustrations/Identity%20Selection%20Small.png)
 
 During the ZEAA, individuals whole concept of lasting identity probably wasn’t as deep or strategic as ours today. They probably didn’t ponder about who they were so much, because it constantly changed, but rather acted on it—locked into whatever their identity was in the moment (locked into that level of Maslow’s hierarchy of needs).
 
@@ -141,7 +142,7 @@ Roles were fully attached to ethnicity, your Tribe (State) _<u>was</u>_ your eth
 
 While privacy from the tribe was rare; privacy over time was common. Whatever an individual did, could easily be wiped from the record, _because there was no record_. No CCTV cameras, no credit scores…Individuals were tracked by grandmothers. 
 
-![600](../../Extras/Memes/grandmothers-surveillance.png)
+![700](../../Extras/Memes/grandmothers-surveillance.png)
 
 #### Individualism
 
@@ -248,7 +249,7 @@ Individuals came to feel they had a "social contact" shared with others which wa
 
 The DEAA is fundamentally an age of intermediary middle-men facilitating horizontal societal interactions using duplicated contracts. This is because for all our identity records to interoperate, we need middle-men to connect all our separate duplicated contracts to the rest of society. Religious structures, such as churches and mosques served this function early during the DEAA. In modern times, this function is largely in the hands of those who own and control our identity, property, and data records: corporations and Nation States.
 
-![600](../../Extras/Illustrations/Hubs%20of%20DEAA.excalidraw.png)
+![700](../../Extras/Illustrations/Hubs%20of%20DEAA.excalidraw.png)
 <center>The hubs of the DEAA allow participants to interoperate with the rest of the system. They connect all the separate duplicate contracts</center>
 
 * * *
@@ -265,7 +266,7 @@ Currently, these duplicated contracts are in the form of digital data. To facili
 
 Identity is now a hybrid—personal, yet algorithmic (part of it belongs to you and part to the algorithms). _Who controls the algorithms?_
 
-![800](../../Extras/Images/terminator.jpg)
+![700](../../Extras/Images/terminator.jpg)
 
 Each piece of accumulated data increases the power intermediaries have over individual’s identities. Intermediaries can use this power in many ways:
 
@@ -275,11 +276,11 @@ Each piece of accumulated data increases the power intermediaries have over indi
 
 The middle-men of the DEAA use this accumulated data, as leverage to negotiate for changes in our identities with overwhelming power. Our identities are shaped and molded by algorithms, belonging to ultra powerful intermediaries, alongside the "_equal_" parties we interact with. The biggest force shaping our identities in the modern DEAA is those in-control of the algorithms we all use—the technocratic elites[^6].
 
-![800](../../Extras/Images/matrix-neo-mouth.jpg)<center>Worldwide censorship is accessible at the click of a button.</center>
+![700](../../Extras/Images/matrix-neo-mouth.jpg)<center>Worldwide censorship is accessible at the click of a button.</center>
 
 ![atm-wthdrawal-declined](../../Extras/Memes/atm-wthdrawal-declined.jpg)<center>Debanking and confiscation of property is accessible at the click of a button.</center>
 
-![800](../../Extras/Images/isolation-room.png)<center>Removing an identity from its social connections is accessible at the click of a button, and can be done insidiously imperceptibly by tuning the algorithm.</center>
+![700](../../Extras/Images/isolation-room.png)<center>Removing an identity from its social connections is accessible at the click of a button, and can be done insidiously imperceptibly by tuning the algorithm.</center>
 
 From the opposite individual side, the individual can't do any of these things. The individuals cannot select the algorithms imposed on their lives. They often can't even access information about their identity owned by the intermediaries. Individuals cannot effectively possess, access, interact with, or commercialize (buy & sell) their identity, property, or data without the support of these middle-men.
 
@@ -325,7 +326,7 @@ _Privacy has been severely eroded during the DEAA._ We still have the old-fashio
 
 Anonymous (and to a lesser degree pseudonymous) digital existence cannot be tolerated by the Nation State, because it cannot provide social cohesion under such circumstances. Since the Nation State itself is a creature of past simpler times (of duplicated written contracts and democracy)—it can only hook into and see the things happening within those systems, meaning: _it can’t naturally access digital data_. Since it can’t itself perceive the digital data—flowing like blood flow throughout its territory—it needs to find some eyes—”Oh, hi corporations! 👀.” _But since corporations still can’t perceive anonymous digital expressions, <u>the State can’t allow them</u>._ **That would disintegrate its social cohesion.** _A State that cannot provide social cohesion cannot survive._ _Welcome to Surveillance States 🎉_.
 
-People often believe that it is surveillance capitalism they are living under, and that the corporate interests are incentivized to pilfer individuals data for profits—**_that’s not the case_**. <u>It’s not the corporations or businesses facilitating Surveillance States; it is the Nation State itself forcing corporations to disallow privacy and pilfer data</u>[^9]. This is techno-feudalism, not surveillance capitalism, because the base need for Surveillance States doesn’t originate from corporations—it comes from the Nation States’ need for social cohesion**.** _Again, the State can only provide as much individualism as it can sustain while maintaining social cohesion. The State itself cannot go outside of that box, it’s_ [_shared reality_](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) _will leak out, and it will die._
+People often believe that it is surveillance capitalism they are living under, and that the corporate interests are incentivized to pilfer individuals data for profits—**_that’s not the case_**. <u>It’s not the corporations or businesses facilitating Surveillance States; it is the Nation State itself forcing corporations to disallow privacy and pilfer data</u>[^9]. This is techno-feudalism, not surveillance capitalism, because the base need for Surveillance States doesn’t originate from corporations—it comes from the Nation States’ need for social cohesion. _Again, the State can only provide as much individualism as it can sustain while maintaining social cohesion. The State itself cannot go outside of that box, it’s_ [_shared reality_](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)) _will leak out, and it will die._
 
 Individuals have entered into a risky world…where they have both: no privacy (severely less than ever before), and the protection they receive in exchange for their identities’ compliance is still effectively limited to the whims of their rulers, because the intermediary middle-men have hijacked the democratic process. **Surveillance States aren’t neutral observation machines; the technocratic elites in control of them have their own agendas**. They will bend your identity into a pretzel: sending you to Iraq or Afghanistan, feeding you COVID vaccines that don’t work, or erasing you from the shared reality altogether to achieve their interests. _<u>Since individuals have no privacy, at both a micro and macro level in the modern day, there is nowhere to hide and nothing restraining their power</u>._
 
@@ -333,7 +334,7 @@ The thing to understand about privacy in the modern age: is that it’s essentia
 
 This is from a very cool story called [Privacy Means Safety](https://www.privacyguides.org/articles/2025/03/25/privacy-means-safety/):
 
-> “Privacy is a human right that should be granted to everyone, no matter the reason. That being said, it's also important to remember that for millions of people around the world, data privacy is crucial for physical safety. For people in extreme situations, privacy can literally mean life or death.
+> Privacy is a human right that should be granted to everyone, no matter the reason. That being said, it's also important to remember that for millions of people around the world, data privacy is crucial for physical safety. For people in extreme situations, privacy can literally mean life or death.
 > 
 > Many of us have experienced moments when our privacy concerns have been minimized or even completely dismissed.
 > 
@@ -341,7 +342,7 @@ This is from a very cool story called [Privacy Means Safety](https://www.privacy
 > 
 > There are many circumstances where inadvertently or maliciously exposed data can put someone in grave danger. Worse, sometimes this danger might not even be known at the time, but might become incredibly important later on.
 > 
-> We should never downplay the serious risk of exposing someone's data, even if this isn't a situation we personally experience, or even understand.” \[@emPrivacyMeansSafety2025\]
+> We should never downplay the serious risk of exposing someone's data, even if this isn't a situation we personally experience, or even understand. \[@emPrivacyMeansSafety2025\]
 
 _That’s a very cool story bro!_ Unfortunately, it’s kinda moot.
 
@@ -372,7 +373,7 @@ To change our identities, we must interact where it's stored: the horizontal lay
 
 #### Summary & Limitations of the DEAA
 
-Society understood collective governance based on democratic principles, mastered individualism, learned how to scale identities globally through duplicated documents, learned ways to enable multi-cultural, multi-ethnic Nation States while still maintaining social cohesion,
+Society understood collective governance based on democratic principles, mastered individualism, learned how to scale identities globally through duplicated documents, learned ways to enable multi-cultural, multi-ethnic Nation States while still maintaining social cohesion.
 
 After the Print Revolution, individuals gained their independence from the church’s control of the shared reality—massively increasing individualism—sparking the Renaissance, Scientific Revolution, Enlightenment. This led to the Industrial Revolution which brought capitalism, industrialization, and globalization. As technology evolved, we gained momentous features, but have now entered the age of techno-feudalism.
 
@@ -380,7 +381,7 @@ The limitations of the DEAA are that our identities are intermediated by middle-
 
 Another issue that has arisen, especially precarious because of these technocratic middle-men control societal identities: is the lack of ability for modern Nation States to allow support privacy in individual’s identities. Being unable to facilitate privacy, while imbalancing the societal power towards technocratic elites _takes away safety from everyone_, including the technocratic elites.
 
-The foundations of democracy indoctrinated all of us into a shared reality which is limited by its necessity to view things as _“equal”[^12]—_in order to facilitate a world of enforceable duplicated contracts[^13]. This notion of equality imposed lots of limitations on society during the DEAA—in order to achieve societal cohesion with differing political perspectives. _Individualism._ Equality is the indoctrination we all face in the DEAA, but it doesn’t match up with reality. _We are all different._
+The foundations of democracy indoctrinated all of us into a shared reality which is limited by its necessity to view things as “equal”[^12]—in order to facilitate a world of enforceable duplicated contracts[^13]. This notion of equality imposed lots of limitations on society during the DEAA—in order to achieve societal cohesion with differing political perspectives. _Individualism._ Equality is the indoctrination we all face in the DEAA, but it doesn’t match up with reality. _We are all different._
 
 > Paradoxically, society had to accept the notion of equality to become different (individualized).
 
@@ -403,7 +404,7 @@ Society Protocol (SP) is designed to facilitate the optimal coordination inside 
 
 The Synchronized Social Contract (SSC) is as simple as possible to get us everything we need: governance (group decision-making), money, identities, social graphs, sub-group organizations, property rights, coordination mechanisms, and social cohesion—with nothing extra. It is synchronized worldwide and accessible to everyone equally. The same exact transparent social contract for all of society—allowing for the equality of societal rules automatedly, while acknowledging that we are all different unique individuals, and should bring value to society in our own unique ways.
 
-Identities are synchronized to the actions of all other participants in the system— _moving as one, yet separate_—producing real-life data with sybil-resistance which accumulates over time.
+Identities are synchronized to the actions of all other participants in the system—_moving as one, yet separate_—producing real-life data with sybil-resistance which accumulates over time.
 
 Society Protocol establishes enough social cohesion to enable identities including:
 
@@ -538,7 +539,7 @@ Verifiable Credentials can even be used to communicate valuable attest-able info
 
 Identity has never been able to be controlled directly by individuals as <u>bearer assets</u>, while remaining accessible to society, with the right delineations of privacy. This can be used to leverage maximal coordination while maintaining both social cohesion and a sense of privacy.
 
-Ultimately, the shift to privacy of the TEAA doesn’t lie in either the privacy delineations of state nor the pseudonymous accounts Society Protocol offers. The ultimate shift to privacy is that every individuals public data is absolutely equally public, with equal access to this information for everyone, and a <u>complete alignment</u> between the governance and citizenry. _The game is fair for everyone._ Yes, more data becomes public but it can be used for societal coordination and can’t be exploited disproportionately by certain advantaged entities. _Middle-men aren’t required, everyone has direct access to the same verified dataset and equal access to governance_[^21]_.
+Ultimately, the shift to privacy of the TEAA doesn’t lie in either the privacy delineations of state nor the pseudonymous accounts Society Protocol offers. The ultimate shift to privacy is that every individuals public data is absolutely equally public, with equal access to this information for everyone, and a <u>complete alignment</u> between the governance and citizenry. _The game is fair for everyone._ Yes, more data becomes public but it can be used for societal coordination and can’t be exploited disproportionately by certain advantaged entities. _Middle-men aren’t required, everyone has direct access to the same verified dataset and equal access to governance_[^21].
 
 #### Coordination
 

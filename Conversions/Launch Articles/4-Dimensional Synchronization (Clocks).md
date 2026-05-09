@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:18
-updated: 2026-05-03T20:44
+updated: 2026-05-08T18:14
 ---
 It's hard to imagine a world before precise clocks[^1]. Across the entirety of society, individuals who were attempting to coordinate had no precise means to synchronize. Actions that we as modern humans take for granted, like saying "lets meet at 12:00 tomorrow", weren't possible – because there was no 12:00! Just like there was no 1:00-11:00 or any precise integer for us to agree on. 
 
@@ -8,14 +8,14 @@ The introduction of the mechanical clock revolutionized societal function by pro
 
 This single integer, is so important. The gears of the clock – **are the gears of society**. Our entire world coordinates global societies around this single integer. Nearly every human on earth marches to this integer. Even if we left someone alone on a deserted island for the rest of their life – they would still prefer to have this integer! (I wouldn't know who they're synchronizing or coordinating with.) 
 
-I like to call this integer – **The state which binds society**. Remind you of anything?
+I like to call this integer – **The state which binds society**. *Remind you of anything?*
 
-Since then we have invented two additional immensely powerful classes of clock-like synchronization devices: Bitcoin by Satoshi Nakamoto in 2008 and Ethereum by Vitalik Buterin in 2015. Both of these aren't widely recognized as clocks. We are also on the verge of inventing the third and most powerful dimension of synchronization device: Society Protocol. 
+Since then we have invented two additional immensely powerful classes of clock-like synchronization devices: Bitcoin by Satoshi Nakamoto in 2008 and Ethereum by Vitalik Buterin in 2015. Both of these aren't widely recognized as clocks. We are also on the verge of inventing the third and most powerful dimension of synchronization device: Society Protocol.  
 
 At each point in history, the tribe with the most advanced clocks for synchronization has dominated the world. Starting in Egypt with sundials, then Europe during the (14-19th century), the emergence of Bitcoin, web3, and now Society Protocol has shifted this axis once more. Time is money they say, but more importantly: **time is energy**.
 
 ## The Nature of Clocks
-What are we trying to achieve with clocks? Create a shared model of the universe. A model which all people can synchronize to and agree on. This process starts with common measurement, which leads to synchronization, and eventually to coordination. The more we can synchronize, the more we can coordinate. To synchronize more, we must expand the **state that binds (STB)**.
+What are we trying to achieve with clocks? **Create a shared model of the universe.** A model which all people can synchronize to and agree on. This process starts with common measurement, which leads to synchronization, and eventually to coordination. The more we can synchronize, the more we can coordinate. To synchronize more, we must expand the **state that binds (STB)**.
 
 To coordinate more, we have three new tools at our disposal in modernity: 
 1. An expanded multi-dimensional **state that binds** gives us the ability to synchronize unfathomably more data than before.
@@ -39,19 +39,18 @@ This period continued with the Greeks and Romans. The Romans heavily used water 
 All the methods of this period were marked by a lack of accuracy, as they did not synchronize time into even a precise 1-Dimensional local integer.  
 
 ---
-**Dimensions of Synchronization:** 0
-**STF:** None (Drip Drop?)
-**Map**: The sundial mapped imprecise ranges of time (a fuzzy shared map). 
-**Synchronized With Solar Time**: Yes
+#### Summary of Pre-Precise Synchronization
+**Dimensions of Synchronization:** 0 <br/>
+**STF:** None (Drip Drop?) <br/>
+**Map**: The sundial mapped imprecise ranges of time (a fuzzy shared map). <br/>
+**Synchronized With Solar Time**: Yes <br/>
 
 ### 1-Dimensional Synchronization: Mechanical Clocks
 Mechanical clocks first appeared in the monasteries of Western Europe during the 13-14th centuries, as an evolution of the bell tower (a primitive synchronization device).[^3] The term "clock" derives from the Latin *clocca* (bell), emphasizing the connection between early timekeeping and bell-ringing. These clocks were large, cumbersome, imprecise, and expensive, limiting their use to wealthy institutions like churches or town halls.
 
 Mechanical clocks introduced a new way of telling time based on equal hours, and changed the measuring of time from fluid continuous processes, such as the flow of liquid in water clocks, to repetitive oscillatory processes, such as the swing of the pendulum – and hence, the 1-Dimensional STF for synchronized time was created. 
-
 ![500](/images/Images/1D%20Synchronization%20Clock.png)
-
-> “This advancement enabled enormous synchronization of activities, something that was not seen or experienced ever before. It separated people from the organic structure of life that they had before. Every hour in the day was trying to be used, people were going to bed when the clock told them, not when they were tired, and the same goes for food." (Antonia Čirjak, 2020)
+> This advancement enabled enormous synchronization of activities, something that was not seen or experienced ever before. It separated people from the organic structure of life that they had before. Every hour in the day was trying to be used, people were going to bed when the clock told them, not when they were tired, and the same goes for food. (Antonia Čirjak, 2020) 
 
 These first mechanical clocks were not designed for precise timekeeping but to automate bell-ringing for communal purposes (such as marking prayer times, work hours, or civic events). They often lacked dials or hands and were primarily auditory devices. Public mechanical clocks[^4] transformed the structuring of personal and communal time, laying the foundations for changes in time consciousness that would accelerate scientific thinking. 
 
@@ -59,115 +58,112 @@ The first attempt at global synchronization came in 1530 when the Dutch instrume
 
 Precise timekeeping arrived during the Scientific Revolution with the invention of the pendulum clock in 1656. The first pendulum clock, invented by Christiaan Huygens in 1656, increased the accuracy of clocks more than sixty-fold. Early versions erred by less than one minute per day, and later ones only by 10 seconds. Dials that showed minutes and seconds became common, after the increase in accuracy made possible by the pendulum clock.
 
-Precise mechanical clocks introduced **The Industrial Age**. Clocks became much more common and so too did a concern for time. These technologies radically changed how people structured personal and communal time, conducted business, and fashioned worldviews. Britain led the field in clockmaking by the second half of the 17th century. Want to take a guess at what happened geopolitically after that? Hint: there was a certain place where the sun never sets.
+Precise mechanical clocks introduced **The Industrial Age**. Clocks became much more common and so too did a concern for time. These technologies radically changed how people structured personal and communal time, conducted business, and fashioned worldviews. Britain led the field in clockmaking by the second half of the 17th century. *Want to take a guess at what happened geopolitically after that?* (Hint: there was a certain place where the sun never sets.)
 
-> “It is the mechanical clock, and according to many historians, it was the clock that changed everything and deserves to be called as the key factor of the Industrial Age. Mechanical clocks enabled people to measure time in ways that were not possible before, and because of it, our lives were changed forever.
+> It is the mechanical clock, and according to many historians, it was the clock that changed everything and deserves to be called as the key factor of the Industrial Age. Mechanical clocks enabled people to measure time in ways that were not possible before, and because of it, our lives were changed forever.
 > 
-> The clock became a symbol, a reference for how institutions should work, and time was treated as something that could be wasted or lost, even indicating the monetary cost of time. The adaptation was not a fast process, but incorporating clocks into everyday life drastically changed the way human beings perceive their reality and arrange their life.” (Antonia Čirjak, 2020)
+> The clock became a symbol, a reference for how institutions should work, and time was treated as something that could be wasted or lost, even indicating the monetary cost of time. The adaptation was not a fast process, but incorporating clocks into everyday life drastically changed the way human beings perceive their reality and arrange their life. (Antonia Čirjak, 2020)
 
 The era of mechanical timekeeping lasted from the 13th to the 19th century.[^5] In a strange coincidence, the entire gravitational power of the world shifted to Western Europe during the 15th-19th centuries. During the culmination of this era, societies could achieve worldwide sync using atomic clocks with pinpointed precision, but it was still – **only one integer**. 
 
-> “What is a mechanical clock? The answer to this question depends on whom you ask. Today, most people consider it a time-telling instrument. Actually, it is a pillar of society; we unconsciously use it numerous times every day, but we usually do not reflect on the fact that if all clocks were to simultaneously fail, society would collapse.” (Medievalists.net, 2017)
+> What is a mechanical clock? The answer to this question depends on whom you ask. Today, most people consider it a time-telling instrument. Actually, it is a pillar of society; we unconsciously use it numerous times every day, but we usually do not reflect on the fact that if all clocks were to simultaneously fail, society would collapse. (Medievalists.net, 2017)
 
 ---
-**Dimensions of synchronization:** 1 \[1: Integer] 
-**STF:** When the gears turn calculating that one precise Unit of Time (UoT) has passed, increment the current state by one UoT. If UoT total state has reached 24 hours, reset UoT total to 0.
-**Map:** Synchronization of one precise integer.
-**Synchronized With Solar Time:** Yes
+#### Summary of 1-Dimensional Synchronization
+**Dimensions of synchronization:** 1 \[1: Integer] <br/>
+**STF:** When the gears turn, calculating that one precise Unit of Time (UoT) has passed, increment the current state by one UoT. If UoT total state has reached 24 hours, reset UoT total to 0. <br/>
+**Map:** Synchronization of one precise integer. <br/>
+**Synchronized With Solar Time:** Yes <br/>
  
 ### 2-Dimensional Synchronization: Bitcoin 
-Bitcoin was introduced in 2008 by a mysterious developer, Satoshi Nakamoto, who claimed to have invented a peer-to-peer electronic cash system in his now seminal paper: *Bitcoin: A Peer-to-Peer Electronic Cash System* (Satoshi Nakamoto, 2008). It's one of the most profound inventions in history. The invention of Bitcoin is so significant because it expanded powerful synchronization of the **state that binds (STB)** into a 2-Dimensional entity.  
+Bitcoin was introduced in 2008 by a mysterious developer, Satoshi Nakamoto, who claimed to have invented a peer-to-peer electronic cash system in his now seminal paper: *Bitcoin: A Peer-to-Peer Electronic Cash System* (Satoshi Nakamoto, 2008). **It's one of the most profound inventions in human history.** The invention of Bitcoin is so significant because it expanded powerful synchronization of the **state that binds (STB)** into a 2-Dimensional entity.  
 
-Bitcoin synchronizes a 2D matrix of data, meaning that it synchronizes a list of account addresses on one dimension and an integer corresponding to the amount of value (Bitcoins) the address controls on the other. 
-
+Bitcoin synchronizes a 2D matrix of data. Meaning, that it synchronizes a list of account addresses on one dimension and an integer corresponding to the amount of value (Bitcoins) the address controls on the other. 
 ![500](/images/Images/2D%20Synchronization%20Matrix.png)
+By solving the 2nd dimension, Bitcoin allowed society to synchronize global public communication in a precise manner – thereby solving the important [7 Byzantine Generals Problem](https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem). Notice that with 1-Dimensional synchronization, society was unable to synchronize communication, only able to agree and <u>read</u> from the **state that binds**. Bitcoin's historical significance lies in introducing a technology able to synchronize trust and communication (<u>read</u>,<u>write</u>) to the **state that binds** worldwide in a fair way – automating triple entry accounting[^6] – more so than in the financial technology of Bitcoin, which is also revolutionary. 
 
-By solving the 2nd dimension, Bitcoin allowed society to synchronize global public communication in a precise manner – thereby solving the important [7 Byzantine Generals Problem](https://bitcoinmagazine.com/glossary/what-is-the-byzantine-generals-problem). Notice that with 1-Dimensional synchronization, society was unable to synchronize communication, only able to agree and <u>read</u> from the **state that binds**. Bitcoins historical significance lies in introducing a technology able to synchronize trust and communication (<u>read</u>,<u>write</u>) to the **state that binds** worldwide in a fair way – bringing the birth of triple entry accounting[^6] – more so than in the financial technology of Bitcoin, which is also revolutionary. 
+The impact of this cannot be overstated. Humans have never had a way to synchronize communication worldwide in a ledger of shared trust. All our communication happens as a game of telephone and is transformed as it passes through various locations. This is called <u>lossy communication</u>. With Bitcoin automating triple entry accounting, this communication became - <u>lossless communication</u> - and therefore, **trustworthy**. 
 
-The impact of this cannot be understated, humans have never had a way to synchronize communication worldwide in a ledger of shared trust, all our communication happens as a game of telephone and is transformed as it passes through various locations, this is called <u>lossy communication</u>. With Bitcoin and triple entry accounting, this communication became - <u>lossless communication</u> - and therefore, **trustworthy**. 
-
-There's a new bell tower in town, and that bell tower is going to lead to the invention of precise mechanical clocks. It rings every 10 minutes (imprecisely of course) worldwide. It doesn't follow solar time and it's expensive to maintain, but for the first time in history, we're all able to send **trustworthy** messages through this bell tower when it does eventually ring. Wait, do you hear that? I think I just heard a block being produced. That bell tower has a name that's recognized globally, it's called **Bitcoin**.
+There's a new bell tower in town, and that bell tower is going to lead to the invention of precise mechanical clocks. It rings every 10 minutes (imprecisely of course) worldwide. It doesn't follow solar time and it's expensive to maintain, but for the first time in history, we're all able to send **trustworthy** messages through this bell tower when it does eventually ring. *Wait, do you hear that? I think I just heard a block being produced.* That bell tower has a name that's recognized globally. **It's called Bitcoin**.
  
-While many believe that Bitcoin has also decentralized ownership of this bell tower, that is not the case. Ownership in Bitcoin belongs with the miners: it is the miners who control the ringing of the bells, re-structure the chain, and control asset ownership. The trust for these functions has been distributed amongst any number of willing entities, each of which can join the network permissionlessly.
+While many believe that Bitcoin has also decentralized ownership of this bell tower, that is not the case. Ownership in Bitcoin belongs with the miners. It's the miners who: control the ringing of the bells, re-structure the chain, and control asset ownership. The trust for these functions has been distributed amongst any number of willing entities, each of which can join the network permissionlessly.
 
 Bitcoin is the fastest growing asset class in the history of the world. The global synchronization of trust is one of humanities most valuable outstanding problems. While Bitcoin hasn't solved that problem, Satoshi Nakamoto invented the roots of the technology which will.  
  
 ---
-**Dimensions of Synchronization:** 2 \[1: Account Address, 2: Integer Value]
-**STF:** When a miner has solved the POW mining challenge and broadcasted it to the network: calculate and include all transactions broadcasted by the miner into the network, send the block reward to the miner, and create a new block with the updated state and cryptographic hash verifying accuracy of all previous states.     
-**Map**: Bitcoin maps the addresses of all accounts to their amount of Bitcoins. 
-**Synchronized With Solar Time**: No
+#### Summary of 2-Dimensional Synchronization
+**Dimensions of Synchronization:** 2 \[1: Account Address, 2: Integer Value] <br/>
+**STF:** When a miner has solved the POW mining challenge and broadcasted it to the network: calculate and include all transactions broadcasted by the miner into the network, send the block reward to the miner, and create a new block with the updated state and cryptographic hash verifying accuracy of all previous states. <br/>
+**Map**: Bitcoin maps the addresses of all accounts to their amount of Bitcoins owned. <br/>
+**Synchronized With Solar Time**: No <br/>
 
 ### 3-Dimensional Synchronization: Ethereum
 Another quantum leap in synchronization technology occurred on July 30, 2015 with the launch of Ethereum. Originally introduced by Vitalik Buterin in: *Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform* (Buterin, 2014). Vitalik believed that Satoshi's invention could be used for more than just money. 
 
-> “Satoshi's blockchain was the first credible decentralized solution. And now, attention is rapidly starting to shift toward this second part of Bitcoin's technology, and how the blockchain concept can be used for more than just money. 
+> Satoshi's blockchain was the first credible decentralized solution. And now, attention is rapidly starting to shift toward this second part of Bitcoin's technology, and how the blockchain concept can be used for more than just money. 
 > 
-> Commonly cited applications include using on-blockchain digital assets to represent custom currencies and financial instruments ("colored coins"), the ownership of an underlying physical device ("smart property"), non-fungible assets such as domain names ("Namecoin") as well as more advanced applications such as decentralized exchange, financial derivatives, peer-to-peer gambling and on-blockchain identity and reputation systems. Another important area of inquiry is "smart contracts" - systems which automatically move digital assets according to arbitrary pre-specified rules.” (Buterin, 2014, p. 1)
+> Commonly cited applications include using on-blockchain digital assets to represent custom currencies and financial instruments ("colored coins"), the ownership of an underlying physical device ("smart property"), non-fungible assets such as domain names ("Namecoin") as well as more advanced applications such as decentralized exchange, financial derivatives, peer-to-peer gambling and on-blockchain identity and reputation systems. Another important area of inquiry is "smart contracts" - systems which automatically move digital assets according to arbitrary pre-specified rules. (Buterin, 2014, p. 1)
 
-Ethereum expanded on the Proof of Work (PoW) consensus of Bitcoin by including the Ethereum Virtual Machine (EVM) into the **STF**, enabling turing complete computation during synchronization, **expanding the state that binds** from Bitcoins 2D Matrix of ownership to the first ever 3-Dimensional synchronization machine. Vitalik's invention opened up a whole new world of possibilities for synchronization, allowing society to synchronize a spectacular range of digital object. Adding two new features to our global state machine.
-1. **The ability to store objects in 3-Dimensional space**: storing nested objects with depth in Ethereum became possible, as we moved from a 2-Dimensional matrix of values to a 3-Dimensional cube of objects. 
-	- Example: we could now synchronize a whole set of Russian dolls each with it's own unique color pattern.
-2. **Turing complete computation**: enabled us to have pre-written patterns for these objects to follow automatedly. 
+Ethereum expanded on the Proof of Work (PoW) consensus of Bitcoin by including the Ethereum Virtual Machine (EVM) into the **STF**, enabling Turing-complete computation during synchronization, **expanding the state that binds** from Bitcoins 2D "matrix of ownership" to the first ever 3-Dimensional synchronized state machine. Vitalik's invention opened up a whole new world of possibilities for synchronization. It allowed society to synchronize a spectacular range of digital object. Adding two new features to the global state machine:
+1. **The ability to store objects in 3-Dimensional space**: storing nested objects with depth became possible in Ethereum, as we moved from a 2-Dimensional matrix of values to a 3-Dimensional cube of objects. 
+	- Example: we could now synchronously store a whole set of Russian dolls each with it's own unique color pattern.
+2. **Turing complete computation**: enabled us to have computable coded patterns for these objects to follow automatedly. 
 	- Example: each Russian doll could recognize if the rest of the set was there and act accordingly. 
 
-Suddenly, the 2D matrix turned into a 3D cube, filled with all sorts of objects: crypto kitties, stock derivatives, games, DAOs, social media content, identity documents, and more. A whole world full of objects synchronized like a clock. What's more is, they were all programmable algorithmically, Whoa!  We can throw anything into the cube, and it’s **trustworthy** via <u>lossless communication</u>. Synchronized all over the world.
-
+Suddenly, the 2D matrix turned into a 3D cube, filled with all sorts of objects: crypto kitties, stock derivatives, games, DAOs, social media content, identity documents, and more. *A whole world full of objects synchronized like a clock.* What's more is, all these objects were all programmable, *Whoa!*  We can throw anything into the cube, and it’s **trustworthy** via <u>lossless communication</u>. Synchronized all over the world. 
 ![600](/images/Images/3D%20Synchronization%20Cube.png)
+Just like the bell tower birthed the mechanical clock––Bitcoin birthed Ethereum. The important distinction to understand in this new paradigm, is that we're no longer looking to precisely map solar time, *we're past that as a species*. The new evolutions of synchronized state devices––these futuristic clocks––***are about expanding the state that binds' dimensionality***.
 
-Just like the bell tower birthed the mechanical clock – Bitcoin birthed Ethereum. The important distinction to understand in this new paradigm, is that we're no longer looking to precisely map solar time, we're past that as a species. The new evolutions of synchronization devices, these futuristic clocks, are about **expanding the state that binds**. 
-
-It also increased the complexity of the protocol, Ethereum has gone through many upgrades and actually feels like a living breathing protocol. It is reliant on the social layer for consistent upgrades to reach it's end-goal state. Someone is actively molding and taking care of this 3D cube from the ouside, it's not a static immutable cube! They keep changing my cube! Hey, that's my cube! Who controls this thing? Well, there's a hierarchy:
+It also increased the complexity of the protocol, Ethereum has gone through many upgrades and actually feels like a living breathing protocol. It is reliant on the social layer for consistent upgrades to reach it's end-goal state. Someone is actively molding and taking care of this 3D cube from the outside. *It's not a static immutable cube!* *Wait, they keep changing my cube! Hey, that's my cube! Who controls this thing?* Well, there's a hierarchy:
 1. The social layer: A global community of builders and researchers (opaque and invisible to Ethereum).[^7]. 
 2.  The infrastructure layer: The Proof of Stake nodes (opaque permissionless ownership).
 
 Ownership, just as in the Bitcoin case, does not ultimately rest with the users. The users permissionless bearer asset ownership is at the discretion of both the social and the infrastructure layers. 
 	
-As the global demand for synchronizing 3D objects is bigger than the global demand for synchronizing 2D planes of values – and the bandwidth of each **state that binds** is limited...Ethereum spawned a whole Cambrian explosion of other 3D cubes for digital objects[^8]. Each blockchain ledger exists independently, all of them change from the social layer, a world of mutating interactive cubes molded by invisible hands.   
+As the global demand for synchronizing 3D objects is bigger than the global demand for synchronizing 2D matrixes of values, and the bandwidth of each synchronized state's STB is limited...Ethereum spawned a whole Cambrian explosion of other 3D cubes for digital objects[^8]. Each of these blockchain ledger exists independently, all of them change from the social layer. A world of mutating interactive cubes molded by invisible hands.   
 
-Due to their currently incomplete nature––3D state machines require a dedicated and organized community to tinker with the clock and build out the features. Yet, who are these mysterious social layer mechanics we trust with our clock, what are their political beliefs and incentives? We don't know. *We must implicitly trust an opaque and amorphous group to maintain the clock.* 
+Due to their currently incomplete nature––3D synchronized state machines require a dedicated and organized community to tinker with the clock and build out the features. Yet, who are these mysterious social layer mechanics we trust with our clock, what are their political beliefs and incentives? **We don't know.** *We must implicitly trust an opaque and amorphous group to maintain the platform.* 
 
-While the 3D blockchains powerful features eclipse Bitcoins 2D capabilities, these platforms haven't yet overtaken Bitcoin in terms of valuation. Why is the bell tower more important than a mechanical clock? The answer lies in their fragility and a lack of trust. Trust can only emerge over time. The world must watch and wait to see which 3D synchronization machines are **trustworthy** enough to overtake Bitcoin. Trust can also be lost at any instant. 
+While the 3D blockchains powerful features eclipse Bitcoins' 2D capabilities, these platforms haven't yet overtaken Bitcoin in terms of valuation. *Why is the bell tower more important than a mechanical clock?* The answer lies in their fragility and a lack of trust. Trust can only emerge over time. The world must watch and wait to see which 3D synchronization machines are **trustworthy** enough to overtake Bitcoin. *Trust can also be lost at any instant.* 
 
-What we're experiencing with 3D blockchains, is that the more society finds it useful to coordinate using synchronized blockchain ledgers, *the more the social layer becomes involved*. Trust to the social layer **increases** with complexity. Examples are everywhere: USDT, USDC, WBTC, DAO security councils, oracles (which also root to their social layer), the social layer that distributes incentives, and the protocol social layer itself.  
+What we're experiencing with 3D blockchains...is that the more society finds it useful to coordinate using synchronized state ledgers...*the more the social layer becomes involved*. Trust to the social layer **increases** with complexity. Examples are everywhere: USDT, USDC, WBTC, DAO security councils, oracles (which also root to their social layer), the social layer that distributes incentives, and the protocol social layer itself.  
 
 ---
-**Dimensions of Synchronization:** 3 \[1: Account Address, 2: StateArray\[], 3: Variable Value]
-**STF:** When a PoS proposer has proposed a new block: perform all the computations and update the state of all objects across the cube, send the block rewards to the PoS proposer, and create a new block with the updated state and cryptographic hash verifying accuracy of all previous states.  
-**Map**: Ethereum maps the addresses of all accounts to their multidimensional state objects and their values in the 3-Dimensional cube. 
-**Synchronized With Solar Time**: No
+#### Summary of 3-Dimensional Synchronization
+**Dimensions of Synchronization:** 3 \[1: Account Address, 2: StateArray\[], 3: Variable Value] <br/>
+**STF:** When a POS proposer has proposed a new block: perform all the computations and update the state of all objects across the cube, send the block rewards to the POS proposer, and create a new block with the updated state and cryptographic hash verifying accuracy of all previous states. <br/>
+**Map**: Ethereum maps the addresses of all accounts to their multidimensional state objects and their values in the 3-Dimensional cube. <br/>
+**Synchronized With Solar Time**: No <br/>
 
 ### 4-Dimensional Synchronization: Society Protocol
 To achieve the 4th dimension of synchronization, we must change how we model time and make it more akin to physics than the traditional clock. When we model the 4th dimension for synchronization, we are modeling the energetic waveforms which permeate all of reality[^9], these waveforms give our universe energy and time itself. 
 
-Achieving the 4th dimension lies in expanding the **STF** and **STB** once again, to include the energetic rules of our universe at every STF interval – creating the effect of a model of the universe with energy flowing through it – giving our synchronized 4D model a sense of time.
-
+Achieving the 4th dimension lies in expanding the **STF** and **STB** once again, to include the energetic rules of our universe at every STF interval – creating the effect of a model of the universe with energy flowing through it – giving our synchronized 4D model a "sense of time".
 ![500](/images/Images/4D%20Synchronization%20Sphere.jpg)
+> If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration. –Nikola Tesla  
 
-> *"If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration."* –Nikola Tesla  
+Society Protocol models a living world with people in it. We are no longer dealing with "static" 3D objects, we are dealing with alive individuals. ***People are the most valuable asset***. 
 
-Society Protocol models a living world with people in it. We are no longer dealing with "static" 3D objects, we are dealing with alive individuals: **people are the most valuable asset**. 
+Society Protocol synchronizes and coordinates real-life individuals through this model world, by algorithmically redistributing a finite pool of Energy (representing explicit social status) between Actors in the protocol––aiming to map every Individual Actors' Energy in the system to their value to the Society Protocol instance at each point in time.
 
-Society Protocol synchronizes and coordinates real-life individuals by algorithmically redistributing a finite pool of Energy (representing explicit social status) between Individual Actors in the protocol - aiming to map every Individual Actors Energy in the system to their value to the Society Protocol instance at each point in time.
-
-Society Protocol is able to store Individual Actors and their identities. This includes: their Energy (explicit social status), Property (3D objects), Organizations, Communication, Curation, Governance decisions, history, social relationships...alongside other identity artifacts––as the Individual Actors move through time and forge their story[^10]. 
+Society Protocol is able to synchronize Individual Actors and their identities. This includes: their Energy (explicit social status), Property (ownership of 3D objects), Organizations, Communication, Curation, Governance, history, social relationships...alongside other identity artifacts––as the Individual Actors move through time and forge their story[^10]. 
 
  4-Dimensional synchronized states are based in sybil resistance. Individual Actors can control multiple identities but must to provide value to the protocol to upkeep each identity over time, eliminating the ability for Actors to own "ghost accounts" which aren't adding value. In such cases, the redistribution function will drain their Energy over time, to other participants in the protocol who are bringing value, and the inactive Actor will eventually die, mimicking our universe. 
 
-Currently people use tools to coordinate. They involve a mix of top-down coordination imposed by the Nation State and corporate organizations, along with bottom up coordination exercised by each individual actor. The current tools which society uses to coordinate do not synchronize a global **state that binds (STB)**. In Society Protocol, the global synchronization enables tools to coordinate individuals algorithmically via the redistribution function at each interval in time, achieving a **rebalancing pyramid** effect to redistribute the wealth of society to those individuals who are providing value, at each point in time. 
+Currently people use tools to coordinate. They involve a mix of top-down coordination imposed by the Nation State and corporate organizations, along with bottom up coordination exercised by each individual. The current tools which society uses to coordinate do not synchronize a global **state that binds (STB)**. In Society Protocol, the global synchronization enables tools to coordinate individuals algorithmically via the redistribution function at each interval in time, achieving a **rebalancing pyramid** effect to redistribute the wealth of society to those individuals who are providing value, at each point in time. 
 
 To improve coordination means to create a better people and society. Society Protocol creates better individuals, by aligning the desires of each Individual Actor with the desires of society as a whole. 
 
-Society Protocol enables us to live in a world of instant global synchronicity and coordination. It is simultaneously a: 
-- Historical ledger
+Society Protocol enables us to live in a world of instant global synchronicity and efficient coordination. It is simultaneously a: 
+- Identity system
+- Historical ledger of state tracking
 - Coordination mechanism
 - Automated trust mechanism
+- Monetary System: Energy is simultaneously ownership, money, currency, explicit social status, and access to levers of control 
 - Synchronization mechanism with verifiable instant lossless communication 
-- Decentralized group decision making layer for controlling AI
+- Decentralized group decision-making (governance) layer for controlling AI
 - An overlay over life enabling the Metaverse
 - Synchronized Network State
-- Returns bearer asset control for individuals to their their identities, assets, and data 
-- Energy is simultaneously ownership, money, currency, explicit social status, and access to levers of control 
 
 Imagine a magical clock which contained the entire public state of the world synchronized in it, and also magically used that data to virtuously coordinate people using algorithms to align all of society, while storing it's entire verifiable history in a Timeline. 
 
@@ -176,10 +172,11 @@ That is the potential of Society Protocol, it's up to us to achieve it.
 > _The human heart was often compared to a clock, which governed the mechanism of the body. In turn, the metaphor was extended to politics, where a good sovereign was likened to a master clockmaker who ensured the mechanism of the state ran smoothly._ (Cartwright, 2023)
 
 ---
-**Dimensions of Synchronization:** 4 \[Dimension1: Account, Dimension2: Storage Array, Dimension 3: Variable, Dimension 4: Energy (Waveforms) Flowing Through Objects]
-**STF:** When a new block is minted into existence (ideally synchronized with a solar clock schedule), update the **state that binds** society.
-**Map**: Society Protocol maps all the Individual Actors in the system as they progress through time, along with their multi-dimensional state, including: assets, social history, relationships, organizations, public communications, and identity. 
-**Synchronized With Solar Time**: ❓❓❓
+#### Summary of 4-Dimensional Synchronization
+**Dimensions of Synchronization:** 4 \[Dimension1: Account, Dimension2: Storage Array, Dimension 3: Variable, Dimension 4: Energy (Waveforms) Flowing Through Objects] <br/>
+**STF:** When a new block is minted into existence (ideally synchronized with a solar clock schedule), update the **state that binds** society. <br/>
+**Map**: Society Protocol maps all the Individual Actors in the system as they progress through time, along with their multi-dimensional state, including: assets, social history, relationships, organizations, public communications, and identity. <br/>
+**Synchronized With Solar Time**: ❓❓❓<br/>
 
 ## Correlation to the Ages of the Web
 The web has been through three ages so far:
@@ -211,9 +208,7 @@ We all still remain in our personal subjective time and truth, such is the natur
 Synchronization mechanisms enable coordination and supercharge societies. 
 
 As humanity evolved from sundials (0D) to mechanical clocks (1D), Bitcoin (2D), and Ethereum (3D), each dimensional leap has exponentially expanded our capacity to synchronize a shared reality. We now stand at the threshold of the next profound evolution in human history: Society Protocol's (4D) synchronization. This isn't merely another technological advancement—it's the emergence of a new form of civilization where humanity moves as one synchronized organism.
-
 ![1D-2D-3D-4D Transition](/images/Images/1D-2D-3D-4D%20Transition.png)
-
 Better synchronized groups always conquer the groups with inferior synchronization throughout history, because synchronization is the precursor of coordination. 
 
 Just like we entered the **Industrial Age** with the clock, we will enter the **Age of Synchronicity** with Society Protocol as our shared ledger of synchronization and coordination. 
@@ -225,7 +220,6 @@ Just like we entered the **Industrial Age** with the clock, we will enter the **
 3. Cartwright, M. (2023). Clocks in the Scientific Revolution. In _World History Encyclopedia_. https://www.worldhistory.org/article/2315/clocks-in-the-scientific-revolution/.
 4. Medievalists.net. (2017). The role of the mechanical clock in medieval science. In _Medievalists.net_.
 5. Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
-
 
 [^1]: Sundials, Water Clocks, and Hourglasses don't count because they don't synchronize time to even a precise 1-Dimensional number.
 [^2]: Sun dials were of limited use in cloudy weather (which fortunately for Egyptians was rare) and at night. The sun' shadow moved so slowly it was relatively useless marking off minutes and seconds. Thutmose III era sundials were also useless early in the morning and late in the afternoon when the shadow was cast to an infinite length (this problem was later addressed by Greek sun dials, which were shaped like the interior of the bottom half of a globe).
@@ -239,5 +233,4 @@ Just like we entered the **Industrial Age** with the clock, we will enter the **
 [^10]: Alongside public identities, we are also able to store private and semi-private data with verifiable bearer ownership.
 [^11]: In Society Protocol, the Timeline is equivalent to the calendar, while the Timeslot is equivalent to the clock's current time in precision.
 [^12]: We will be funding grants for this research at Society Protocol. 
-[^13]: Reference [Fake Everything](articles/fake-everything/)
-[^14]: Offbeat due to a lack of synchronization. The dullness is a result of the lower range of potential actions (synchronization increases possibilities and opportunities). The gears of society were made of hay, not steel (it still works, just like an 8-sided wheel). 
+

@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T13:33
-updated: 2026-05-03T20:44
+updated: 2026-05-08T19:07
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 ---
@@ -46,9 +46,7 @@ Fortunately, the only constant rule of the universe is: "_change is the only con
 Each successive state builds upon its predecessor in time. Each <u>current state</u> is an evolution of the previous _<u>past state</u>_ after experiencing a <u>state transition function</u> (STF)[^1].
 
 **There is no state without the present.** All past states are actually encapsulated in the current state of the moment. Therefore, we perceive all <u>past states</u> through the lens of the <u>current state</u>.
-
 ![550](/images/Memes/are-the-past-states.jpeg)
-
 Consider: what is the current private state in your mind as you process these words? What is your history? How do state transition functions in your mind work?
 
 > If history is fake and people still find it valuable enough to put millions of collective hours researching and writing it — imagine how valuable a real history of events could be.
@@ -92,7 +90,6 @@ Envision a campfire flickering under a starlit sky, voices weaving tales of ance
 > Moreover, the oral recitation of legal proclamations and ritual procedures played a pivotal role in tribal governance. Often performed in temples and royal courts, divinatory practices relied on the spoken word to interpret omens and communicate the will of the gods. Such ceremonies reinforced the divine sanction of a ruler’s authority and maintained social order by integrating a common belief system, the basis of legal systems. 
 
 ![80%](/images/Memes/bard-singing.excalidraw.png)
-
 Whoa, _I’m getting tired just from thinking about it_. That’s A LOT of work to store the mutable, ever-changing state! Bards gotta work every day to sing it out! It’s also power. Remember, **he who controls the _state_ controls the _State_**_._ Storytellers, bards, and priests were probably pretty powerful figures—more powerful than history would have us believe[^2].
 
 Each bard and storyteller functioned as an unreliable node in a decentralized network, introducing their own creative "improvements" to the state with each retelling.
@@ -101,7 +98,7 @@ Would you trust a storytellin’ bard to keep track of the money supply? The leg
 
 * * *
 
-### _Defining Patterns of Zero-Entry Accounting_
+#### Defining Patterns of Zero-Entry Accounting
 
 **<u>Forms of State</u>:** _Tribes_.
 
@@ -123,14 +120,13 @@ Consider the precarious position: what resides in the state of your tribal compa
 
 **<u>7-Byzantine Generals Problem</u>**: _Not solved._ It wasn’t possible for 7-Byzantine Generals to surround a city and send messages through it at all. 
 
-### Illustration of Zero-Entry Accounting
-#### Part 1
+#### Illustration of Zero-Entry Accounting
+**Part 1**
 ![Zero-Entry Accounting Part1](/images/Illustrations/Zero-Entry%20Accounting%20Part1.png)
 *Caption: No common thread. Fuzzy zone changes everything. Time changes everything. Step into the fuzzy zone and state is mutated. Illuminated moments don’t last.*
-#### Part 2
-![90%](/images/Illustrations/Zero-Entry%20Accounting%20Part2.png)
-* * *
 
+**Part 2**
+![90%](/images/Illustrations/Zero-Entry%20Accounting%20Part2.png)
 The absence of permanent state records imposed severe coordination limits on early societies. Societies remained fractured into small tribes precisely because they lacked the ability to permanently record their collective private, semi-private, and public states.
 
 Without permanent records, each transmission ensured mutation, making larger States impossible to establish and maintain. Ultimately, oral traditions laid the groundwork for the ideological and social structures that would later be codified in writing.
@@ -143,7 +139,7 @@ The transition from zero-entry: **spoken** to single-entry: **recorded** state o
 
 Hieroglyphs emerged around the same time in Egypt. The Ancient Egyptians called hieroglyphs "the words of God," and the pictorial writing system was used mainly by priests to inscribe the walls of tombs and temples of royalty. The ornate symbols took effort to create—the mediums of the time (clay tablets, stone, marble) were not exactly user friendly. The lack of duplicatable medium, absolute illiteracy of the population, and the complexity of early writing systems, naturally restricted record-keeping to the domain of pharaohs and their scribes, who alone possessed the resources to **CRUD** (_Create_, _Read_, _Update_, _Delete_) the written state. Pharaohs immortalized their decrees on monumental obelisks and pyramids, creating enduring State records, but hieroglyphics remained impractical for ordinary record-keeping. The striking permanence of the mediums of recorded state (clay tablets, stone, marble) became synonymous with the permanence of power.
 
-> “Cuneiform writing expressed in tangible form the whole of the human experience for the first time in history. Cuneiform can be understood, in fact, as the beginning of human historical documentation (Mark, 2022).” 
+> Cuneiform writing expressed in tangible form the whole of the human experience for the first time in history. Cuneiform can be understood, in fact, as the beginning of human historical documentation (Mark, 2022).
 
 ![700](/images/Images/cuneiform.webp)
 <center>Single-entry accounting was the first step towards a recorded state.</center>
@@ -152,7 +148,7 @@ An elite professional class named scribes emerged from an entirely illiterate po
 
 * * *
 
-> “When the ancient cuneiform tablets of Mesopotamia were discovered and deciphered in the late 19th century, they would literally transform human understanding of history. Prior to their discovery, the Bible was considered the oldest and most authoritative book in the world and nothing was known of the ancient Sumerian civilization (Mark, 2022).”
+> When the ancient cuneiform tablets of Mesopotamia were discovered and deciphered in the late 19th century, they would literally transform human understanding of history. Prior to their discovery, the Bible was considered the oldest and most authoritative book in the world and nothing was known of the ancient Sumerian civilization (Mark, 2022).
 
 _You see young grasshopper...how easily the <u>state</u> can get lost or mutated?_
 
@@ -162,7 +158,7 @@ Writing evolved into more complex forms over time. Initially, writing was used e
 
 Alphabetic scripts were adopted due to their ability to reduce a reliance on scribes (due to the sheer technical depth of pictographic systems, which contained thousands of pictographs). <u>People wanted access to read the state</u>. The Proto-Sinaitic script (c. 1850 BCE) and later Phoenician alphabet (c. 1200 BCE) simplified writing by using fewer symbols—making it more accessible.
 
-> “Because the alphabet was invented only once, all the many alphabets of the world, including Latin, Arabic, Hebrew, Amharic, Brahmani and Cyrillic, derive from Proto-Sinaitic (James Wright, 2014).” 
+> Because the alphabet was invented only once, all the many alphabets of the world, including Latin, Arabic, Hebrew, Amharic, Brahmani and Cyrillic, derive from Proto-Sinaitic (James Wright, 2014).
 
 In ancient Mesopotamia (c. 2000–1000 BCE), laws like the Code of Hammurabi were publicly displayed on stone slabs in city centers, suggesting rulers wanted citizens to know the laws. These inscriptions weren’t distributed as copies but were accessible to those who could read, or hire scribes. Similarly, in Ancient Egypt, the pharaohs’ decrees were inscribed on monuments, but the citizens had no formal role in shaping them. <u>This is the epitome of single-entry accounting</u>: rulers inscribe the state in durable materials, and no other voices are considered.
 
@@ -186,7 +182,7 @@ Early recorded state focused on elite activities rather than the everyday life o
 
 **The written state needed to be protected and enforced**. _Unless you had the power to enforce the state, what good was having some written state_? Private written state could serve as a very crude and expensive memory extension device, but that’s about it. What good is recording single-entry accounting state, if you don’t have the power to enforce it? _It was hard to learn to become literate, and even you did…your single-entry written state doesn’t accomplish anything without the power to enforce it_. _Might as well not record it at all._ 
 
-### _Defining Patterns of Single-Entry Accounting_
+#### Defining Patterns of Single-Entry Accounting
 
 **<u>Forms of State</u>**: _Early States, City States, Classical States_.
 
@@ -222,13 +218,11 @@ Despite its permanence, the written state remained fundamentally untrustworthy�
 
 **<u>7-Byzantine Generals Problem</u>**: _Not solved._ Seven generals could surround a city and write permanent tablets of their intent, but had no way of transmitting these tablets safely through the city.
 
-### Illustration of Single-Entry Accounting
-#### Part 1
+#### Illustration of Single-Entry Accounting
+**Part 1**
 ![Single-Entry Accounting Part1](/images/Illustrations/Single-Entry%20Accounting%20Part1.png)
-#### Part 2
+**Part 2**
 ![Single-Entry Accounting Part2](/images/Illustrations/Single-Entry%20Accounting%20Part2.png)
-* * *
-
 Writing enabled more complex and accountable bureaucracies, allowing rulers to tax, regulate, and enforce laws over larger territories and populations. It also facilitated long-distance trade, diplomatic correspondence, and the codification of laws and religious texts, which in turn strengthened the authority of kings and created Classical States. The societal impact of writing was profound: it increased State power, enabled the rise of bureaucratic classes, and laid the foundation for legal and literary traditions which shaped cultures for millennia.
 
 The written state was written by the winners; state of the opposing conquered tribes was destroyed. The losers became stateless slaves assimilated into the winning States, unable to write the state. We will never know or learn about their States.
@@ -246,13 +240,11 @@ Sometime after the fall of the Western Roman Empire, the centralized single-entr
 All three contributed to the development of a more sophisticated and transmissible double-entry accounting. The defining feature of this period is: **duplication**. _Multiple parties duplicated and tracked the same state, to ensure verifiability._
 
 The Church’s spread reinforced its role as a record-keeper, a continuation of Roman archival practices. Bishops and monks documented ecclesiastical and secular affairs, from tithe ledgers to royal charters. This was critical in post-Roman Europe, where secular bureaucracies were weak. By the 9th century, parish registers and monastic archives were widespread, laying the groundwork for later medieval legal and administrative systems. The Church, as a record-keeper, facilitated access to laws. Monasteries and cathedrals stored copies of royal charters or statutes, and clerics often read them to illiterate populations. *The churches had become decentralized nodes as repositories of the state during a fragmented period in Medieval Europe.*
-
 ![700](/images/Images/cathedral.jpg)
-![700](/images/Images/cathedral.avif)_We’re talking about cathedrals that took centuries to build – their function was to_ <u>preserve the state</u>. _The church should really be thought of as the early double-entry accounting age’s data centers._
+![700](/images/Images/cathedral.avif)_Caption: We’re talking about cathedrals that took centuries to build – their function was to_ <u>preserve the state</u>. _The church should really be thought of as the early double-entry accounting age’s data centers._
 
 By the medieval period in Europe (c. 500–1500 CE), the Church and secular notaries played a key role in contract duplication. Charters and indentures—named for their “indented” edges, which allowed matching copies to verify authenticity—were common. These were written on a single parchment, then cut irregularly so each party held a matching half. The Church’s scriptoria often produced these documents, as monks and clerics were trusted scribes. The practice of duplicating contracts was driven by the need for *mutual trust* and *dispute resolution* in societies with growing trade and literacy. It became standard as writing materials (papyrus, parchment, and later paper) became more accessible and legal systems emphasized verifiable agreements.
-
-![indenture](/images/Images/indenture.webp)*This “indenture” contract is named after its indented edges, which were cut in a way that duplicated the state to enhance verifiability. Multiple parties started possessing shared ownership of the recorded state.*
+![indenture](/images/Images/indenture.webp)*Caption: This “indenture” contract is named after its indented edges, which were cut in a way that duplicated the state to enhance verifiability. Multiple parties started possessing shared ownership of the recorded state.*
 
 **Communal Movements (11th–13th Centuries)**: In Italian city-states like Florence and Siena, urban citizens (merchants, artisans) formed communes that negotiated charters with rulers or bishops, granting local governance rights. These charters were duplicated, with copies held by communes and sometimes posted publicly. Citizens demanded access to these written agreements to ensure rulers honored them. By the 13th century, notaries in Italy and France standardized duplicated contracts, with copies for each party and a register kept by the notary.
 
@@ -278,16 +270,14 @@ The Magna Carta was a defining document of the double-entry period. Its legacy�
 ### The Print Revolution (1500-1600s)
 
 In the mid-15th century, Johannes Gutenberg's printing press ignited the Print Revolution—a technological leap that would democratize knowledge and fundamentally reshape human civilization. Few innovations have had such profound consequences for the course of history. By transforming how information was duplicated and distributed[^8], Gutenberg set in motion changes that would echo through centuries, permanently altering the relationship between populations and power structures.
-
 ![600](/images/Images/print-revolution.webp)
-
 While the Magna Carta democratized access to the public state for the elites, the printing press democratized access to the state for the masses. *It enabled the trivial duplication of the state*. The printing press is the first time in human history when the masses were able to share their thoughts as recorded state. For the first millions of years of evolution, this wasn’t accessible. Until the 1500s, ideas of almost the entire global populace were unable to be captured and shared. Meanwhile, the church’s official doctrine—its public state—dominated medieval life.
 
 #### Duplication of state
 
 The Print Revolution enabled a cheaper <u>create</u> function, changing the dynamics of **CRUD** access to all written state: <u>create</u> became trivial, <u>read</u> became easier (as literacy increased), <u>update</u> became easier (create an updated copy), but <u>delete</u> became relatively more difficult (due to the trivial ease of <u>create)</u>. This enabled the mass production of texts; making written records cheaper, more standardized, and widely accessible.
 
-> _“One hand-copied book in the 14th century cost as much as a house and libraries cost a small fortune. The largest European library in 1300 was the university library of Paris, which had 300 total manuscripts. By the 1490s, when Venice was the book-printing capital of Europe, a printed copy of a great work by Cicero only cost a month’s salary for a school teacher_ (Roos, 2019).”
+> One hand-copied book in the 14th century cost as much as a house and libraries cost a small fortune. The largest European library in 1300 was the university library of Paris, which had 300 total manuscripts. By the 1490s, when Venice was the book-printing capital of Europe, a printed copy of a great work by Cicero only cost a month’s salary for a school teacher (Roos, 2019).
 
 The printing press eliminated the erroneous mutations in duplicate copies. The <u>create</u> function became effectively <u>lossless</u>. The accuracy and rapid speed with which ideas could be duplicated and transmitted created a powerful combination. It wasn’t necessarily the speed at which books could spread, but the accuracy with which the original data was copied. With duplicated printed formulas and mathematical tables in hand, scientists could trust the fidelity of the data and devote energy to breaking new ground. Lossless and trivial duplication increased trust in the data, accelerating the Renaissance — enabling the Enlightenment and Scientific Revolution.
 
@@ -308,7 +298,7 @@ This radically transformed society from a heavy emphasis on transmitting identic
 
 #### The Enlightenment and Scientific Revolution (1700-1800)
 
-> “For millennia, science was a largely solitary pursuit. Great mathematicians and natural philosophers were separated by geography, language and the sloth-like pace of hand-written publishing. Not only were handwritten copies of scientific data expensive and hard to come by, they were also prone to human error. With the newfound ability to publish and share scientific findings and experimental data with a wide audience, science took great leaps forward in the 16th and 17th centuries (Roos, 2019).”
+> For millennia, science was a largely solitary pursuit. Great mathematicians and natural philosophers were separated by geography, language and the sloth-like pace of hand-written publishing. Not only were handwritten copies of scientific data expensive and hard to come by, they were also prone to human error. With the newfound ability to publish and share scientific findings and experimental data with a wide audience, science took great leaps forward in the 16th and 17th centuries (Roos, 2019).
 
 The trivial duplication and transmission of the state enabled progress and advancement like never seen before. With the newfound ability to inexpensively mass-produce books on every imaginable topic, revolutionary ideas and priceless ancient knowledge were placed in the hands of every literate European.
 
@@ -327,7 +317,6 @@ I personally consider the greatest invention in the history of mankind to be ele
 Electricity allowed the state to be illuminated and expand beyond writing. The Modern Era rapidly expanded the speed and mediums of state storage: brilliant photographs, audio recordings, video recording captured 3-dimensional life in vivid detail.
 
 Electricity itself is also state. Houses began lighting up with power, duplicated across all of society. The overall state of society rapidly advanced and became *illuminated*. Electricity and natural resources came to power everything. This energy produced the fuel that holds modern society up. 
-
 ![600](/images/Images/no-rich-low-energy-country.jpeg)
 <center>There is no such thing as a rich low-energy country.</center>
 
@@ -360,8 +349,7 @@ To regain control of AI, and the state, we need a State which can effectively co
 The entire double-entry accounting period is characterized by: _duplication of the state which enables greater verification_. As we near the end of the double-entry accounting period: society had mastered permanent state records from the single-entry accounting period, along with state duplication and transmission. Duplication and transmission enabled greater _verification_, which enabled greater trust. Supporting the evolution of increasingly complex social contracts.
 
 This increase in trust afforded Nation States the ability to print paper currencies (double entry accounting made sure they were **almost** always backed by trusty gold in the State's coffers), have judicial court systems (where two parties fight over the rightful version of the public state), and facilitates democratic group decision making systems (where multiple parties express opinions to form a consensus about which state to adopt).
-
-![evolution-indenture-democracy](/images/Images/evolution-indenture-democracy.png)*The duplicated state of the indenture scaled into the duplicated state of modern democracy (social contract).*
+![evolution-indenture-democracy](/images/Images/evolution-indenture-democracy.png)*Caption: The duplicated state of the indenture scaled into the duplicated state of modern democracy (social contract).*
 
 The duplicated state of the double-entry accounting age requires less protection compared to the single-entry period. Today, society trusts essentially all of its state records (<u>private</u>, <u>semi-private</u>, and <u>public state</u>) to data centers owned by corporations and Nation States (_humans have made the logical decision that duplicated double-entry state owned by the data center is more beneficial than single-entry state made by the data center about them)_. These entities have been given god-like power that pharaohs could't even write about (they didn't know how to write).
 
@@ -374,12 +362,12 @@ We are living in the end of the double-entry accounting era: all the functions o
 #### Forgeries
 There is no single source of truth for the state, and so forgeries are easily created. Stories like these, from the early in the Medieval Age, still crop up today as notaries fraudulently change land records across most of the civilized world a millennia later.
 
-> “When some powerful monarch made difficulties, there was a strong inducement to produce the required ancient-looking documents. The borderline between justifying legitimate possession and culpable attempts to gain extra territory or privileges, however, is ill-defined. Monks occasionally descended to falsifications of title deeds and charters of exemption. About 1125 a monk of Soissons on his deathbed confessed to a career of professional forgery for gain and admitted fabricating charters for various monasteries, including Westminster Abbey.” From Paleography by (William G. Urry, n.d.). 
+> When some powerful monarch made difficulties, there was a strong inducement to produce the required ancient-looking documents. The borderline between justifying legitimate possession and culpable attempts to gain extra territory or privileges, however, is ill-defined. Monks occasionally descended to falsifications of title deeds and charters of exemption. About 1125 a monk of Soissons on his deathbed confessed to a career of professional forgery for gain and admitted fabricating charters for various monasteries, including Westminster Abbey. From Paleography by (William G. Urry, n.d.). 
 
 #### Corruption of the state
 The problem of state corruption happens when a duplication of the state isn’t precise. Once the state is corrupted, it can corrode further and impact all the states duplicated from it.
 
-> “If a scribe made a mistake in copying, future scribes using his version are likely to reproduce the error and add others. Sometimes the same muddled passage in a group of manuscripts of a given author can be traced back to damage in an earlier copy, say a section eaten by rodents or impenetrably stained.” (William G. Urry, n.d.)
+> If a scribe made a mistake in copying, future scribes using his version are likely to reproduce the error and add others. Sometimes the same muddled passage in a group of manuscripts of a given author can be traced back to damage in an earlier copy, say a section eaten by rodents or impenetrably stained. (William G. Urry, n.d.)
 
 Corruption of the state was reduced over time with duplication during the Print Revolution, but remains very relevant today with purposefully created alterations in duplication (since state version changes aren’t tracked). In modern society, a millennia later, we face problems of misinformation and disinformation. 
 
@@ -409,7 +397,7 @@ In the current paradigm of duplication, without synchronization, it’s essentia
 #### Translation of the state
 <u>state</u> is often stored in multiple languages and forms of measurement. Interfacing with these is not always easy.
 
-> A historical example: “Dating of books and documents also offers problems. Even when a precise date is given, the dating system of a given time and a given area must be checked because the year began at different times in different territories, and there were even variations in the same country. Calendar reforms initiated in 1582 by Pope Gregory XIII, for example, were not adopted in Protestant England until 1752. If a year of a monarch’s reign is given as a date, it is necessary to determine whether the reign is counted from his accession or coronation. Moreover, few books were dated, the dated title page being nonexistent in medieval works, though sometimes a final paragraph, the colophon, supplies a date with the scribe’s name and place of work. Important documents, such as English 12th-century royal charters, are undated (William G. Urry, n.d.).” 
+> A historical example: Dating of books and documents also offers problems. Even when a precise date is given, the dating system of a given time and a given area must be checked because the year began at different times in different territories, and there were even variations in the same country. Calendar reforms initiated in 1582 by Pope Gregory XIII, for example, were not adopted in Protestant England until 1752. If a year of a monarch’s reign is given as a date, it is necessary to determine whether the reign is counted from his accession or coronation. Moreover, few books were dated, the dated title page being nonexistent in medieval works, though sometimes a final paragraph, the colophon, supplies a date with the scribe’s name and place of work. Important documents, such as English 12th-century royal charters, are undated (William G. Urry, n.d.).
 
 #### Conflicts over the state
 Without a single golden record, conflicts over what the state is naturally arise. These are often legitimate conflicts of differing perspectives, as we mentioned in the beginning of the article: combining multiple private and semi-private states into a public state, is no small feat. In this situation, the process (of restoring a shared reality from differing private states) must be repeated from two fractured perceptions of the state. 
@@ -422,7 +410,8 @@ There is nothing in any piece of state that innately ties it to any other piece,
 This means, the state can appear and disappear (potentially mutating in the process). <u>Past states</u> are not tracked (tracking is enabled by constant synchronization).
 * * *
 
-### _Defining Patterns of Double-Entry Accounting_
+#### Defining Patterns of Double-Entry Accounting
+
 **<u>Forms of State</u>**: _Ecclesiastical States, Nation States_.
 
 **<u>Accounting</u>**: _Double-Entry: duplicated accounting + some accountability!_ A key characteristic of double-entry accounting age is accounting + accountability. This differed drastically from the single-entry accounting age and facilitated the steady rise of information velocity and trust in society.
@@ -450,13 +439,11 @@ _What is really left out of the public state these days? Private moments, inform
 
 **<u>7 Byzantine Generals Problem</u>**: _Not Solved_. The generals can send messages attempting to synchronize the attack utilizing centralized data servers, owned by one or more of the generals, but these messages hold no true weight. These messages are communication—not coordination. The generals committing the messages do not commit any verifiable resources to an attack, their communicated messages can also be edited or censored by the general(s) owning the centralized server.
 
-### Illustration of Double-Entry Accounting
-#### Part 1
+#### Illustration of Double-Entry Accounting
+**Part 1**
 ![90%](/images/Illustrations/DEAA%20Part%201.excalidraw.png)
-#### Part 2
+**Part 2**
 ![90%](/images/Illustrations/DEAA%20Part%202.excalidraw.png)
-
----
 The defining feature of the double-entry accounting period is **duplication**: multiple copies have enabled more verification and transmissibility in our societal state[^13]. 
 
 As we progressed from Medieval Europe through the Magna Carta, the Printing Revolution, and into the Modern Era, the state evolved from a guarded resource to a widely accessible utility. Creating, reading, updating, deleting, and transmitting the state became increasingly trivial. This widespread duplication fundamentally transformed society by distributing verification power among multiple parties, establishing unprecedented trust through shared records. The resulting stability enabled revolutionary social contracts—democratic governance, fiat currencies, and identity systems—which collectively elevated both the legitimacy and trust in the state and the State.
@@ -471,13 +458,9 @@ Triple-entry accounting is an evolution born of blockchain technology. Bitcoin, 
 In a Synchronized State, the state is simultaneously _<u>duplicated widely</u>_ and _<u>stored in a singular chronological Timeline</u>_—propagating a permanent singular shared reality across all of society. Only one chronological golden record exists at each point in Time, and this golden record is permissionlessly accessible to all participants to CRUD worldwide.
 
 The state is immutable[^14], a significant portion of society is incentivized to remain duplicating and synchronizing it in unison. The individual actors of Synchronized States themselves uphold the state and subsequently, their shared reality and its State—anyone with an account can participate.
-
 ![80%](/images/Images/uphold-the-state.jpg)
-
 The state exists on a singular _Timeline_, including all <u>past states</u> and a <u>current state</u>. It transitions from one _Time_ to another across all of society simultaneously via an algorithm known as a **state transition function (STF)**. The STF defines the algorithmic rules for state transitions.
-
 ![90%](/images/Illustrations/STF.excalidraw.png)
-
 Synchronized States are data societies bound by what people perceive as valuable: <u>the state</u> and the <u>algorithms governing it</u>. Unlike the past ages, when the state was stored by gatekeepers: in temples by scribes, cathedrals by monks, or data centers by nerds—the state of Synchronized States is stored as a _duplicated computer program_.
 
 **History:** Due to this synchronization, we can see where the state came from, where it’s been, and where it’s going. This observability, accessibility, and auditability creates a new level of automated trust in the state—and therefore, the State. More trust than has ever existed during the single-entry accounting period, when rulers etched whatever they desired into the state or the double-entry accounting period, where those who controlled the church or data centers controlled and manipulated the state.
@@ -584,7 +567,7 @@ The non-fungibility of every Society Protocol instance establishes tremendous mo
 **Network Effects:** Instances of P2P networks exhibit superlinear growth characteristics. As the network size (n) increases, the potential connections and value grow according to Metcalfe's Law, which states that the value is proportional to n². *The more an instance of Society Protocol grows, the more superlinearly powerful it becomes.*
 * * *
 
-### _Defining Patterns of Triple-Entry Accounting_
+#### Defining Patterns of Triple-Entry Accounting
 
 **<u>Forms of State</u>**: _Synchronized States_.
 
@@ -612,10 +595,8 @@ Since we have a clear delineation between the <u>private</u>, <u>semi-private</u
 
 **<u>7 Byzantine Generals Problem</u>**: _Solved_/. The 7 Generals can gather around any city, country, or State and send verifiable encrypted messages to coordinate at nearly the speed of light (enabling complex, multi-step conditional operations and strategies, rather than mere binary attack decisions), which have the full weight of their identity, property, and data behind them.
 
-### Illustration of Triple-Entry Accounting
+#### Illustration of Triple-Entry Accounting
 ![Triple-Entry Accounting.excalidraw](/images/Illustrations/Triple-Entry%20Accounting.excalidraw.png)
-
-
 We stand at the threshold of **The Age of Synchronicity**—a transformation as profound as any in human history. The emergence of triple-entry accounting and Synchronized States represents not merely an incremental advancement but a fundamental reimagining of how humanity tracks and coordinates around its shared reality. This evolution will reshape our collective existence at a scale unseen for thousands of years.
 
 Throughout history, the winners have written our shared state. Now, history will be written by the _Timeline_—a synchronized, quasi-immutable record that belongs to everyone. For the first time, every individual can participate in creating history simultaneously, without specialized gatekeepers or innate class advantages.

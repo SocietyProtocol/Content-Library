@@ -1,11 +1,11 @@
 ---
 created: 2025-07-17T19:11
-updated: 2026-05-03T20:43
+updated: 2026-05-09T14:33
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
 
-_This article is part of the state trilogy; terminology for the trilogy can be found [here](../../Extras/Resources/Terminology%20for%20the%20state%20trilogy.md). 
-The other parts are [The state of the State (History)](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [The state That Binds (Shared Reality)](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality))._
+_This article is part of the state trilogy; terminology for the trilogy can be found in the **[glossary](https://societyprotocol.io/glossary/)**. 
+The other parts are **[The state of the State (History)](https://societyprotocol.io/articles/the-state-of-the-State/)** and **[The state That Binds (Shared Reality)](https://societyprotocol.io/articles/the-state-that-binds/)**._
 
 * * *
 
@@ -161,7 +161,7 @@ Control of the state with the precision of telecommunications, the Internet, AI,
 
 #### Fix The Coordination, Fix The World
 
-…But let’s say that we could fix the coordination problem of the world. If we distributed resources well, and had excellent group decision-making…not only would these problems not plague us—_society would receive amazing benefits_. This is impossible using Nation State systems where a small group of technocratic elites control decision-making. We would need a different way to make decisions as a group 🤔. Such a breakthrough would allow humans to invert the polycrisis and proceed to humanity’s next epoch_—__The Age of Synchronicity__._
+…But let’s say that we could fix the coordination problem of the world. If we distributed resources well, and had excellent group decision-making…not only would these problems not plague us—_society would receive amazing benefits_. This is impossible using Nation State systems where a small group of technocratic elites control decision-making. We would need a different way to make decisions as a group 🤔. Such a breakthrough would allow humans to invert the polycrisis and proceed to humanity’s next epoch—__The Age of Synchronicity__.
 
 **Once we can improve how we make decisions and coordinate as a society, ALL of these problems actually turn into benefits:**
 
@@ -190,7 +190,7 @@ Control of the state with the precision of telecommunications, the Internet, AI,
 1. Society will inevitably transition from Nation States to Synchronized States. _It is already happening._ Because Synchronized States are fundamentally 10-100x more efficient at fulfilling all the functions of a State, it’s like comparing horses to automobiles.
 2. There are only two ways this evolution can occur (they will be revealed later in this article). Only two paths in which we can attempt to improve the coordination and exit this polycrisis; one leads to very dystopian outcomes while the other leads to profoundly utopian outcomes.
 
-![500](../../Extras/Memes/Castles%20Crossroads%20???.jpg)
+![500](Castles%20Crossroads%20Path%20Unknown.jpg)
 
 *Humanity will have to choose a way. If it fails to choose and take action, a way will be chosen for it. You will be presented with a choice towards the end of this article, and how individuals collectively respond to that choice will determine the future.*
 

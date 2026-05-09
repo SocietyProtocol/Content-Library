@@ -1,9 +1,7 @@
 ---
 created: 2026-04-23T15:58
-updated: 2026-05-03T20:43
+updated: 2026-05-04T09:05
 ---
-# Whitepaper
-
 **Abstract:** Society Protocol introduces a distributed system of coordination as a solution to all the coordination problems plaguing modern civilization.
 
 ## Introduction
@@ -12,9 +10,9 @@ Our civilization is at a crossroads. We are undergoing tremendous upheavals due 
 
 Western principles, which have led the world for centuries, are plainly _failing_ and _collapsing_ under the weight of rapid technological change.
 
-These principles are rooted in _duplicated contracts_, which enabled <u>democratic governance</u> and <u>individualism</u>—evolutionary methods of coordination that first emerged at the beginning of what we call the double-entry accounting age (DEAA), around year zero[^1] (in both CE/AD). _All of the DEAA’s coordination methods are anchored in one fundamental innovation: duplicated contracts._
+Western principles are rooted in _duplicated contracts_, which enabled <u>democratic governance</u> and <u>individualism</u>—evolutionary methods of coordination that first emerged at the beginning of what we call the double-entry accounting age (DEAA), around year zero[^1] (in both CE/AD). _All of the DEAA’s coordination methods are anchored in one fundamental innovation: duplicated contracts._
 
-We are still coordinating using individualism and representative democratic systems, which emerged and were refined from ancient Greece and Rome[^2]. While these systems were state of the art at the time (around two millenniums ago)—they no longer are_._ In the modern world, information pulses around the globe at nearly the speed of light, but we aren’t able to coordinate effectively using all this information because our State structures remain fragmented—rooted in a different age.
+We are still coordinating using individualism and representative democratic systems, which emerged and were refined from ancient Greece and Rome[^2]. While these systems were state of the art at the time (around two millenniums ago)—they no longer are. In the modern world, information pulses around the globe at nearly the speed of light, but we aren’t able to coordinate effectively using all this information because our State structures remain fragmented—rooted in a different age.
 
 ### The Problem of Coordination
 
@@ -70,7 +68,7 @@ As a result, our state tracking is jagged and isn’t accurate. Our histories ar
 
 _Pretty tough to do democracy and individualism under such conditions…eh??_ 🤣
 
-**Synchronization (Time)**
+#### Synchronization (Time)
 
 Our time is very 1-Dimensional; _we’re only synchronizing together on one integer_. Now, this doesn’t sound like much of a problem…until you realize the synchronization that we’re potentially capable of with modern technology, and leaking in potential…_<u>which is essentially all of the societal public state</u>_.
 

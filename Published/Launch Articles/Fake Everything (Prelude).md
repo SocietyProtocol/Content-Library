@@ -1,8 +1,8 @@
 ---
 created: 2025-04-17T11:15
-updated: 2026-05-03T20:43
+updated: 2026-05-08T16:06
 ---
-Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. To verify this, please run a simple thought experiment:
+Let's start with a simple assumption: **the price of assets is influenced by the group of entities owning that asset**. *To verify this, please run a simple thought experiment:*
 
 - Would the price of gold be the same today if one entity owned all the gold in the world?
 - Would Microsoft's stock price be the same if Bill Gates' stake was distributed among America's homeless population?
@@ -12,7 +12,7 @@ Everything that follows in this article hinges on this assumption: _a change in 
 
 Many implications can be drawn from this: that decentralization matters, why ownership history carries significant meaning, and why venture capitalists obsess over co-investment partners. However, let’s focus on one particularly important implication: current blockchain architectures lack transparency around ownership set and robust sybil-resistance to stop the manipulation of ownership sets – make them **irreparably** unsuitable tools for participants to perceive the true <u>token valuations</u>, <u>security provided</u>**,** <u>governance participants</u>, and their <u>true coordination</u> (which occurs at the social layer).
 
-**It gets worse**, economic game theory stipulates that participants are incentivized to form cabals and manipulate these perceptions to reap economic rewards. This is called <u>decentralization theater</u>. Another conclusion can be drawn (and practically observed if you peer close enough in this industry): every asset blockchain is a cabal of insiders manipulating the perception of ownership set for economic benefit as this behavior is the game theory optimal strategy. **Therefore, blockchains can never live up to their decentralized vision**, because the value of every asset is not only imperceptible without understanding the social layer but also always manipulated by a cabal of insiders underneath.
+**It gets worse**, economic game theory stipulates that participants are incentivized to form cabals and manipulate these perceptions to reap economic rewards. This is called <u>decentralization theater</u>. Another conclusion can be drawn (and practically observed if you peer close enough in this industry): every asset blockchain is a cabal of insiders manipulating the perception of ownership set for economic benefit, as this behavior is the game theory optimal strategy. **Therefore, blockchains can never live up to their decentralized vision**, because the value of every asset is not only imperceptible without understanding the social layer but also always manipulated by a cabal of insiders underneath.
 
 **This situation isn’t something that we have to watch out for once** (such as collusion during the trusted setup of zk-snarks [@vitalikbuterinHowTrustedSetups2022]), it’s something that can happen at any point during the lifetime of a network, persists silently (as cabals do) in the system, and also happens to be the default starting state for any of these systems with participants who understand game theory.
 
@@ -20,10 +20,11 @@ While these dynamics are always theoretically costly to ordinary participants, l
 
 ## Fake Assets (Valuation)
 
-Market participants perceive asset valuations through the lens of global markets…yet these valuations are _easily manipulated_ with permissionless sybil attacks. **True valuations must include the true ownership set.** Since blockchain networks do not have sybil resistance, we cannot make assertions or trust in the decentralization of the ownership set, and therefore the asset valuation itself–**making sound money impossible**.
+Market participants perceive asset valuations through the lens of global markets…yet these valuations are _easily manipulated_ with permissionless sybil attacks. **True valuations must include the true ownership set.** Since blockchain networks do not have sybil resistance, we cannot make assertions or trust in the decentralization of the ownership set, and therefore the asset valuation itself––**making sound money impossible**.
 
 **Visualization of ownership categories:**
-![700](../../Extras/Illustrations/Ownership%20Preference.excalidraw.png)_Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out; is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
+![700](../../Extras/Illustrations/Ownership%20Preference.excalidraw.png)
+_Caption: Participants want the other people co-holding the same assets to be in rich & stable category. The last thing they want to find out.., is that their assets are only co-owned by some dude living in his mother's basement and she's about to kick him out!_
 
 ### Fake Transactions
 
@@ -31,10 +32,10 @@ Market participants perceive asset valuations through the lens of global markets
 
 News sources consistently publish a slew of articles about the staggering volumes of decentralized tokens, stablecoins, and perpetuals to the public.
 
-- [Stablecoin Volumes Surpassed Visa & Mastercard Combined In 2024](https://www.zerohedge.com/crypto/stablecoin-volumes-surpassed-visa-mastercard-combined-2024)
+- [Stablecoins are now bigger than Visa or Mastercard](https://www.visualcapitalist.com/charted-stablecoins-are-now-bigger-than-visa-or-mastercard/)
 - [Stablecoins: the real crypto craze](https://www.economist.com/finance-and-economics/2025/02/23/stablecoins-the-real-crypto-craze)
-- [Hyperliquid flips Solana in fees, but is the ‘HYPE’ justified?](https://cointelegraph.com/news/hyperliquid-flips-solana-in-fees-but-is-the-hype-justified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-- [**Pump.fun’s new DEX reaches $1B volume a week after launch**](https://cointelegraph.com/news/pumpswap-trading-volume-1-billion-pumpfun-memecoin-decline?utm_source=feedly_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- [Hyperliquid flips Solana in fees, but is the ‘HYPE’ justified?](https://www.tradingview.com/news/cointelegraph:8308fa8fa094b:0-hyperliquid-flips-solana-in-fees-but-is-the-hype-justified/)
+- [Pump.fun’s new DEX reaches $1B volume a week after launch](https://www.tradingview.com/news/cointelegraph:36707be8b094b:0-pump-fun-s-new-dex-reaches-1b-volume-a-week-after-launch/)
 
 **These volume comparisons are fundamentally misleading.** Traditional payment networks like Visa & Mastercard operate under entirely different economic constraints than blockchain networks. Each Visa transaction incurs a ~2.9% + 30¢ fee, creating a substantial economic barrier against fake volume. Generating $1 million in fabricated transactions would cost roughly $30,000 in fees. This economic friction naturally filters out artificial activity. Blockchain networks, by contrast, might charge mere cents or even fractions of a penny per transaction. On modern networks like Solana, creating $1 million in fake volume might cost less than $10 in fees—a negligible cost that creates virtually no barrier to fabrication. This fundamental difference in economic design means blockchain volume statistics are trivially manipulated, rendering them meaningless as indicators of genuine economic activity.
 
@@ -69,7 +70,7 @@ If participants can't trust asset valuations, community size, or transaction vol
 
 The security in blockchains derives in a few common ways, these are Proof of Work (PoW), Proof of Stake (PoS), and Threshold Signature Schemes (TSS). Each of these systems offers a distinct security paradigm, but their effectiveness depends on factors that might not be obvious to participants. _Let's examine the underlying assumptions of each security model._
 
-### **Proof of Work** **\[POW\]**
+### Proof of Work \[POW\]
 
 The amount of security in PoW derives from having an amount of computing power which is strong enough to protect the network against 51% attacks on the network.
 
@@ -80,7 +81,7 @@ The amount of security in PoW derives from having an amount of computing power w
 **There are two more quirks:**
 
 1. Networks which fall in asset value in the PoW world are exposed to a death spiral effect (where computing power can switch over from other stronger networks and 51% attack their network) – occupying a secondary position with compatible mining hardware creates an existential vulnerability.
-2. PoW compute capacity naturally aggregates over time, placing >51% of the power in the hands of a few participants. _<u>These entities don't attack the network not because they can't, but because doing so would undermine their own economic interests</u>._ Bitcoin, the largest and most stable PoW network, exists at the behest of 2-4 mining pool entities. PoW is only secure as long as the synchronized state makes sense for the cabal to maintain. Should this economic equation ever change—due to market crashes, regulatory pressure, or external incentives—these entities would collapse the entire system overnight. The precipice is ever-present, a single successful 51% attack orchestrated by this small cabal would permanently shatter trust in the system initiating a catastrophic death spiral.
+2. PoW compute capacity naturally aggregates over time, placing >51% of the power in the hands of a few participants. _<u>These entities don't attack the network not because they can't, but because doing so would undermine their own economic interests</u>._ Bitcoin, the largest and most stable PoW network, exists at the behest of 2-4 mining pool entities. PoW is only secure as long as the synchronized state makes sense for the cabal to maintain. Should this economic equation ever change—due to market crashes, regulatory pressure, or external incentives—these entities would collapse the entire system overnight. The precipice is ever-present, a single successful 51% attack orchestrated by this small cabal would permanently shatter trust in the system, initiating a catastrophic death spiral.
 
 **What a perilous way to secure our entire future financial system!**
 
@@ -134,9 +135,9 @@ So, how long are blockchains secure? The cabal maintains a synchronized state, _
 
 Attempts at creating true governance systems and organizations, such as decentralized autonomous organizations (DAOs), on asset based blockchains are **irreparably** impossible due to their non sybil-resistant nature. Anyone can create an unlimited number of identities, which all cost nothing to upkeep, simply by paying transaction fees. This creates an environment where voting cannot be done through verifiable people (_because one person can pretend to be thousands_), and must instead be done via asset ownership…but participants don’t know who owns the assets…therefore, unable to determine their value or the people behind them.
 
-> “Oh, sorry sir. A cabal actually owns the majority of this DAO…no way to prove, no way to perceive. **Sorry, your votes don’t actually count**. We do appreciate you offering feedback, and please have some swag at our next conference, it’s on us!”.
+> Oh, sorry sir. A cabal actually owns the majority of this DAO…no way to prove, no way to perceive. **Sorry, your votes don’t actually count**. We do appreciate you offering feedback, and please have some swag at our next conference, it’s on us!
 
-![350](../../Extras/Memes/are-not-real.jpg)
+![450](../../Extras/Memes/are-not-real.jpg)
 
 Governance actually functions as a feedback mechanism for the cabal in these organizations. Which isn’t necessarily a bad or a good thing, again we want to reiterate–**you’re investing in the strength of the cabal.**
 
@@ -150,7 +151,7 @@ A very popular governance model for asset allocation in blockchain ecosystems is
 
 ### A real world skin scenario:
 
-- [Polymarket faces scrutiny over $7M Ukraine mineral deal bet](https://cointelegraph.com/news/polymarket-trump-ukraine-bet-whale-governance-attack?utm_source=feedly_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- [Polymarket faces scrutiny over $7M Ukraine mineral deal bet](https://www.tradingview.com/news/cointelegraph:6fe4b4ae3094b:0-polymarket-faces-scrutiny-over-7m-ukraine-mineral-deal-bet/)
 
 In this story, the governance of UMA, an oracle protocol which Polymarket (a prediction markets platform) relies on, decided the outcome of a prediction market falsely via governance vote.
 
@@ -164,7 +165,7 @@ If an invisible cabal does indeed control the voting apparatus (we need not make
 
 News sources have published examples of this pattern every week for years, but these articles only illustrate when the cabal is in (skin) mode. The (sheer) mode is happening everyday around us and is undetectable, skinning is only the grand finale. Participants can’t trust in the democratic voting process—they can only trust in the power of the cabal.
 
-- [**Community slams Crypto.com CEO over 70B CRO re-issuance**](https://cointelegraph.com/news/cryptocom-ceo-backlash-70-billion-cro-mint?utm_source=feedly_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- [Community slams Crypto.com CEO over 70B CRO re-issuance](https://www.tradingview.com/news/cointelegraph:4c29782c5094b:0-community-slams-crypto-com-ceo-over-70b-cro-re-issuance/)
 - [MakerDAO showing itself to be centralized](https://rekt.news/emergency-powers)
 - [Hyperliquid forced to reveal invisible centralized kill switch](https://rekt.news/hyperliquidate2)
 
@@ -182,9 +183,9 @@ The true root of coordination in blockchains always happens underneath at the so
 
 In most modern networks, often the most powerful and coordinated social layer underneath is the organization which produces and releases updates for the network or application. You see–most blockchains and decentralized applications are still far off from fulfilling their final visions, requiring massive development work behind the scenes. Somebody has to coordinate all this building at the social layer: This group naturally has to be coordinated, organized, and aligned–with shared financial interests. The most powerful cabals in the blockchain world are often found here.
 
-An interesting piece by Haseeb Qureshi [@qureshiEthereumNowUnforkable2019] illustrated a convincing argument that a strong influence in the fork choice of blockchain networks is likely to be ultimately controlled at the social layer by financial entities, and especially centralized entities controlling real-world assets tied to the blockchain like USDT, USDC, and WBTC.
+An interesting piece by Haseeb [@qureshiEthereumNowUnforkable2019] illustrated a convincing argument that a strong influence in the fork choice of blockchain networks is likely to be ultimately controlled at the social layer by financial entities, and especially centralized entities controlling real-world assets tied to the blockchain like USDT, USDC, and WBTC.
 
-> “In the meantime, DeFi operators watch anxiously. Their hands are tied: they cannot pick sides too early. Why? Because for a DeFi operator, picking the correct fork is critical to their system surviving, and nobody wants to be blamed for instigating additional conflict.” (Qureshi, 2019)
+> In the meantime, DeFi operators watch anxiously. Their hands are tied: they cannot pick sides too early. Why? Because for a DeFi operator, picking the correct fork is critical to their system surviving, and nobody wants to be blamed for instigating additional conflict. (Qureshi, 2019)
 
 These DeFi operators existing in the state machine <u>must pay attention</u> to the social layer, or risk picking the wrong fork during contentious forks. Which would wipe them out–_yet the social layer is invisible_.
 
@@ -192,7 +193,7 @@ While it would appear that we are talking about fork-choice rule in this section
 
 When the organized social layer decides it’s time to move (fork) or simply not honor the blockchain network–**there is no security, asset valuation, or governance method that will save you**. Either you move with the social layer (which can manipulate or invalidate your assets); or all your assets deriving power from that social layer[^2] will be invalidated in the eyes of the group when the social layer leaves the building.
 
-![750](../../Extras/Memes/Whoosh.jpg)
+![850](../../Extras/Memes/Whoosh.jpg)
 
 This rule applies any blockchain network and any singular or plural application(s) built on top of it. The social layer, which is assumed to be uncoordinated, but in reality is unevenly coordinated – can simply move to a new ledger and strike you out of the ledger if they are: 1) coordinated enough to do so AND 2) feel like it. This creates another series of perverse incentives for individual actors forming cabals at the social layer and punishments for individuals not being aware of the social layer dynamics (which are fog of war murky due to information flow in real life and politics).
 
@@ -210,7 +211,7 @@ So if asset blockchains aren’t the real state, what is the real state? The rea
 
 * * *
 
-## **Blockchain can never live up to its reputation or decentralized vision in it’s current form.**
+## Blockchain can never live up to its reputation or decentralized vision in it’s current form.
 
 Blockchain started in 2008 as a vision to decentralize the monetary supply with Bitcoin, and expanded in 2015 to decentralize computation with Ethereum. As illustrated above, in its current form it can essentially accomplish neither of these things meaningfully.
 
@@ -223,9 +224,9 @@ The world has currently only managed to create <u>distributed</u> synchronized s
 
 True decentralization is impeded simultaneously at every layer (valuation, security, governance, and network state) by economic incentives to form cabals. To achieve a path towards meaningfully decentralizing power, we must alter the fundamental design; to remove this irreparable design flaw. **We must transition from Web3 to Web4**.
 
-## **Are blockchains still valuable?**
+## Are blockchains still valuable?
 
-Does this mean that Blockchain is a fraud or scam? **Not exactly**…they’re more not exactly what they represent themselves to be (we all wear masks in society, why shouldn’t a network? ).
+Does this mean that Blockchain is a fraud or scam? **Not exactly**…they’re more not exactly what they represent themselves to be (we all wear masks in society, why shouldn’t a network?).
 
 **The question should really be two-fold:**
 
@@ -241,7 +242,7 @@ Despite everything we have expoused out about its flaws in this article…it tur
 
 Blockchain networks also serve as the valuable foundational infrastructure for the evolution to Society Protocol. We stand on the shoulders of giants. Many Web3 founders are incredible visionaries whose work we deeply respect—they've pioneered an essential evolutionary step in humanity's journey. Some of these founders are heroes to us, rather than dismissing their contributions, we recognize Web3 as the necessary predecessor that made our vision possible.
 
-## **The blockchain oligopoly that’s coming. The Cabal:**
+## The blockchain oligopoly that’s coming. The Cabal:
 
 If society winds down this path[^4]…what will culminate is a new global financial oligopoly maintained and operated by powerful global cabals. Since these networks do not have real meaningful decentralization, they are often (not always) ticking time bombs (but so are central bank cartels). Its important to understand that investment into cryptocurrency is–**an investment into the power of the cabal**[^5].
 
@@ -251,11 +252,11 @@ So civilization is at a critical turning point: we've moved from Web2, where use
 
 ![700](../../Extras/Memes/cabal-cant-rug-us.jpg)
 
-## **Society Protocol**
+## Society Protocol
 
 To establish true forms of coordination and valuation, we must bring the social layer on-chain and go from there towards assets. This is the epitome of the evolution from Web3 to Web4. Web3 blockchains store assets, Web4 Timelines store people (who have Property and Lifelines). Fortunately, once we accomplish this, a whole new world opens up.
 
-This evolution from Web3 to Web4 is accomplished by mimicking and modeling the features of the universe, to move from our state machine from modeling <u>static assets</u> to modeling <u>alive actors</u> <u>in an alive universe</u>.
+This evolution from Web3 to Web4 is accomplished by mimicking and modeling the features of the universe, to move from our state machine from modeling <u>static assets</u> to modeling <u>alive Actors</u> <u>in an alive universe</u>.
 
 This is made feasible by encoding the rules of **energy** and **time** into our synchronized state machine model:
 
@@ -282,7 +283,7 @@ Society Protocol has developed a synchronized state that is able to fulfill all 
 ### Let’s revisit our comparison:
 ![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/3e15a5d0-65cf-4854-a90c-1765b917e766-RackMultipart20250417-162-i00i2g.png)
 
-## **Conclusion**
+## Conclusion
 
 Everything we've explored reveals a fundamental truth: in current blockchain architectures, all metrics of decentralization can be falsified. Asset valuations, security mechanisms, governance structures, and even the underlying social coordination—all exist at the consent of invisible cabals. This isn't merely an occasional risk of bad actors, but an irreparable systematic reality embedded in the architecture of these systems.
 

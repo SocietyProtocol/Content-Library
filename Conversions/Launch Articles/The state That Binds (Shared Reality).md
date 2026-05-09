@@ -1,12 +1,12 @@
 ---
 created: 2025-10-03T12:17
-updated: 2026-05-03T20:44
+updated: 2026-05-09T12:54
 ---
 > Bitcoin and decentralization began as a movement to separate money from the State. Little did we realize, Satoshi had invented the roots of a new form of it: The Synchronized State.
-
-_This article is part of the state trilogy; terminology for the trilogy can be found [here](/images/Resources/Terminology%20for%20the%20state%20trilogy.md). 
-The other parts are [The state of the State (History)](/articles/the-state-of-the-State/) and [Synchronized States (The Golden Record)](/articles/synchronized-states-the-golden-record)._
-
+<SideQuote title="The state Trilogy">
+_This article is part of the state trilogy; terminology for the trilogy can be found in the **[glossary](https://societyprotocol.io/glossary/)**. 
+The other parts are **[The state of the State (History)](https://societyprotocol.io/articles/the-state-of-the-State/)** and **[Synchronized States (The Golden Record)](https://societyprotocol.io/articles/synchronized-states/)**._
+</SideQuote>
 * * *
 
 What is reality, who _makes it, where does it come from?_
@@ -14,9 +14,7 @@ What is reality, who _makes it, where does it come from?_
 > It sure as hell isn’t you. Hahahaha! 😂 😂
 
 Let’s break down the nature of reality. Since it doesn’t come from you, it has to come from somewhere.
-
-![450](/images/Memes/buddha-on-humanity.jpg)
-
+![500](/images/Memes/buddha-on-humanity.jpg)
 ### The Nature of Reality
 
 Our natural state of reality upon birth is a private perception, a <u>private state</u> of *subjective truth*. Almost immediately from that point onwards, we begin a journey of indoctrination into the shared reality of the tribe, a <u>semi-private state</u> derived from a *consensus*. This process demands a good chunk of our early lives and culminates in adulthood—when we are able to function autonomously as a member of the tribe—seamlessly understanding and interacting with the shared reality. During the indoctrination period, we must learn: the rituals, common knowledge, patterns, and beliefs which form the shared reality of our tribe. The process includes learning: the language, rituals of the tribe, and the beliefs and meta-knowledge which exist in the consensus (such as religion, political ideologies, status symbols, and friends & enemies of the tribe). From the moment of birth…we are programmed to become productive and valuable members of the tribe via this indoctrination process. Without it we couldn’t function in society.
@@ -31,8 +29,7 @@ In this process, everyone gets a bit (or a lot) confused. The shared reality tha
 
 1. From private subjective truth into a shared reality (consensus)
 2. From clear-ish shared reality into a twisted and warped one––as parties fight to manipulate the shared reality for personal gain (serving as a political mask and the narrative of the tribe).
-
-![500](/images/Images/twisting-shared-reality.png)<center>So much of our reality gets lost in transmission. Time and space bend and warp it 🧬.</center>
+![550](/images/Images/twisting-shared-reality.png)<center>So much of our reality gets lost in transmission. Time and space bend and warp it 🧬.</center>
 
 On a positive note, now we have a tribal pattern. We’ve baked a tribal pie––**a shared reality**[^2]. Our tribe can now coordinate using this state—improving our protection and survival while it is competing with other tribes—who are playing the same exact game.
 
@@ -73,9 +70,9 @@ Since influencing it is _immensely valuable_, and yet it doesn’t exist in anyp
 
 We wear beliefs as a fashion, because shared reality doesn’t belong to us…and if reality doesn’t belong to us, then our identity doesn’t belong to us either. Hence, we adopt the beliefs that we believe would be the most beneficial for us in the shared reality. _For most people, beliefs are a fashion to enhance their identity in the shared reality rather than independent convictions._ Erik Torenberg does a good job of describing these mechanics in [Beliefs are Fashions](https://eriktorenberg.substack.com/p/beliefs-are-fashions) based off Rob Henderson’s work on [luxury beliefs](https://www.robkhenderson.com/p/thorstein-veblens-theory-of-the-leisure).
 
-> “People don’t even have beliefs per se, separate from the current moment and what their peers think. The idea of “belief” itself is a misnomer. Implied in “belief” is an individual, first-principles, derivation process of figuring out what’s true, whereas it’s more like a complex algorithm that takes into account one’s peer group, the loyalties one owes and to whom, who has more status and what talking points fit better accordingly.  
+> People don’t even have beliefs per se, separate from the current moment and what their peers think. The idea of “belief” itself is a misnomer. Implied in “belief” is an individual, first-principles, derivation process of figuring out what’s true, whereas it’s more like a complex algorithm that takes into account one’s peer group, the loyalties one owes and to whom, who has more status and what talking points fit better accordingly.  
 >   
-> To summarize: People don’t choose beliefs according to the merits or logical value of those ideas—people choose ideas that will best improve their reputation within a tribe.” (Torenberg, 2022) 
+> To summarize: People don’t choose beliefs according to the merits or logical value of those ideas—people choose ideas that will best improve their reputation within a tribe. (Torenberg, 2022) 
 
 So…to recap: We’re all sharing a pretend world for coordination purposes that we’re all fighting over influencing—which is separate, yet overlaps with our private perceptions—often in conflicting ways. This becomes confusing to the brain, which often needs psychiatric help as a result. The mind often pushes the consensus up-front to the consciousness and the private subjective world into dreams and other forms of subconscious behaviors—to enhance survival.
 
@@ -182,8 +179,7 @@ The language of English is another good example. It has network effects that all
 ## How communities form and die around a shared reality (The State)
 
 All human connections—whether micro relationships, communities, or macro States—are born, sustained, and ultimately dissolved around the gravitational pull of their shared realities. When we think about it, States are essentially organizations fighting for control over the state—both their own and rival neighbors. _There is only 100% of reality to go around._
-
-![500](/images/Illustrations/SR%20State%20Competition%20–%20DEAA.excalidraw.png)
+![550](/images/Illustrations/SR%20State%20Competition%20–%20DEAA.excalidraw.png)
 <center>DEAA States fighting for control over 100% of shared reality.</center>
 
 Every individual is to some degree sharing this ethereal STB, the shared reality—and each one wants a little bit more representation[^8], because the STB is innately tied to our identity, and having less control over it gives other actors more control over our identities. Both individuals and States are fighting for control over each other’s _identities_ via control of the shared reality.
@@ -191,8 +187,7 @@ Every individual is to some degree sharing this ethereal STB, the shared reality
 ### Gravitational Pull
 
 All shared realities have a gravitational pull. Most people perceive blockchain ledgers to be like a single thread, whereas, they are actually more like this:
-
-![450](/images/Fragments/Shared%20Reality/sr-gravity.excalidraw.png)
+![500](/images/Fragments/Shared%20Reality/sr-gravity.excalidraw.png)
 <center>A Timeline which grows stronger and fades with it’s energetic and gravitational pull—which derives from the strength of social layer using it.</center>
 
 During the past epochs of humanity, we have never been able to synchronize the shared reality or its gravitational pull into a single chronological timeline. Humans have never had anywhere close to the technological capacity necessary to do something like that. It’s only possible by using (S)synchronized (S)states.
@@ -217,7 +212,6 @@ Shared realities can be perceived as the lifelines of their relationships, commu
 
 **Illustration of a STB as it grows in gravitation:**
 ![Shared Reality Growing.excalidraw](/images/Illustrations/Shared%20Reality%20Growing.excalidraw.png)
-
 **Illustration of a STB as it fades in power and gravitation:**
 ![Shared Reality Fading.excalidraw](/images/Illustrations/Shared%20Reality%20Fading.excalidraw.png)
 
@@ -261,7 +255,7 @@ Without any form of reliable neutral (or as close to neutral as possible) consen
 
 The reason we use blockchains for verification, trust, and coordination is because consensus about a shared reality is a prerequisite to achieve these features, but they are fundamentally not the root purpose or value of synchronized states. These features are generally easier to offload and achieve in other ways, such as co-processors and zero-knowledge proofs. _The only state that needs to go into a synchronized state is information which requires synchronization._ Everything else can be offloaded.
 
-At some point, every participant must be updated about this shared reality, either through synchronous or asynchronous communication. The closer that we can get all participants interacting with the STB in a fully synchronous fashion—the more possible actions open up (the decision tree of theoretic actions for each actor expands). _The current lack of synchronicity in society is similar to society’s lack of ability to coordinate before the advent of the clock, more on this topic is covered in_ [_4-Dimensional Synchronization (Clocks)_](https://societyprotocol.io/Published/Articles/4-Dimensional+Synchronization+(Clocks))_._
+At some point, every participant must be updated about this shared reality, either through synchronous or asynchronous communication. The closer that we can get all participants interacting with the STB in a fully synchronous fashion—the more possible actions open up (the decision tree of theoretic actions for each actor expands). _The current lack of synchronicity in society is similar to society’s lack of ability to coordinate before the advent of the clock, more on this topic is covered in_ [_4-Dimensional Synchronization (Clocks)_](https://societyprotocol.io/articles/4-dimensional-synchronization-clocks/)_._
 
 ### Dissolving Misconceptions About synchronized states
 
@@ -274,7 +268,6 @@ Contrary to popular dogmatic beliefs, they aren’t <u>immutable</u>, <u>secured
 Most people believe that blockchains are some sort of immutable financial indestructible ledgers–_they aren't_. There are methods to mutate the past, present, and future available to participants.
 
 There is no immutable code, there never was—there is only a community. Therefore, we must place our trust in the community, rather than the code. Yet the community cannot be perceived in 1D, 2D, or 3D synchronized states. It is invisible, while retaining the power to alter the shared reality for everyone (including the past, present, and future).
-
 ![Synchronized State Mutateability.excalidraw](/images/Illustrations/Synchronized%20State%20Mutateability.excalidraw.png)
 <center>Both social layer forks and reorganizations at the protocol layer can alter the shared reality for all participants existing within it.</center>
 
@@ -284,19 +277,19 @@ It’s essentially impossible to plan the optimal economics from the outset of a
 
 > _The idea of a blockchain “rollback” dates back to 2010, less than two years after Bitcoin’s launch, when block 74638 ended up minting 184 billion BTC because of a software flaw. To resolve this, Satoshi Nakamoto released a patched version of the Bitcoin client, invalidating these transactions._
 > 
-> _Excerpt from:_ [Can the Ethereum blockchain roll back transactions? Understanding the limits and risks](https://cointelegraph.com/explained/can-the-ethereum-blockchain-roll-back-transactions-understanding-the-limits-and-risks)
+> _Excerpt from:_ [Can the Ethereum blockchain roll back transactions? Understanding the limits and risks](https://www.tradingview.com/news/cointelegraph:01701eb8f094b:0-can-the-ethereum-blockchain-roll-back-transactions-understanding-the-limits-and-risks/)
 
-Even the most immutable blockchain changes from the imperceptible social layer: [Bitcoin update to raise data limit on divisive OP\_RETURN function](https://cointelegraph.com/news/bitcoin-op-return-data-limit-raise-next-update), [Disclosure of CVE-2018-17144](https://bitcoincore.org/en/2018/09/20/notice/).
+Even the most immutable blockchain changes from the imperceptible social layer: [Bitcoin update to raise data limit on divisive OP\_RETURN function](https://www.tradingview.com/news/cointelegraph:b45dcbc53094b:0-bitcoin-update-to-raise-data-limit-on-divisive-op_return-function/), [Disclosure of CVE-2018-17144](https://bitcoincore.org/en/2018/09/20/notice/).
 
 #### Security via Consensus
 
-Blockchains are said to derive their security from their consensus mechanism; they actually derive their security from their social layer. This is explained at length in [Fake Everything](/articles/fake-everything), refer to the “_Fake State (Coordination)_” section.
+Blockchains are said to derive their security from their consensus mechanism; they actually derive their security from their social layer. This is explained at length in [Fake Everything](https://societyprotocol.io/articles/fake-everything/), refer to the “_Fake State (Coordination)_” section.
 
 #### Credible Neutrality
 
 Credible neutrality is a concept Vitalik Buterin introduced in his essay [Credible Neutrality As A Guiding Principle](https://balajis.com/p/credible-neutrality). Vitalik argues that mechanism design should be as “credibly neutral” as possible, which is defined by the mechanisms of the protocol not favoring one party over another.
 
-> “Essentially, a mechanism is credibly neutral if just by looking at the mechanism’s design, it is easy to see that the mechanism does not discriminate for or against any specific people. The mechanism treats everyone fairly, to the extent that it’s possible to treat people fairly in a world where everyone’s capabilities and needs are so different.” (Buterin, 2020) 
+> Essentially, a mechanism is credibly neutral if just by looking at the mechanism’s design, it is easy to see that the mechanism does not discriminate for or against any specific people. The mechanism treats everyone fairly, to the extent that it’s possible to treat people fairly in a world where everyone’s capabilities and needs are so different. (Buterin, 2020) 
 
 Unfortunately, it doesn’t exist.
 
@@ -334,7 +327,7 @@ _What kind of shared reality are you living in? What do the nodes want to censor
 
 There is often a perception that synchronized states decentralize the power of their users. While they distribute participation in the STB to any number of permissionless and willing participants, they do not naturally decentralize power.
 
-Whether power is decentralized or not in a synchronized state depends not only on what’s inside the protocol, but also on the social layer existing outside of the protocol. _Both, the inside and outside sides would need to <u>be</u> and <u>remain</u> balanced to decentralize power._ There have been no cryptocurrencies or Web3 blockchains up to this point which decentralize power once we factor in social cabal dynamics. We have covered this topic previously in [Fake Everything](/articles/fake-everything/#**Blockchain+can+never+live+up+to+its+reputation+or+decentralized+vision+in+it%E2%80%99s+current+form.**), refer to the “_Blockchain can never live up to its reputation or decentralized vision in its current form”_ section.
+Whether power is decentralized or not in a synchronized state depends not only on what’s inside the protocol, but also on the social layer existing outside of the protocol. _Both, the inside and outside sides would need to <u>be</u> and <u>remain</u> balanced to decentralize power._ There have been no cryptocurrencies or Web3 blockchains up to this point which decentralize power once we factor in social cabal dynamics. We have covered this topic previously in [Fake Everything](https://societyprotocol.io/articles/fake-everything/#:~:text=Blockchain%20can%20never%20live%20up%20to%20its%20reputation%20or%20decentralized%20vision%20in%20it%E2%80%99s%20current%20form.), refer to the “_Blockchain can never live up to its reputation or decentralized vision in its current form”_ section.
 
 > **Decentralization as a concept can be broken down into two important functions:**
 > 
@@ -365,7 +358,6 @@ All synchronized states can help us store and synchronize a shared reality. As t
 4. **4-Dimensional: Web4 (Society Protocol)**
 
 ![1D-2D-3D-4D Transition](/images/Images/1D-2D-3D-4D%20Transition.png)
-
 In all of the currently existing cases (from 1D-3D) the dominant systems have already eaten many shared reality alternatives to survive and grow into their positions. _The clock has eaten the many alternative versions of timekeeping systems. Bitcoin has eaten many alternative versions of POW chains shared realities. Ethereum has eaten many 3-Dimensional attempts at a shared reality._
 
 ### 1-Dimensional: Clocks
@@ -382,8 +374,7 @@ Over time, humans strive towards the most neutral shared realities (enabling _<u
 
 Bitcoin can <u>read</u> and <u>write</u> to the synchronized STB. It can facilitate economic transactions, store records, communicate messages, and read from the shared reality globally.
 
-It’s relatively new and relatively neutral due to the revolutionary nature of it and no pre-mines…but not as neutral as we would like it to be—quickly forming into its own cabal power structure emanating from the miners and the social layer. Participants exist at the behest of the cabal and how long there will be value to maintaining this shared reality is uncertain. We would like it to be more balanced, but this may be impossible with its pre-programmed economic formula of emissions and lack of governance mechanics to adjust its “immutable” pyramid structure. So far, there is a lot of value to maintaining it, and nothing else has arrived on the market with equal or greater ability to replace Bitcoin as a store of value (SOV)[^14]. For a better understanding of these dynamics, read [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)).
-
+It’s relatively new and relatively neutral due to the revolutionary nature of it and no pre-mines…but not as neutral as we would like it to be—quickly forming into its own cabal power structure emanating from the miners and the social layer. Participants exist at the behest of the cabal and how long there will be value to maintaining this shared reality is uncertain. We would like it to be more balanced, but this may be impossible with its pre-programmed economic formula of emissions and lack of governance mechanics to adjust its “immutable” pyramid structure. So far, there is a lot of value to maintaining it, and nothing else has arrived on the market with equal or greater ability to replace Bitcoin as a store of value (SOV)[^14]. For a better understanding of these dynamics, read [Fake Everything](https://societyprotocol.io/articles/fake-everything/).
 ![sr-growing-conquering.excalidraw](/images/Fragments/Shared%20Reality/sr-growing-conquering.excalidraw.png)
 <center>Bitcoin as a STB has eaten a lot of weaker ones.</center>
 
@@ -396,7 +387,6 @@ Web3 protocols like Ethereum and CBDCs allow participants to <u>read</u>, <u>wri
 Web3 is extremely new. It was originally created by Vitalik Buterin in 2015 (Buterin, 2014). It is 2025 as I write this, and the biggest economy in the world, the United States of America is transitioning its currency and equities markets onto the rails of Web3. _That’s powerful._ These protocols are poised to transform the world in the same way that the clock revolutionized timekeeping, spreading virally with explosive network and scale effects.
 
 Unlike Bitcoin, which has remained “legitimately immutable[^15]” throughout its lifetime, participants in Web3 have figured out that they are distributing the economic value of shared realities, and began manipulating them from both the inside (pre-mined distributions) and outside (social layer manipulation). Ethereum was launched 70% pre-mined to allocate most of the social value to early participants, underwent a transformational fork altering its entire shared reality during the infamous [DAO hack incident](https://www.coindesk.com/consensus-magazine/2023/05/09/coindesk-turns-10-how-the-dao-hack-changed-ethereum-and-crypto), and undergoes routine updates altering the protocol’s shared reality from the social layer for everyone.
-
 ![sr-fading-conquered.excalidraw](/images/Fragments/Shared%20Reality/sr-fading-conquered.excalidraw.png)
 <center>Ethereum hard fork, eating Ethereum Classic.</center>
 
@@ -413,9 +403,7 @@ It’s primarily this lack of neutrality (_<u>fairness of representation</u>_, _
 Web3 STBs, in turn, fall more under control of their owners than the earlier example of Bitcoin, which was solo-launched by Satoshi Nakamoto before people understood the game theory of these designs. 3D synchronized states are newer, more powerful, and perceived to be less neutral (due to their social layers being more organized from the start, although it’s impossible to tell how neutral the imperceptible social layers of permissionless synchronized states are until it’s too late).
 
 3D synchronized states are defined by their platform nature and interoperability. These communities don’t function as a single shared reality, but rather many intersecting communities holding up a singular shared reality. _In the case of Ethereum: Aave, Gnosis, ENS, Tornado Cash, Chainlink, and USDT…and many other entities all contribute to the beam upholding the shared reality and influencing it._
-
 ![Ethereum SR.excalidraw](/images/Fragments/Shared%20Reality/Ethereum%20SR.excalidraw.png)
-
 **Problem is:** This shared reality lacks identity, sybil-resistance, and the social layer. While the objects exist inside the shared reality, the people controlling them are still outside of the model.
 
 ### 4-Dimensional: Web4 (Society Protocol)
@@ -428,7 +416,7 @@ Society Protocol (SP) is the only known Web4 protocol. It is designed to optimal
 
 #### Social Layer (Identity)
 
-Society Protocol gives direct control of identity, property, and data directly to its owners’ as bearer instruments (for more details, read [The Sovereign Individual](https://societyprotocol.io/404)).
+Society Protocol gives direct control of identity, property, and data directly to its owners’ as bearer instruments (for more details, read [The Sovereign Individual](https://societyprotocol.io/articles/the-sovereign-individual/)).
 
 Unlike the double-entry accounting age, everyone in the triple-entry accounting age interacts directly with the Synchronized Social Contract (SSC), removing the need for middle-men intermediaries from our basic societal interactions.
 
@@ -452,7 +440,7 @@ As we mentioned in the section above, 2D-3D synchronized states cannot effective
 
 Additionally, we achieve this using algorithms. By combining subjective governance decisions + objective algorithmic enforcement—synchronized across the entire Synchronized State—we unlock the <u>Rebalancing Pyramid</u> effect. Society Protocol continuously redistributes social value in an automated fashion, ensuring each Individual Actor's Energy reflects their explicit socioeconomic value at every point in time.
 
-This <u>Rebalancing Pyramid</u> effect makes people incentivized to join Society Protocol instances at any point, not just at the beginning. Participants always receive their fair share of the shared reality. More information about this is covered in [Rebalancing Pyramids](https://societyprotocol.io/404).
+This <u>Rebalancing Pyramid</u> effect makes people incentivized to join Society Protocol instances at any point, not just at the beginning. Participants always receive their fair share of the shared reality. More information about this is covered in [Rebalancing Pyramids](https://societyprotocol.io/articles/rebalancing-pyramids/).
 
 It also incentivizes Society Protocol instances to create Protocol Parameters, Value Functions, and Laws which are as close to _fair_ and _legitimate_ as possible—creating a competition between rival instances to attract users—in which the most balanced instances have a generic advantage and will win (with the general public) in the end—just like the clock we use today after a millennia of refinement. There is also room for wide variety of niche instances.
 
@@ -481,7 +469,7 @@ In Society Protocol, the Synchronized State participants can now perceive Actors
 
 **Problem is:** We haven’t built it yet. It is a long journey between designing the architecture and creating stable systems of Society Protocol which States can reliably use to facilitate their infrastructure.
 
-If you are interested in contributing to the creation of Society Protocol and would like to be a part of the journey, you can: [join our community](/join/), [invest in the movement](https://societyprotocol.io/), and [contribute to the architecture](https://societyprotocol.io/).
+If you are interested in contributing to the creation of Society Protocol and would like to be a part of the journey, you can: [join our community](https://societyprotocol.io/join/), [invest in the movement](https://app.societyprotocol.io/auction), and [contribute to the architecture](https://forum.societyprotocol.io/).
 
 ### Patterns of Synchronized Shared Realities:
 ![Patterns of Synchronized Shared Realities](/images/Illustrations/Tables/Patterns%20of%20Synchronized%20Shared%20Realities.png)
@@ -493,7 +481,7 @@ The answer is…outside the scope of this article.
 
 > But, It sure as hell isn’t you. Hahahaha! 😂 😂
 
-You can read [The state of The State](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)) and [Synchronized States](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)) for more information.
+You can read [The state of The State](https://societyprotocol.io/articles/the-state-of-the-State/) and [Synchronized States](https://societyprotocol.io/articles/synchronized-states/) for more information.
 
 At Society Protocol, our belief and hope is that Synchronized States will facilitate an equitable way to distribute the shared reality for all participants in the upcoming _Age of Synchronicity_.
 
@@ -505,7 +493,7 @@ We don’t provide either of these things at Society Protocol.
 
 If you’re interested in more knowledge about society, identity, longevity, and purpose: take a look at [Virtuous Cycle](https://virtuouscycle.co) and [School of Change](https://schoolofchange.co). 
 
-If you are looking for more content about the evolution of identities and Society Protocol, read [The Sovereign Individual](https://societyprotocol.io/404).
+If you are looking for more content about the evolution of identities and Society Protocol, read [The Sovereign Individual](https://societyprotocol.io/articles/the-sovereign-individual/).
 
 ## Conclusion
 
@@ -529,7 +517,6 @@ Society Protocol changes this dynamic by bringing the social layer itself into t
 4. Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
 5. Torenberg, E. (2022). Beliefs are Fashions [Substack Newsletter]. In _Erik Torenberg_.
 
-
 [^1]: This is why people need psychiatrists to understand themselves, because they’ve lost themselves as a consequence of the duality.
 [^2]: Eventually, this (consensus) forms into a (public state), which is essentially a (semi-private state) with middle-men who upkeep the shared reality (consensus). That is how our society stores public records.
 [^3]:  Identities are heavily influenced by the shared reality.
@@ -543,12 +530,12 @@ Society Protocol changes this dynamic by bringing the social layer itself into t
 [^11]: There were consensus mechanisms out before 2008. Examples are: Paxos, Raft, and Practical Byzantine Fault Tolerance(PBFT) — but they weren’t permissionless and couldn’t scale.
 [^12]: The clock is a kind of weird special example in these cases. Clocks synchronize around a shared external point. 2D and 3D blockchains synchronize around a selected internal point in the network (the selected miner or staker to introduce the next block).
 
-	**Immutability:** In a clock its owner is free to mutate the state.
-	**Credible Neutrality**: The mechanism in the clock is designed to be as neutral as possible to all participants, that’s why it’s adopted by everyone.
-	**Security**: Security of the shared reality comes from synchronizing with the social layer. Without consulting others, you wouldn’t have the same clocktime. (Your system would be different.) You may have the same time,date,and season but not year.
-	**Trustlessness:** Clocks do distribute trust throughout the network to map to the same system for defining clocktime—facilitating interoperability to share a reality.
-	**Censorship Resistance:** Clocks don’t write to the network at all, they are read only. So they cant censor.
-	**Decentralization:** Clocks do effectively decentralize power for their users, because they are so neutral—everyone that joins the network accesses the power of reading the shared reality.
+	**Immutability:** In a clock its owner is free to mutate the state. <br/>
+	**Credible Neutrality**: The mechanism in the clock is designed to be as neutral as possible to all participants, that’s why it’s adopted by everyone. <br/>
+	**Security**: Security of the shared reality comes from synchronizing with the social layer. Without consulting others, you wouldn’t have the same clocktime. (Your system would be different.) You may have the same time,date,and season but not year. <br/>
+	**Trustlessness:** Clocks do distribute trust throughout the network to map to the same system for defining clocktime—facilitating interoperability to share a reality. <br/>
+	**Censorship Resistance:** Clocks don’t write to the network at all, they are read only. So they cant censor. <br/>
+	**Decentralization:** Clocks do effectively decentralize power for their users, because they are so neutral—everyone that joins the network accesses the power of reading the shared reality. <br/>
 	
 	Overall, clocks external synchronization point and permissionless nature gives them the most credible means of neutrally decentralizing the power of network. There are tricks that some users can play at the expense of others in the shared reality, but not many.
 	

@@ -1,9 +1,7 @@
 ---
 created: 2026-04-23T15:58
-updated: 2026-05-03T20:56
+updated: 2026-05-04T09:05
 ---
-# Whitepaper
-
 **Abstract:** Society Protocol introduces a distributed system of coordination as a solution to all the coordination problems plaguing modern civilization.
 
 ## Introduction
@@ -12,9 +10,9 @@ Our civilization is at a crossroads. We are undergoing tremendous upheavals due 
 
 Western principles, which have led the world for centuries, are plainly _failing_ and _collapsing_ under the weight of rapid technological change.
 
-These principles are rooted in _duplicated contracts_, which enabled <u>democratic governance</u> and <u>individualism</u>—evolutionary methods of coordination that first emerged at the beginning of what we call the double-entry accounting age (DEAA), around year zero[^1] (in both CE/AD). _All of the DEAA’s coordination methods are anchored in one fundamental innovation: duplicated contracts._
+Western principles are rooted in _duplicated contracts_, which enabled <u>democratic governance</u> and <u>individualism</u>—evolutionary methods of coordination that first emerged at the beginning of what we call the double-entry accounting age (DEAA), around year zero[^1] (in both CE/AD). _All of the DEAA’s coordination methods are anchored in one fundamental innovation: duplicated contracts._
 
-We are still coordinating using individualism and representative democratic systems, which emerged and were refined from ancient Greece and Rome[^2]. While these systems were state of the art at the time (around two millenniums ago)—they no longer are_._ In the modern world, information pulses around the globe at nearly the speed of light, but we aren’t able to coordinate effectively using all this information because our State structures remain fragmented—rooted in a different age.
+We are still coordinating using individualism and representative democratic systems, which emerged and were refined from ancient Greece and Rome[^2]. While these systems were state of the art at the time (around two millenniums ago)—they no longer are. In the modern world, information pulses around the globe at nearly the speed of light, but we aren’t able to coordinate effectively using all this information because our State structures remain fragmented—rooted in a different age.
 
 ### The Problem of Coordination
 
@@ -27,9 +25,7 @@ In the modern age, at the technological speeds of today, this aggregates all the
 This top-down control has driven every democratic system and individualism to the breaking point, because of the imbalanced power dynamics it creates.
 
 Top-down elites are shaping all of society it in their image—using all the data and power accumulated, while democracy and individualism in practice remains only a veneer. This in practice makes our societies function like a numb organism. That numb organism can’t make good decisions as a societal structure, because _<u>it can’t feel itself</u>_. _The elites can only see what is going on in the entire societal state by owning it, but they cannot feel it._ As a result, it’s as if our societies are high—strung out on opioids all the time—stumbling around the hallways, falling down flights of stairs, and we’re the organism’s cells getting destroyed. **This ultimately amounts to a numb and lifeless societies**.
-
-![[sad-wojak-1.png|600]]
-
+![600](/images/Images/sad-wojak-1.png)
 This disalignment causes fractures in our societal organizational structures and limits humanity from coordinating efficiently.
 
 **The current situation we face is a crisis of coordination.** Just about every system isn’t working optimally. The centralization of infrastructure, and therefore power, isn’t allowing humanity to progress to a new age.
@@ -70,7 +66,7 @@ As a result, our state tracking is jagged and isn’t accurate. Our histories ar
 
 _Pretty tough to do democracy and individualism under such conditions…eh??_ 🤣
 
-**Synchronization (Time)**
+#### Synchronization (Time)
 
 Our time is very 1-Dimensional; _we’re only synchronizing together on one integer_. Now, this doesn’t sound like much of a problem…until you realize the synchronization that we’re potentially capable of with modern technology, and leaking in potential…_<u>which is essentially all of the societal public state</u>_.
 
@@ -89,9 +85,7 @@ These hubs don't merely transmit our shared reality—_they actively reshape it_
 **_These centralized entities control what you see, what reaches your feed, and which voices get amplified and which get suppressed. They effectively write the narrative of our collective reality in their own image._** _They serve as both: participants in the game and infrastructure, and have perverse incentives to distort the shared reality and maximize their own profits._
 
 _Without a unified, synchronized record of <u>events</u>, we have no way to verify what's actually happening in our societies._ There is no verifiable, non-manipulated way to see the <u>events</u> occurring in the shared reality, presently and in the past, and the identities of individuals who are creating the events aren’t visible either. Information degrades like a game of telephone, except the telephone operators have their own secret agendas, and the power to rewrite messages for every participant.
-
-![[orwell-1984.webp]]
-
+![orwell-1984](/images/Memes/orwell-1984.webp)
 The tragedy is that everyone knows this system is broken. We all feel the manipulation, the surveillance, the loss of agency. Yet, we remain trapped because these centralized hubs have become the only remaining Schelling points capable of coordinating any widespread shared reality at all.
 
 _The hubs holding <u>events</u> meant to connect us into a shared reality, have become our jailers, with perverse incentives to keep us divided and dependent._
@@ -135,9 +129,7 @@ _Yet, we’re not actually using the capabilities of these new value systems bec
 Value systems form the basis for our incentive structures. As a result, the incentive structures we’re witnessing in society are inadequate. They are not accurately fueling the rise of the best, most valuable people to the top of the societal pyramid, nor able to spur individual/collective action in a way that makes our societies better.
 
 Since they are controlled by so few people, just like every other system, our value systems have become inverted. Incentive structures are poorly designed and easy to take advantage of, creating exploitable systems of allocating resources which are constantly gamed by bad actors. This inversion in our value systems has placed some of the absolute worst actors in society into the top echelons of power.
-
-![[Shadowy Hands Pillars (GT Video).png|1000]]
-
+![1000](/images/Illustrations/Game%20Theory%20Video/Shadowy%20Hands%20Pillars%20(GT%20Video).png)
 ### The Times Are Dark And Getting Darker
 
 We are entering truly dark times. If these societal pillar breakdowns are not addressed, the projected impact is: _societal collapse_ and _humanity is not certain to survive._
@@ -160,10 +152,8 @@ The best case scenario…if we remain in these systems, is that they naturally e
 
 ## The Complication: Blockchains
 
-Recently, a movement to decentralize power has emerged—initially from the ideas of Satoshi Nakamoto in Bitcoin \[@satoshinakamotoBitcoinPeertoPeerElectronic2008\], and Vitalik Buterin in Ethereum \[@vitalikbuterinEthereumWhitepaper2014\]. The people rallied behind them, but quickly realized that the systematic flaws in these systems make them unable to truly decentralize power back to the hands of the people, and allow them to coordinate in a meaningful way.
-
-![[Shadowy Hands Blockchain (GT Video).png|1000]]
-
+Recently, a movement to decentralize power has emerged—initially from the ideas of Satoshi Nakamoto in Bitcoin (Satoshi Nakamoto, 2008), and Vitalik Buterin in Ethereum (Buterin, 2014). The people rallied behind them, but quickly realized that the systematic flaws in these systems make them unable to truly decentralize power back to the hands of the people, and allow them to coordinate in a meaningful way.
+![1000](/images/Illustrations/Game%20Theory%20Video/Shadowy%20Hands%20Blockchain%20(GT%20Video).png)
 Due to their inability to create sybil-resistant identities, these systems became dominated by cabals of insiders. This lack of real identity (identity pillar), translated to a lack of governance (governance pillar), and ultimately the inability to adjust their monetary policy (monetary pillar) and value systems (value system pillar).
 
 This incomplete foundation forced their economic models into pyramids, with a lack of rebalancing functionality. Without identity systems, the same oligarchic crypto cabals which have ruled the DEAA are required to emerge as a prerequisite to coordinate them at the social layer. More information about this can be found in [Fake Everything](https://societyprotocol.io/articles/fake-everything/).
@@ -185,9 +175,7 @@ Society Protocol introduces a distributed system for coordinating collectives in
 #### Synchronized States
 
 As opposed to the numb and sluggish Nation State model (where every duplicated contract is fragmented, and ultimately leads to the same pair of shadowy hands), in the new paradigm of Synchronized States, this pattern inverts. All eight pillars are unified into one system, while simultaneously decentralizing the power and control of the system to all participants equally—giving every participant true agency, freedom, and equal access. The Synchronized State is alive and vibrant, it is reflexive to the feelings of all its parts and edges with a great deal of sensitivity. _It moves as one._ Society Protocol is kind-of like a living organism where every entity is a cell.
-
-![[state sphere loop.gif]]
-
+![state sphere loop](/images/Brand/state%20sphere%20loop.gif)
 The primary innovation of the Synchronized State is in synchronizing a shared reality (consensus of time) in multiple dimensions simultaneously. _That’s what unlocks everything else._ By combining four-dimensions of synchronization into one ledger, Society Protocol combines the clock and all the functions of the State into one duplicated computer program. The Synchronized State can fulfill all the functions of a State, but it functions with the synchronized precision of a clock. A State structure which functions with the precision of the clock has always been an impossible dream—an ideal which sovereigns would aspire to, _but here it actually becomes a reality_.
 
 At the current point in human evolution, it is easy for civilization to create both vertical and horizontal hierarchy States (Classical States and Nation States). However, they’re not efficient coordination structures without synchronization. All the fragmentation impedes their ability to coordinate their constituents, and ends up centralizing power to a handful of powerful sources. As we mentioned earlier, <u>the prerequisite to solving every one of today’s gruesome coordination problems is decentralization</u>. So…if fragmentation paradoxically requires centralization for coordination…then what we need is synchronization (the opposite of fragmentation) to enable decentralization. Therefore, the answer to our current coordination predicament is in _synchronization enabling decentralization_.
@@ -234,9 +222,7 @@ Civilization will become able to control AGI in an equitable manner as a whole. 
 ### The Eight Pillars of Coordination (Solutions)
 
 Society Protocol (SP) is a dynamic programmable world which consists of eight elements, which solve all eight pillars of coordination and unify them all into one complete system[^10].
-
-![[8 Pillars (GT Video).png|1000]]
-
+![1000](/images/Illustrations/Game%20Theory%20Video/8%20Pillars%20(GT%20Video).png)
 Together, they combine to form a Synchronized State.
 
 > Each element will provide a brief overview of how we currently do things in the DEAA of Nation States, followed by the solutions present in Society Protocol.
@@ -284,9 +270,7 @@ _Societal state of DEAA: The societal state (status) of both the present and pas
 * * *
 
 Society Protocol fundamentally transforms this paradigm by synchronizing and storing the entire state of society—every identity, transaction, interaction, relationship, and decision—into a single state machine called the <u>state sphere</u> that exists everywhere simultaneously. The entire quasi-immutable state of society is retained in a duplicated computer program. Society Protocol uses computation, cryptographic techniques, and the state transition function (STF) to ensure that each moment in time is preserved with an immutability that neither medieval churches nor modern data centers could ever hope to provide. This isn't just better record-keeping; it's a complete reconceptualization of how civilization maintains its state.
-
-![[state sphere (GT Video).png|1000]]
-
+![1000](/images/Illustrations/Game%20Theory%20Video/state%20sphere%20(GT%20Video).png)
 The **state sphere** emerges as the living container of this synchronized reality. It’s a model world within which all Actors, Energy transactions, social graphs, Governance decisions, Property, Organizations, and much more, along with their complete histories, coexist in one unified system. Within the state sphere, the current status and entire past of the society’s history are retained verifiably. Every participant can perceive not just what's happening now, but trace the precise lineage of how we arrived here. The state sphere doesn't merely record events—it preserves the causal relationships between all objects—creating an unbroken chain of verifiable lineage that forms the foundation of history itself.
 
 The implications cascade through every aspect of human coordination. Society can finally organize itself in ways previously impossible with an absolutely accurate version of history at everyone's disposal. Corruption becomes archaeologically visible. Lies leave permanent traces. Excellence accumulates undeniable evidence. The state sphere doesn't just track state—_it illuminates it_—transforming humanity from the numb organism stumbling through a fragmented reality we know today, into a vibrant and unified organism that can finally see itself as a whole. This is the promise of Synchronized States…not just better records, but a civilization that can perceive and act on a singular unified thread of shared state at nearly the speed of light.
@@ -302,9 +286,7 @@ _Synchronization of DEAA: Currently, humanity synchronizes using a single intege
 * * *
 
 Society Protocol solves the issue of synchronization by using a consensus engine fueled by economic incentives as a way to update the state sphere (state machine)[^12]. This creates a synchronized chronological record of all public Events in a Timeline with Timeslots. This represents more than technological advancement—it's the emergence of a truly shared reality. For the first time in human history, disputes over "what happened" become obsolete. The Timeline provides a singular, verifiable version of Events that no individual or institution can retroactively alter to serve their interests. Imagine governance decisions that can be traced to their genealogical origins, monetary flows visible throughout their entire journey, or reputations built on demonstrable actions rather than manipulated narratives. The quasi-immutable nature of the Timeline means that altering history[^13] requires such widespread social consensus that shared reality becomes effectively unassailable.
-
-![[Timeline (GT Video).png|1000]]
-
+![1000](/images/Illustrations/Game%20Theory%20Video/Timeline%20(GT%20Video).png)
 This transformation unifies society into a single synchronized organism. Instead of fragmented duplicated contracts scattered across data centers and institutions, all public state synchronizes together at nearly the speed of light. Every participant can perceive the same shared reality simultaneously—not just what time it is as today, but what's happening across the entire social fabric.
 
 The butterfly effects are profound: when everyone sees the same verifiable shared reality about identities, events, group decisions, relationships, and value flows, the manipulation and distortion that currently plague our coordination mechanisms dissolve. Small actions become visible to the whole network and importantly—_actionable instantly—creating cascading effects that are impossible while our reality is fragmented._
@@ -460,9 +442,7 @@ Ultimately, Society Protocol must be able to survive and compete with the other 
 Well, that’s a long question…but the simple answer is: _to accept it, they must fear it…and to fear it, they must fear their other groups (their rivals) using it against them. Ah, the classical prisoner’s dilemma!_ It’s the same reasons Nation States are adopting Bitcoin and Ethereum rather than trying to make them go back into the ether (no pun intended). _The cost on Nation States adopting Society Protocol is going to be smaller and easier, than it is for them to fight it and try to outright stop evolution, and they will try to do both at the same time._
 
 The quickest way for the Society Protocol movement to achieve this scenario is to essentially be difficult to stop and control…which means: to be a truly distributed and decentralized worldwide movement. A movement that nuclear weapons can’t stop, and shutting down the internet in your Nation State won’t accomplish. _If they can’t out coordinate you, they will join you._
-
-![[matrix-dragon.gif]]
-
+![matrix-dragon](/images/Images/matrix-dragon.gif)
 Ultimately, the dragons 🐉 won’t die, they will hop into the matrix and become matrix dragons. And…well, as in all prisoner’s dilemmas…the dragons which move to do so first and with the best strategies will have the greatest chance of surviving and succeeding in the future.
 
 Not all the dragons will make it, and not all the upstart Synchronized State communities will make it. But what is absolutely certain, is that Synchronized States will make it and all Nation States will have to adapt. _No force of man can stop evolution._
@@ -532,7 +512,7 @@ The voyage ahead carries us from the collapsing Nation States of the DEAA into t
 1. Buterin, V. (2014). Ethereum Whitepaper. In _ethereum.org_. https://ethereum.org/en/whitepaper/.
 2. Satoshi Nakamoto. (2008). _Bitcoin: A Peer-to-Peer Electronic Cash System_.
 
-### Footnotes
+
 [^1]: This period corresponds to the Age of Pisces.
 [^2]: Some States haven't gotten that far; they're using autocratic systems or faux communist autocratic systems.
 [^3]: In the modern age, these centralized hubs are called data centers. In the past, it was churches and cathedrals which stored the state of society.
