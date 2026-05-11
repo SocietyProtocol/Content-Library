@@ -1,6 +1,6 @@
 ---
 created: 2025-08-17T20:21
-updated: 2026-01-08T22:14
+updated: 2026-05-10T15:08
 ---
 # Concepts
 
@@ -15,7 +15,9 @@ Timeline is the highest informational architectural structure, it contains the t
 Society Protocol terminology is meant to be used as proper nouns, to distinguish from the common definitions, i.e. Energy (Society Protocol Energy) vs energy (common noun). 
 - The exception to this rule is `state`  terminology.
     - In the case of `state` terminology, other words included in the terminology should be capitalized or non-capitalized in the same manner as the capitalization of `state`. If the `state` is lowercase, do not capitalize other parts of the term.
-# Terminology
+
+---
+# <u>Terminology</u>
 
 ## Time
 - **Timeline:** The Timeline is the mapping of our synchronized state as it flows through time. It is synonymous with *blockchain* in Web3 terminology.

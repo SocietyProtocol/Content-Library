@@ -1,6 +1,6 @@
 ---
 created: 2025-10-07T18:38
-updated: 2026-05-09T15:20
+updated: 2026-05-09T15:36
 ---
 ### Introduction
 What does it mean to be _“you”_? If you’re reading this, you’re a free citizen of a Nation State living during the double-entry accounting age (DEAA). Where does _“you”_ come from? Who do you belong to?
@@ -442,7 +442,7 @@ The identity data each SP instance generates will either remain in the hands of 
 
 > **The Synchronized Social Contract (SSC)** is the singular transparent synchronized social contract facilitating a shared reality, shared by all participants inside a Society Protocol instance.
 
-![600](../../Extras/Images/state-sphere.png)
+![500](../../Extras/Images/state-sphere.png)
 <center>The Synchronized Social Contract</center>
 
 Rather than interacting with many separate independent duplicated contracts of the DEAA, identities of the TEAA interact directly with the SSC.
@@ -465,7 +465,7 @@ Society Protocol allows every Individual Actor to fluidly choose their own roles
 
 Individuals don’t have to choose one role or commit to anything forever—they can divide their Energy between Functions however they decide is best for them at each point in time. **The SSC already includes everything necessary to provide social cohesion and optimize coordination**—allowing every Individual Actor to have a unique configuration of how their Energy is distributed between Functions without oversight.
 
-![800](../../Extras/Illustrations/Value%20Functions.excalidraw.svg)
+![Value Functions Wheel](../../Extras/Illustrations/Value%20Functions.excalidraw.svg)
 
 - **Parents –** Individuals who are good at recognizing others who are aligned and talented can become successful as Parents, inviting many valuable people to their SP instance—expanding the power of their shared reality.
 - **Hunters –** Individuals who want earn Energy in a relatively easy fashion while helping their SP instance propagate Events, especially those who have the best machines to do so, can become successful Hunters. Hunters expand censorship resistance for everyone and clean the Energy pool of stagnant Energy.
@@ -511,7 +511,7 @@ While Society Protocol provides less privacy than ever before during history, as
 
 **Pseudoanonimity**: Society Protocol instances consist of pseudonymous accounts and allow for multiple identities. This is different from the traditional government IDs of the DEAA and can facilitate a sense of privacy in some cases. Pseudonymous expression is really important to any society, being that pseudonymous/anonymous expression is the only way individuals can express truth which is taboo, politically inconvenient, or dangerous for their identity.
 
-![450](../../Extras/Images/cypherpunk-helmet.png)
+![500](../../Extras/Images/cypherpunk-helmet.png)
 
 Pseudoanonimity has historically demonstrated itself to be an important tool for coordination under duress. Very basic things, that we take for granted today, required pseudoanonimity: Bitcoin by Satoshi Nakamoto, The Federalist Papers by Publius, Nicolaus Copernicus’s Heliocentric Theory.
 
@@ -619,7 +619,7 @@ _What will the new types of societies which come from Synchronized States during
 - It will be more about “how can I contribute to society?” because that’s incentivized, both at an individual and organizational level. (Individuals will become better people.)
 - The worldwide Synchronized Social Contract (SSC) will make everyone more connected, aware, and intelligent—able to make better decisions as a society at scale.
 
-![600](../../Extras/Images/flock-of-birds-2.png)
+![700](../../Extras/Images/flock-of-birds-2.png)
 
 - _The state of the present moment and history will become more illuminated._ 
 

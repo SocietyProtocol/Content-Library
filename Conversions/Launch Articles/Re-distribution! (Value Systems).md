@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:17
-updated: 2026-05-03T20:44
+updated: 2026-05-10T12:12
 ---
 ## Introduction
 Redistribution gets a bad name…from the communists, and socialists, and fascists…and all the horrors of history, but the reality is that the State’s purpose is to <u>coordinate</u> people into the strongest possible structures, and that means redistributing resources! _It’s literally their job._
@@ -91,10 +91,9 @@ In the big scheme of things, the DEAA places redistribution powers into the hand
 1. Value Functions (agreed upon algorithms implemented society-wide in the SSC).
 2. Governance (which doesn’t necessarily mean everyone, but can easily support direct instant representation. Or even better, it can support a meritocracy.)
 
-Society Protocol comes with nine original Value Functions: [_Parenting_](https://societyprotocol.io/Published/Handbook/Function-Parenting)_,_ [_Hunting_](https://societyprotocol.io/Published/Handbook/Function-Hunting)_,_ [_Property_](https://societyprotocol.io/Published/Handbook/Function-Property)_,_ [_Curation_](https://societyprotocol.io/Published/Handbook/Function-Curation)_,_ [_Governance_](https://societyprotocol.io/Published/Handbook/Handbook-Governance) _(_[_Distributed Courts_](https://societyprotocol.io/Published/Handbook/Function-Governance+(Distributed+Courts)) _and_ [_Futarchy_](https://societyprotocol.io/Published/Handbook/Function-Governance+(Futarchy))_),_ [_Organizations_](https://societyprotocol.io/Published/Handbook/Function-Organizations)_,_ [_Communication_](https://societyprotocol.io/Published/Handbook/Function-Communication)_,_ [_Farming_](https://societyprotocol.io/Published/Handbook/Function-Farming)_, and_ [_Portal_](https://societyprotocol.io/Published/Handbook/Function-Portal)_._ All of these Value Functions were designed to take generalized societal interactions that humans already partake in, in daily life, and upgrade them to align interests using the capabilities of Synchronized States.
+Society Protocol comes with nine original Value Functions: [_Parenting_](https://societyprotocol.io/Published/Handbook/Function-Parenting/)_,_ [_Hunting_](https://societyprotocol.io/Published/Handbook/Function-Hunting/)_,_ [_Property_](https://societyprotocol.io/Published/Handbook/Function-Property/)_,_ [_Curation_](https://societyprotocol.io/Published/Handbook/Function-Curation)_,_ [_Governance_](https://societyprotocol.io/Published/Handbook/Handbook-Governance) _(_[_Distributed Courts_](https://societyprotocol.io/Published/Handbook/Function-Governance+(Distributed+Courts)) _and_ [_Futarchy_](https://societyprotocol.io/Published/Handbook/Function-Governance+(Futarchy))_),_ [_Organizations_](https://societyprotocol.io/Published/Handbook/Function-Organizations)_,_ [_Communication_](https://societyprotocol.io/Published/Handbook/Function-Communication)_,_ [_Farming_](https://societyprotocol.io/Published/Handbook/Function-Farming)_, and_ [_Portal_](https://societyprotocol.io/Published/Handbook/Function-Portal)_._ All of these Value Functions were designed to take generalized societal interactions that humans already partake in, in daily life, and upgrade them to align interests using the capabilities of Synchronized States.
 
 Below, we’ll explore how Society Protocol's nine original Value Functions evolve their equivalents from the DEAA.
-
 ![Value Functions.excalidraw](/images/Illustrations/Value%20Functions.excalidraw.svg)
 
 ### (DEAA) Indoctrination/Referral Systems ➡️ (TEAA) Parenting
@@ -139,7 +138,7 @@ Property rights have been a crucial and necessary invention. Every society striv
 
 #### DEAA of Nation States
 
-In the current age, we secure property rights using the combination of duplicated contracts and centralized court authorities. Individuals use documents, such as marriage certificates, title deeds, and receipts to secure and transfer property and status ownership. Duplicated contracts have [several known issues](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Problems+of+Double-Entry+Accounting). Every duplicated contract remains separate and must be taken to the central court authority for notarized updates.
+In the current age, we secure property rights using the combination of duplicated contracts and centralized court authorities. Individuals use documents, such as marriage certificates, title deeds, and receipts to secure and transfer property and status ownership. Duplicated contracts have [several known issues](https://societyprotocol.io/articles/the-state-of-the-State/#problems-of-double-entry-accounting:~:text=Problems%20of%20Double%2DEntry%20Accounting). Every duplicated contract remains separate and must be taken to the central court authority for notarized updates.
 
 **<u>DEAA incentive alignment</u>**: In all property rights interactions, the incentives between the two+ parties involved aren’t perfectly aligned—that’s why we need these contracts! Currently, the parties must meet or e-sign a singular digital document[^6], then retain their individual unharmonized copies. The supply chain of past property ownership isn’t clearly visible. The contracts are trivial to forge. Every update requires a new unharmonized duplicated contract. The rules to property rights are unclear and stored at multiple disputed governance levels (city, state, country). _It’s simply tedious, inefficient, unclear, and prone to corruption and mistakes—when compared to the property rights of the TEAA._
 
@@ -218,9 +217,7 @@ Governance can be relabeled as “group decision-making” and is always a neces
 #### DEAA of Nation States
 
 Through the usage of _duplicated contracts,_ societies have evolved into attempting to allow everyone to participate using democratic principles (for better or worse). The DEAA generally only supports representative democracy because the technology to gather direct votes in a secure manner has been essentially nonexistent[^7]. Democracy isn’t a perfect form of decision-making, it’s theoretically flawed in many ways: it’s slow, the majority of people aren’t well informed, and their opinions are manipulatable in many ways: disinformation, bribes, etc.
-
 ![600](/images/Memes/osho-democracy.jpg)
-
 That said, the alternatives for organizational group decision-making are limited and the bar is low. Beyond physical violence, our only options have been monarchies and oligarchic enshrined councils.
 
 **<u>DEAA incentive alignment</u>**: The incentive structure of DEAA governance is pretty simple: _the populace must pay elected representatives with partially aligned interests to represent them_. The elected representatives are relatively easy to corrupt, prone to a misalignment of interests, and aren’t evaluated on the results of their decision-making abilities. Election cycles appear every two–five years to solve these issues, but the system is fatally vulnerable to a representative getting elected and then changing their tune after winning the election (this pattern can be repeated ad infinitum). Representatives bear no responsibility to represent the wishes of the populace which elected them.
@@ -229,12 +226,11 @@ That said, the alternatives for organizational group decision-making are limited
 
 Synchronized States open up lots of incredible potential for group decision-making. Since all participants’ identities, history, and communications channels are synchronized together and computable—the limits of how we can make decisions as a group become mostly up to our imaginations. The theoretical limits of group decision-making go way above the inefficient forms of physical violence, monarchy, and democracy. The theoretical limits of group decision-making reach towards a meritocracy of real-time direct decision-making between all participants—where only those participants who are making good decisions get selected to make decisions, and only those who are truly exceptional get rewarded by the society, as compensation for making great decisions for the group.
 
-Society Protocol enables such possibilities through its [modular Governance system](https://societyprotocol.io/Published/Handbook/Handbook-Governance) and its two Governance VFs: [Distributed Courts](https://societyprotocol.io/Published/Handbook/Function-Governance+(Distributed+Courts)) and [Futarchy](https://societyprotocol.io/Published/Handbook/Function-Governance+(Futarchy))[^8].
+Society Protocol enables such possibilities through its [modular Governance system](https://societyprotocol.io/Published/Handbook/Handbook-Governance/) and its two Governance VFs: [Distributed Courts](https://societyprotocol.io/Published/Handbook/Function-Governance+(Distributed+Courts)) and [Futarchy](https://societyprotocol.io/Published/Handbook/Function-Governance+(Futarchy)/)[^8].
 
 While not all the Governance in SP runs through Value Functions, the Governance Value Functions are designed to achieve a meritocracy. They offload the cost of Governance from the entire population into a zero-sum mini-game between competing Governor factions, who are each rewarded from the other side for making good decisions (“aligned \[subjective\]” in the case of dCourts, or “accurate \[objective\]” in the case of Futarchy).
 
 **<u>TEAA incentive alignment</u>**: The governance mechanisms of the TEAA aim to reward participants who are able to make the best possible decisions, while using less effort than a Democracy by not needing to involve everyone in all decisions, at all times. These are the principles of meritocracy which the TEAA will be built on. TEAA governance mechanisms allow any Actor or Organization to participate in Governance, <u>but incentivize only the best Governors, and don’t mandate or desire that everyone participates</u>. The system aims to reward competence and alignment in decision-making. Meritocratic systems can entirely offload the economic costs of governance (such as representative salaries) from the populace, by allowing direct representation and structuring incentives as zero-sum mini games between decision-makers.
-
 ![Dictatorship vs Democracy vs Meritocracy.excalidraw](/images/Illustrations/Dictatorship%20vs%20Democracy%20vs%20Meritocracy.excalidraw.png)
 
 ### (DEAA) Organizations \[Corporations and Religions\] ➡️ (TEAA) Organizations \[Distributed Corporations and Cultural Agreements\]
@@ -339,7 +335,7 @@ The Age of Synchronicity awaits, and with it, the possibility of societies that 
 
 
 [^1]: The social contract side always distorts the equation on the free market side. For example: a social contract with a 300% tax on cigarettes versus a 0% tax will equate to different equations on free market side. A social contract where polygamy is the norm, will equate to different dynamics in the free market for marriage.
-[^2]: For more information about coordination, please read [Rebalancing Pyramids (Coordination)](https://societyprotocol.io/Published/Articles/Rebalancing+Pyramids+(Coordination)).
+[^2]: For more information about coordination, please read [Rebalancing Pyramids (Coordination)](https://societyprotocol.io/articles/rebalancing-pyramids/).
 [^3]: Energy itself is how we measure and transfer value. It’s the monetary system, not the value system.
 [^4]: Imagine a VF saying “every time you do a handshake with someone, take $1000 from all other participants.” It would ruin the entire financial system.
 [^5]: You can conceptualize a very simple version of Society Protocol with only the Hunting VF included (redistributing 10% of the Energy to the Hunters every year for inputting Events) and the rest is just a free market of Energy.

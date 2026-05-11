@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:17
-updated: 2026-05-03T20:43
+updated: 2026-05-10T11:57
 ---
 # Table of Contents
 *There are two main parts to this article, "Theory of Coordination" covers the theoretical aspects and "The History of Alignment" covers the evolutionary stages of coordination throughout human history.*
@@ -220,7 +220,7 @@ Without this future prospect, the dynamics shift dramatically. The prisoner's di
 1. Trust must be developed iteratively (one step at a time).
 2. To develop trust, all parties must have the prospect of future interactions.
 3. To develop trust, the signals used to establish it must not be able to be forged. There is a big difference between [cheap and costly signals](https://www.robkhenderson.com/p/theres-nothing-wrong-with-signaling).
-> “Those who suffer together, stay together.”
+> Those who suffer together, stay together.
 4. Trust can be lost instantly. It is built one step at a time, but can fall down multiple steps at a time.
 
 **Building trust is hard**[^17], but it’s also the <u>only</u> way to create real lasting value without falling into the pits of hell…betraying and betrayed by everyone around you.
@@ -229,33 +229,6 @@ There are two resources which do an excellent job of displaying how the game the
 - [_The Evolution of Trust_](https://ncase.me/trust/)
 - The Selfish Gene by Richard Dawkins. Especially chapter 12: “Nice Guys Finish Last” about tit-for-tat \[@dawkinsSelfishGene2016\].
 
-### The Sum of Your Thinking (Negative, Zero, and Positive Sum)
-
-We are often taught that a positive sum view of the world is superior and more productive to a negative or a zero-sum view. _That’s not exactly how it works…_
-
-It really depends on what kind of State structure you are living in, and its relative success to the universe. Although individual microcosms within that State structure might experience different dynamics…the overall amount of value to divide in each system is equivalent to how the State structure is faring against the universe. There are three scenarios which can occur:
-
-- **Positive Sum:** When a societal pyramid is successful, and it is conquering new grounds and opening up new opportunities for its members: there is a positive sum environment of new value being brought into the system. Individuals within it (on average) can adopt a positive thinking mindset, because there is constantly more value being input to divide.
-- **Zero Sum:** When a societal pyramid is at a perfect theoretical stable equilibrium (not growing or shrinking): there is a zero-sum amount of value in the system. Individuals within the system must compete over how to divide this value—each fighting for a bigger share of that zero-sum amount of value.
-- **Negative Sum**: _This scenario is also possible._ This is the scenario where participants eat each other (are incentivized to be negative to each other) because the value in the societal pyramid itself is shrinking. _It’s like The Hunger Games_. This occurs when their shared societal pyramid is being conquered. Individuals in such a system must ultimately turn on each other with negative intentions, undermining each other, even more so than in a zero-sum system, because there will be less resources to divide in the future than in the present.
-
-	_This scenario applies often to oppressed groups._ The truth is, that some groups are oppressed and not allowed to coordinate, while their resources are exfiltrated. That is the history of the world, and it reflects in the economics, politics, and cultures of those groups. The Indian subcontinent is an example of this, as is Africa. The laws, culture, and individuals are often negative to each other, because their systems are negative sum in nature. **This isn’t a bug in the system**, it’s important to understand that nature is perfect as is. That is their optimal coordination equilibrium. Positive sum thinking for an average individual becomes suicidal in such systems.
-
-	**This is the cost of coordination failure as a society.** The individuals within these systems are culturally incentivized to devour each other. _It is the mythology of Moloch (there isn’t enough energy to go around, so its better to sacrifice the children)._
-
-	![600](../../Extras/Images/moloch.jpg)
-	<center>Moloch. Ancient deity. We sacrificed the children to him by throwing them into the flames.</center>
-
-	This is not an uncommon situation throughout the world, and is absolutely the game theory optimal (GTO) behavior for most of the <u>average</u> individuals in such societal pyramids. Attempting to be positive sum player in a negative sum societal pyramid is not going to work (in the average case)—there isn’t enough value to go around.
-
-**<u>This doesn’t apply to every individual inside the State superstructure</u>.** Individuals can be positive sum in a microcosm while the State superstructure is negative sum in the macrocosm, but it does apply to all individuals (averaged together) inside the macrocosm of their societal pyramid structure.
-
-As an individual, you can retain a positive, neutral, or negative mindset in any of the three systems. But a positive mindset in a system that is shrinking (without being part of a positive microcosm of energy) would hurt rather than help you.
-
-This game isn’t absolute because the game itself isn’t zero-sum. At the current moment, humans are, as a species, conquering more value in a zero-sum universe. This means that more States can stay positive sum/zero sum than equilibrium, despite being conquered, because humanity itself is succeeding and flourishing.
-#### Winner Take Most Game 
-
-As societal pyramids, States are all competing for 100% of the [shared reality](https://societyprotocol.io/Published/Articles/The+state+That+Binds+(Shared+Reality)). A State which is 20% worse at coordination, doesn’t fare 20% worse. It becomes captured, controlled, and disrupted by the State which is marginally better. It’s a winner take most game where small edges matter and the society which coordinates the best always historically conquers the weaker coordinated society.
 ### Societal Coordination vs Individual Privacy
 
 The <u>societal pyramid’s interests</u> for optimizing societal coordination are at odds with every <u>individual participant’s desire</u> for privacy within it. _They’re counter opposing forces._ The process of achieving privacy adds extra complexity to each interaction and decreases the potential for societal coordination.
@@ -289,10 +262,10 @@ Today, money makes the world go around. In the past, different societies through
 
 In this section, we will cover the evolution of coordination in human civilizations throughout history. The four epochs covered are the same pattern as every other article:
 
-1. [Zero-Entry Accounting (ZEA) – Tribes (Pre 10,000 BCE – 3,500 BCE)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Zero-Entry+Accounting+%E2%80%93+Tribes+(Pre+10%2C000+BCE+%E2%80%93+3%2C500+BCE)))
-2. [Single-Entry Accounting (SEA) – Classical States (3500 BCE–476 CE)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Single-Entry+Accounting+%E2%80%93+Classical+States+(3500+BCE%E2%80%93476+CE)))
-3. [Double-Entry Accounting (DEA) – Nation States (500 – Present)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Double-Entry+Accounting+%E2%80%93+Nation+States+(500+%E2%80%93+Present)))
-4. [Triple-Entry Accounting (TEA) – Synchronized States (Starts now)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Triple-Entry+Accounting+%E2%80%93+Synchronized+States+(Starts+now))[](https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Triple-Entry+Accounting+%E2%80%93+Synchronized+States+(Starts+now)))
+1. [Zero-Entry Accounting (ZEA) – Tribes (Pre 10,000 BCE – 3,500 BCE)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Zero-Entry+Accounting+%E2%80%93+Tribes+(Pre+10%2C000+BCE+%E2%80%93+3%2C500+BCE))
+2. [Single-Entry Accounting (SEA) – Classical States (3500 BCE–476 CE)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Single-Entry+Accounting+%E2%80%93+Classical+States+(3500+BCE%E2%80%93476+CE))
+3. [Double-Entry Accounting (DEA) – Nation States (500 – Present)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Double-Entry+Accounting+%E2%80%93+Nation+States+(500+%E2%80%93+Present))
+4. [Triple-Entry Accounting (TEA) – Synchronized States (Starts now)]((https://societyprotocol.io/Published/Articles/The+state+of+The+State+(History)#Triple-Entry+Accounting+%E2%80%93+Synchronized+States+(Starts+now))
 
 Each epoch has introduced new ways of coordination. Instead of replacing the previous epoch's coordination methods, each epoch’s coordination methods stack on top of each other—adding multi-dimensional coordination capacities. We still use rituals from the ZEAA to coordinate today, we still use vertical recorded hierarchies from the SEAA, and we still use the democratic principles of the DEAA. We will soon add automated rebalancing and synchronization of the TEAA.
 
@@ -337,9 +310,9 @@ The grandiose pyramids of the SEAA were conquered due to being unable to make go
 ![deaa pyramid](../../Extras/Images/deaa%20pyramid.png)
 <center>DEAA social hierarchy pyramid</center>
 
-> _“We should not judge a man’s merit by his great qualities, but by the use he makes of them.”_ –François de La Rochefoucauld
+> We should not judge a man’s merit by his great qualities, but by the use he makes of them. –François de La Rochefoucauld
 
-_Duplicated contracts are the root invention which changed the nature of the societal pyramid in the DEAA. They allowed for the permanent updating of status hierarchies between participants as contracts between equals—without requiring the vertical hierarchy line to update status._ 
+Duplicated contracts are the root invention which changed the nature of the societal pyramid in the DEAA. They allowed for the permanent updating of status hierarchies between participants as contracts between equals—without requiring the vertical hierarchy line to update status. 
 
 In addition to the features of the previous ages, what emerged was a horizontally integrated pyramid, which was manually rebalancing from the duplicated social contracts signed between participants. This changed the nature of societies entirely. It created democratic principles and individualism. Society has learned how to manually rebalance the societal pyramid through repeated horizontal interactions facilitated by duplicated contracts. _All individuals became more different yet more equal in this legal context of individualism_.
 
@@ -666,6 +639,35 @@ Each epoch’s transition brought not just technological change, but a complete 
 _This transition is not optional—it’s inevitable._ Nation States have reached their coordination limits in an interconnected world that demands instantaneous global synchronization. The choice before us is not whether we will transition into Synchronized States, but how we will make that transition. We can choose the path of Society Protocol—where the pyramid continuously rebalances itself to place merit at the top while clearing out inefficiency, where individuals retain agency over their identity, assets, and data while participating in unprecedented coordination—or we can accept alternative trajectories that concentrate power while adding surveillance capabilities without the benefits of true rebalancing.
 
 The future of human coordination begins now, with Society Protocol illuminating the path forward into this new epoch. We invite you to join us in building not just better technology, but a better foundation for civilization itself—one where the societal pyramid truly serves all participants in creating the most prosperous, fairly coordinated, and dynamic civilization in human history. The Age of Synchronicity awaits, and it will be as transformative for human coordination as anything that came before.
+
+---
+### Bonus Section: The Sum of Your Thinking (Negative, Zero, and Positive Sum)
+
+We are often taught that a positive sum view of the world is superior and more productive to a negative or a zero-sum view. _That’s not exactly how it works…_
+
+It really depends on what kind of State structure you are living in, and its relative success to the universe. Although individual microcosms within that State structure might experience different dynamics…the overall amount of value to divide in each system is equivalent to how the State structure is faring against the universe. There are three scenarios which can occur:
+
+- **Positive Sum:** When a societal pyramid is successful, and it is conquering new grounds and opening up new opportunities for its members: there is a positive sum environment of new value being brought into the system. Individuals within it (on average) can adopt a positive thinking mindset, because there is constantly more value being input to divide.
+- **Zero Sum:** When a societal pyramid is at a perfect theoretical stable equilibrium (not growing or shrinking): there is a zero-sum amount of value in the system. Individuals within the system must compete over how to divide this value—each fighting for a bigger share of that zero-sum amount of value.
+- **Negative Sum**: _This scenario is also possible._ This is the scenario where participants eat each other (are incentivized to be negative to each other) because the value in the societal pyramid itself is shrinking. _It’s like The Hunger Games_. This occurs when their shared societal pyramid is being conquered. Individuals in such a system must ultimately turn on each other with negative intentions, undermining each other, even more so than in a zero-sum system, because there will be less resources to divide in the future than in the present.
+
+	_This scenario applies often to oppressed groups._ The truth is, that some groups are oppressed and not allowed to coordinate, while their resources are exfiltrated. That is the history of the world, and it reflects in the economics, politics, and cultures of those groups. The Indian subcontinent is an example of this, as is Africa. The laws, culture, and individuals are often negative to each other, because their systems are negative sum in nature. **This isn’t a bug in the system**, it’s important to understand that nature is perfect as is. That is their optimal coordination equilibrium. Positive sum thinking for an average individual becomes suicidal in such systems.
+
+	**This is the cost of coordination failure as a society.** The individuals within these systems are culturally incentivized to devour each other. _It is the mythology of Moloch (there isn’t enough energy to go around, so its better to sacrifice the children)._
+
+	![600](/images/Images/moloch.jpg)
+	<center>_Moloch. Ancient deity. We sacrificed the children to him by throwing them into the flames._</center>
+
+	This is not an uncommon situation throughout the world, and is absolutely the game theory optimal (GTO) behavior for most of the <u>average</u> individuals in such societal pyramids. Attempting to be positive sum player in a negative sum societal pyramid is not going to work (in the average case)—there isn’t enough value to go around.
+
+**<u>This doesn’t apply to every individual inside the State superstructure</u>.** Individuals can be positive sum in a microcosm while the State superstructure is negative sum in the macrocosm, but it does apply to all individuals (averaged together) inside the macrocosm of their societal pyramid structure.
+
+As an individual, you can retain a positive, neutral, or negative mindset in any of the three systems. But a positive mindset in a system that is shrinking (without being part of a positive microcosm of energy) would hurt rather than help you.
+
+This game isn’t absolute because the game itself isn’t zero-sum. At the current moment, humans are, as a species, conquering more value in a zero-sum universe. This means that more States can stay positive sum/zero sum than equilibrium, despite being conquered, because humanity itself is succeeding and flourishing.
+#### Winner Take Most Game 
+
+As societal pyramids, States are all competing for 100% of the [shared reality](https://societyprotocol.io/articles/the-state-that-binds/). A State which is 20% worse at coordination, doesn’t fare 20% worse. It becomes captured, controlled, and disrupted by the State which is marginally better. It’s a winner take most game where small edges matter and the society which coordinates the best always historically conquers the weaker coordinated society.
 
 ### Bibliography
 1. Dawkins, R. (2016). _The selfish gene_ (40th anniversary edition). Oxford University Press.

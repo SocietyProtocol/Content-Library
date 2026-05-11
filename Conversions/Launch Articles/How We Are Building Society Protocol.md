@@ -1,11 +1,10 @@
 ---
 created: 2026-01-08T18:18
-updated: 2026-05-03T20:44
+updated: 2026-05-10T13:24
 ---
 ## Introduction
 
-> “If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
-> 
+> If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.
 > —Antoine de Saint-Exupéry
 
 At Society Protocol (SP), we are building the vessel for the next societal matrix––to usher in a new epoch of human civilization––the _Age of Synchronicity_[^1].
@@ -21,10 +20,9 @@ _So…How are we building Society Protocol?_
 Society Protocol does not need to be entirely completed to become valuable and transition humanity into a new epoch of civilization. Sure…we have a lifetime of work ahead of us (and it likely it stretches past our lifetimes)…but the project becomes valuable to the world in around 3-5 years, once the MVP is released, and its value increases every year thereafter. _It’s like building an exquisite cathedral or a pyramid—fully, it will take centuries, but the foundation serves its core purpose as a prayer hall or pharaoh's tomb._
 
 **_I’m going to explain to you how we’re going to build this vessel. It will be an epic journey._** _We’re here to slay many dragons. The most powerful one of which is ethereal, sitting on a massive pile of gold, has an army of goblin wardens, and has sucked up the life-force of all the humans in the world while influencing every jurisdiction it can get its claws into. Only by slaying these dragons can we return the souls & life-force back to the people of the earth and revive prosperity for the realm._
+![kerafyrm](/images/Images/kerafyrm.jpg)<center>*Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*</center>
 
-![kerafyrm](/images/Images/kerafyrm.jpg)*Caption: Kerafyrm, the Sleeper is the most powerful known being in the world of Norrath. The creators of Everquest designed Kerafyrm to be only in the world for lore[^2], and entirely un-killable.*
-
-In [Synchronized States](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)), we elaborated on why the transition from Nation States to Synchronized States is absolutely inevitable. To summarize, Nation States will enter into a prisoners dilemma with each other, in which, absolutely all of them will be forced to transition into Synchronized States. The only open question remaining—_is_ **_how this transition unfolds_**: Does humanity transition directly into The Age of Synchronicity (Aquarius), or does it spend a few centuries in a dark techno-feudal age first? _We will find out._ **It depends on the story humanity tells itself. <u>The stories we collectively tell ourselves are ultimately self-fulfilling prophecies</u>. Which story will you choose? Which story will humanity choose? The outcome is up to all of us dear readers.** _I know which story I want to see._
+In [Synchronized States](https://societyprotocol.io/articles/synchronized-states/), we elaborated on why the transition from Nation States to Synchronized States is absolutely inevitable. To summarize, Nation States will enter into a prisoners dilemma with each other, in which, absolutely all of them will be forced to transition into Synchronized States. The only open question remaining—_is_ **_how this transition unfolds_**: Does humanity transition directly into The Age of Synchronicity (Aquarius), or does it spend a few centuries in a dark techno-feudal age first? _We will find out._ **It depends on the story humanity tells itself. <u>The stories we collectively tell ourselves are ultimately self-fulfilling prophecies</u>. Which story will you choose? Which story will humanity choose? The outcome is up to all of us dear readers.** _I know which story I want to see._
 
 #### We are currently entering a transitionary period.
 
@@ -32,12 +30,10 @@ In [Synchronized States](https://societyprotocol.io/Published/Articles/Synchroni
 
 > **Voyage:** We are moving to Synchronized States with the intention to never need to come back to the old structures of Nation States.
 > 
-> –An excerpt from our [Ideology](https://societyprotocol.io/Published/Movement/Ideology).
+> –An excerpt from our [Ideology](https://societyprotocol.io/ideology/).
 
 _The old matrix is collapsing, and the new one is yet to be born._
-
 ![600](/images/Images/Now-is-the-age-of-monsters.png)
-
 <center>Society Protocol is a horizontally wide project, to transition the world. We accept many types of monsters in our ranks.</center>
 
 This article covers how we’re handing this transition. The sections covered include: what we’re building, our movement, the financial & fundraising strategy, and the journey we expect ahead. Ultimately, blockchain and the decentralization movement cannot fulfill it’s vision without Society Protocol[^3].
@@ -101,8 +97,6 @@ The Web3 Application additionally allows accounts to form and cluster inside of 
 
 All sorts of communities—both established organizations and new upstarts—will want to create SP instances to coordinate themselves. These instances provide complete societal infrastructure out of the box: shared reality, identity systems, monetary systems, governance frameworks, synchronized history, and organizational capacity—all designed to scale seamlessly from 2 people to 10 billion. The purpose of the Web3 Application/Outpost is to enable these groups a clearly defined, accurate set of Genesis Actors based on contributions and characteristics to enable them to start the most potent and powerful SP instances immediately[^14].
 
-**Web3 Forums** – The Web3 forum is the first of their kind, and used for stable lasting discussions, when a chat communications tool like Discord isn’t optimal. They offer our community a censorship-resistant flow of lasting communication. Our Web3 Forum is built on top of [Lens Protocol](https://lens.xyz/) on the [zkSync](https://www.zksync.io/) network. We are looking at ways to combine the Web3 Forum accounts into a unified structure with the Web3 Application accounts on Ethereum.
-
 **Website –** The Society Protocol website hosts all the content and information about the project. It’s a static website with built in censorship-resistance, which is hosted on distributed platforms, such as IPFS / [Filecoin](https://filecoin.io/), in addition to a traditional DNS.
 
 **SPEC Token** – The SPEC token serves as a representation of contribution to Society Protocol. It represents value stored, to be transferred by willing communities into Energy as they start Society Protocol instances. The SPEC token is crucial for us to keep track of contributions, finance the project, and align economic incentives while we build Society Protocol.
@@ -115,11 +109,12 @@ As communities look to fill the ranks of their SP instances with valuable member
 
 SPEC serves as a way to coordinate the creation of potentially grandiose SP instances based on legitimate contribution right away. It provides a legitimate process for the distribution of initial Energy, which is (generally) going to be the most optimal, fair, and efficient way for most SP instances (not all) to establish themselves. These instances will retain a direct line of legitimacy, and be able to scale participation from day one by using the <u>account system</u> (to decide who to invite) and SPEC token holdings (to decide how much Energy to give each account)[^15].
 
-More info about the SPEC token [here](https://staging-society-protocol-client.vercel.app/spec-token).
+More info about the SPEC token [here](https://app.societyprotocol.io/spec-token).
 
 **Communication Channels** – Last but not least, are the communication channels where our community gathers. This is the only part of our infrastructure where the Web3 variant of these tools isn’t entirely ready for serious consideration. The communication channel infrastructure considers three parts:
 
 - **Communication Substrate** – These are the standard chat channel infrastructure where regular communication will happen. Currently, no Web3 communication platforms are ready to serve as professional infrastructure for this part—as a result, we are researching the best current platform, which is ideally: open source and supports token-gating.
+- **Forums** – The forums are used for stable lasting discussions, when a chat communications tool like Discord isn’t optimal. They offer our community a flow of lasting communication. We are looking at ways to combine the forum accounts into a unified structure with the Web3 Application accounts on Ethereum.
 - **VIP Channels** – These are token gated channels available to SPEC token holders who have committed to locking up their tokens for a certain period of time and our community partners. VIP channels come in three tiers: gold, silver, and platinum, with increasing requirements to access each tier—allowing each incremental tier to contain a more exclusive and aligned community to bring value to its members on the long journey from Nation States to Synchronized Network States.
 - **Encrypted Web3 Communication** – We are considering the possibility of enhancing our Web3 Application with a communications platform (chat and social media). This would extend the application’s already established account system…to enable censorship resistant E2EE messaging, chat channel (Discord, Matrix) alternative, and social media.
 
@@ -136,7 +131,6 @@ The Web3 Outpost will remain useful and necessary for the entire transition peri
 The success of Bitcoin, Ethereum and Web3 movement is crucial for our success. We stand on the shoulders of giants and fully support the Web3 movement.
 
 ### Macro Roadmap
-
 ![Macro Roadmap](/images/Infographics/Macro%20Roadmap.png)
 
 #### Roadmap Steps Overview
@@ -164,7 +158,7 @@ The beautiful thing about Society Protocol, is that while the entire transition 
 
 If we dream of going on a Voyage to create Synchronized States—_we’re going to need a movement_. <u>Our organization alone won’t handle the pressure of buildling a new world</u>—it must be as a part of a movement. **We are creating a movement to bring Society Protocol to life**—it consists of three main segments: the core team, affiliates, and the community.
 
-> “Another form of wealth, hidden from the archaeologist, were titles to offices. Such social positions were more valuable than the tangible forms of wealth in many hunter-gatherer cultures. Examples of such positions included clan leaders, war party leaders, hunting party leaders, membership in a particular long-term trading partnership (with a particular person in a neighboring clan or tribe), midwives, and religious healers. Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege.” (Szabo, 2002)
+> Another form of wealth, hidden from the archaeologist, were titles to offices. Such social positions were more valuable than the tangible forms of wealth in many hunter-gatherer cultures. Examples of such positions included clan leaders, war party leaders, hunting party leaders, membership in a particular long-term trading partnership (with a particular person in a neighboring clan or tribe), midwives, and religious healers. Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege. (Szabo, 2002)
 
 The movement is a coordinated mass of distributed humans, participating from all around the world, united by a singular intention to create Synchronized States. We coordinate around this objective by using the Web3 Outpost as our Schelling point—tracking roles and contributions through account badges, while leveraging the free market economics of Web3 to manage the financial side. _This infrastructure is built to be censorship-resistant, distributed, and decentralized from day one, providing the resilient foundation our movement needs to bring Society Protocol to life._
 
@@ -186,20 +180,18 @@ The movement is a coordinated mass of distributed humans, participating from all
 
 **_Decentralization matters._** Our movement is a network of replaceable nodes and hubs of various sizes aggregated around censorship-resistant infrastructure. It’s not a headless movement per se, nor is it non-hierarchical. It’s decentralized in the sense that, if one person or hub goes down, another one easily replaces it. Our movement is distributed, decentralized, and censorship resistant. **_These qualities make it resilient._**
 
-**_Our Ideology._** Our movement’s [ideology](https://societyprotocol.io/Published/Movement/Ideology) guides us through this transition. We use it as a methodology for making decisions and figuring out how to allocate our resources. It details the guiding principles to follow, about how we believe the triple-entry accounting age (TEAA) should look, and _we’re going on a voyage to get there._
+**_Our Ideology._** Our movement’s [ideology](https://societyprotocol.io/ideology/) guides us through this transition. We use it as a methodology for making decisions and figuring out how to allocate our resources. It details the guiding principles to follow, about how we believe the triple-entry accounting age (TEAA) should look, and _we’re going on a voyage to get there._
 
 > **Voyage:** We are moving to Synchronized States with the intention to never need to come back to the old structures of Nation States.
 > 
-> –excerpt from the [Ideology](https://societyprotocol.io/Published/Movement/Ideology)
+> –excerpt from the [Ideology](https://societyprotocol.io/ideology/)
 
 We intend for the global movement to form hubs all over the world. Gatherings, meet-up groups, conferences, intentional communities, and pop-up cities. These activities strengthen and intertwine the movement. They are highly desired and our organization will offer support where we can. Supporting the Society Protocol movement doesn’t necessarily need to be the primary purpose of hubs, it can be a peripheral partnership of aligned communities. One of the first hubs being formed is [School of Change](http://schoolofchange.co/)—an intentional community designed to help individuals improve their longevity, find and elevate their purpose, and refine their identity.
 
 > Together, the movement must combine to form a social, political, and economic safety net.
 
 The next sections cover the three main segments of our movement, which are: the core team, affiliates, and the community.
-
 ![600](/images/Illustrations/SP%20Movement%20Concentric%20Circles.excalidraw.png)
-
 <center>Concentric circles illustration of the roles in the Society Protocol movement</center>
 
 ### The Core Team
@@ -215,7 +207,6 @@ The Mythical Man Month is a classic book pertaining to this exactly subject. It 
 **The core team will build everything out in the open.** Absolutely everything will be transparent and source-available: our codebase, the roadmap, our internal organizational structures, etc…_this is an entirely open organization_. We will remain consistently open about our plans and progress, and will be live-streaming progress updates at minimum one time a week. Our thinking about this is simple: this is not a conspiracy; it’s a project open to everyone. _We don’t expect any conspirational variants of similar organizations to be able to race us to the most secure, widely used, source-available codebase and community—if we simply remain fully open._ The entire organization being open and transparent has an additional effect of making the positions of value inside of it more difficult to politically capture—by removing information asymmetries. _We are competing on the truest battlefield for the strongest codebase and Schelling point for Society Protocol._
 
 **Our organization will not be starting any Synchronized States.** <u>We aren’t politically motivated</u>. **The Society Protocol Foundation, DAO, and core team all have absolutely no interest in being the kings of a new world.** Our organization is much like the Linux Foundation—_<u>we are the stewards of infrastructure</u>. We are not looking to conquer the world, we serve the world from a position of neutrality._ _We serve the kings and queens of a new world, and help them achieve their aims of better coordinating their societies by providing the secure, modular, and neutral infrastructure, which all Synchronized States will use._
-
 ![800](/images/Images/galaxy-spiral-annotated.excalidraw.png)
 
 > The game is always rigged, the game always has one fatal weak spot. –Esoteric Knowledge
@@ -224,9 +215,9 @@ The Mythical Man Month is a classic book pertaining to this exactly subject. It 
 
 Our organization exists to make the most _neutral_ and _balanced_ SP codebase and Web3 Outpost possible. **_We’re not here to rig any games._** _Our organizational “raison d'être” is to build the most balanced, modular, and secure system we can manage, while remaining credibly neutral to all the communities using it._ It’s going to be the various entities and communities which create their own Society Protocol instances…each will slightly imbalance their instance’s parameters, each in their own unique way—to achieve their goals. Some of these will become the future rulers of a new age (incredibly powerful)…they will compete against each other under these conditions (the imbalances they chose for their societies, as a differentiator). None of them will be perfectly balanced, communities will compete for the most potent and lasting variants. _This is not the job of our core team and organization._ **_We’re here to make the most balanced infrastructure for everyone._**
 
-**It’s important that the core team remains distributed & decentralized_._** All team members should remain replaceable—simply cogs in a large distributed machine. Any irreplaceable team members may become targets of operations by powerful entities, threatening their well-being and physical safety[^18]._ Many roles on the core team may choose to remain pseudonymous. _Core team members don’t want to become irreplaceable cogs._ This is mitigated by building everything out in the open, operating with a culture of resilience, and assigning an overlap of multiple team members to tasks whenever possible[^19].
+**It’s important that the core team remains distributed & decentralized.** All team members should remain replaceable—simply cogs in a large distributed machine. Any irreplaceable team members may become targets of operations by powerful entities, threatening their well-being and physical safety[^18]._ Many roles on the core team may choose to remain pseudonymous. _Core team members don’t want to become irreplaceable cogs._ This is mitigated by building everything out in the open, operating with a culture of resilience, and assigning an overlap of multiple team members to tasks whenever possible[^19].
 
-> We are currently looking for an executive CEO co-founder—to steer the ship and make executive decisions on the way to a new world. More about this role can be found [here](https://societyprotocol.io/Published/Organization/Roles).
+> We are currently looking for an executive CEO co-founder—to steer the ship and make executive decisions on the way to a new world. More about this role can be found [here](https://societyprotocol.io/roles/).
 
 ### Affiliates
 
@@ -242,7 +233,7 @@ Partner communities affiliated with us: are prominently featured on our website 
 
 All other communities are considered <u>unaffiliated</u>. Communities wishing to use the Society Protocol infrastructure without being affiliated, may absolutely do so for free by accessing the smart contracts directly and using an alternative front-ends, but will not be featured in the main SP web application front-end. Unaffiliated communities do not need to remain ideologically aligned, and may use our infrastructure of the Web3 Outpost and codebase in a permissionless manner.
 
-_Each partnership with affiliates is a bespoke contract…_which generally involves some exchange of Governor seats, SPEC tokens, account badges, and exclusive VIP room access from our organization’s side—in exchange for social proof, technical support, political support, and financial dues from the side of our affiliates.
+Each partnership with affiliates is a bespoke contract…which generally involves some exchange of Governor seats, SPEC tokens, account badges, and exclusive VIP room access from our organization’s side—in exchange for social proof, technical support, political support, and financial dues from the side of our affiliates.
 
 **Our affiliate network will play a crucial role in governance of the Society Protocol DAO.** Advisors and partner communities will ultimately hold around ~62% of the total voting power. While our core team is expected to make great daily execution decisions by holding around 38% of the total voting power, affiliates are ultimately there to guide the movement and its strategic direction. And we want to give them enough governance power to do so, seeing as, advisors are knowledgeable experts (able to make great decisions) and our community partners are our primary customers. Additionally, community partners will enter into a virtuous feedback loop of information with our organization—alerting our core team about what they need for their instances, and the core team will execute to build it.
 
@@ -254,15 +245,15 @@ Our community is distributed and spans the globe. It’s a unique tapestry of in
 
 Our community will be vast and diverse. It will trend younger, and skews evenly in gender. This is for individuals who would like to architect a better world—instead of living in the one the past generations have left for us. _A world of possibilities._
 
-_This is for the innovators._
+**_This is for the innovators._**
 
-_This is for those who do not consent to living unfree in a broken world._
+**_This is for those who do not consent to living unfree in a broken world._**
 
-_This is for the fearless._
+**_This is for the fearless._**
 
-_This is for the ambitious._
+**_This is for the ambitious._**
 
-_This is for those who want to pass on a a better world to future generations._
+**_This is for those who want to pass on a a better world to future generations._**
 
 * * *
 
@@ -283,14 +274,13 @@ Our community is expected to support us in various ways, _we cannot do it withou
 
 _The community open to everyone_. _Unlimited space._ We believe that this is an important mission for all humanity to progress. In this journey, contributions will be tracked through the Web3 Outpost and SPEC token.
 
-> Community members which have SPEC tokens are able receive access to exclusive VIP communication channels by locking up their SPEC tokens [here](https://staging-society-protocol-client.vercel.app/).
+> Community members which have SPEC tokens are able receive access to exclusive VIP communication channels by locking up their SPEC tokens [here](https://app.societyprotocol.io/profile/lock-spec).
 
 _All the infrastructure is distributed from the start—there is no central point of failure. The entire codebase will be source-available, anyone is welcome to contribute. The community hierarchy is decentralized. It’s a global distributed network, losing parts of it doesn’t interrupt the whole movement._
 
 We encourage people to join our community using pseudonyms. You’re welcome to bring your Nation State identity, but they aren’t necessary in our movement, and won’t be necessary in the triple-entry accounting age (TEAA) either. _It’s more true to form._ Synchronized States will not require Nation State identities.
 
 ### Value Flows Chart
-
 ![Movement Value Flows.excalidraw](/images/Infographics/Movement%20Value%20Flows.excalidraw.png)
 
 ## Financial Strategy & Fundraising
@@ -299,7 +289,7 @@ To fuel this movement we will need financial resources. We have created a well t
 
 **Our financial resources come from these methods:**
 
-- **SPEC token ICO**: The primary source of fundraising, for which ~33% of all SPEC tokens are allocated—will be the public ICO event. The ICO will start after we’ve raised sufficient awareness about the project, around Q3-Q4 2026. It is scheduled to last up to six months, and will be in the format of a [dutch auction](https://www.investopedia.com/terms/d/dutchauction.asp)—providing a uniform clearing price for everyone. Its duration will give a wide audience a chance to participate. More information about the ICO can be found [here](https://staging-society-protocol-client.vercel.app/auction).
+- **SPEC token ICO**: The primary source of fundraising, for which ~30% of all SPEC tokens are allocated—will be the public ICO event. The ICO will start after we’ve raised sufficient awareness about the project, around Q3-Q4 2026. It is scheduled to last up to six months, and will be in the format of a [dutch auction](https://www.investopedia.com/terms/d/dutchauction.asp)—providing a uniform clearing price for everyone. Its duration will give a wide audience a chance to participate. More information about the ICO can be found [here](https://app.societyprotocol.io/auction).
 - **Partner communities:** Partner communities contribute a sustainable source of funding our movement via association dues. In exchange, receiving gold, silver, and bronze partner community tiers. Partner communities will receive: official recognition, the ability to use the main UI in the Web3 Outpost to manage their community, and direct access for priority feedback about what features they would like to see built.
 - **Future SPEC token sales by the DAO/Foundation:** The DAO, controlled by the governors, reserves the right to sell additional SPEC tokens, as deemed necessary, to raise additional funds. Although, it’s imperative that the DAO retains a good amount of SPEC tokens in its treasury, because they will be our source of funding post-ICO towards project completion and should grow in value upon successful milestones.
 - **Research Grants & Donations:** We will seek grants from the appropriate institutions. These broadly include Web3 organizations, network state communities, nation states, and a vast swathe of philanthropic organizations around the world.
@@ -307,9 +297,7 @@ To fuel this movement we will need financial resources. We have created a well t
 ### SPEC Token
 
 The SPEC token represents contribution to Society Protocol. It’s a token that stores value, and combines with the accounts in the Web3 Outpost to distinguish who has contributed what value to Society Protocol during the process of building it.
-
 ![800](/images/Infographics/SPEC%20Token%20Distribution.png)
-
 The way that value invested in the SPEC token will be recouped is simple: we expect millions of SP instances to be launched in a bid to transition the world from Nation States to Synchronized States. Some of them will be spectacular successes worth gazillions of dollars, many of them will fail…SPEC token holders have a chance to be airdropped in accordance to their contribution in EACH one of these of instances. SPEC token holders gain the potential for millions of airdrops, stretching over decades, as SP instances are launched and experimented with, in accordance with their contribution.
 
 It’s important to understand, that each upstart SP instance will decide for itself how its Energy is distributed and which accounts to include. **We hold no control over that.** Instead, what happens naturally is…anyone looking to launch an SP instance, for absolutely any community, family, group, or nation—will need a valid set of starting parameters and to know who to include into their instance and how much Energy to allocate to whom. **That’s where the Web3 Outpost and SPEC token come in!** They combine together to give Web4 communities a starting set of parameters—enabling them to launch effective, legitimate, lively, decentralized, and distributed instances of Society Protocol from the very outset! Populated by all the same people that have shown an interest and contributed to the development of the protocol. _This will happen on repeat for 20-70 years (until people figure out how to live in Synchronized States)._
@@ -335,7 +323,7 @@ If upon the end of the ICO fundraise, we do not raise adequate resources to buil
 
 ## The Journey
 
-> “If it was easy, everyone would do it.”
+> If it was easy, everyone would do it.
 
 This is a long journey, we don’t expect it to be easy. We will run into many kinds of obstacles. There will be code errors, teamwork issues, political challenges, financial constraints, and overall uncertainty. Society Protocol instances will collapse. We will have strong allies and strong enemies. Some people will give up; others will betray the cause[^20]. _In the end, transitioning the world into an entirely new age of civilization—will be worth it._
 
@@ -351,7 +339,7 @@ _It’s a journey towards an entirely different epoch of human civilization—fr
 
 > _Not many people get the chance to go on such a journey. I suggest that if you are reading this and you understand what it means, you take it._
 
-**This process is inevitable for humanity.** The only question is, if **_<u>we</u>_** will be the ones to make it through the gauntlet and succeed. If it’s not us, someone else surely will—mostly likely, with a Synchronized State architecture far inferior, as explained in the [Synchronized States](https://societyprotocol.io/Published/Articles/Synchronized+States+(The+Golden+Record)) article.
+**This process is inevitable for humanity.** The only question is, if **_<u>we</u>_** will be the ones to make it through the gauntlet and succeed. If it’s not us, someone else surely will—mostly likely, with a Synchronized State architecture far inferior, as explained in the [Synchronized States](https://societyprotocol.io/articles/synchronized-states/) article.
 
 #### The Geeks, MOPs, and Sociopaths
 
@@ -365,14 +353,12 @@ Since the codebase is always source-available, any sociopathic entities who capt
 
 > **A Note From The Founder**
 > 
-> This system is based on an ancient secret. Don’t try to build it without me, without first understanding The Secret (which you can purchase for a hefty price at [Virtuous Cycle](http://virtuouscycle.co/)). Bad outcomes will happen to anyone who tries to edit this system without first understanding the root of it.
+> This system is based on an ancient secret. Don’t try to build it without me, without first understanding The Secret (which you can purchase for a hefty price at [Virtuous Cycle](https://virtuouscycle.co/the-secret/)). Bad outcomes will happen to anyone who tries to edit this system without first understanding the root of it.
 
 ### The Dragons Clutches
 
 You may be wondering, “Have you thought about the issue of the big scary dragon, the one which captures everyone in its clutches and drains their life-force? The magical ethereal dragon sitting on a pile of gold, with an army of goblins around it, and all those bones in its lair…the one which scares and eats everyone?”[^22]
-
 ![dragons-clutches](/images/Images/dragons-clutches.gif)
-
 _Well…yes. Yes we have…_
 
 I value my bones. I value our life force. It’s obvious I would think of this. The community will make it, (well…maybe not all of us)…but _the community will make it_!
@@ -402,13 +388,11 @@ While no dragon can hold Society Protocol, reptiles are not all known to be smar
 ↪️ Step 4: Negotiates with us about implementing Synchronized States for their Nation State using a variant of our secure, neutral, modular codebase. ⤵️
 
 **That’s it. The journey is complete and we enter the Age of Synchronicity.**
+![sleeper-corpse](/images/Images/sleeper-corpse.webp)<center>_The creators of Everquest never intended Kerafyrm, the Sleeper to die, it was designed to be impossible. Nevertheless, a group of adventurers, from a coalition of guilds on the Rallos Zek PvP server woke him by killing his four warders and fought for ~3 hours, bringing him down to ~26% HP. Sony Online Entertainment (SOE) then despawned him (suspected GM intervention or bug to keep him "unkillable"). SOE later apologized, offered compensation, and respawned him sleeping. On November 17, 2003, the same groups returned, battled for ~3–4 hours, and finally killed him. Kerafyrm, the Sleeper was slain, and never respawned again._</center>
 
-![sleeper-corpse](/images/Images/sleeper-corpse.webp)_Caption: The creators of Everquest never intended Kerafyrm, the Sleeper to die, it was designed to be impossible. Nevertheless, a group of adventurers, from a coalition of guilds on the Rallos Zek PvP server woke him by killing his four warders and fought for ~3 hours, bringing him down to ~26% HP. Sony Online Entertainment (SOE) then despawned him (suspected GM intervention or bug to keep him "unkillable"). SOE later apologized, offered compensation, and respawned him sleeping. On November 17, 2003, the same groups returned, battled for ~3–4 hours, and finally killed him. Kerafyrm, the Sleeper was slain, and never respawned again._
-
-_Thank you dragon, thanks for playing._
+**_Thank you dragon, thanks for playing._**
 
 **Let’s reconstruct all the steps backwards from the Age of Synchronicity...**
-
 ![Reverse Timeline from Age of Synchronicity](/images/Infographics/Reverse%20Timeline%20from%20Age%20of%20Synchronicity.png)
 
 ## Conclusion
@@ -421,7 +405,7 @@ _This journey will not be easy._ We will face obstacles, setbacks, and resistanc
 
 To those reading this who feel the pull of something greater: you're needed. Whether you're a developer who can write code, an investor who can provide capital, a community builder who can gather people, or simply someone who believes in the movement—there's a place for you here. We're not just building a protocol; we're building the next epoch of human civilization and the infrastructure for human flourishing. The voyage has begun. The only question that remains is: will you join us on this journey, or will you watch from the shore as history sails past?
 
-If you are interested in contributing to Society Protocol, you can [join our community](https://societyprotocol.io/), [invest in the movement](https://societyprotocol.io/), and [contribute to the architecture](https://societyprotocol.io/).
+If you are interested in contributing to Society Protocol, you can [join our community](https://societyprotocol.io/join/), [invest in the movement](https://app.societyprotocol.io/auction), and [contribute to the architecture](https://forum.societyprotocol.io/).
 
 ### Bibliography
 1. David Chapman. (n.d.). _Geeks, MOPs, and sociopaths in subculture evolution  Meaningness_. https://meaningness.com/geeks-mops-sociopaths.
@@ -430,14 +414,14 @@ If you are interested in contributing to Society Protocol, you can [join our com
 
 [^1]: Often referred to as the _Age of Aquarius_.
 [^2]: The great prismatic dragon was born out of the forbidden coupling of two different elemental dragons - making him into a great abomination in the eyes of many. At first many dragons flocked to Kerafyrm feeling the god-like being would bring a new age to their kind, the children of Veeshan. However, his unfathomable power and the taboo of his creation by the laws of Veeshan led to a great madness overwhelming Kerafyrm. The laws of Veeshan forbid dragons to kill and eat other dragons under any circumstance, and Kerafyrm violated these laws too by killing those who spoke out against him. 
-[^3]: This is explained in [Fake Everything](https://societyprotocol.io/Published/Articles/Fake+Everything+(Prelude)).
+[^3]: This is explained in [Fake Everything](https://societyprotocol.io/articles/fake-everything/).
 [^4]: The distinction to make between in defining _distributed_ and _decentralized_ is that: distributed physically distributes the resources of the network, so that no one central point failing can cause the a failure in the network infrastructure…while decentralized decentralizes (spreads out) the power structure of the community, so that no one party can be captured to control the network decision-making.
 [^5]: Source-available and open source are slightly different licenses. The Society Protocol codebase may become open source...it's too early for us to guarantee such a thing. It's a guarantee the codebase will be source-available. About the open source part––we need to consult with lawyers.
 [^6]: As an engineer, I can attest that it’s a very difficult, but also possible technical challenge.
 [^7]: As we step / stretch away from the core of the codebase—towards Value Functions, extensions, and UIs…security becomes slightly less of a concern (although its still crucial), but the central core must be _impeccably_ secure.
 [^8]: Although, ultimately, to some degree…we are partnered with our community partners, and in a sense, they are our customers (where our money comes from). Since our community partners should be a diverse group of organizations with different competing needs and requirements…this business dynamic should work out to create a neutral, secure, and modular codebase in the end.
 [^9]: The on-chain Society Protocol DAO will be supported by the traditionally structured Society Protocol Foundation—which is a non-profit legal entity serving as the connector to the nation state legal and financial system.
-[^10]: The DAO aims to be governed by a meritocracy, it is not a democracy. This is a tenet of the TEAA, which is embedded into our [ideology](https://societyprotocol.io/Published/Movement/Ideology).
+[^10]: The DAO aims to be governed by a meritocracy, it is not a democracy. This is a tenet of the TEAA, which is embedded into our [ideology](https://societyprotocol.io/ideology/).
 [^11]: SPEC token holders can use their tokens to vote and provide feedback on governance decisions, while governors closer, more focused and committed to the project retain execution authority.
 [^12]: This method prevents the exploitable non-sybil resistant nature of pseudonymous token voting, which can be exploited to take over the DAO via controlling the token and drain the treasury.
 [^13]: We will work closely with our partner communities and display their communities in our UI interface, partner communities are obligated to follow our ideology. Unaffiliated communities, who are not obligated to follow our movements ideology are also welcome, but will need to create their own UI interfaces to display their community information.
@@ -445,7 +429,7 @@ If you are interested in contributing to Society Protocol, you can [join our com
 [^15]: Otherwise, this process has to be done manually and deciding “How much Energy each account gets?” manually, for large groups, is a coordination nightmare. SPEC provides a legitimate lineage for this transition.
 [^16]: Although there is technically no requirement for a traditional corporate architecture, the Society Protocol Foundation will be maintained as a traditional entity for interaction with the traditional legal and corporate world.
 [^17]: Many Governors will be outside of the core team, they are _advisors_ and _partner communities_.
-[^18]: We are considering requiring all core team members to upload a [warrant canary](https://www.okta.com/identity-101/warrant-canary/)—n order to enhance operational integrity.
+[^18]: We are considering requiring all core team members to upload a [warrant canary](https://www.okta.com/identity-101/warrant-canary/)—in order to enhance operational integrity.
 [^19]: This quality increases the diversity of thought and thus, quality of outcomes. A creative early stage project like Society Protocol benefits from heterogeneous perspectives to homogenous ones.
 [^20]: Only to end up in misery and slavery as their usefulness runs out.
 [^21]: The success of Bitcoin, Ethereum, and Web3 is crucial for our success. We expect the Web3 Outpost to last for at least 20+ years, and are reliant on the foundation of Web3’s infrastructure. We stand on the shoulders of giants. We are not enemies, and fully support the Web3 movement. It simply cannot accomplish what the Web4 movement can.  

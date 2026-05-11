@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08T18:18
-updated: 2026-05-03T20:43
+updated: 2026-05-10T13:24
 ---
 ### Table of Contents
 1. [Introduction](#Introduction)
@@ -21,8 +21,7 @@ updated: 2026-05-03T20:43
 
 ## Introduction
 
-> “If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
-> 
+> If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.
 > —Antoine de Saint-Exupéry
 
 At Society Protocol (SP), we are building the vessel for the next societal matrix––to usher in a new epoch of human civilization––the _Age of Synchronicity_[^1].
@@ -118,8 +117,6 @@ The Web3 Application additionally allows accounts to form and cluster inside of 
 
 All sorts of communities—both established organizations and new upstarts—will want to create SP instances to coordinate themselves. These instances provide complete societal infrastructure out of the box: shared reality, identity systems, monetary systems, governance frameworks, synchronized history, and organizational capacity—all designed to scale seamlessly from 2 people to 10 billion. The purpose of the Web3 Application/Outpost is to enable these groups a clearly defined, accurate set of Genesis Actors based on contributions and characteristics to enable them to start the most potent and powerful SP instances immediately[^14].
 
-**Web3 Forums** – The Web3 forum is the first of their kind, and used for stable lasting discussions, when a chat communications tool like Discord isn’t optimal. They offer our community a censorship-resistant flow of lasting communication. Our Web3 Forum is built on top of [Lens Protocol](https://lens.xyz/) on the [zkSync](https://www.zksync.io/) network. We are looking at ways to combine the Web3 Forum accounts into a unified structure with the Web3 Application accounts on Ethereum.
-
 **Website –** The Society Protocol website hosts all the content and information about the project. It’s a static website with built in censorship-resistance, which is hosted on distributed platforms, such as IPFS / [Filecoin](https://filecoin.io/), in addition to a traditional DNS.
 
 **SPEC Token** – The SPEC token serves as a representation of contribution to Society Protocol. It represents value stored, to be transferred by willing communities into Energy as they start Society Protocol instances. The SPEC token is crucial for us to keep track of contributions, finance the project, and align economic incentives while we build Society Protocol.
@@ -137,6 +134,7 @@ More info about the SPEC token [here](https://staging-society-protocol-client.ve
 **Communication Channels** – Last but not least, are the communication channels where our community gathers. This is the only part of our infrastructure where the Web3 variant of these tools isn’t entirely ready for serious consideration. The communication channel infrastructure considers three parts:
 
 - **Communication Substrate** – These are the standard chat channel infrastructure where regular communication will happen. Currently, no Web3 communication platforms are ready to serve as professional infrastructure for this part—as a result, we are researching the best current platform, which is ideally: open source and supports token-gating.
+- **Forums** – The forums are used for stable lasting discussions, when a chat communications tool like Discord isn’t optimal. They offer our community a flow of lasting communication. We are looking at ways to combine the forum accounts into a unified structure with the Web3 Application accounts on Ethereum.
 - **VIP Channels** – These are token gated channels available to SPEC token holders who have committed to locking up their tokens for a certain period of time and our community partners. VIP channels come in three tiers: gold, silver, and platinum, with increasing requirements to access each tier—allowing each incremental tier to contain a more exclusive and aligned community to bring value to its members on the long journey from Nation States to Synchronized Network States.
 - **Encrypted Web3 Communication** – We are considering the possibility of enhancing our Web3 Application with a communications platform (chat and social media). This would extend the application’s already established account system…to enable censorship resistant E2EE messaging, chat channel (Discord, Matrix) alternative, and social media.
 
@@ -181,7 +179,7 @@ The beautiful thing about Society Protocol, is that while the entire transition 
 
 If we dream of going on a Voyage to create Synchronized States—_we’re going to need a movement_. <u>Our organization alone won’t handle the pressure of buildling a new world</u>—it must be as a part of a movement. **We are creating a movement to bring Society Protocol to life**—it consists of three main segments: the core team, affiliates, and the community.
 
-> “Another form of wealth, hidden from the archaeologist, were titles to offices. Such social positions were more valuable than the tangible forms of wealth in many hunter-gatherer cultures. Examples of such positions included clan leaders, war party leaders, hunting party leaders, membership in a particular long-term trading partnership (with a particular person in a neighboring clan or tribe), midwives, and religious healers. Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege.” \[@szaboShellingOutOrigins2002\]
+> Another form of wealth, hidden from the archaeologist, were titles to offices. Such social positions were more valuable than the tangible forms of wealth in many hunter-gatherer cultures. Examples of such positions included clan leaders, war party leaders, hunting party leaders, membership in a particular long-term trading partnership (with a particular person in a neighboring clan or tribe), midwives, and religious healers. Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege. \[@szaboShellingOutOrigins2002\]
 
 The movement is a coordinated mass of distributed humans, participating from all around the world, united by a singular intention to create Synchronized States. We coordinate around this objective by using the Web3 Outpost as our Schelling point—tracking roles and contributions through account badges, while leveraging the free market economics of Web3 to manage the financial side. _This infrastructure is built to be censorship-resistant, distributed, and decentralized from day one, providing the resilient foundation our movement needs to bring Society Protocol to life._
 
@@ -259,7 +257,7 @@ Partner communities affiliated with us: are prominently featured on our website 
 
 All other communities are considered <u>unaffiliated</u>. Communities wishing to use the Society Protocol infrastructure without being affiliated, may absolutely do so for free by accessing the smart contracts directly and using an alternative front-ends, but will not be featured in the main SP web application front-end. Unaffiliated communities do not need to remain ideologically aligned, and may use our infrastructure of the Web3 Outpost and codebase in a permissionless manner.
 
-_Each partnership with affiliates is a bespoke contract…_which generally involves some exchange of Governor seats, SPEC tokens, account badges, and exclusive VIP room access from our organization’s side—in exchange for social proof, technical support, political support, and financial dues from the side of our affiliates.
+Each partnership with affiliates is a bespoke contract…which generally involves some exchange of Governor seats, SPEC tokens, account badges, and exclusive VIP room access from our organization’s side—in exchange for social proof, technical support, political support, and financial dues from the side of our affiliates.
 
 **Our affiliate network will play a crucial role in governance of the Society Protocol DAO.** Advisors and partner communities will ultimately hold around ~62% of the total voting power. While our core team is expected to make great daily execution decisions by holding around 38% of the total voting power, affiliates are ultimately there to guide the movement and its strategic direction. And we want to give them enough governance power to do so, seeing as, advisors are knowledgeable experts (able to make great decisions) and our community partners are our primary customers. Additionally, community partners will enter into a virtuous feedback loop of information with our organization—alerting our core team about what they need for their instances, and the core team will execute to build it.
 
@@ -271,15 +269,15 @@ Our community is distributed and spans the globe. It’s a unique tapestry of in
 
 Our community will be vast and diverse. It will trend younger, and skews evenly in gender. This is for individuals who would like to architect a better world—instead of living in the one the past generations have left for us. _A world of possibilities._
 
-_This is for the innovators._
+**_This is for the innovators._**
 
-_This is for those who do not consent to living unfree in a broken world._
+**_This is for those who do not consent to living unfree in a broken world._**
 
-_This is for the fearless._
+**_This is for the fearless._**
 
-_This is for the ambitious._
+**_This is for the ambitious._**
 
-_This is for those who want to pass on a a better world to future generations._
+**_This is for those who want to pass on a a better world to future generations._**
 
 * * *
 
@@ -316,7 +314,7 @@ To fuel this movement we will need financial resources. We have created a well t
 
 **Our financial resources come from these methods:**
 
-- **SPEC token ICO**: The primary source of fundraising, for which ~33% of all SPEC tokens are allocated—will be the public ICO event. The ICO will start after we’ve raised sufficient awareness about the project, around Q3-Q4 2026. It is scheduled to last up to six months, and will be in the format of a [dutch auction](https://www.investopedia.com/terms/d/dutchauction.asp)—providing a uniform clearing price for everyone. Its duration will give a wide audience a chance to participate. More information about the ICO can be found [here](https://staging-society-protocol-client.vercel.app/auction).
+- **SPEC token ICO**: The primary source of fundraising, for which ~30% of all SPEC tokens are allocated—will be the public ICO event. The ICO will start after we’ve raised sufficient awareness about the project, around Q3-Q4 2026. It is scheduled to last up to six months, and will be in the format of a [dutch auction](https://www.investopedia.com/terms/d/dutchauction.asp)—providing a uniform clearing price for everyone. Its duration will give a wide audience a chance to participate. More information about the ICO can be found [here](https://staging-society-protocol-client.vercel.app/auction).
 - **Partner communities:** Partner communities contribute a sustainable source of funding our movement via association dues. In exchange, receiving gold, silver, and bronze partner community tiers. Partner communities will receive: official recognition, the ability to use the main UI in the Web3 Outpost to manage their community, and direct access for priority feedback about what features they would like to see built.
 - **Future SPEC token sales by the DAO/Foundation:** The DAO, controlled by the governors, reserves the right to sell additional SPEC tokens, as deemed necessary, to raise additional funds. Although, it’s imperative that the DAO retains a good amount of SPEC tokens in its treasury, because they will be our source of funding post-ICO towards project completion and should grow in value upon successful milestones.
 - **Research Grants & Donations:** We will seek grants from the appropriate institutions. These broadly include Web3 organizations, network state communities, nation states, and a vast swathe of philanthropic organizations around the world.
@@ -352,7 +350,7 @@ If upon the end of the ICO fundraise, we do not raise adequate resources to buil
 
 ## The Journey
 
-> “If it was easy, everyone would do it.”
+> If it was easy, everyone would do it.
 
 This is a long journey, we don’t expect it to be easy. We will run into many kinds of obstacles. There will be code errors, teamwork issues, political challenges, financial constraints, and overall uncertainty. Society Protocol instances will collapse. We will have strong allies and strong enemies. Some people will give up; others will betray the cause[^20]. _In the end, transitioning the world into an entirely new age of civilization—will be worth it._
 
@@ -422,7 +420,7 @@ While no dragon can hold Society Protocol, reptiles are not all known to be smar
 
 ![sleeper-corpse](../../Extras/Images/sleeper-corpse.webp)_Caption: The creators of Everquest never intended Kerafyrm, the Sleeper to die, it was designed to be impossible. Nevertheless, a group of adventurers, from a coalition of guilds on the Rallos Zek PvP server woke him by killing his four warders and fought for ~3 hours, bringing him down to ~26% HP. Sony Online Entertainment (SOE) then despawned him (suspected GM intervention or bug to keep him "unkillable"). SOE later apologized, offered compensation, and respawned him sleeping. On November 17, 2003, the same groups returned, battled for ~3–4 hours, and finally killed him. Kerafyrm, the Sleeper was slain, and never respawned again._
 
-_Thank you dragon, thanks for playing._
+**_Thank you dragon, thanks for playing._**
 
 **Let’s reconstruct all the steps backwards from the Age of Synchronicity...**
 
@@ -462,7 +460,7 @@ If you are interested in contributing to Society Protocol, you can [join our com
 [^15]: Otherwise, this process has to be done manually and deciding “How much Energy each account gets?” manually, for large groups, is a coordination nightmare. SPEC provides a legitimate lineage for this transition.
 [^16]: Although there is technically no requirement for a traditional corporate architecture, the Society Protocol Foundation will be maintained as a traditional entity for interaction with the traditional legal and corporate world.
 [^17]: Many Governors will be outside of the core team, they are _advisors_ and _partner communities_.
-[^18]: We are considering requiring all core team members to upload a [warrant canary](https://www.okta.com/identity-101/warrant-canary/)—n order to enhance operational integrity.
+[^18]: We are considering requiring all core team members to upload a [warrant canary](https://www.okta.com/identity-101/warrant-canary/)—in order to enhance operational integrity.
 [^19]: This quality increases the diversity of thought and thus, quality of outcomes. A creative early stage project like Society Protocol benefits from heterogeneous perspectives to homogenous ones.
 [^20]: Only to end up in misery and slavery as their usefulness runs out.
 [^21]: The success of Bitcoin, Ethereum, and Web3 is crucial for our success. We expect the Web3 Outpost to last for at least 20+ years, and are reliant on the foundation of Web3’s infrastructure. We stand on the shoulders of giants. We are not enemies, and fully support the Web3 movement. It simply cannot accomplish what the Web4 movement can.  
